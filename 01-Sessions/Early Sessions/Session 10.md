@@ -1,0 +1,12 @@
+---
+sticker: emoji//2600-fe0f
+---
+[[Session 10]] - _[[FLASHBACK QUEST]]:_ Airship Heist** _(This flashback quest picks back up after the last one, Session 8, when [[Sanis]], [[Rin]], and [[Varis]] came back with Emla and Dalya Bara)_
+    - The group, in the [[Simic]] dominated ninth District, ran Ogre’s [[Traveling Tavern]] and set up shop. In the middle of business, a half-elf [[Boros]] detective by the name of Molkis Verada ([[Molly]]) stopped by the tavern and asked the party’s help with a certain Simic biomancer, [[Lady Saves]], after seeing how the party took care of [[Emla]] and helped out [[Dalya]]. This biomancer had carried out illegal bio experiments on individuals without consent, kidnapping, among other crimes.
+    - The group make it to growth chamber Alpha-3 with Molly and found a plan for airship piloting, [[Izzet]] league contacts, and a guide book to the [[6th District]]. On Rin’s tip, they get a feeling that they need to leave the area. Turns out, two [[Krasis]] burst out of the growth chamber right after they left.
+    - From there, the group left for [[Grizmalgun]]’s workshop. Upon exploring the workshop a bit, Rin and Sanis discover a [[hybrid spy]] lurking outside the workshop. The rest of the group encountered the other spy and a hybrid shocker after the basement of the workshop flooded.
+    - [[Ogre]] found out that Molly sure did like paper. The group found out that Sanis doesn’t like spiders, telling the one hybrid to go back into their cocoon.
+    - After they slayed the Simics and questioned the last one alive, they deduced that Lady Saves already left.
+    - On Molly’s tip, they take the Boros Legion’s [[Griffins]] and take to the skies. Ogre names his griffin “[[Buddy]],” and the group catches up to the airship.
+     - Lady Saves and her crew engaged [[The Breakfast Club]] and Molly in combat but were ultimately defeated. But, before she died, she exploded parts of the ship and sent it barreling towards the sixth district. In a coordinated effort, the group redirected the ship so that it would land next to the sixth instead, not harming anyone.
+    - The group then flew back home and celebrated at Ogre’s tavern with breakfast for dinner. Sanis asked Molly for dinner, with Varis as the waiter, and the group closed on a job well done.

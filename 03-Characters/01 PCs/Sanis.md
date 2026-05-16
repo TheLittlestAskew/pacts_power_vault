@@ -1,0 +1,86 @@
+---
+type: pc
+full_name: Sanis Reylana
+race: Dark Elf (Drow)
+class: Ranger (Fey Wanderer)
+level: 12
+player: Gabe (Gabe0610)
+status: Active
+---
+
+# Sanis Reylana
+
+## Quick Reference
+
+| Field | Detail |
+|---|---|
+| Full Name | Sanis Reylana |
+| Race | Dark Elf (Drow) |
+| Class | Ranger / Fey Wanderer |
+| Level | 12 |
+| Player | Gabe (Gabe0610) |
+| Party Role | Ranged DPS, shadowy trauma ranger |
+
+## Ability Scores (at Lvl 9)
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 11 | 17 | 16 | 16 | 18 | 16 |
+
+## Combat Stats (at Lvl 9)
+
+| Stat | Value |
+|---|---|
+| AC | 16 |
+| HP (Max) | 85 |
+| Initiative | +3 |
+| Speed | 35 ft |
+| Proficiency Bonus | +4 |
+
+## Personality
+
+Sharp, moody, family-scarred. Sanis carries deep wounds from witnessing [[Salena]]'s death and distrusts many institutions. He has a dry banter with [[Ogre]] and mutual grounding with [[Rinestra "Rin" Genleth\|Rin]].
+
+## Signature Items
+
+| Item | Description |
+|---|---|
+| Eversmoking Bottle | Received from Jeeves |
+
+## Key Relationships
+
+| Character | Relationship |
+|---|---|
+| [[Salena]] | Sister (deceased); her death hardened him |
+| [[Ogre]] | Banter partner |
+| [[Rinestra "Rin" Genleth\|Rin]] | Mutual grounding |
+| [[Dalya Bara]] | Deep distrust |
+| [[Reylana Family]] | Family-scarred; the [[Reylana Mansion\|Reylana estate]] features in later sessions |
+
+## Family & Estate
+
+The Reylana family is wealthy and has an estate ([[Reylana Mansion\|Reylana mansion]]). In later sessions, the party visited the Reylana estate and overheard a conversation between [[Liliana Vess]] and [[Vraska]] about [[Kaya]] having "been dealt with."
+
+## Defining Moments
+
+| Session | Event |
+|---|---|
+| Early Session 3 | Remembered the Spring Festival was in two days; he always takes [[Salena]] every year |
+| Early Session 4 | Led [[Salena]] to safety with [[Varis Aestra\|Varis]] during the Spring Festival attack; Varis gave Salena invisibility powder |
+| Early Session 4 | Witnessed [[Salena]]'s death during the aftermath of the Guildpact shattering |
+| Early Session 6 | Investigated a tunnel fork with [[Orphea "Orphie" Levistus\|Orphie]]; found 5 ogres on psychedelic mushrooms |
+| Gruul Sessions | Vomited during the Gruul initiation but still completed the Krip Walk |
+| Transcript 11 (01/11/26) | Used his family's "insurance" to acquire superior health potions for the party |
+
+## Key Quotes
+
+> **Early Session 6 — On Rin memorizing the map**
+> Called Rin a nerd for memorizing the map from [[Ral Zarek]].
+
+## Related
+
+- [[Campaign Dashboard]]
+- [[The Breakfast Club]]
+- [[Ogre's Traveling Tavern]]
+- [[Salena]]
+- [[Reylana Mansion]]

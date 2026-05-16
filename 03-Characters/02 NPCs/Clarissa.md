@@ -1,0 +1,2 @@
+- Roommate of [[Rin]] and [[Orphie]]
+- Gave Orphie her [[Stapler]] back in highschool
