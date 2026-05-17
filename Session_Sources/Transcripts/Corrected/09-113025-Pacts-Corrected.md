@@ -1,0 +1,3431 @@
+---
+source: 09-113025-Pacts.md (Raw)
+corrected: true
+correction_date: 2026-05-16
+corrections_applied: 5
+---
+
+# 09-113025-Pacts (Corrected)
+
+> Spelling normalized per campaign spelling dictionary.
+> Verbatim transcript text preserved except for proper noun corrections.
+> Total corrections: 5 (Guilds: 2, PC Names: 2, Terms: 1)
+
+---
+
+09-113025-Pacts 
+
+Orphie (Taylor)
+Oh, hold on. I am not recording. Stop. Somebody say something. Hello?
+[[DM]]
+Say something.
+Orphie (Taylor)
+Okay, beautiful. We are good to go. No, I do not have roll 20 open, but I can in like two seconds.
+[[DM]]
+Okay, yeah, I would open up roll 20 if you get a chance. Please.
+Rin (Rachel)
+I'm not okay.
+Orphie (Taylor)
+Is it gonna be that serious? I forgot where we ended. And I just realized we were in.
+Varis (Vince)
+The middle of combat, not remember where we ended in the underwater place. And we met Santa's parents in there.
+Orphie (Taylor)
+Oh.
+Rin (Rachel)
+Yeah.
+[[DM]]
+So last time when all of you guys were here, you guys went to the Simic district to find out where the where zombie slash Simic people were being created or experimented on. So you found where the laboratory was in one of the Simic districts. And you needed some way to get underwater since the laboratory was located underwater. And you met a very nice Simic individual named Carl. And you guys had a whole day montage where you got some pizza, you went to the movies, you hung out with this guy. Turns out he was janitor at the laboratory. So he put you guys all in his submersible. And after hanging out, you guys went over to the laboratory and you saw him flirting with the receptionist. And then past that, decided to give you tour of the rest of the labs. You walk through some of the rooms where you saw some research being done, water up to your hips, kind of, you know, a more amphibian aqueous aquatic environment. And after going through a couple of the rooms, you made to the last one, Santa's crept in first. And that is where you found your parents sitting at a on a die. Looked like they were just chatting. And you confronted them and without skipping a beat, you know, insults were exchanged. Your father said that blood ran thicker than water. And we entered initiative. So that's where we leave off today or pick up today. Does everyone have roll 20 open?
+Rin (Rachel)
+Yeah, sadly.
+Sanis (Gabe)
+Where are my dice?
+[[DM]]
+You guys want to like arrange yourselves like where you want to be? Oh, I. Well, that's where you want to be, Ogre (Chet), but I. I don't think that that's where you are.
+Orphie (Taylor)
+I don't know, man. How far forward is.
+Ogre (Chet)
+Is this wall or platform?
+[[DM]]
+What, what are you. What are you pointing at this? No, it's a wall. And everywhere except for the platform that they're on, the water is up to your hips. So it is difficult to Rin (Rachel)g.
+Sanis (Gabe)
+Whose hips specifically because now we have to go based off of what Vincent size chart was for everybody so we can get an accurate measurement.
+[[DM]]
+It's up to here for Ogre (Chet).
+Ogre (Chet)
+Now, are these tubes that go like an arch or. Are these tubes standing up?
+[[DM]]
+These tubes are standing up like they're kind of like specimen. Okay. Tubes. Yeah.
+Ogre (Chet)
+So it's not like a bridge to walk over.
+[[DM]]
+No. Yeah. You guys, I'll just, like, describe the. The room real quick before we really get into it. And you guys finalize where you guys want to be. So, yeah, this is it. Looks like one of the final rooms of the research laboratory. There are six specimen tubes. And you see kind of swirling in the test or specimen tubes. It's kind of, like, murky. You kind of see glimpses of, like, large figures inside them, but you can't make out details or what exactly is inside. Inside, the water is up to your hips for Ogre (Chet). It's up to your neck. And you see, saying this, your parents, Lady Hyena Raylana and Lord Modest Raylana on the die on the platform at the other end of the room. And behind them, there is a door that is shut. And actually, Rin (Rachel) is you in the back of the group as you walk through, the door also shuts behind you.
+Rin (Rachel)
+Okay.
+[[DM]]
+But, yeah, Lord Raylana looks at you. Satis is a. And he goes, don't you know, Sennis, son, that blood runs thicker than water. What are your friends going to do for you when family is. Will always be there? Why side with them?
+Orphie (Taylor)
+We're gonna kick your ass.
+Sanis (Gabe)
+They've been more of a family to me than you have. You killed my sister.
+[[DM]]
+Is it really death if she's still alive?
+Sanis (Gabe)
+Yes, yes, because it hurt all the sand. I mourned her.
+[[DM]]
+He. He shakes his head, he goes, nonsense. She is still. She is still alive and contributed to our cause greatly. Enough of this. And sinus, can you make me a constitution saving throw.
+Sanis (Gabe)
+Nat 20.
+Orphie (Taylor)
+Oh, yeah.
+[[DM]]
+Oh, my God.
+Orphie (Taylor)
+Gonna be one of those days, huh?
+[[DM]]
+All right, so you see your father Sanis (Gabe) raise a hand, and you see a, like, green purple kind of beam of energy lash out from him at you. What does it look like as you shrug this off?
+Sanis (Gabe)
+I feel like I do like, a really lame, like, dodge to the side kind of just like, just. And then glare at him.
+[[DM]]
+Okay, You. You. You dodge the. You dodge to the side, but you, as you do, you kind of look at the ray of. You. You are reminded of when you saw this before.
+Sanis (Gabe)
+You're gonna have to remind Gabe, because Gabe does not remember, even though Santa's might.
+[[DM]]
+No, no, yeah, Santa's remembers. Gabe does not. It hasn't happened yet.
+Varis (Vince)
+So.
+[[DM]]
+You see this ray pass by you, and you remember seeing this Only once before. And you're brought back to that moment. You. You have a little flashback sinus of when you're about 5 years old. And this, I would say it's pretty significant for you because you're back at your family estate, and what you see in front of you is a blindfolded, restrained man with a hood over his head. And you're about five years old. Around you, you have a bow that is just a little bit too big for you. And you hear the man kind of struggling and mumbling and struggling against his restraints. Your father is standing next to you, and you look at him, and he says, what are you waiting for, Sanis (Gabe)? Kill him. Do it.
+Sanis (Gabe)
+I am loving this story. Tell me more about my life. Yeah, Dry killer.
+[[DM]]
+What do you do?
+Sanis (Gabe)
+I don't know. God, what did I do?
+Orphie (Taylor)
+Don't make me laugh. It makes me cough.
+Sanis (Gabe)
+How about in order?
+[[DM]]
+Your dad goes, what are you waiting for? Take it. Take your bow off and kill him.
+Sanis (Gabe)
+And I'm five. My current intelligence is a 16. So would we say, like, my intelligence at 5 was, like, a 10 or, like, rest?
+[[DM]]
+It's up to you.
+Sanis (Gabe)
+Listen, was my modifier zero or negative? I'm five.
+Rin (Rachel)
+The real questions.
+[[DM]]
+You can choose to use your current intelligence that if you want.
+Sanis (Gabe)
+Well, I'm gonna do it because my dad told me to.
+[[DM]]
+You're gonna do it?
+Sanis (Gabe)
+I'm gonna do it.
+[[DM]]
+All right.
+Sanis (Gabe)
+I just want him to like me.
+[[DM]]
+All right? He said. He says, yes. Take. Take out your bow, Sanis (Gabe). Aim it at his head and kill him. This man is a traitor. He betrayed us.
+Sanis (Gabe)
+I shoot him.
+[[DM]]
+You shoot him?
+Sanis (Gabe)
+I shoot him. My dad told me to. I just want him to like me.
+[[DM]]
+All right? You wind up your bow, knock an arrow. How is Santa's feeling right now as he is aiming a bow at this struggling, blindfolded hooded man?
+Sanis (Gabe)
+Oh, definitely. Hands. Palms are sweaty. Knees weak. Arms are heavy. There's no vomit on my sweater, though.
+Orphie (Taylor)
+Because there's no way your mom actually cooks spaghetti.
+Sanis (Gabe)
+My mom can't cook.
+Orphie (Taylor)
+Nope.
+Sanis (Gabe)
+Both in the game and irl. That's sad. Terrified. Scared. But, I mean, I'm close range, so it's not like I can miss. If I miss, that's gonna be even worse. My dad then just not killing him at all.
+[[DM]]
+Okay.
+Sanis (Gabe)
+But terrified. Just shaking.
+[[DM]]
+All right, Romy Romeo. 1d. 10.
+Sanis (Gabe)
+Seven.
+[[DM]]
+Seven. Okay, seven.
+Rin (Rachel)
+You.
+[[DM]]
+Santa's five years old, bow in hand, hands shaking, aim at this man, and you let loose an arrow, and it strikes him in the chest as his head goes Back. The hood comes off, and you see that it was one of the servants that you were close with who gave you food, cooked your meals and everything while you were little. He still alive, arrow in his chest. Looks at you, eyes wide, and you just hear him go. And your dad looks at you and goes, what are you doing? That wasn't. That wasn't enough. Shoot him again.
+Sanis (Gabe)
+I want to un. Undo the. The mouth coveRin (Rachel)g on a guy's face.
+[[DM]]
+All right, You. You pull the. The gag down, and you see that tears are streaming down his face.
+Sanis (Gabe)
+What is he trying to tell me?
+[[DM]]
+Master Sinus, I'm. I'm sorry. Please don't. Please don't. Don't kill me.
+Sanis (Gabe)
+Sorry for what? What'd you do?
+[[DM]]
+I. The Dimir.
+Varis (Vince)
+I.
+[[DM]]
+I gave. I gave some of your family secrets to the Timir. But I didn't. I didn't.
+Sanis (Gabe)
+As soon as he does that, I just, like, knocked about. I just knock a bow. As soon as he says that.
+[[DM]]
+You. You knock an arrow?
+Sanis (Gabe)
+Yeah.
+[[DM]]
+Dimir, they have. They have my family. They threatened me so that they could get information.
+Sanis (Gabe)
+I. While I have the. The arrow knocked. I look up at my dad and I'm just, like, quizzically, like, after all this, you still want me to do this? Like.
+[[DM]]
+Your dad goes. Are you hesitating? What are you doing?
+Sanis (Gabe)
+I released the arrow.
+[[DM]]
+You release the harrow. All right, romeo, another one. D. 10.
+Sanis (Gabe)
+Seven. Again.
+[[DM]]
+Seven.
+Sanis (Gabe)
+And I used a different die this time.
+[[DM]]
+Yeah, you let loose another arrow, another one into his chest. And you see his eyes go wide and he slumps over dead. What is sis feeling in this moment right now?
+Sanis (Gabe)
+Everything. Oh, I'm feeling everything. I'm angry, I'm sad. I'm scared of my dad and myself. And the dimir. Worried, because what if he said what was true about his family and like. Like who's going to tell them and who's going to save them from the. From the deir. And, yeah, just like all the feelings.
+[[DM]]
+All right, With that, your father puts a hand on your shoulder. He says, good job, Zenith. And then with another. Another outstretched hand, he puts a hand towards the body. And you see that same purple and green energy come out. And as soon as it hits your servant's body, it disintegrates. And then he goes, you did. You hesitated at first, but you ultimately did what was needed for the family. You have to learn how to make hard choices. Santa's. This world is ruthless, and we have to look out for each other.
+Sanis (Gabe)
+I don't say anything. I kind of just Hang my head in shame now. Like I'm just embarrassed of myself for having just did what I did. Even though he's proud of me, just very sad at this moment.
+[[DM]]
+And he says, good, that's all for now. Go back to your room. You walk out and your. Your mother is in the hallway. And she looks at you and she says, santa, are you. Are you okay?
+Sanis (Gabe)
+I'm like, just like staRin (Rachel)g wide eyed, just blank stare. I just not. And just keep walking by her.
+[[DM]]
+I. Son, I know that that was. That was tough, but what needed to be done, need to be done for the sake of our safety and for the sake of our. Do you understand?
+Sanis (Gabe)
+I understand.
+[[DM]]
+Good. Give me an insight check.
+Sanis (Gabe)
+Eight.
+[[DM]]
+Eight. You just see that her eyes tighten a little bit and she. She lets you go, but then she presses something into your hand before you go.
+Sanis (Gabe)
+Is it drugs?
+[[DM]]
+No, it's a little. It's a little candy. It's a little piece of chocolate. You with that, walk away back to your room with the chocolate in hand. And then we come back to the laboratory.
+Sanis (Gabe)
+My dad's a.
+[[DM]]
+And. And with that, yeah, we are back in the laboratory with Lady Rihanna and Lord Rihanna. And you see them kind of dancing with each other on the D. And as they do, you see like green and black energy swirl around them. And your father goes. The end of the multiverse as we know it is coming to an end. This is the beginning of the end. And green and black energy begin to whip up around them. But yeah, now we'll go into initiative order. So, Rin (Rachel), you're up first.
+Rin (Rachel)
+I definitely did not look at what I was doing or what I was going to do. Oh, my God. Well, I know for sure, as a bonus action, I will be casting my celestial. Where are we? My celestial revelation to get wings so I don't have to deal with the water. How high is the ceiling?
+[[DM]]
+I'd say it's like 15ft up.
+Rin (Rachel)
+Okay, I've got room. Perfect. That's all I need. Written's gonna take herself out of the water.
+Orphie (Taylor)
+And.
+Rin (Rachel)
+Nobody'S like, super low on health, right?
+Varis (Vince)
+Okay.
+Rin (Rachel)
+And I am going to. How many people do we have? 5. Oh, is Carl with us?
+[[DM]]
+No, he's on the other side of the door.
+Rin (Rachel)
+Okay, gotcha. Level or higher. Okay, I'm going to cast a third level. Bless and cast blessed on the entire group.
+Ogre (Chet)
+Okay.
+Rin (Rachel)
+And before I do that, I'm actually. Yep, now he's good. Thanks, Chat. Yes, I'll be casting less. So for the next minute, everyone adds an extra D4 to your saves and a bill and hashtag, hell yeah. Okay, I believe that is it for my turn then. All right, I'm going to step away for a second because I completely forgot all of my dice in my suitcase that I have not unpacked since last weekend.
+Orphie (Taylor)
+I, too, have not unpacked.
+Rin (Rachel)
+See, you have a good reason, though. You've been sick.
+Orphie (Taylor)
+The moment. I've literally been sick the whole time I've been home. Exactly.
+Rin (Rachel)
+Okay, I will be right back.
+[[DM]]
+All right, so that is. Rachel, Let me just double check something here, okay? For no reason at all, Can Santa sparfy Varis (Vince) and Rin (Rachel). Well, when she gets back, make me a dexterity save with her, please.
+Varis (Vince)
+23.
+Ogre (Chet)
+It's a big old spell being cast.
+Orphie (Taylor)
+13 plus.
+Sanis (Gabe)
+Is that a plus? A D4, right?
+Orphie (Taylor)
+No, no, hold on. D4, is that you said?
+Sanis (Gabe)
+Yeah, for blessed, right?
+Orphie (Taylor)
+No, that's a six. Stop.
+Ogre (Chet)
+Well, hold on. I'm counterspell.
+[[DM]]
+You're gonna cast counterspell?
+Rin (Rachel)
+Yeah.
+Ogre (Chet)
+I made chance eating that up. Okay, it's only level three, so if it's a fourth or higher, I have to roll.
+[[DM]]
+Yep. Can you roll for me, please?
+Ogre (Chet)
+Not a good start, but I get blessed. At 16.
+[[DM]]
+16. Okay. All right. Yeah.
+Ogre (Chet)
+Good bless.
+[[DM]]
+All right. All right. Yeah.
+Rin (Rachel)
+I see you.
+[[DM]]
+You. You already did that.
+Orphie (Taylor)
+Yeah, it is.
+[[DM]]
+You throw up a meishan, and you see that Lord Raylana had in the dance with his wife. You see that? In the whirlwind of black and green energy that's whipped up, they do a twirl, and a bolt comes flying out of the cyclone, and Ogre (Chet) with a mage hand, you just slap it away.
+Sanis (Gabe)
+Give me that.
+[[DM]]
+But you see that Lord Raylana is not phased by it at all. And then.
+Sanis (Gabe)
+Can everyone just, like, stop dying?
+Orphie (Taylor)
+That's just. It's just me and Corey. I'm so sorry. This is what I get for. This is what I get for having a good time, I guess. Going to hang out with my friends.
+Sanis (Gabe)
+How dare you be human and. And get sick.
+[[DM]]
+Oh, much.
+Orphie (Taylor)
+Okay, shut up.
+[[DM]]
+So s you then. See, in this cyclone, in this whirlwind coming out, another bolt comes out, but it's much thinner than the other one and less energy dripping off of it, but it goes flies straight towards you, and it does hit you. For. Oh, that's. That's going to be 25 points of necrotic damage.
+Orphie (Taylor)
+Oh, come on.
+Sanis (Gabe)
+I can't, like, dodge as my reaction like, half that.
+[[DM]]
+Did you. Did you have a turn yet?
+Sanis (Gabe)
+No. Fine. At 25. That's a lot.
+Orphie (Taylor)
+Wait, where's that thing I could do where sometimes I could take points?
+Ogre (Chet)
+Oh, I think you have to be raging for it.
+Sanis (Gabe)
+Also. I'm okay with that because my HP is now 69.
+[[DM]]
+Yeah.
+Varis (Vince)
+Rules.
+Sanis (Gabe)
+It's because she keeps laughing because I'm the funniest one in the run.
+Ogre (Chet)
+Absolutely based, bro.
+Orphie (Taylor)
+Oh, God. D.
+[[DM]]
+I. I did forget to mention that as. As they are dancing, you hear like classical music starting to play and reverberate through the laboratory as they're.
+Sanis (Gabe)
+That's weird.
+Rin (Rachel)
+That is creepy as hell.
+Sanis (Gabe)
+Are my parents. Are my parents those bad guys from Vox Machina? Yes, the vampires that love to whatever the dance and be all Victorian.
+[[DM]]
+And I didn't get that far, so. Sure.
+Ogre (Chet)
+Okay.
+Sanis (Gabe)
+What?
+[[DM]]
+I didn't finish the season.
+Sanis (Gabe)
+Oh.
+Ogre (Chet)
+My God.
+[[DM]]
+All right. But that's. That's Lord Rana's turn go to virus.
+Varis (Vince)
+I'm also going to be fallen Rin (Rachel)s late. And activating my wings. My bonus action. And getting out of the water and then let's go. Lord M. That's the dad, right?
+[[DM]]
+Yep.
+Ogre (Chet)
+Okay.
+Sanis (Gabe)
+I.
+Varis (Vince)
+Let's go with a fourth level second glance. Well, that just is fourth level intelligent saving throw, please.
+[[DM]]
+All right.
+Ogre (Chet)
+What's your DC17?
+[[DM]]
+That's a 25.
+Varis (Vince)
+I think it takes half damage, so. 25. Half two 12. 12 psychic dam.
+[[DM]]
+All right.
+Varis (Vince)
+Float over here near Ogre (Chet).
+[[DM]]
+Okay, dope.
+Varis (Vince)
+That's my turn.
+[[DM]]
+So you fly up out of the water and you what did you cast?
+Varis (Vince)
+Psychic lance.
+[[DM]]
+Psychic lance. And it lodged itself right into Laura Braylana. But you see, he. He kind of does. And it just glances.
+Sanis (Gabe)
+Is he freezing or is that me?
+Rin (Rachel)
+No, he's freezing.
+Sanis (Gabe)
+Okay.
+Ogre (Chet)
+At the perfect words too.
+Rin (Rachel)
+Yes.
+Ogre (Chet)
+Any. Just as.
+Rin (Rachel)
+Pretty good. Oh, wait, no. I think we're good. I think we're good.
+Varis (Vince)
+Oh, maybe.
+[[DM]]
+What is going on?
+Sanis (Gabe)
+Do you have to update your discord?
+Ogre (Chet)
+We were getting all the articles from you. Articles and conjunctions.
+Rin (Rachel)
+Maple chewed through the Internet cable.
+[[DM]]
+Maple. How could you do this? Okay, Forest, that's your turn. We'll move on to Ogre (Chet).
+Rin (Rachel)
+Oh, wait.
+Orphie (Taylor)
+Do we know what happened?
+[[DM]]
+I was just. I was just narrating.
+Orphie (Taylor)
+No, I mean like you were breaking up while you were tell. While you were narrating.
+Rin (Rachel)
+Did.
+Orphie (Taylor)
+Did we ever get those holes filled?
+[[DM]]
+Yeah, it's just Varis (Vince) flew up above the water through the lance at Lord Raylana. Okay, Raylana. Lord Raylana was. He just danced and the psychic glance just kind of raised off of him. Not really doing too much, But yeah. Ogre (Chet).
+Ogre (Chet)
+All right, I'm gonna misty Step up on top of this one. And then I'm going to.
+Varis (Vince)
+Take a.
+Ogre (Chet)
+Step over and cast. Eldrick.
+Varis (Vince)
+Blast.
+Ogre (Chet)
+I'm gonna try and separate these two.
+[[DM]]
+Okay.
+Ogre (Chet)
+Ones going to. Each Going to. Going to Daddy first.
+[[DM]]
+All right, let's.
+Ogre (Chet)
+Let me give myself blood. No.
+Varis (Vince)
+Oh, God.
+Sanis (Gabe)
+Oh, God.
+[[DM]]
+What's going on? What?
+Ogre (Chet)
+We might need to. Wait a second. It wasn't working, so I kept hitting it. Let's see. I think. What was the first one?
+Orphie (Taylor)
+5.
+Rin (Rachel)
+It looks like the Eldritch blast. It is not rolling.
+Ogre (Chet)
+Your.
+Varis (Vince)
+Your first attack roll is a 16.
+[[DM]]
+Yep.
+Varis (Vince)
+And then it's a bunch of damage.
+[[DM]]
+Roll.
+Ogre (Chet)
+All right, so dirty 20 with blast.
+[[DM]]
+Yeah, that'll hit.
+Ogre (Chet)
+All right.
+[[DM]]
+All right.
+Ogre (Chet)
+A massive two force damage and pulling 10ft closer.
+[[DM]]
+All right, you pull him 10ft closer to you, but you see that he just levitates above the water.
+Ogre (Chet)
+That's fine. I think I've missed.
+[[DM]]
+But, yeah, you can roll the damage. Yeah. To hit for the. For lady.
+Ogre (Chet)
+14 to hit her.
+[[DM]]
+That does not hit.
+Ogre (Chet)
+Yeah, that seemed low.
+[[DM]]
+But, yeah. So you hurl a couple of Eldritch blasts at lady and Lord Raylana. The one at Lord Ray, Lana hits you pull him out. And you see that the black and green whirlwind begin to fade as their dancing cadence is thrown off. And Daddy Rilana looks at you, Ogre (Chet), and he just goes. But we were having such a great time. Why would you want to separate our dance?
+Ogre (Chet)
+Your fund's bad.
+Rin (Rachel)
+No, he's not wrong.
+[[DM]]
+All right. But yeah. Anything else?
+Ogre (Chet)
+No, that's all I got.
+[[DM]]
+All right.
+Ogre (Chet)
+Which they're very precariously up on top of this specimen container. That is for sure not gonna break.
+Rin (Rachel)
+Definitely not.
+Ogre (Chet)
+No way, no how.
+[[DM]]
+Nope, it is.
+Orphie (Taylor)
+Wait, do we. Do we not want the specimen containers to break? Because I was thinking about breaking them.
+Ogre (Chet)
+Only one way to find out.
+Sanis (Gabe)
+Also, I don't know if you clarified. They're horizontal, right? They're not like, vertical from wall to ceiling.
+[[DM]]
+They're not. They're vertical, not horizontal. Like, they're like up and down.
+Orphie (Taylor)
+Like, doesn't one of them have our friend in it?
+Rin (Rachel)
+Which one? Which friend?
+Orphie (Taylor)
+The mermaid.
+Rin (Rachel)
+Oh, yeah. These are my D12s.
+Sanis (Gabe)
+Yeah.
+[[DM]]
+Vuzola. All right.
+Orphie (Taylor)
+Advantage. I'm breaking. So, like.
+Ogre (Chet)
+It can't hurt, right?
+Orphie (Taylor)
+It could hurt, but it.
+[[DM]]
+The black and green energy whirlwind now gone. Lady Ray Lana looks at you, sis. Orphie (Taylor)n Rin (Rachel). And especially you, sis. And you see her mouth. I'm sorry. And you see she throws out the spell.
+Ogre (Chet)
+Is it big Because I got one more counter spell in me.
+Varis (Vince)
+Is it.
+[[DM]]
+Do you want to use it or not? I think.
+Ogre (Chet)
+Yeah, let's go.
+[[DM]]
+Okay. It's ver. Yep. Roll me another D20, please.
+Ogre (Chet)
+Oh, okay. Yeah, No, I did. It's like 23, 23, 24 with bless minimum. So I can stop a ninth level spell right now.
+[[DM]]
+Ogre (Chet) is on it today. Yeah, you see, as soon as your mom says, I'm sorry, she lets loose a spell at you, Sanis (Gabe). But Ogre (Chet), what does it look like as you. As the spell goes out?
+Ogre (Chet)
+So this has just been rapid fire mage hands from him, the first one blocking that, teleporting up two more. And now he's just grabbing two more that I was going to like, try and grab and pull back the spell and then absorb it and then dissipate as I'm like. That was.
+[[DM]]
+I'm done. Yeah. Ogre (Chet), you. You feel that? It was a powerful magical spell that you just blocked?
+Ogre (Chet)
+Yeah, I got a 27.
+Orphie (Taylor)
+Damn.
+Sanis (Gabe)
+I'm imagining that's what they.
+[[DM]]
+Chat. You can't really see inside, but you do make out that it's like a ginormous thing inside.
+Ogre (Chet)
+Yeah, but I'm standing on like a barrel cap, not glass surface.
+[[DM]]
+You're. You're standing on top of the tube. Yeah.
+Orphie (Taylor)
+Okay.
+[[DM]]
+Yep, yep. All right. And then you see that Lady Rihanna then looks over at Laura and you see that you can't hear it, but she mouths a couple words and you see that the wounds begin to stitch back up on Lord Raylana. All right, next up is Sanis (Gabe).
+Sanis (Gabe)
+They give birth to me. This is disgusting. Can I, like, get adopted after this?
+Orphie (Taylor)
+You're a little old.
+Sanis (Gabe)
+Technically, no. It's just a matter of changing the last name, but.
+Orphie (Taylor)
+Which is you don't want my parents.
+Varis (Vince)
+So I'm sure my parents would be happy to.
+Rin (Rachel)
+As long as you're fine with not having parents in Ravnica anymore.
+Sanis (Gabe)
+Listen, if my parents traveled, that'd be fine. And left people alone.
+Rin (Rachel)
+Oh, no, they don't travel. They're just. They're just farmers.
+Sanis (Gabe)
+We are farmers. I'm gonna shoot my dad with this long.
+[[DM]]
+Awesome.
+Sanis (Gabe)
+That one on the first hit.
+[[DM]]
+No, no, Your. Your dad on the complete miss, just looks at you and goes, I always knew you were a failure.
+Orphie (Taylor)
+God, what a. Can I rage right now? Reaction to that?
+Sanis (Gabe)
+This is some baby bag. Honestly.
+Orphie (Taylor)
+Baby pack.
+Sanis (Gabe)
+Okay, I'm gonna. I'm gonna. I'm gonna try to hit him again. I'm gonna use a different D.
+Orphie (Taylor)
+I.
+Sanis (Gabe)
+Got a 2 plus 9 is 11.
+[[DM]]
+You're just. You know, Sanis (Gabe), this is a lot to take in your face.
+Sanis (Gabe)
+Yeah.
+[[DM]]
+You haven't. You haven't seen your parents for like, since the shatteRin (Rachel)g of the. Of the Guildpact. And now seeing them together against your friends is kind of nerve wracking.
+Sanis (Gabe)
+Yeah. Yeah, it is.
+[[DM]]
+And I kind of like, you know that if it weren't for your, you know, quick thinking and your dodge of your father's initial spell and Ogre (Chet)'s counter spell of the two attacks that came from your parents, you guys would be in a world of hurt.
+Sanis (Gabe)
+Oh, yeah.
+[[DM]]
+So you're. You're nervous.
+Sanis (Gabe)
+I'm just gonna like, step back this way and like, as I pass Orphe and Rin (Rachel) and like, I get close to Vars, I'm just like, sorry, guys. Just shaking my head. Just so ashamed of myself. And that's my turn because that's.
+[[DM]]
+All right. Orphe.
+Orphie (Taylor)
+Rage. Can I. Do I know which one of these specimen containers contains Vala?
+[[DM]]
+Give me an insight check.
+Orphie (Taylor)
+24.
+[[DM]]
+Okay.
+Orphie (Taylor)
+I just use the one right next to me. Just say it's.
+[[DM]]
+I will say It's. It's with a 24. That's pretty good. You look at each of the specimen to each of the tubes and Orphie (Taylor). You know Luthala's face from anywhere just because of how annoying he was and how unshipable he was.
+Orphie (Taylor)
+He really did have a punch. But most people do.
+[[DM]]
+And so as you think about your past adventuRin (Rachel)g buddy, you look at the glass that's in the middle left here. And for a sec, its face presses itself against the glass and you. It's different. You see bones and flesh against the merfolk gills. You see hollow eyes and a hulking body behind it. But you know that shred of nervousness from anywhere, that. That anxiety is unmistakable. And you peg this tube as having Vuthala or whatever he is now.
+Rin (Rachel)
+Okay.
+Orphie (Taylor)
+So I'm gonna instinctive pounce, which means when I go into a rage, I can use up to half my movement. And we're just going to go right over. And you know what? I'll take 5 of actual movement and we're going to try to break this.
+[[DM]]
+That's with half movement, right? Because it's difficult terrain.
+Orphie (Taylor)
+How does that work with instinctive pounce? I can move up to half my movement. So.
+[[DM]]
+Yeah, let me. Let me just look at this real quick.
+Varis (Vince)
+That's supposed to be you jumping or just moving?
+Orphie (Taylor)
+It says move.
+[[DM]]
+You can move up to half your speed.
+Ogre (Chet)
+It's just an extra 20ft. I think for you, your speed's 40, right?
+Orphie (Taylor)
+Yeah.
+Ogre (Chet)
+Yeah.
+[[DM]]
+So you just have.
+Ogre (Chet)
+Okay, so you could have moved 30ft in here.
+[[DM]]
+Yep. So you'll use all your movement to get up to the tube.
+Orphie (Taylor)
+That's fine. And just for shits and gigs, I'm gonna look up advantage on. Okay. Okay, we're going to use. Now we want to do more than 10 damage. Okay. We're going to use the BlazebRin (Rachel)ger to try to break this thing. Two 14s for a 24.
+[[DM]]
+Yeah. Hits.
+Orphie (Taylor)
+Oh, man, that was almost amazing. 15 damage. Okay, was. Is that everything? Have I. Oh, I guess it would just include. I cannot remember what. Hold on, let me look at my inventory because I know I got something on here.
+Ogre (Chet)
+Okay, I think you're missing 1d4 plus three fire damage.
+Orphie (Taylor)
+Okay, 1d4, that's 15. Plus three is 18. Plus three is whatever. 18 plus three is 21 by the first hit.
+[[DM]]
+All right. The tube is still standing, but you see that there are cracks and water and liquid is starting to spurt out of it.
+Rin (Rachel)
+Okay.
+Orphie (Taylor)
+All right, let's do it again then. 22.
+[[DM]]
+That hits.
+Orphie (Taylor)
+17. Plus four. Oh, yeah. Plus four. Is it 17? Plus three is 20.
+[[DM]]
+Okay. The. The tube smashes. Orphie (Taylor), you peg the middle tube as having. Uthala, you run up to it and you smash it with BlazebRin (Rachel)ger twice. And that's enough to shatter the glass and let loose whatever is inside.
+Orphie (Taylor)
+God help us.
+[[DM]]
+And you hear a cry, luthal, you.
+Orphie (Taylor)
+Weak, come help us.
+[[DM]]
+You hear a.
+Orphie (Taylor)
+Yeah, that's what I thought.
+Rin (Rachel)
+As get your ass out here.
+[[DM]]
+Huala Flesh Golem emerges from the tube.
+Orphie (Taylor)
+Be on our side.
+[[DM]]
+He looks at lord and lady Rolanda and looks at you, Orphe, and he goes.
+Orphie (Taylor)
+I want you to remember that you're more scared of me than you are of them.
+[[DM]]
+Give me. You know what? Give me. Give me an intimidation check.
+Sanis (Gabe)
+I feel like that should be with advantage because there's already an established intimidation there. Just saying.
+[[DM]]
+All right, it's opposed against. Against him. So.
+Orphie (Taylor)
+It's a six. No, wait, let me.
+Rin (Rachel)
+Wait, no, that's for guidance. Ignore me. Sorry.
+Orphie (Taylor)
+Hold on. Let me just make sure. I can't. I don't have something that I can re roll that. I don't think that I do, but.
+Varis (Vince)
+I could. I think I can. Technically, I can never remember the name, but give him disadvantage on it.
+Orphie (Taylor)
+I mean, he's got a roll. Real silvery barbs.
+Varis (Vince)
+Yeah. Does that count as a. A contested check? Does that count as him, like, passing a role yeah.
+[[DM]]
+Do you. Do you want a silvery barbs his role?
+Varis (Vince)
+Yeah, sure.
+[[DM]]
+Okay.
+Sanis (Gabe)
+Call him a stupid.
+[[DM]]
+I'll reroll this natural.
+Orphie (Taylor)
+No, no, I've said enough. What?
+Varis (Vince)
+And then.
+[[DM]]
+All right, where did I.
+Varis (Vince)
+Ogre (Chet), do you want the advantage for your next attack?
+Ogre (Chet)
+Yeah, sure. I'll take it.
+[[DM]]
+All right. Orphie (Taylor), What'd you get?
+Orphie (Taylor)
+Six.
+[[DM]]
+A six? His re roll was a 17.
+Orphie (Taylor)
+Okay, well.
+[[DM]]
+And two and a four.
+Rin (Rachel)
+Goddamn.
+[[DM]]
+With that, I'm gonna add him to the Initiative order.
+Orphie (Taylor)
+Well.
+[[DM]]
+And Orphie (Taylor). What. What did you say to him to try and intimidate him?
+Orphie (Taylor)
+I said, I want you to remember that you're more scared of me than you are of the.
+[[DM]]
+He looks at you, looks at lord and lady and looks back at you. Points to himself, goes. And you see. He raises a fist at you.
+Orphie (Taylor)
+Speak common.
+[[DM]]
+All right.
+Orphie (Taylor)
+How did they even get you, bro?
+[[DM]]
+At the top of the order, you guys see and feel the room start to shake. You see that in some of the tubes, the water, the liquid begins to churn. But yeah, that's. That's it. Rin (Rachel) your go.
+Rin (Rachel)
+Where am I going? Ogre (Chet) is really far away, so I won't be really much help to him.
+Orphie (Taylor)
+Gonna ask Chad GBT how many times I coughed in this session.
+Rin (Rachel)
+I think that was the.30 is right here.
+Orphie (Taylor)
+One more. There we go.
+Rin (Rachel)
+I'm just gonna stand in the middle of the room. This may not be a good idea. I have for spells. Can't do anything. Concentration. Fireball would be too massive.
+Varis (Vince)
+I mean, fireball is fine.
+Rin (Rachel)
+Is fireball fine?
+Sanis (Gabe)
+Yeah.
+Rin (Rachel)
+Sweet.
+Varis (Vince)
+You can just aim for like the middle of the. The room up there, middle of the platform. And hit both of them.
+Orphie (Taylor)
+Yep.
+Rin (Rachel)
+We gonna do that? I fireball both of them.
+[[DM]]
+You're gonna fireball both of them? Sure.
+Ogre (Chet)
+Yep.
+Rin (Rachel)
+I should be able to not hit anyone else. This is going to be casting at level four, I believe.
+[[DM]]
+Level four. Okay. You see that? Lord Raylana raises a hand. To try and counter your spell, but it does not work.
+Orphie (Taylor)
+Hell yeah.
+[[DM]]
+So what is your. Let me just.
+Rin (Rachel)
+No ones, but a lot of twos.
+[[DM]]
+What is your spell save DC spell.
+Rin (Rachel)
+Save DC is 16.
+[[DM]]
+16.
+Rin (Rachel)
+Yeah. So that's a deck saving throw of 16.
+[[DM]]
+Okay. That's gonna be a save from both of them.
+Rin (Rachel)
+Okay. 10, 20, 35.
+Orphie (Taylor)
+Yeah, hold on. There was three twos.
+Rin (Rachel)
+32 fire damage. Okay, so halves. That would be 16.
+[[DM]]
+Cool. You hurl a fireball out and hit both of them. And.
+Rin (Rachel)
+And because I did damage to them, I get to do. I do an extra four radiant Damage to. To Lord Raylana for extra. Yeah, four Extra radiant damage.
+[[DM]]
+All right. Okie dokie. Yeah, you see that? The fireball hits both of them. They're able to kind of duck out of the way just a little bit. Give me an insight check.
+Rin (Rachel)
+Oh, I get to use my dice. That's a. Hold on. That's a 10. These days are off to a great start.
+[[DM]]
+Yeah. With the 10, all you just see is Lord Raylana. He braces for the hit, and then he. In the. In the air, levitates like a couple of feet back.
+Rin (Rachel)
+Interesting. Okay.
+[[DM]]
+That's all you see.
+Rin (Rachel)
+All right.
+[[DM]]
+Okay, It's Lord Raylana's turn. And he says, I've had enough of this Santa's. You stay right there. And you, halfling, stay right there. Can you both make me a wisdom saving throw, please?
+Sanis (Gabe)
+Is this against being charmed or frightened?
+[[DM]]
+No.
+Ogre (Chet)
+Is it against being frightened?
+[[DM]]
+No.
+Rin (Rachel)
+I'm guessing it's hold person.
+[[DM]]
+Let me know if you get an 18. I failed real hard.
+Ogre (Chet)
+I got a four before blessed.
+[[DM]]
+I don't think I need to.
+Rin (Rachel)
+Yeah, I was gonna say maybe roll. Bless. And then he said the number, and I was like, probably not. Never mind.
+Ogre (Chet)
+Four's hard to work with.
+Orphie (Taylor)
+Yeah.
+Rin (Rachel)
+Jack, that Weedle bit.
+Sanis (Gabe)
+Yeah, I'm not gonna make it even with bless. Seven.
+[[DM]]
+Seven. You guys are both paralyzed. You guys are both paralyzed. And then. And then your dad follows it up with the son. Just give up. And. I'm gonna roll with advantage here.
+Rin (Rachel)
+Because you are paralyzed, I will be giving him disadvantage. So it'll be a flat roll. That's how that works. As my reaction sounds.
+[[DM]]
+Sounds good.
+Rin (Rachel)
+Wait, actually, hold on. Never mind. He's not within. Raylana is not within 30ft of me. Classic disregard.
+[[DM]]
+Okay, I'm gonna. I'm gonna take the. I'm gonna take the one roll that I got, and I'm gonna roll another one. I mean, I guess it doesn't matter. Well, doesn't really matter.
+Rin (Rachel)
+Is it a net 20? Because I don't like that.
+[[DM]]
+Yeah, it's a. Yeah. The second one was in that one. So the first roll was in that.
+Rin (Rachel)
+I literally moved as much as I can. I.
+Sanis (Gabe)
+About to die. It's okay.
+Rin (Rachel)
+I can heal you.
+Orphie (Taylor)
+Next turn.
+[[DM]]
+It'S gonna be 15 points of necrotic damages. He lashes out, a black ray of death at you, Santa. And you're immobile, unable to move, and you take it straight to the chest.
+Sanis (Gabe)
+Ow. Okay, okay.
+[[DM]]
+And then he follows it up with a. Don't you know Nicol Bolas will And. And Frasca will soon rule all of Ravnica. All the planeswalkers are here. It's only a matter of time before we. Before we win. Just submit.
+Sanis (Gabe)
+I would say so many things if I could speak at this moment, but I'm giving him the look, though. I'm going to throw my Chunkla at you. Look.
+[[DM]]
+Perfect. I love it. Vars.
+Varis (Vince)
+I. I'm going to take an educated guess and hope that he's using a concentration spell for paralyzing them. I'm going to. Okay. I'm gonna do magic Missile, which I probably haven't casted in like two years. Where's the button? Okay. At fourth level.
+[[DM]]
+Okay.
+Varis (Vince)
+So that is three, six. And then my necklace, which gives me an extra missile. So seven. For awesome. All cool. So. I don't. I don't want a brain. So 28 points of force damage. So seven. Missile. If he is concentrating, that'll be seven concentration checks.
+[[DM]]
+Okay. I'm just.
+Varis (Vince)
+I'm really hoping he is.
+Ogre (Chet)
+They're little, but they add up.
+[[DM]]
+All right.
+Ogre (Chet)
+You gotta roll one eventually.
+[[DM]]
+Oh, boy.
+Varis (Vince)
+With seven checks. Yeah, I'm hoping so. That would. That would be DC11B or.
+[[DM]]
+No, no, it'd be just.
+Varis (Vince)
+No, they're all separate rolls, so.
+[[DM]]
+Yeah, they're all just. Yeah, yeah. D.C. because they're not combined.
+Varis (Vince)
+Yeah, yeah, yeah, yeah.
+[[DM]]
+First one makes it. Second one makes it. Third one makes it. Fourth one makes it. Fifth one makes it.
+Sanis (Gabe)
+Cool.
+[[DM]]
+Six one makes it. All right. Last one.
+Varis (Vince)
+I mean, again, I. I have my reaction back, so I could technically. Silvery barbs.
+[[DM]]
+Do you. Sure you want to. Silvery barbs. The last one.
+Varis (Vince)
+I mean, it's worth it, right? Hopefully. Oh, yeah.
+Ogre (Chet)
+I had advantage to that saving throw, didn't.
+[[DM]]
+I'm still. Rebar. Yeah, if you want.
+Varis (Vince)
+Yeah, if you would.
+Rin (Rachel)
+Oh, yeah.
+[[DM]]
+If you want. If you want to. If you want to roll that extra deep D20 for that short.
+Varis (Vince)
+Because when even with that, Stannis would still be paralyzed.
+[[DM]]
+No. Okay.
+Varis (Vince)
+Yeah.
+[[DM]]
+All right.
+Varis (Vince)
+But, yeah, all silver barbs.
+[[DM]]
+The last one there. Okay. Please. Wow. Okay. Yep. That seventh one is a failure.
+Rin (Rachel)
+Yeah.
+Varis (Vince)
+Let's go.
+[[DM]]
+So, Varis (Vince), as you're floating above the water, you let loose seven magic missiles at Papa Raylana. And each of them hit and he maintains his cool until. What does the last one look like as it's just kind of like hoveRin (Rachel)g in the air, just waiting for the right moment to hit him.
+Varis (Vince)
+I mean, they all.
+[[DM]]
+It.
+Varis (Vince)
+I mean, kind of like how you were describing. They all would have just been, like, hitting him like one after the other.
+[[DM]]
+It would have just.
+Varis (Vince)
+They would all just been kind of soaRin (Rachel)g through the air.
+[[DM]]
+Gotcha. And then with the last one, hits him in the face. And he looks surprised. As the spell falls on you, Ogre (Chet) and Sanis (Gabe), you guys are no longer paralyzed.
+Sanis (Gabe)
+As I feel myself come back, I'm just like, stupid.
+[[DM]]
+So what's the total damage that?
+Varis (Vince)
+It was 28 force damage.
+[[DM]]
+Jeez. All right.
+Varis (Vince)
+I'm going to. With that, I'm gonna sort of get behind one of these big tanks.
+[[DM]]
+Okay, cool, Ogre (Chet). That was boRin (Rachel)g.
+Ogre (Chet)
+I'm gonna pull out witch door blade form and gonna run and jump off of here to attack him.
+[[DM]]
+Okay, roll the hit.
+Ogre (Chet)
+All right, it's a 29. I can add bless to that, but I think that that's pretty safe.
+Rin (Rachel)
+Nah, do it anyway.
+[[DM]]
+Roll for damage.
+Ogre (Chet)
+14 psychic damage.
+Sanis (Gabe)
+Okay.
+Ogre (Chet)
+The second one coming out again, this is a dirty 30. I think that that's probably safe.
+[[DM]]
+Yep.
+Ogre (Chet)
+That'S another 10 damage. They do a sick ass flip. Jump back up out of the water, hit him again.
+[[DM]]
+Okay. Yeah. So you three. Three total attacks. Two. Just two. Okay. You see as you get two good hits on him with. With dawn or with which. Yep, got it. You hit him twice. And after the second strike, he attempts to lash out. And you see his hand tries to go out for your three throat, but you dodge out of the way.
+Ogre (Chet)
+Didn't even notice. Too busy falling back underwater.
+[[DM]]
+You're back at the pool, Ogre (Chet), you know, like the water. Amusement park.
+Ogre (Chet)
+Blast.
+[[DM]]
+All right, you're all good. I'm gonna go to Lady Rolanda, and with her turn, You know what? She's just gonna. She sees you on Lorrilana and she's just gonna go after you. Ogre (Chet), let's see if this hits. Your AC is 20, right? Yeah, yeah, no, that's. That's a miss. So you see that she also tries to throw out a black ray of energy at you, but you flip out of the way. And then she shakes her head, and then you see that she disappears. That's her turn. Status.
+Sanis (Gabe)
+Son of a. All right, Move here. And then I'm gonna try to shoot my dad. Oh, my God. I'm done using that dice. It's going in jail because that wasn't that one.
+Rin (Rachel)
+Go.
+Sanis (Gabe)
+Try to hit him again. Does a 21 hit.
+[[DM]]
+Oh, yeah, that's okay.
+Sanis (Gabe)
+And then. Poor damage. That was so useless. But as I as. As the second arrow hits him, I want to say, don't touch my friends. Doesn't do much damage, but four damage.
+[[DM]]
+All right. Yeah. Arrow hits him in the chest. Isn't even phased. As you see, all his attention is focused on Ogre (Chet).
+Sanis (Gabe)
+And I think I still have 15ft of movement. Now. Let's see. Yeah, and that's my turn.
+[[DM]]
+All right, it is Vala's turn. And Orphe, you see Vthala is looking at you, and he goes and he jumps up in the air. Orphie (Taylor), can you make me a dexterity saving throw, please?
+Rin (Rachel)
+You do have a D4.
+[[DM]]
+Just need to make a 14.
+Rin (Rachel)
+Roll that D4.
+Orphie (Taylor)
+I'm gonna 14.
+[[DM]]
+Oh, my gosh.
+Varis (Vince)
+All right.
+Orphie (Taylor)
+Kind of reactions.
+[[DM]]
+You're basically going to take a quarter of this. Okay, So 14 halved seven half. So you just. You take three points of bludgeoning damage. As you see that vu, Thala jumps up into the air and with an elbow, smashes it right into you. But you're able to block most of it.
+Orphie (Taylor)
+Or if he's going to be like, come on, man, I know you remember me. That was never going to hit.
+[[DM]]
+He just goes and he tries to bite you.
+Orphie (Taylor)
+Gross, dude.
+[[DM]]
+That's gonna be a 23 to hit you. Okay, can you. Can you also make me a constitution saving throw.
+Orphie (Taylor)
+17?
+[[DM]]
+Yeah. So let me just roll this real quick. All right, 15 halved, because you're raging seven. So you'll take seven points of piercing damage. And then you feel from where he tried to take a chomp out of you, your arm starting to go a little bit numb. But then your. Your tail lights up. The fire in your tail lights up with a little bit more intensity, and the numbness goes away.
+Orphie (Taylor)
+I feel like my saliva had a bigger impact on Selena than your bite had on me.
+[[DM]]
+He just goes.
+Orphie (Taylor)
+Who the is? She's stronger than you. That's who Selena is. Where is she, by the way? Where is this?
+Ogre (Chet)
+When were you making out with Selena?
+[[DM]]
+All right, Morphe, it's your turn.
+Sanis (Gabe)
+We're gonna need the minute. She's. She's just, like, dying over there. Poor thing. Take a water, hun.
+Orphie (Taylor)
+I really could have called out today, but I refuse.
+[[DM]]
+We appreciate it.
+Orphie (Taylor)
+It's okay. I wanted to be here.
+[[DM]]
+The team also needs you.
+Rin (Rachel)
+Yes. We need our barbarian. We need our punching bag.
+Orphie (Taylor)
+I'm so sorry. This is going to be bad because, like, I cannot focus on, like, what I'm able to do. So I'm just going to have to just do some and that's do it.
+Rin (Rachel)
+Do the.
+Orphie (Taylor)
+As good as it's going to get. All right, all right, all right. Not my best roll ever. Does bless. Is that on correct to hit?
+Rin (Rachel)
+Yep. Yep. Attack rolls and saving throws.
+Orphie (Taylor)
+Does it 18 hit? Yeah.
+[[DM]]
+Yes.
+Rin (Rachel)
+Good.
+Orphie (Taylor)
+Oh, well. Okay. So hold on. That's 15. Plus three is 18 plus three is 21. I forgot. Also, can I retcon? I want to activate my tattoos.
+[[DM]]
+Sure.
+Orphie (Taylor)
+Just. Just changing order. So my bonus action will be Elders claw tattoo. Which will mean that I also get. This mouse is a piece of. Is it a D6? Yeah. Yes, it is. So plus five to that is 24 points of damage. And then we'll do it again. 23 to hit.
+[[DM]]
+Yep.
+Orphie (Taylor)
+Yes. Max damage. There we go. 20 plus.
+Rin (Rachel)
+We'd love to see it.
+Orphie (Taylor)
+I know, right? Just one plus three is four. So 24 plus my D6 from. And that's another four. So that's 28 damage. So that's what was 28. And the first one was 24 damage.
+[[DM]]
+So that's so 52.
+Orphie (Taylor)
+52 damage.
+Rin (Rachel)
+Can Orphe roll another unintended intimidation chance. Yeah.
+Orphie (Taylor)
+Can I? Clearly you didn't remember that are more dangerous than these people are.
+[[DM]]
+Oh yeah. You know what? Yeah, yeah. Please do. And do it with advantage for me.
+Ogre (Chet)
+Yes.
+Orphie (Taylor)
+Watch it just not be good. It's a 14.
+[[DM]]
+14.
+Varis (Vince)
+It's better than 18.
+Orphie (Taylor)
+Whatever it was was before.
+[[DM]]
+Yeah, that. That beats a 7. So.
+Orphie (Taylor)
+Hell yeah.
+[[DM]]
+You. You slash a Vthala across the chest twice. And you see your axe digs in deep like it absolutely chunks him. And then you take a step back, back into the water and V just goes.
+Orphie (Taylor)
+I want to. I'm going to say to him, I just want you to think about whose side you want to be on. And she's like. She's not yelling. She's really just talking. Like, I just want you to remember, just think about whose side you want to be on. I'd rather be fighting those guys over there. I helped you out of there so that you could help us. Just think about it.
+[[DM]]
+You see that? His shoulders slump.
+Orphie (Taylor)
+Hey, man, you're our friend. I only attacked you because you attacked me first. Get your ass up and help us. You're better than this. We got over your little whiny stuff a long time ago. Remember who you are.
+[[DM]]
+And you see that he. You see that his. His back straightened and his attention goes from you, Orphe, over to Lord Raylana.
+Orphie (Taylor)
+Yes.
+[[DM]]
+But. All right. Nicely done. At the end of the round.
+Orphie (Taylor)
+Those are like kind of half assed roles too. I just want to point out.
+[[DM]]
+He didn't do that well either. So. All right. At the end of the round, the Laboratory still is shaking. And at this point, you see that alarms start to blare and flash in the room. Room. And you start to see cracks begin to form along all the tubes.
+Sanis (Gabe)
+Where did my ass. Mom go?
+Orphie (Taylor)
+Correct.
+[[DM]]
+I said that she threw out an attack. It missed, and then she disappeared.
+Sanis (Gabe)
+What?
+[[DM]]
+What?
+Sanis (Gabe)
+I know those are not my parents. I raised them better than that.
+Rin (Rachel)
+You raised them better than that. How are you doing, Sanis (Gabe), on damage on the health?
+Sanis (Gabe)
+I'm at 54 out of 94. I'm about halfway. I'm good.
+Orphie (Taylor)
+Okay.
+Rin (Rachel)
+I think I'm still gonna get next to you.
+Sanis (Gabe)
+And I. And I still have a healing potion that I can chug. So.
+Rin (Rachel)
+I'm probably gonna go right next to you then and do a channel divinity. So it's a 30 foot radius around me, and it's a 2D. 2D 10 plus 10 radiant damage.
+[[DM]]
+All right, what am I rolling?
+Rin (Rachel)
+It'll be a 16 constitution saving throw.
+[[DM]]
+On Lord Ray Luana. That's going to be a save.
+Orphie (Taylor)
+Okay.
+Rin (Rachel)
+And just to double check, Luzala is just out of range because I'm imagining he is an undead, but I can also make sure he doesn't get it. Okay, so this will be 2d10 plus 10 radiant damage. Yikes. That is 17 radiant damage. But I'm going to do plus 4 radiant damage to him. To Lord Raylan as well.
+Varis (Vince)
+All right.
+[[DM]]
+Cool. Yeah, he. He saves against it. So he takes kind of like puts his cloak up and shields himself from. From your light.
+Rin (Rachel)
+Okay. Do I roll another insight check? I don't know what the insight check was first, so. Okay. Mass healing word. And as a. Oh, wait, no, that's concentration. Never mind. I'm good. That'll be my turn.
+[[DM]]
+Okay. All right, It's. It's Lord Raylana's turn again.
+Sanis (Gabe)
+And.
+[[DM]]
+Yeah.
+Varis (Vince)
+All right.
+[[DM]]
+He is just gonna. He's just gonna attack you, Ogre (Chet). What did I do?
+Rin (Rachel)
+Attack him.
+[[DM]]
+Oh, that's. That's a miss. That's a hit. And we're gonna do this. That's going to be four points of. 14 points of slashing. And I'm rolling pretty well tonight.
+Orphie (Taylor)
+Can you just not.
+[[DM]]
+The third hit is. Or the third attack. 20. So that's going to be 31 points of slashing. So.
+Orphie (Taylor)
+Okay.
+[[DM]]
+Oh, you're gonna still. Okay. All right.
+Rin (Rachel)
+If he wasn't going to. I was.
+Ogre (Chet)
+A man. Chance stopping that attack.
+[[DM]]
+That. That's. That's a miss.
+Rin (Rachel)
+Nice.
+[[DM]]
+Okay, so just the second. Second attack was a hit as he slashes three times at you with short Story that he pulls out. And you see that? It's got the Raylana family crest on it.
+Ogre (Chet)
+All right, I'm gonna give advantage to me.
+Sanis (Gabe)
+Nice.
+Varis (Vince)
+Then.
+[[DM]]
+Yep, that's a thing. What is going on tonight? You see that?
+Orphie (Taylor)
+He.
+[[DM]]
+As his final action on his turn, he throws out. He.
+Sanis (Gabe)
+He.
+[[DM]]
+He does three strikes at Ogre (Chet). One of them hits, and after the last strike, he quickly whips over and Santa's looks at you and throws out another black bolt at you. And I swear to God, that's another natural 20.
+Rin (Rachel)
+And you will be. I will be wording flare that one, so take a disadvantage.
+[[DM]]
+Okay.
+Orphie (Taylor)
+Roll.
+[[DM]]
+Okay, that's a miss.
+Ogre (Chet)
+Unless.
+Sanis (Gabe)
+Thank you. Ran.
+[[DM]]
+Unless a 13. 13 does not hit you right.
+Sanis (Gabe)
+No. Get that out of here. Had to double check. Yeah, I know my AC16.
+Rin (Rachel)
+Wait, did I forget something?
+[[DM]]
+Yeah. Your. Your dad quickly looks at you and throws out a black ray. And, Rin (Rachel), what do you do to make it miss?
+Rin (Rachel)
+I think pretty much as this ray goes out, she almost throws out us. Like, almost contrasting bolt of, like, white, like light that kind of has a fiery touch to it to kind of block it in front. Almost kind of like a big whoosh shield.
+[[DM]]
+You throw out white energy that contrasts against his black and kind of like yin and yang. It spins in a circle and then disappears.
+Rin (Rachel)
+Nice.
+[[DM]]
+But you. At the end of the turn, he says, you're nothing. Bolas will be victorious. And this. This means nothing. Go to first.
+Varis (Vince)
+How is he looking?
+[[DM]]
+He's hurt. He's hurt.
+Rin (Rachel)
+He took a beating from Ogre (Chet).
+[[DM]]
+Yeah, you see that? Like, his cloak has lots of holes in it, and he's got, like, burnt patches of skin on his face.
+Varis (Vince)
+I'm gonna.
+[[DM]]
+How much.
+Varis (Vince)
+How much does spell do again?
+[[DM]]
+I only cause internal wounds, though.
+Varis (Vince)
+That is not the ones.
+Rin (Rachel)
+Dang. I don't have my photograph.
+Varis (Vince)
+Let's. I was gonna use a spell, but the damage is not great. Let's just go with. Where's my swell Slots Go to the fifth level. Scorching ray settings.
+Orphie (Taylor)
+Hell, yeah.
+Varis (Vince)
+Six, right? Six. Yeah. Six beams.
+[[DM]]
+Oh, God.
+Varis (Vince)
+All right, so stick with me here as I do this six times. Sixteen to hit.
+Rin (Rachel)
+Don't forget you have bless.
+Varis (Vince)
+That's true.
+Rin (Rachel)
+You have roll. Bless for every single one of those attacks, I believe.
+Varis (Vince)
+Yeah, I'll just. I'll just see if I actually need it.
+[[DM]]
+And so. So. So what is it?
+Varis (Vince)
+16 to hit.
+[[DM]]
+Roll the bless.
+Varis (Vince)
+Okay. D4. That makes it a 17 to hit.
+[[DM]]
+That's a miss.
+Varis (Vince)
+Okay. All right. Go for number two. That was a NAT one.
+[[DM]]
+Let's go for three.
+Varis (Vince)
+That is a 29 is gonna. Oh, that wasn't at 20. Yeah, let go. So let me. Let me. So that was. That was Wraith 3, right?
+[[DM]]
+Yep, those were 3.
+Varis (Vince)
+Any rate, so I'm gonna write some stuff down. Okay, let's just roll damage for that now since it's already highlighted nine plus my. So 13 points of fire damage.
+[[DM]]
+Okay.
+Varis (Vince)
+All right, ray number four. That. That's gonna miss less would make it too low. Wow. Okay, so 26 should hit.
+[[DM]]
+Yep.
+Varis (Vince)
+Okay. And then another five points of fire.
+[[DM]]
+Okay.
+Varis (Vince)
+And then.
+Rin (Rachel)
+Oh, so close.
+Varis (Vince)
+And if only I could crit on 19s, it'd be great. Another six fire. Okay, so yeah, just shooting these out sort of like, you know, like if I. If I was like breathing fire, but they're just like. I'm just shooting this volley of these white balls of flame at them.
+Sanis (Gabe)
+Great balls of fire.
+Orphie (Taylor)
+Yes, I was just thinking that too. Good. And I said that without coughing.
+Rin (Rachel)
+Hell yeah. Proud.
+[[DM]]
+All right. Yeah. That's like. How much damage that total 24.
+Varis (Vince)
+Was. Wasn't a lot. God, all the way down. That was what, 13 plus 5.
+[[DM]]
+5 plus 6.
+Varis (Vince)
+Plus 6. 24.
+[[DM]]
+24.
+Varis (Vince)
+Nice.
+[[DM]]
+Yeah. So you conjure up the balls of scorching fire and send them at Lord Raylana. And only one misses, but the other get in for a good amount of damage as they char and burn his. His cloak. Nice. All right. All good? Yeah. Okay, Ogre (Chet).
+Ogre (Chet)
+I'm gonna move through them up onto here and then just start wailing on him.
+[[DM]]
+All right.
+Ogre (Chet)
+My mouse got a hair on this thing.
+[[DM]]
+Sweet.
+Ogre (Chet)
+Starting off with a crit. Love to see this.
+Rin (Rachel)
+Okay, with Chris's rolling, we need somebody doing some smack daddy hits, right?
+Ogre (Chet)
+So it's gonna do 12 psychic damage, but then it's actually going to be flashing as it crits for 10 radiant damage for its crit damage.
+[[DM]]
+Okay.
+Ogre (Chet)
+You had told me that we could do this a long time ago. I don't know if you still stand by it, but just have crit damage, still be radiant.
+[[DM]]
+Doubling. Yeah, sure, sure. Yeah, yeah.
+Ogre (Chet)
+Okay, cool. So, yeah, that's 22 damage total. And so I'm actually gonna remember that I have advantage for one of these.
+[[DM]]
+Hold on. Well, just. Just hold. Hold on that for a sec. As you slash at Lord Raylana. He is looking rough, you know, tattered cloak holes in it, burnt skin as you guys have been chucking, hurling fire damage, radiant damage at him.
+Sanis (Gabe)
+And.
+Rin (Rachel)
+He.
+[[DM]]
+On your last hit, Ogre (Chet) stumbles a little bit and goes, this. This isn't over. You will get what is coming for you. Bolas and Frasca, they have entrusted in us, the Raylana family, to bRin (Rachel)g power to them. We won't fall here. And you see that on your last hit, Ogre (Chet) Sinus's father's form begins to transform. The cut that you raked across his chest begins to open. And from inside, you see that his skin begins to peel off and the cloak begins to burn up. And almost like from the inside, like another figure begins to climb out of his body. And you see a massive Were zombie forms. And he go. And you hear this, Lord Raylana Zombie, go. Where do you think we got this power? That's. Yeah. You can continue with the rest of your turn.
+Varis (Vince)
+I don't care.
+Ogre (Chet)
+And I'm going to run up him and slash him again. I've already used all my movement for this, but. So that is an 18, a 21 to hit.
+[[DM]]
+Yeah, that hits all right.
+Ogre (Chet)
+For an additional 10 psychic damage.
+[[DM]]
+Okay. All right, cool. Yeah. You. You climb up on this newly formed Lord Raylana Zombie and you slash him again.
+Ogre (Chet)
+You know, I'm gonna rage too.
+[[DM]]
+All right. Awesome.
+Ogre (Chet)
+I haven't used one of those in a long time. I'm excited to fight this thing.
+[[DM]]
+Can you give me a strength saving throw?
+Sanis (Gabe)
+Yeah.
+Ogre (Chet)
+24 before bless. 27.
+[[DM]]
+Damn. Okay. Yep. As you climb up Lord Raylana slashing at him, he tries to grab you by the scruff of your neck, but you're. But you just push him off.
+Ogre (Chet)
+Better gods than you have tried.
+[[DM]]
+All right. According to the turn order, it's turning round eight. I don't know if that's true or not, though.
+Rin (Rachel)
+I think that's how many people are in the. In the turns.
+Orphie (Taylor)
+I've only gone twice.
+Rin (Rachel)
+Okay.
+Orphie (Taylor)
+And I'm last.
+Rin (Rachel)
+Yeah.
+Varis (Vince)
+There's eight people.
+Rin (Rachel)
+Okay. So this is. This is round three.
+[[DM]]
+Okay.
+Ogre (Chet)
+I think that that tracks me jumping up there, me jumping off, me getting on the platform.
+[[DM]]
+Yeah.
+Varis (Vince)
+Once it gets to Rin (Rachel), it's. It'll be round three, start of round four. Oh, really?
+Orphie (Taylor)
+Yep. It's round three now because I've gone twice, which means.
+Varis (Vince)
+Oh, yeah, you're right. Yeah. That was my third attack. So.
+Orphie (Taylor)
+Yeah.
+Rin (Rachel)
+Sorry. Me keeping mental track for how long. I still have bless on everyone, so I'm trying to decide, do I break it for something else?
+Ogre (Chet)
+It's doing some pretty good work.
+Varis (Vince)
+Yeah, it really helped.
+Rin (Rachel)
+We'll just wait. We'll just wait. We'll just wait.
+Varis (Vince)
+Yeah, we're. We're facing like kind of like boss people right now. We. We need the extra, extra points.
+Rin (Rachel)
+Yep.
+Varis (Vince)
+All right.
+[[DM]]
+Lady Rihanna pops back up and flies towards you, Ogre (Chet). You see her in a glass glowing cloak of black and green, reappears in front of you and is gonna attack you. Miss. This is like the sixth net 20 that I've rolled. Hold on. I'm gonna. I'm gonna take out some dice.
+Rin (Rachel)
+Are you using weighted die, Chris? Wait, is this a purple dice set that you are notorious for using and shouldn't be using?
+Ogre (Chet)
+I can't silvery barbs, this one.
+Rin (Rachel)
+I also can't wording flare this because I already used it. I think I'm.
+[[DM]]
+I'm gonna. I'm gonna let this one go, but then I'm gonna. I'm gonna roll physical days for the rest of this encounter because that's. That's a little crazy.
+Varis (Vince)
+Wait, who just rolled a crit lady? Now.
+Ogre (Chet)
+Was she invisible when she did it?
+Varis (Vince)
+Yeah, because I can do something invisible.
+[[DM]]
+She, at this point, for this attack. No. Okay, like, she. She appeared with the first attack, and then this is the second attack.
+Orphie (Taylor)
+So.
+Varis (Vince)
+Sorry, Ogre (Chet). He got crit.
+[[DM]]
+Okay. Nope, it's gonna resolve. It resolves.
+Sanis (Gabe)
+You know what?
+Ogre (Chet)
+We should let you get one of them on us eventually.
+Rin (Rachel)
+Yep.
+[[DM]]
+All right, That's gonna be. It's gonna be 28 points of piercing damage, and.
+Ogre (Chet)
+Good thing I raged. Yep.
+[[DM]]
+Yes, it is seven points of necrotic.
+Ogre (Chet)
+I don't reduce that.
+[[DM]]
+Nope. Okay, then let me roll an actual die here.
+Ogre (Chet)
+I was at 69 for a little bit.
+Varis (Vince)
+Nice.
+[[DM]]
+All right, that is going to be a miss. All right, so you see, with two daggers in her hands, she begins to try and stab at you, Ogre (Chet), and she says, off my husband. And only gets one. One hit. In.
+Ogre (Chet)
+Care how you get your husband off.
+[[DM]]
+Okay, Santa Sanis (Gabe), your go.
+Sanis (Gabe)
+Good one, Ogre (Chet).
+Rin (Rachel)
+I'll be right back. Again.
+Sanis (Gabe)
+I'm going to shoot at my mother.
+Ogre (Chet)
+The.
+Sanis (Gabe)
+Dirty20.
+[[DM]]
+Yeah. Hits.
+Orphie (Taylor)
+Let's go.
+Sanis (Gabe)
+So that's seven piercing on the first, and then I'm gonna try to shoot her again. 26.
+[[DM]]
+Yep. Hits.
+Sanis (Gabe)
+Another seven piercing damage, And then let's see. Okay. Yeah, that'll be my turn for right now.
+[[DM]]
+All right. Got a couple of good hits on your mom. Arrows land into her chest, and she just. Ah. I always knew you had good aim, son.
+Sanis (Gabe)
+Not her with a compliment in him with the talking.
+[[DM]]
+Whoa.
+Sanis (Gabe)
+What a combo.
+Varis (Vince)
+All right.
+Sanis (Gabe)
+No wonder I messed up.
+Orphie (Taylor)
+Yes.
+[[DM]]
+All right, it's V's turn, and you just hear him go and uses his action to dash. He goes up there, looks over At Uren. And he just goes.
+Rin (Rachel)
+I know.
+Orphie (Taylor)
+I back at him.
+Rin (Rachel)
+Glad to have you on our side again, bud.
+[[DM]]
+Orphie.
+Orphie (Taylor)
+Orphie is satisfied. She's just gonna sit here and let this happen. Orie effectively just substituted herself for somebody. For somebody slightly stronger. Although now I'm not convinced that he's stronger than me, but. Okay. All right. If I move in and start pummeling people, is that gonna hurt our magic users from doing ship?
+Rin (Rachel)
+It shouldn't. At least for me. No, I have other things I can use.
+Ogre (Chet)
+Can't things up any more than I already am.
+Orphie (Taylor)
+Fair enough.
+Rin (Rachel)
+I'm tbh. Probably gonna be healing this next round.
+Orphie (Taylor)
+Good. Well, I can get right up in the mix. So we're gonna do that. Or maybe not in his mix. I don't want to be in that area literally. Right. Just. Or if he just goes right up to his ass cheek and is like. Or if he's gonna clap some cheeks. All right, cool. We got stuff activated. Let's do this.
+[[DM]]
+With the difficult terrain, are you.
+Orphie (Taylor)
+Oh, you. I forgot about the difficult terrain. And I just rolled a 29.
+Rin (Rachel)
+You do? How long does your tattoo activation last?
+Sanis (Gabe)
+Forever.
+Ogre (Chet)
+Yeah, you got 15 foot of reach. So you don't have.
+Orphie (Taylor)
+Oh, yeah, that's right. I have the reach. Wait, is that gonna be enough?
+Varis (Vince)
+You'd be, like, five feet short, I think.
+[[DM]]
+Oh.
+Orphie (Taylor)
+Okay, hold on. Let me. Let's just do some math. Okay. So I was here 40ft to his butt cheek, so, Yeah, I'm gonna be five feet short.
+Ogre (Chet)
+Tough rub.
+Varis (Vince)
+You can still throw some.
+Orphie (Taylor)
+What the am I supposed to throw?
+Varis (Vince)
+Don't you have something?
+Sanis (Gabe)
+Throw me. Throw me. Throw me.
+Orphie (Taylor)
+This is not Lord of the Rin (Rachel)gs.
+[[DM]]
+Not without that. Not with that attitude.
+Rin (Rachel)
+Do you have just, like, a random piece of metal in your bag you can pull out and throw?
+Orphie (Taylor)
+I mean, I've got some daggers, I guess.
+Rin (Rachel)
+Go for it. Throw it.
+Orphie (Taylor)
+Question. If I wanted to intentionally drop my rage, is that an action?
+Varis (Vince)
+I don't think so.
+Ogre (Chet)
+I want to see a bonus.
+Sanis (Gabe)
+I think it's a bonus action to drop it.
+Varis (Vince)
+If that. Yeah.
+Ogre (Chet)
+Are you hoping that you can start.
+Orphie (Taylor)
+A new one and get the extra 20ft?
+Varis (Vince)
+It'll. It should tell you it doesn't. In the rage thing, you can drop.
+[[DM]]
+Your rage as a bonus action. You just re.
+Ogre (Chet)
+Bonus action to double up the rage just for the 20ft of movement.
+Rin (Rachel)
+I'm kind of here for it.
+Ogre (Chet)
+A horrible use of a rage, but.
+Orphie (Taylor)
+But it would do what I needed it to do. Do.
+[[DM]]
+What you gonna do.
+Orphie (Taylor)
+Damn head is A bonus action. It's should be like half a bonus action. Just looking at my options.
+[[DM]]
+I'll say. I mean, you. You could have like, daggers or some stuff on you to throw if you want to do that without losing your rage.
+Orphie (Taylor)
+I don't want to throw a dagger. What the fuck is throwing a dagger gonna do.
+Rin (Rachel)
+Damage so you can keep your rage?
+Orphie (Taylor)
+I have. My problem isn't that I don't have enough rages. I want to end my rage so that I can restart my rage and get the movement I need to do real damage. I have plenty of rages.
+Rin (Rachel)
+So is it kosher that she stop her rage and start her rage in the same turn? I think that's what she's asking.
+Orphie (Taylor)
+Well, it's not just that. The. The question is, I mean, like, how much it would take to end the rage.
+[[DM]]
+A bonus action. It's a bonus action to endure, but.
+Orphie (Taylor)
+Then to start the rage again. I would still. Man, I could really go for an action surge right now.
+Ogre (Chet)
+A dagger?
+Orphie (Taylor)
+Can I. Hey, shut up. I'm music. And I'll take just as long as I want to.
+Ogre (Chet)
+All right, I'm gonna go like Gertie out.
+Orphie (Taylor)
+Could I use an action to do to either end or start my rage?
+[[DM]]
+I mean, if you use your action, then you won't be able to attack.
+Orphie (Taylor)
+I mean, if I can I use an attack to do that?
+Sanis (Gabe)
+No.
+[[DM]]
+No.
+Orphie (Taylor)
+There'S just. It takes eight years to come back to my turn. That's cool. Oh, well.
+Rin (Rachel)
+Don't forget to move yourself back when you're done.
+Orphie (Taylor)
+Okay. Just one before I just. Is blink a spell? It is. Yes, something like that. Okay. And a spell's an action, not an attack, right?
+[[DM]]
+That's right.
+Rin (Rachel)
+Okay, unless it explicitly says that it is an action. A bonus action.
+Orphie (Taylor)
+It doesn't. I don't think.
+[[DM]]
+Also, our blink isn't currently working because it's planeswalking.
+Orphie (Taylor)
+Oh, yeah. Wow. Another reason for me to beat that dude's ass again next time I see him.
+Rin (Rachel)
+Yep.
+Orphie (Taylor)
+Okay. Well, that sucks.
+Rin (Rachel)
+Indeed.
+Orphie (Taylor)
+Okay, well, had to check everything just in case. I'm not wasting this turn for no reason. What are throwing rules?
+Ogre (Chet)
+Make the attack like normal. Daggers have a 20 foot short range, so you'll be within it if you move your full.
+[[DM]]
+Yeah, in terms of modifiers. Yeah, I would just add your strength modifier to that.
+Orphie (Taylor)
+Okay, Well, then I guess that's what I gotta do. What is. Okay, I was here. No, it's 25. Okay, I don't think this matters all that much. Okay, so it's Just throw it like, nor. Like, just sit it like normal. There's nothing special I need to do.
+[[DM]]
+Yeah, just roll a D20, and then I'll let you add your strength modifier to it.
+Orphie (Taylor)
+Do I get.
+Ogre (Chet)
+Reckless attack will work with it.
+Orphie (Taylor)
+That's what I was. I was also checking the bear because I know I have. I didn't know if it was push, pull, lift, or break objects. I didn't know if throw was on there.
+Ogre (Chet)
+Yeah, it's still kind of a melee attack for you.
+[[DM]]
+Just. It's made at the distance.
+Orphie (Taylor)
+Okie doke. Luckily, I have two daggers, so that's a 27 to hit.
+[[DM]]
+Yep.
+Orphie (Taylor)
+So, okay, 10 plus my D6. Oh, and I need to add my strength modifier. Oh, wait, it's already added, isn't it? To when I roll it from. Directly from.
+[[DM]]
+That's what it looked like.
+Orphie (Taylor)
+Okay, that's what I thought. So that's 12.
+[[DM]]
+And then at lady or Lord.
+Orphie (Taylor)
+Is. What's lady doing? Is she doing anything interesting?
+[[DM]]
+She's stabbing it.
+Sanis (Gabe)
+Yeah, she's trying to attack. Ogre (Chet).
+Orphie (Taylor)
+Why are you just standing there? Ogre (Chet).
+Rin (Rachel)
+That's.
+[[DM]]
+He's climbing on top of the giant. Where's.
+Orphie (Taylor)
+It's going on, Lord? It's going on, Lord. You know what? It. I'll do one each. How about that? I've got two of these.
+[[DM]]
+Okay, sure. I'll say first one went at Lord Raylan.
+Orphie (Taylor)
+The Second one's a nat. 20 for a 29.
+[[DM]]
+Yep.
+Orphie (Taylor)
+Which means since I didn't enrage, I do get another go. But I won't have daggers left. Well, I guess about other things. Well, nobody's close.
+[[DM]]
+You can throw something else at him.
+Orphie (Taylor)
+I'll find something to throw. So hold on. Let's do this.
+Varis (Vince)
+Crit Dan stapler.
+Orphie (Taylor)
+Not throwing my escape blur. That's not for throwing. That's for smacking. That's a 11 plus 6. 4 is 15.
+[[DM]]
+Yep.
+Orphie (Taylor)
+And then. You know what? I got this battle axe. We'll do that. I can pick all of these up later, right?
+[[DM]]
+Yeah, definitely.
+Orphie (Taylor)
+That's 21 to hit.
+[[DM]]
+Yep. That hits.
+Rin (Rachel)
+Also, can we just talk about how I hate how Chris said that?
+Orphie (Taylor)
+Yeah, yeah, sure. 5.
+Ogre (Chet)
+Escape from the only thing that's collapsing.
+[[DM]]
+Okay. 10.
+Orphie (Taylor)
+Oh, you know what? It doesn't matter. That was my D63. And then add nine to all of that because I haven't been throwing any of my rage damage.
+[[DM]]
+Okay, So I have here a 10, a 15, and then 19. Plus the nine.
+Orphie (Taylor)
+Yeah. Plus a knife.
+[[DM]]
+Sure. Okay. Yep. Yep. How I imagine it is Orphie (Taylor). You're not able to reach the baddies, so you get as close as you can. And in a fit of anger, what do you say as you just chug all of the these weapons at them?
+Orphie (Taylor)
+I cough.
+[[DM]]
+Rage.
+Orphie (Taylor)
+Or fee just is. She's just like, God damn it. Not fast enough. Just throwing whatever she can get her hands on. I like. She does throw two daggers before she realizes she has a battle ax that she never uses. And she just chucks that one and was like, oh, maybe I should have started with that one. But that's fine.
+[[DM]]
+So in total, it's still 44 points of damage.
+Orphie (Taylor)
+So yeah, it's fine.
+[[DM]]
+Just. It's whatever. Just 44 points of damage. Yeah, just whatever.
+Orphie (Taylor)
+Just dying. That's.
+[[DM]]
+Okay. Great.
+Orphie (Taylor)
+Sorry. I'm so sorry.
+[[DM]]
+You wait. That's okay. You wade through the water, Orphie (Taylor), and you just chuck all of these weapons at Sinus's parents. And they all meet, make their mark, and you just see like a battle ax sticking out of Lord Raylana's zombie chest and a couple of daggers out of Sinus's mom.
+Orphie (Taylor)
+Hey, I want that back. When I'm done. I mean, you'll be dead, but I'm just telling you, I want them back.
+[[DM]]
+Awesome. Okay, before we go to the top of the next order, let's take a 15 minute break. It's not working.
+Rin (Rachel)
+I need to go pull laundry out that has been in the dryer for three hours. I will be back.
+Orphie (Taylor)
+Yes, it is. It is your laundry day.
+[[DM]]
+But yeah. Okay, so at the top of the turn order getting back into it, you guys continue to see that the lab is shaking right now. And alarms blaRin (Rachel)g, lights flashing. And you see that the. Three tubes over here crack open and you see three other were zombies pop out of the tubes. And when they do so you see that cracks begin to form from the ceiling and water begins to gush into the laboratory. And the water level, once that Ogre (Chet)'s neck begins to rise even higher.
+Ogre (Chet)
+That guy didn't come out of a different one. Isn't that the one?
+[[DM]]
+Sorry. There we go. Cool. It's like a bunk bed. It's like a bunk bed. And you know, like the top came flying off and then the bottom getting off.
+Orphie (Taylor)
+They were just shaRin (Rachel)g.
+[[DM]]
+Rin (Rachel), we will start with you.
+Rin (Rachel)
+I don't know what to do anymore, actually.
+Orphie (Taylor)
+Wait.
+Rin (Rachel)
+I know exactly what to do now. Yeah, I'm gonna cast my last channeling divinity. Since all of these zombies appeared. And that'll be DC save of 16 and it'll hit everyone that's not friend.
+[[DM]]
+3, 4, 5.
+Rin (Rachel)
+Which Bhutala? I can choose.
+Orphie (Taylor)
+It won't hurt him.
+[[DM]]
+Okay, So I want a 16.
+Rin (Rachel)
+And it's a constitution saving throw.
+[[DM]]
+Yep. The bottom two make it, but everyone else fails.
+Orphie (Taylor)
+Sweet.
+Rin (Rachel)
+That'll be 24 radiant damage. To everyone. And then, of course, have. And then Lord Raylana will take an extra for radiant damage as well. Is anyone absolutely atrociously hurting right now for heels?
+Orphie (Taylor)
+I'm only down 10.
+Rin (Rachel)
+Okay.
+Sanis (Gabe)
+I'm still at 54 out of 94, but I'm good.
+Ogre (Chet)
+I'm down about 35 out of 97.
+[[DM]]
+So I'm at 52.
+Ogre (Chet)
+I'm.
+Sanis (Gabe)
+Okay.
+Rin (Rachel)
+Okay. I don't think I can do anything else with my bonus action besides healing people. So.
+Orphie (Taylor)
+Look, I mean, if you want to throw some hit points around, nobody's gonna say no.
+Rin (Rachel)
+Yeah, I'll. I'll throw some hit points around. Let me double check.
+Orphie (Taylor)
+Do I have level?
+Rin (Rachel)
+We'll just throw out a. I think mass cure wounds is only fifth level. Correct. So we'll just do a mass healing word because. Why not? I know it's not great, but we're just gonna go with it.
+Orphie (Taylor)
+Hey, like, yeah, you're fine. Whatever. Whatever you got. I bet Vuzala could use some heels. My bad, Voodala. I mean, it is your fault. You.
+Rin (Rachel)
+Futhala, technically is the sixth person, so yeah, he gets some healing.
+[[DM]]
+How much?
+Rin (Rachel)
+Nine to everyone. Not a lot, but it is some better than nothing.
+Orphie (Taylor)
+That almost puts me back at full health.
+Rin (Rachel)
+We love that. And we're keeping the bless going. I've been debating on doing spirit guardians, but if everyone is really benefiting from the bless, relieve it for now.
+Orphie (Taylor)
+Right now, it really has been helping. Yeah.
+Varis (Vince)
+All right.
+[[DM]]
+Anything else?
+Rin (Rachel)
+That is all I can do. That is my action and my bonus action.
+Ogre (Chet)
+All right.
+[[DM]]
+It's Lord Rona's turn. And you see that he, as a were zombie, puts both of his hands together and slams his fist into the ground.
+Rin (Rachel)
+Need if you are not touching the ground, does it hurt you?
+[[DM]]
+You see that? A wave, almost like a bubble starts to erupt from where he's slammed.
+Orphie (Taylor)
+Is he farting in the water?
+[[DM]]
+I'm just.
+Rin (Rachel)
+That would be a bubble, not a wave.
+[[DM]]
+And as the bubbles reach out, you see, like thousands of little spiritual necrotic hands begin to reach out. Can everyone, except for Orphie (Taylor) give me a con saving throw? It's gonna be 16.
+Rin (Rachel)
+I guess my follow up question is, is it still? I'm. Yes. It's still gonna hurt me even though I'm not in the world.
+[[DM]]
+Yes. The answer is yes.
+Rin (Rachel)
+Okay. Just want to double check.
+[[DM]]
+Yep.
+Sanis (Gabe)
+Also. And we still have blessed, right, Chris?
+Orphie (Taylor)
+Yep. We still have bless.
+Rin (Rachel)
+We all still have bliss. I'm gonna use this day. So you said con saving throw.
+[[DM]]
+Yes. What was the D.C. d.C. 16.
+Sanis (Gabe)
+I got 13.
+Varis (Vince)
+Failed even wish blast.
+Sanis (Gabe)
+Yeah. Originally I got 11.
+Rin (Rachel)
+You said 16 meets. It beats it. I got a 16.
+[[DM]]
+Okay, everyone that did not make it take the full 29 points of necrotic damage.
+Rin (Rachel)
+Goodness. 29 halved would be 1425 and then 147. Because I am resistant to necrotic damage.
+Varis (Vince)
+Nice.
+Rin (Rachel)
+Remind me for concentration.
+Varis (Vince)
+For damage, it's either 10 or half of the what damage you took. So it's gonna be 10.
+Rin (Rachel)
+So it's gonna be 10. And that's constitution saving throw as well.
+Varis (Vince)
+But you'll get bless on.
+Rin (Rachel)
+Yep. I make it. That's a 14.
+Varis (Vince)
+Nice.
+[[DM]]
+All right, and then he's gonna attempt to grapple you. Ogre (Chet), if you can give me an opposed athletics check.
+Ogre (Chet)
+I can use acrobatics.
+[[DM]]
+Right.
+Ogre (Chet)
+It's athletics from their side, but I get to choose it, I think.
+[[DM]]
+Yep. Out of 1324. So Lord Raylana grabs you on his shoulder. You're currently grappled. Barcelona.
+Varis (Vince)
+What I'm gonna do, I'm gonna move here. Yeah. And then what level is this? That was third level. All right, let me. I'm gonna try and cast spell. I don't know. So let me be a third level spell. And that does not make it. So I'm gonna use my magical guidance to rehelp, reroll that. That one made it. Okay. So I'm gonna cast lightning bolt aiming, you know, right down the line. I think you can see this, like, hitting both Lord and Lady Rana.
+[[DM]]
+Okay.
+Varis (Vince)
+And then aiming, I guess, slow enough to where I'm not hitting Ogre (Chet). Does that work?
+[[DM]]
+Yeah. Also, you have a straight shot to hit both of them.
+Varis (Vince)
+Because if Ogre (Chet)'s like you said, he was, like, holding him up on the shoulder. Probably just aim, like, you know, oh, God, I have too many things on the screen.
+[[DM]]
+All right.
+Varis (Vince)
+I'm just gonna click to roll fireball because it's the same damage minus the four for my modification. So 25 points of lightning. Deck save, spell, save deck, save 17.
+[[DM]]
+Lord Raylana makes it, but lady does not.
+Varis (Vince)
+Okay, so she'll take the full 20, 25, and then he'll take 14 Lightning.
+[[DM]]
+Okay. You shoot a ray of lightning through Lord Rana's chest, and it hits Lady Raana.
+Varis (Vince)
+And that will. That'd be my turn.
+[[DM]]
+I did not roll for the word zombies. So put them in real quick. Okay. Ogre (Chet). All right.
+Ogre (Chet)
+So I'm just laughing like maniacally as I'm in this rage.
+Sanis (Gabe)
+Just like, you're not gonna get me.
+[[DM]]
+I'm gonna win.
+Ogre (Chet)
+I'm gonna use Hex Blade's curse on him. A thing I forgot that I have for my bonus action. So I now deal an extra four damage with my attack rolls. And I cross crit out of 19 or 20. And then I'm going to make my two attacks against this guy. As I'm just holding the blade inside of it. It's just power of wills against him. A 21 to hit.
+[[DM]]
+That hits. All right.
+Ogre (Chet)
+Cool. 22 total. And it does 14 psychic damage.
+[[DM]]
+14 psychic damage.
+Ogre (Chet)
+And then that is an 11 to hit.
+Sanis (Gabe)
+Hold on.
+Ogre (Chet)
+Because this could be a whole 15. And it is to 15 here. And misses. I'm sure. That's the end of my turn.
+[[DM]]
+All right.
+Ogre (Chet)
+It's like bouncing out for a little bit there for the second attack. All right.
+[[DM]]
+It's Santa's mom's turn. And she runs up to you just like basically like vertical wall running up her husband and then lunges at you. Ogre (Chet). Okay, that first one's a hit. Second one's a hit. What.
+Ogre (Chet)
+What are the rolls?
+[[DM]]
+27.
+Ogre (Chet)
+I can't do anything about that.
+[[DM]]
+A 23.
+Ogre (Chet)
+All right. That one. I'm gonna mage hand with cutting words. No, you don't. I gotta reduce it by D6. And it's not. It's not enough.
+[[DM]]
+Okay. All right.
+Ogre (Chet)
+A mage hand pops up and it just goes straight through it.
+[[DM]]
+So it's a 27. 21 with the minus 2 and. And an at 20. All right.
+Ogre (Chet)
+Yeah. Those. Those all hit.
+[[DM]]
+All right.
+Varis (Vince)
+I wanna.
+[[DM]]
+Okay These. All right. I will re roll that.
+Ogre (Chet)
+Nat 20.
+Varis (Vince)
+Is it.
+[[DM]]
+What is this?
+Sanis (Gabe)
+What is this?
+Ogre (Chet)
+It's decided.
+[[DM]]
+What is this?
+Varis (Vince)
+Throw that dice away.
+[[DM]]
+What is going on?
+Varis (Vince)
+Not allowed.
+Ogre (Chet)
+I haven't died in so long.
+Varis (Vince)
+Not allowed.
+[[DM]]
+Okay.
+Varis (Vince)
+Let me.
+[[DM]]
+Let me.
+Rin (Rachel)
+Warning player. That will do nothing.
+Orphie (Taylor)
+Right?
+Varis (Vince)
+Well.
+Rin (Rachel)
+Imposes disadvantage.
+Varis (Vince)
+Silvery barbs is not actually disadvantage. It just forces a re roll. So you could do that. You can stack that.
+Rin (Rachel)
+I will stack a warding flare on the Nat 20.
+[[DM]]
+Okay.
+Varis (Vince)
+Like I'm not mistaken. Right Chat. It does. Silvery barbs is not actually disadvantage.
+Sanis (Gabe)
+Yeah.
+[[DM]]
+It's.
+Ogre (Chet)
+It's not. Okay. The weird thing is you have to say warding player before the dies rolled technically. But there's never a chance to when you're playing online, right?
+Varis (Vince)
+Correct.
+Rin (Rachel)
+Yeah. I mean, I'm fine to take it back, but it's a like.
+[[DM]]
+No, I. I'll allow it. I'll allow it. It's fine. It's fine.
+Ogre (Chet)
+Yeah, it's really hard to have it work any other way.
+Orphie (Taylor)
+Yep.
+[[DM]]
+Here we go. We gonna go for the 1 in 8,000 chance.
+Ogre (Chet)
+You gonna do it?
+[[DM]]
+No, No.
+Varis (Vince)
+I mean, you have the magic dice.
+[[DM]]
+That's gonna. That's gonna be a miss. All right, so it's just gonna be. So let me just roll this damage, and then I'll narrate here. Yeah, it's gonna be a total of that, and then roll the ne. Okay. That's going to be a total of 31 points of piercing damage on the two attacks, and then a total of 13 necrotic damage.
+Sanis (Gabe)
+All right.
+[[DM]]
+It is a really good thing.
+Ogre (Chet)
+I was raging. I'm down to 14. Health.
+[[DM]]
+As you see, that lady Raylana, like, Matrix, runs up her husband and then lunges at Ogre (Chet), gets two good strikes in. And then on the third one, Boris, what do you say to make her re roll?
+Varis (Vince)
+I mean, maybe just have, like, a. Like a loud dragon roar to maybe put her off her game.
+[[DM]]
+All right, you roar like a dragon. And she remains unfazed as the dagger is about to hit strike Ogre (Chet) right in the forehead. When. Rin (Rachel), what does it look like when you cast your warding flare?
+Rin (Rachel)
+Similar to last time, except since this is at range, I kind of, like, shoot a ball of light to kind of block Ogre (Chet).
+[[DM]]
+All right, and the. The wall of light. The ball of light goes in front of the blade right before it hits Ogre (Chet) in the temple, and it bounces right off a strike that very well would have been lethal. All right.
+Sanis (Gabe)
+All right. With my action, because I am a good teammate, I am gonna cast aid.
+Orphie (Taylor)
+And.
+Sanis (Gabe)
+So I get to choose up to three creatures within range, which is 30ft. So I choose Ogre (Chet), Rin (Rachel), and Orphie (Taylor). And you guys each get five extra hit points to your current hit points and to your max, and it lasts for eight hours.
+[[DM]]
+Nice. Team player.
+Rin (Rachel)
+Wait, can you. Did you can. Did you post that in chat?
+Sanis (Gabe)
+Yeah, I put. I put it in the roll 20.
+Varis (Vince)
+Yep.
+[[DM]]
+So it's just an additional five hit points to your maximum.
+Rin (Rachel)
+Okay.
+Sanis (Gabe)
+And their current hit points. So it's their. It's their max, and their current get 5.
+Rin (Rachel)
+So they get healed for 5 and increase their max to 5. By 5, you'll.
+[[DM]]
+Oh, your. Your father looks at you, Sanis (Gabe), and goes huh? That won't be of very much help when they're dead.
+Sanis (Gabe)
+Oh, man. You have no idea what you're in for. And then I'm gonna do.
+Orphie (Taylor)
+Ah, damn.
+Sanis (Gabe)
+I don't think I want to move. Never mind. I'm good. I'm staying there. I'm like, I know I can't move anywhere. Yeah, that's my turn.
+[[DM]]
+All right, it's. It's Futhala's turn. And Orphe Withala looks at you and he goes. He like, points to himself and then he points to the. Where zombie that's in the top left, left corner. He goes.
+Orphie (Taylor)
+Do it. Yeah, I trust you.
+[[DM]]
+And he runs up over to the other Were zombie and he successfully, like, he sticks his hands out and he links hands with the other were zombie. Like he's playing mercy and begins to twist his knuckles forward. And you see that the other were zombies like, in pain.
+Orphie (Taylor)
+Good. I'm so glad I released him. It took an extra round of convincing, but he's definitely. It's better than, like, trying to figure out how to convince him to be good at this point in the battle as opposed to at the very beginning.
+[[DM]]
+It is now the were zombies turn and. Okay, that's a miss. That's a hit. Okay, so the first one's against you. Varis (Vince). What's your AC again?
+Varis (Vince)
+17.
+[[DM]]
+18. Okay, we got two misses and then a.
+Varis (Vince)
+Okay.
+Sanis (Gabe)
+All right.
+[[DM]]
+And then on the hit. Can you give me a constitution saving throw, please?
+Varis (Vince)
+Sure. That's 14.
+[[DM]]
+19. Okay, you made it. That's gonna be. It's gonna be 16 points of slashing damage as it rakes its claws. And then the other one is going to be attacking you. Sinus. And it got two hits on you.
+Sanis (Gabe)
+Prove it or it didn't happen.
+[[DM]]
+There's a. There's a 26. There's a 26 and a 23.
+Sanis (Gabe)
+All right, whatever. Carry on.
+[[DM]]
+Okay. All right, that is going to be a total of 26 points of D of slashing damage. And can you make me two constitution saving throws, please?
+Sanis (Gabe)
+26 ho. And two constant time saves.
+Orphie (Taylor)
+Okay.
+Sanis (Gabe)
+You still have blessed up.
+Rin (Rachel)
+Yes.
+Sanis (Gabe)
+Okay. 13 plus one is 14 and then second one. Let's do a different die. Nineteen plus rest. 21. My second one.
+[[DM]]
+Okay, good. You save on both of those. So as the. The. These massive claws rake against your chest, you feel yourself weakening, but then you steal yourself from it and you're. You're fine. The numbness that was about to take hold fades away.
+Varis (Vince)
+Thank God. And I do want to do some in Retaliation to that attack. Cuz I forgot with the. The new robes that I got from whenever, it actually is a free action, not a reaction. So when I'm hit with a melee attack, I can cast thunder wave. Okay, so I believe that was first level. Yeah, first level spell. It is a con save and 15 foot cube. I think that'll even hit the other were zombie.
+[[DM]]
+Lord Raylana makes it, but the other two do not.
+Varis (Vince)
+Sorry, Santa's. But it hits you too. So I'm going to save from you as well.
+Orphie (Taylor)
+Why don't you check? I don't think you realize how close he is to being down.
+Sanis (Gabe)
+Okay.
+Varis (Vince)
+It doesn't do much.
+Sanis (Gabe)
+17.
+Varis (Vince)
+He made it. Okay, so. So you only take four points of psychic damage. Four is half and then full is eight. And then you said who failed again?
+[[DM]]
+The two were zombies of the South.
+Varis (Vince)
+All right. They get. They get pushed back 10ft.
+[[DM]]
+Okay. So that's eight points to both of them. And. I'll say that it's like. All right, cool. Yeah. As for the last, where Zombie is just grappling with Uthala right now. Yeah. Orphie (Taylor), is your turn.
+Orphie (Taylor)
+Hold on. I just gotta plug up my laptop real quick. My battery just indicated that I'm low. Okay. All right, let's finish what we started. Gonna move up. Not.
+[[DM]]
+I thought you wanted to clap his cheeks.
+Orphie (Taylor)
+Yeah, we're gonna clap some cheeks. 23 to hit.
+[[DM]]
+Yep.
+Orphie (Taylor)
+That's 14 plus 4 is 18 plus 6 is 22. Is that right? Is that math?
+[[DM]]
+14 plus 10. That is 24. 4.
+Orphie (Taylor)
+Okay. And then again, Just making sure there wasn't. 22.
+[[DM]]
+Okay, that hits.
+Orphie (Taylor)
+13 +.
+Rin (Rachel)
+2.
+Orphie (Taylor)
+Is 15.
+[[DM]]
+15 points.
+Orphie (Taylor)
+Yep. And I don't have any bonus actions that will work in this situation.
+[[DM]]
+Okay. Orphie (Taylor), you trudge through the water, which is slowly going up to your neck wielding BlazebRin (Rachel)ger. And you.
+Orphie (Taylor)
+Wait, can I use my bonus action to pick up all the I threw earlier?
+[[DM]]
+I'll say you can grab your extra battle ax out of Lord Raylana, just take it out. Out of his. Out of his thigh. But yeah, you. You walk over, you strike him twice, intending to clap his cheeks, and then you take your battle axe out from his thigh.
+Orphie (Taylor)
+I'll have that back.
+[[DM]]
+Nice. All right, awesome. So with that, at the end of the round, the water level actually goes up to 13ft. So right now, I think Santa's. You're also in the water, right? You and Orphie (Taylor) are currently swimming right now.
+Orphie (Taylor)
+Cool.
+Sanis (Gabe)
+Because it's the end of the round. I want to use prune's last word. And I wanna. I just need his help. Please.
+Varis (Vince)
+Please.
+Sanis (Gabe)
+He knows how much I hate my dad. Please.
+[[DM]]
+You're gonna have to put that in the chat somewhere, because I don't remember.
+Sanis (Gabe)
+You're good.
+[[DM]]
+Okay. What. What do you. What do you say to. To Zadik?
+Sanis (Gabe)
+I. I say just that. I'm like, please, please, you know how much I hate my dad. Please, please, please, please, please, please.
+[[DM]]
+Do I have to?
+Sanis (Gabe)
+No. But if I die, you die.
+[[DM]]
+I suppose you're right. And I don't really pay rent here, so I guess I might as well contribute somewhat.
+Sanis (Gabe)
+Ah. Appreciate you.
+[[DM]]
+You see that Your. Your bow begins to light up with a black blue as you quickly knock another arrow.
+Sanis (Gabe)
+Okay, I'm gonna. I'm. I'm. I'm gonna shoot at my mom. I'm gonna take a step to the side. Can I do that? Can I take a step to the side? Because I didn't use any movement.
+[[DM]]
+I. I'd say. I'd say from where you were, you could take a shot at her.
+Sanis (Gabe)
+Okay. Okay, cool. So, yeah, I'll shoot at my mom. Oh, my God. Oh. 24.
+[[DM]]
+Oh, yeah.
+Sanis (Gabe)
+Yeah.
+Rin (Rachel)
+And then a D. Oh, yeah.
+Sanis (Gabe)
+And that's five piercing damage.
+[[DM]]
+Let me just do some quick maths here, Okay? Okay. You, at the end of the round, take a shot at your bomb, and it makes its mark. And you see the arrow sticking out of her arm. And you know, Dennis, she just nods at you.
+Sanis (Gabe)
+That's what she gets.
+[[DM]]
+And then Lord Raylanda is also going to make an attack against you.
+Orphie (Taylor)
+Oh, I forgot to do my brutal. I gotta remember that.
+[[DM]]
+All right, that's gonna be a 29.
+Ogre (Chet)
+Yeah.
+Rin (Rachel)
+All right.
+[[DM]]
+All right, so that's gonna be 25 points of bludgeoning damage as he just rams his fists into your. Into your face as he has you held on his shoulder.
+Ogre (Chet)
+All right. I'm still awake. And laughing and laughing and laughing.
+[[DM]]
+All right, Rin (Rachel), it's your turn.
+Orphie (Taylor)
+How is Mrs. Raylana doing? Because I forgot to give my brutal critical to her when I hit her with that dagger.
+[[DM]]
+She's looking pretty rough.
+Orphie (Taylor)
+Is it?
+[[DM]]
+She's got tons of arrows sticking out of her. At least two daggers sticking out of her back. Yeah.
+Orphie (Taylor)
+Can I re roll that extra brutal critical?
+Ogre (Chet)
+Single D4.
+[[DM]]
+It's just a single D4. You know what? Sure, go for it. It's just another D4.
+Orphie (Taylor)
+Well, it's a D4 plus seven.
+Ogre (Chet)
+No, it's. It's just the D4, which is a D4.
+Orphie (Taylor)
+It.
+Ogre (Chet)
+Yeah, it would have added one D4 to that attack there.
+Orphie (Taylor)
+It's one. It's a one. One more point.
+[[DM]]
+Hey, listen. Every point matters.
+Ogre (Chet)
+It does a single weapon damage a lot more for a great ax.
+Varis (Vince)
+For a dagger.
+Ogre (Chet)
+I'll give you that.
+Orphie (Taylor)
+All right.
+Ogre (Chet)
+Sucks for great swords.
+[[DM]]
+Rin, it's. It's your turn. Give me. Give me a perception check.
+Rin (Rachel)
+All right. That is a mod 20.
+[[DM]]
+Mod 20. Okay. With that. As you're floating above the water, kind of like in the middle of the room, and you see the water level rise, rising. You get a sense that in 12 seconds this entire room is going to be filled with water.
+Rin (Rachel)
+Okay.
+Orphie (Taylor)
+Okay. Okay. That gives us two rounds.
+Rin (Rachel)
+I will yell that to everyone else. Yep. God, how I. What it. What health is Ogre (Chet) at? I'm genuinely curious.
+Ogre (Chet)
+7.
+[[DM]]
+Is this the lowest that Ogre (Chet)'s been in a while?
+Ogre (Chet)
+No, I got down to two when the other place was collapsing. That was the lowest he's gotten.
+Varis (Vince)
+Stus also needs help. I didn't realize.
+Sanis (Gabe)
+Yeah. I'm at four out of 94.
+Varis (Vince)
+I'm so happy you made that save. That was exactly your health.
+Sanis (Gabe)
+Yeah, I know. And I was like so.
+Varis (Vince)
+To be honest when I did it, I thought. I thought it was only a 10 foot square.
+Sanis (Gabe)
+Hello.
+Varis (Vince)
+Like I. I. I thought it matched the push back.
+Sanis (Gabe)
+That's okay. I have a health potion.
+Rin (Rachel)
+Wait. I definitely had mass cure wounds on here. Where the did it go? I don't know what happened. I don't have mascar wounds on my on my thing anymore.
+Ogre (Chet)
+I do remember that being a whole thing for last longer.
+Rin (Rachel)
+Oh, I'm just dumb. I wasn't looking at the correct level. We're good.
+[[DM]]
+That'll happen.
+Rin (Rachel)
+Yeah. Okay. I will be taking my full action to cast mass cure wounds on everyone. Yeah. So choose up to six creatures and 30ft. Each target regains hit points equal to five D8 plus your spell casting modifier. So yes, that'll be five D8 plus four. I had my D8s. Where did I throw them?
+Orphie (Taylor)
+If you don't give it to me, can you give it to somebody else twice?
+Rin (Rachel)
+Sadly, I cannot.
+Orphie (Taylor)
+Okay. I don't think I'm only one hit point down, but I'll take it.
+Rin (Rachel)
+Yeah. Oh no. That's my D10s. This is my D4s.
+Varis (Vince)
+This is said in everybody, right?
+Rin (Rachel)
+Correct.
+[[DM]]
+Including Vu.
+Rin (Rachel)
+Yes. Because I believe he's within 30ft of me. Yeah.
+Varis (Vince)
+Yep. I'm still on square.
+Orphie (Taylor)
+Yeah.
+Rin (Rachel)
+Gotta use the new dice.
+Orphie (Taylor)
+Doo doo.
+Rin (Rachel)
+Okay.
+Ogre (Chet)
+Okay.
+Rin (Rachel)
+Two sevens and an eight. I'm okay with this. And then a four and a two.
+Orphie (Taylor)
+15.
+Rin (Rachel)
+Wait, that's 14, 20, 28, 32. Health to everyone.
+[[DM]]
+Solid.
+Sanis (Gabe)
+Thank you. Thank you so much.
+Orphie (Taylor)
+No problem.
+Rin (Rachel)
+And then because of that, I completely forgot about my chest piece. Whenever I heal anybody, as a free action, I can cast sacred flame.
+[[DM]]
+All right.
+Orphie (Taylor)
+Of course.
+Rin (Rachel)
+The baddest of boys. Let me double check that I. Yes. Sacred slave. Yes. So I will be targeting the Raylana Zombie, and it's a DC16 dexterity saving throw.
+[[DM]]
+Oh, wow. He failed it.
+Rin (Rachel)
+Yeah.
+[[DM]]
+America's for radiate.
+Rin (Rachel)
+Instead of just one where this can't.
+[[DM]]
+Rip, it will actually do something.
+Rin (Rachel)
+Well, that's a one and a seven. So that's 12 points of radiant damage. And also because I'm flying, I give an extra 4 radiant damage because I did an attack on him.
+[[DM]]
+Jesus.
+Rin (Rachel)
+I'm actually doing some D and D for once. I don't think I have any bonus actions I can do because I casted a spell, so I'm done. As a free action, I'm gonna let everyone know that the. The area is collapsing and probably start moving.
+[[DM]]
+Towards the exit, which right now, it is closed.
+Ogre (Chet)
+It's a counterpoint.
+Rin (Rachel)
+I think we're just all going underwater at this point. I don't know how to get out. I already do.
+[[DM]]
+You do. You do see that there are cracks and holes in the ceiling, so potentially, if the entire lab fills up with water, you could swim through those cracks.
+Orphie (Taylor)
+Okay.
+Rin (Rachel)
+Yeah.
+Orphie (Taylor)
+Then I'll just.
+Rin (Rachel)
+I'll just keep smacking people then.
+[[DM]]
+Okay, cool. All done.
+Rin (Rachel)
+Yes. Sadly, no bonus action for me this round.
+[[DM]]
+Okay, it is yo daddy's turn. Sinus. And he looks at you s. And he goes, friends, to help heal you all so that you can suffer even more pain. And he's gonna shoot out. Raise these. Here's what happens. He sticks out both of his arms towards you, and you see this, like, black and green sludge leave his hands and shoot out towards you. And that's gonna be a 29 and a 22.
+Ogre (Chet)
+So did he let go of me?
+Sanis (Gabe)
+He will.
+[[DM]]
+He will fire twice with my hand.
+Ogre (Chet)
+In the same spot, just holding my sword. If he just wants to let go and then go back.
+[[DM]]
+And that's gonna be. That's gonna be 30 points of necrotic.
+Sanis (Gabe)
+Are you kidding me? I know you're fucking with me right now.
+[[DM]]
+What's your HP total?
+Sanis (Gabe)
+20. Rin (Rachel) just gave us 32. That literally negates everything she just gave me.
+Rin (Rachel)
+Thanks, Chris.
+Varis (Vince)
+Yeah.
+Ogre (Chet)
+What are you talking about? You have two GP that.
+Sanis (Gabe)
+Shut the up.
+[[DM]]
+And your dad looks directly at you, inflicting you even more pain, even though you had just healed it up.
+Sanis (Gabe)
+Why are you being such a.
+[[DM]]
+Your dad. Your dad. Your dad goes. This is what true pain feels like. That's his turn, Boris. Okay.
+Varis (Vince)
+So Varis (Vince) is getting kind of mad, like, his friends getting hurt and like, this is just getting worse by the second. So he is going to. Quick and cast. Where's my points? Quick and cast. Let's go with psychic lance again. Fourth level on Lord Raylana. Yep, another intelligent save.
+Sanis (Gabe)
+You've driven me to smoke, Chris. You see this? You've driven me to smoke.
+Ogre (Chet)
+I'm doing this on my own.
+[[DM]]
+I'm doing this because I want to. All right, no, that was cocked. And was it again? 17.
+Varis (Vince)
+21. Yeah.
+[[DM]]
+On a. Was it or which?
+Varis (Vince)
+Intelligence.
+[[DM]]
+Intelligence. Yeah. That's a fail.
+Varis (Vince)
+Awesome. All right, so takes the full damage of 31 psychic.
+Rin (Rachel)
+Nice.
+Varis (Vince)
+That was a lot of high rolls. And he is incapacitated until the start of my next turn.
+[[DM]]
+Okay.
+Varis (Vince)
+But with my action now, I'm going.
+[[DM]]
+I.
+Varis (Vince)
+Wait, let me make sure I still have it. Where is this at again? Okay, I still have it. I'm going full dragon.
+Rin (Rachel)
+All right, let's go.
+Varis (Vince)
+Because this. This is getting really dicey in here.
+Orphie (Taylor)
+Where is.
+Varis (Vince)
+No huge size. So that's a. That's three by three square, right?
+[[DM]]
+Yep. Here we go. There you go. Let's rename this. Cool. All right, you all see Varis (Vince) go into dragon mode. Ogre (Chet).
+Ogre (Chet)
+I'm still just laughing and holding this blade into him, so I try to suck his soul out.
+[[DM]]
+All right.
+Ogre (Chet)
+All right. 18, 30. 20.
+[[DM]]
+Yeah, the hits.
+Ogre (Chet)
+For 13 psychic damage.
+[[DM]]
+Okay.
+Ogre (Chet)
+And these 17 misses.
+[[DM]]
+17 misses.
+Ogre (Chet)
+All right, then. Bonus action attack. Because I'm raging a thing that you gave for a long time ago. I think this might be the first time I've used it. 19 to hit.
+[[DM]]
+That does not hit. All right.
+Ogre (Chet)
+To 20. All right, that's it.
+[[DM]]
+Okay.
+Ogre (Chet)
+I only managed to hold it in there for the 13 points of damage.
+[[DM]]
+All right, all right. I made a roll. Nothing happened. Okay, now go to Lady Rollana. And, yeah, she's just gonna keep on doing what she's been doing. And that is going. After you, Ogre (Chet).
+Ogre (Chet)
+Okay.
+[[DM]]
+First one. Second one. Okay, well, I'll just. We'll just do it one at a time. The first one is a 24.
+Ogre (Chet)
+All right, I'll just try and stop that one with my thing.
+[[DM]]
+Okay.
+Ogre (Chet)
+I don't. I don't stop it at all. A mage hand pops up, and it is not Effective in any sense.
+[[DM]]
+Okay, go ahead.
+Ogre (Chet)
+Reaction's done.
+[[DM]]
+Okay, that's gonna be. The first hit is 11 points of piercing.
+Sanis (Gabe)
+All right.
+[[DM]]
+And seven points of necrotic. The second one is a dirty 20.
+Rin (Rachel)
+I will be wording flaRin (Rachel)g that one.
+[[DM]]
+Okay.
+Rin (Rachel)
+At least somebody needs to stay up that I just healed.
+[[DM]]
+The second one is a 29.
+Rin (Rachel)
+God damn it.
+[[DM]]
+All right, I'm gonna roll damage for that one. That's gonna be a 8 points of piercing damage and 9 points of necrotic.
+Ogre (Chet)
+Correct.
+Rin (Rachel)
+Okay, I tried.
+[[DM]]
+And the Last one is a 22. Any. Anything? Okay.
+Ogre (Chet)
+There's no way you'll do 14 damage to me.
+[[DM]]
+That's 12 piercing and 5 necrotic.
+Ogre (Chet)
+Good. I have resistance to piercing right now, so.
+[[DM]]
+Awesome.
+Ogre (Chet)
+That rage is really full of numbers.
+[[DM]]
+How many hit points do you have left right now?
+Ogre (Chet)
+3.
+[[DM]]
+22. All right, all right.
+Rin (Rachel)
+Literally negated all of the work I just did.
+Varis (Vince)
+It kept them from going down.
+[[DM]]
+I mean. I mean, like, if you didn't do that, like, you would be down and you would be next. Or one of you guys would be next.
+Ogre (Chet)
+Or I'd get finished off.
+[[DM]]
+Or as you said a long time.
+Sanis (Gabe)
+Ago.
+[[DM]]
+Lady Rihanna running up and just stabbing at you, Ogre (Chet).
+Ogre (Chet)
+I'm ignoRin (Rachel)g her. I'm winning this fight. My hex blade curses out. It's the only target that matters to me.
+[[DM]]
+Yep. As you're laser focused on Lord Raylana right now, Sinus.
+Sanis (Gabe)
+God, I hate these parents of mine. 5, 10, 15ft over here, actually. Oh, wait, it would be. The water is above the. The platform now at this point, right?
+[[DM]]
+It's above the platform at this point, yeah.
+Sanis (Gabe)
+Okay, so then, yeah, I'm just gonna. From here. I'm just gonna try to shoot my. Actually, I forgot what the rule rules are for. What your rules are for healing potions. Is it like a full action? A bonus action?
+[[DM]]
+Bonus action.
+Sanis (Gabe)
+Okay. All right, so I'm gonna do. Love that. So I get 5hp left from my healing potion. Let me remove that from my inventory. And then I want to try to shoot my dad. That 12 doesn't hit, does it?
+[[DM]]
+No, does not.
+Sanis (Gabe)
+Even a D4 wouldn't help. Okay, that's what I figured.
+[[DM]]
+I'll save you the time.
+Sanis (Gabe)
+Dirty 20.
+[[DM]]
+Yeah. Yeah, that hits. Actually, also Santa's. Can you roll me a D20? Just roll me a D20.
+Sanis (Gabe)
+I don't trust you. I like the way you said that.
+Varis (Vince)
+Just.
+[[DM]]
+Just roll me a D20.
+Sanis (Gabe)
+Oh, that jumped out of the. Okay. 18.
+[[DM]]
+23. Okay. All right, let's go. Let me just make A note.
+Sanis (Gabe)
+You know what? I hope she tries to sleep on top of your head tonight.
+[[DM]]
+We don't sleep with the cats, but. All right.
+Sanis (Gabe)
+She'll find a way. You will find a way.
+[[DM]]
+Roaming Damage, please.
+Sanis (Gabe)
+All right. D plus 3 minimum damage. 4.
+[[DM]]
+24. Awesome.
+Sanis (Gabe)
+Yeah.
+[[DM]]
+All right.
+Sanis (Gabe)
+It's my. It's my turn.
+[[DM]]
+There yet another arrow sticking out of your dad's chest. It's got tons of daggers, arrows, slashes all over his where zombie body. All right, anything else? Okay, let me see here. Okay, you see that Vthala in this, like mercy battle against the other. Where is zombie? He like pushes his wrists forward and you guys all hear a crack reverberate through the room. As you see, he cracks the other where zombie's wrists and the other were zombie goes down to its knees. But then the other were zombies are up and the one is going to make some attacks against uRin (Rachel)e.
+Rin (Rachel)
+Lovely.
+[[DM]]
+Oh, wow. Okay, that's a miss. Okay, what is your AC again?
+Rin (Rachel)
+16.
+[[DM]]
+25. That is gonna be a 28.
+Rin (Rachel)
+Damn.
+[[DM]]
+And then that's another. Wow. Okay, just one hit.
+Rin (Rachel)
+How much am I getting back for?
+[[DM]]
+That is going to be. Here. That's going to be 16 points of slashing damage. And then I need you to make a constitution saving throw for me, please.
+Rin (Rachel)
+Damn it.
+Orphie (Taylor)
+How. How, How. How bad is that for you? How bad is 16 points? Not.
+Rin (Rachel)
+I was at full health.
+Orphie (Taylor)
+Okay.
+Rin (Rachel)
+And that's with the plus 5 like HP that the aid gave me. So we're doing okay. Yikes. That's a eight.
+[[DM]]
+Okay. Okay. For the next minute, you're gonna suffer from the poisoned condition.
+Rin (Rachel)
+Lovely. Do I take the damage now or is it only on my turn?
+[[DM]]
+It's just one time damage.
+Rin (Rachel)
+Oh, okay.
+[[DM]]
+Yeah, it's it. When he slashed you, you took the damage and now you're poisoned.
+Varis (Vince)
+You have disadvantage on everything.
+Rin (Rachel)
+Okay, the question I was asking is what is the condition?
+[[DM]]
+You just have disadvantage on attack rolls and ability checks.
+Rin (Rachel)
+Okay.
+[[DM]]
+And then the other one's gonna strike at you because you're right there. You just kind of ballooned up into a dragon. Varis (Vince). What is that dragon's AC again.
+Varis (Vince)
+Night 19 19.
+[[DM]]
+Hit. Hit and a miss. All right, this can be 35 points of slashing damage and then two con saves, please.
+Varis (Vince)
+Okay, my modifier is seven.
+Rin (Rachel)
+Oh, I need to. Damn it. I need to roll a constitution saving throw I took.
+Varis (Vince)
+So the first one.
+Rin (Rachel)
+The default 10.
+Ogre (Chet)
+Yeah, I think it was 16 damage.
+Varis (Vince)
+First one was 20 something. I assume that passes. And then the second one is 12. Let me roll. Is bless. Still Up.
+Orphie (Taylor)
+No. Yes.
+Rin (Rachel)
+Barely. That is a 13.
+Varis (Vince)
+All right.
+Rin (Rachel)
+My new dice are not rolling well for me.
+Varis (Vince)
+7:12. The second one is 14.
+[[DM]]
+Okay, so you made both of them, and you're good. Cool.
+Varis (Vince)
+Like, to legendary action since it's the end of their turn.
+[[DM]]
+Okay, sure.
+Varis (Vince)
+Just a. Unfortunately, I can't do a wing attack because. Or he's too close, so I would just do a tail attack on the one that just hit me.
+[[DM]]
+All right.
+Varis (Vince)
+14 to hit. That is a 17 to hit.
+Sanis (Gabe)
+Yep.
+[[DM]]
+Hits.
+Varis (Vince)
+26. Bludgeoning.
+[[DM]]
+Okay, 16. Cool. All right, Orpheus.
+Orphie (Taylor)
+Do we need to be dismiss. Do we need to be making moves to get out of here or what?
+[[DM]]
+I'm raping Santa's dad.
+Orphie (Taylor)
+You're doing what?
+Ogre (Chet)
+I'm reaping Santa's father.
+Orphie (Taylor)
+That's not what I thought you said. All right. Oops.
+[[DM]]
+Yeah.
+Sanis (Gabe)
+That'S not what I said.
+Orphie (Taylor)
+You're doing what?
+Sanis (Gabe)
+Okay, so we all finish, but I.
+Ogre (Chet)
+Had to play that back a few different ways.
+[[DM]]
+Oh, no. Yeah. Oh, no.
+Sanis (Gabe)
+Sheesh. But Rin (Rachel) had let us know that she observed that the. In the ceiling above us is, like, cracks big enough for us to swim through.
+Orphie (Taylor)
+So we should just let the water lift us, essentially. Okay, cool. Well, then I'll just do what I do then. Are you making something with bread? Oh, I thought I smelled toast. Oh, God. I'm having a stroke.
+Sanis (Gabe)
+Are you okay?
+Rin (Rachel)
+I don't think she's okay. Making something with toast.
+Sanis (Gabe)
+Please tell me he's, like, got a quesadilla or something on the stove or something.
+Orphie (Taylor)
+He's making chicken nuggets and broccoli and cheese. I think he's making a chicken broccoli cheese bowl. No toast to be found. I'm just having a stroke and coffee. Okay. Anyway. Anyway.
+Sanis (Gabe)
+Did you just hack up the stroke itself?
+Rin (Rachel)
+I did.
+Orphie (Taylor)
+I did. I'm gonna hit Zombo dad for at 25 to hit.
+[[DM]]
+Yep. The hits.
+Orphie (Taylor)
+Thank you for that corner. Okay, that's 18. Okay, we're just gonna roll these at the same time. D4. D6 plus 6 is 20. Wait, what was it? 18. 24.
+[[DM]]
+Points of damage. What?
+Orphie (Taylor)
+Just can't crit for the life of me right now. That's fine. 28 to hit.
+[[DM]]
+Hits roll.
+Orphie (Taylor)
+16 plus 7 is 23.
+[[DM]]
+All right.
+Orphie (Taylor)
+Yeah, that's it. That's it.
+[[DM]]
+Just every turn, or if he's running up, do an average of, like, 40, 45 points of damage.
+Orphie (Taylor)
+Just something close to 50.
+Ogre (Chet)
+Clap in an extra plus three on both of those.
+Orphie (Taylor)
+Is that not included?
+Ogre (Chet)
+You did the D6 and the D4s together. Yeah, it's really weird. It won't work for you nicely.
+Orphie (Taylor)
+I hate. I swear to God. I just.
+Ogre (Chet)
+We had it working at one point.
+Rin (Rachel)
+And then it broke again.
+[[DM]]
+I think D beyond, like, upgraded or something. And then just like.
+Orphie (Taylor)
+Yeah, it's like of all the things, like, everything else in the world will just calculate, but not the specific combination of things that I do on every attack anyway, so plus six to that then, I guess.
+[[DM]]
+Yep, got it.
+Orphie (Taylor)
+Or if he's like, I'm just gonna. If I just keep doing, like, 50 damage every time. Something has gotta give. Yay, broccoli.
+[[DM]]
+All right, awesome. So swing it in for another, like, almost 50 points of damage. Arfy is here to take names. We go to the end of the round.
+Sanis (Gabe)
+I do want to do my perun last word again.
+[[DM]]
+All right. What do you say to Zaddy Daddy?
+Sanis (Gabe)
+Listen, I think he's almost down. I just. I need a little bit of help. We need a little bit of help. Can you please, please, please. And just don't try to hold this against me.
+[[DM]]
+How many HP? How much HP do you have left?
+Sanis (Gabe)
+11.
+[[DM]]
+11 out of 94. Zada goes. Oh, man, we gotta get out of here. You know what?
+Sanis (Gabe)
+Just.
+[[DM]]
+Just shoot. Go. Just shoot him. Shoot them. Go for it.
+Sanis (Gabe)
+Ditto, bro. I'm a biscuit. Oh, God. Not one.
+[[DM]]
+Not one.
+Orphie (Taylor)
+No one.
+Sanis (Gabe)
+Roll me.
+[[DM]]
+Can you roll me a D20?
+Orphie (Taylor)
+I'm gonna make a. I don't like this.
+Sanis (Gabe)
+Going to make a new character here shortly. Just give me a second. Six.
+Ogre (Chet)
+Six.
+[[DM]]
+Okay, give me one sec as I roll that down. Write that down. Okay, cool. Santa, you try and shoot your dad. Convincing Zaddy Daddy. Zaddy Daddy needed no convincing at all. As you try and let loose a shot, you're kind of swimming in the water. You're, like, bouncing around as you try and shoot. It just misses. And the water level rises now to, like, 20, 25ft up. You guys are like, you know, seven feet from the ceiling at this point. Water is just gushing in the lab.
+Orphie (Taylor)
+Wait, what about Futhala? Is he gonna be able to go through the cracks?
+Rin (Rachel)
+He's a big, hulking wear zombie. He'll break the glass.
+Orphie (Taylor)
+Okay. I just want to be sure. I'd have to leave him in a position again, you know? Well, I still don't know how they figure things out.
+[[DM]]
+Figure things out. Rin (Rachel), your turn.
+Rin (Rachel)
+Okay, so everyone's back at, like, no HP again. Love that.
+Orphie (Taylor)
+Except me. Full health.
+Rin (Rachel)
+Oh, wait. Thank God. Okay, I can give Santa's some Health and also hail Ogre (Chet) in the same turn. We're good. I'm just trying to keep y' all alive. That's all I'm working on here. I can take a bunch of hits. We're good. And to be honest, I'm keeping the bless alive. Okay, so as an action, I am going to touch Santa, who is immediately next to me, and we'll heal him for 44 points of 44. 44 hit points.
+Orphie (Taylor)
+4D4.
+Sanis (Gabe)
+Thank you.
+Rin (Rachel)
+That's all I got. It's a. It's a free action. It doesn't technically count as a cast, so then I can do a heal on Ogre (Chet).
+Varis (Vince)
+Is that your ASMR thing?
+Orphie (Taylor)
+I'm just checking because it said it. It sounded a little bit like he said 44.
+Rin (Rachel)
+Yeah, I said 44.
+Orphie (Taylor)
+Did you say four D4 or 44?
+Rin (Rachel)
+Four. D4.
+Orphie (Taylor)
+Okay.
+Rin (Rachel)
+Oh, wait, he's this. Wait. Ds this one? I can't remember. Yeah, this is D4. D4. Okay. Not a lot of health, but it's at least some that sticks. I got two twos and two ones.
+Orphie (Taylor)
+I need you to get out of range of everything Santa's.
+Rin (Rachel)
+The PC roles are peak today, and I say that in the most sarcastic tone possible that I can do, like.
+Orphie (Taylor)
+Let him hit me. Get out of range. That's your job this round.
+Rin (Rachel)
+And as my bonus action, I am going to cast. I will be casting healing word on Ogre (Chet) in. Because that's the only thing I can do at a distance. I don't have any more level five spell slots, so we're doing level three because I'm saving level four for a mass healing word. Okay.
+[[DM]]
+Yep.
+Rin (Rachel)
+I'll be casting healing word on Ogre (Chet) for 64 plus 4.
+Orphie (Taylor)
+4.
+Rin (Rachel)
+I did not roll a 4 at all. 9, 10, 14. So 18 points of health back for you.
+Orphie (Taylor)
+Where's w witch?
+[[DM]]
+She's my.
+Ogre (Chet)
+She is the blade burning into this thing as best she can.
+Orphie (Taylor)
+Okay.
+Rin (Rachel)
+And for. Okay, I do need to ask for clarification.
+Orphie (Taylor)
+Odin, quit it.
+Rin (Rachel)
+For zealous devotion, anytime I cast a heal on another target.
+Orphie (Taylor)
+Target.
+Rin (Rachel)
+Is that per heel or once per turn?
+[[DM]]
+Per heel.
+Rin (Rachel)
+Oh, then there's a lot more sacred flames that should have gone out.
+Orphie (Taylor)
+So many sacred flames.
+Rin (Rachel)
+Oh, wait, no, technically, the heel mask here.
+[[DM]]
+Sorry. Yeah, exactly. Exactly. So, like, if you had two healing spells in one turn, then it's two. Radiant. Yeah.
+Rin (Rachel)
+Sweet. Okay, so I will be casting one on Lord and one on lady.
+[[DM]]
+Okay, 16.
+Orphie (Taylor)
+If I thought killing lady would help us at all, I would have Just gone for her. But she just seems kind of weak.
+Ogre (Chet)
+She is destroying me.
+[[DM]]
+She has single handedly been ripping Ogre (Chet).
+Rin (Rachel)
+Apart just like I'll hit.
+[[DM]]
+Yeah, like crazy.
+Ogre (Chet)
+Listen, if I can kill either of them, I can do something very funny with their souls.
+Orphie (Taylor)
+Okay, well, should I try to kill Lady? Yeah, you try to kill Lady.
+Ogre (Chet)
+We'll see how it goes.
+Rin (Rachel)
+So does she.
+[[DM]]
+So Lady Rihanna saves, but Lord Raylana does not.
+Rin (Rachel)
+Okay, so I'll roll hers first. God damn. That's not. That's nine radiant damage to her. And I will be on top of that. Which is separate from the dexterity save. An extra 4 radiant damage to her. Since I can see that she is absolutely beating the ever loving crap at Ogre (Chet). If I kill her, will she. Will you still like take her soul? It doesn't have to be you that kills her.
+Ogre (Chet)
+It has to be me.
+Rin (Rachel)
+Oh, damn it. Hopefully I didn't overdo it.
+Ogre (Chet)
+Hey, if it doesn't happen, it doesn't happen.
+Rin (Rachel)
+I wanted.
+Varis (Vince)
+She's still.
+[[DM]]
+She's still standing.
+Orphie (Taylor)
+Okay.
+Rin (Rachel)
+And then for Lord Raylana. God damn it. Dude. What the. That's seven radiant damage. I just rolled a two and a one. Chris, you're taking all the good luck and I'm not okay with it. Next time I'm over at your place, I'm definitely going to be burying all of your dice.
+[[DM]]
+Hey, you know, sometimes that's just how it be, right?
+Rin (Rachel)
+I know we. We've had our fair share of just unbelievable nat 20s. So it's about time the [[DM]] has their fun.
+[[DM]]
+All right.
+Orphie (Taylor)
+Huh?
+Ogre (Chet)
+You have to salt the dice.
+Orphie (Taylor)
+True.
+Rin (Rachel)
+I'll salt it and then bury it and then burn something on top of it.
+[[DM]]
+All right.
+Rin (Rachel)
+Burn Ban in. So may not want to do that.
+Ogre (Chet)
+As the Founding Fathers attendance.
+[[DM]]
+Turn. And actually he looks at you this time, Bryn, and he goes. As much as I enjoy inflicting pain on others, I would like this encounter to end sooner rather than later. And he.
+Varis (Vince)
+Well, he can't do anything, remember?
+[[DM]]
+Oh, that's right. He's incapacitated.
+Varis (Vince)
+No, no, no. No action or reaction.
+[[DM]]
+He just. He just looks at you, Rin (Rachel). And you see that. You can. You can feel the fire in his eyes. The light will extinguish you, emitting enmity at you, Varis (Vince).
+Rin (Rachel)
+Oh, Rin's gonna be glaRin (Rachel)g right back at him with her glowing red eyes and I do not care. Someone is smacking my friends and I'm.
+Orphie (Taylor)
+Not okay with it. Are.
+Varis (Vince)
+Are we able to tell like how badly hurt he is?
+[[DM]]
+He's. He's bloodied. He's bloodied.
+Varis (Vince)
+I guess. Gabe, do you care who gets killing blows on these two?
+Sanis (Gabe)
+I don't, but Santa's might.
+Varis (Vince)
+Well, yeah. I mean, that's kind of what I was asking dad.
+Sanis (Gabe)
+Like, I don't care so much for my mom, but my dad, probably. I'd be a little butthurt about it, but I wouldn't hold on to it for too long because fucker's dead. Do what you got to do. Save us. I'm literally at, like 11 HP.
+Varis (Vince)
+Yeah. Yeah, that's kind of my thought. It's like, you'll get over it. I'm going to. Am I able? That was fine. I think if I move here. Yeah, we're good. I'm not hitting anyone. I'll force breath Lord Raylana. And I need a Dex save.
+[[DM]]
+Oh, but he's incapacitated, right?
+Varis (Vince)
+Yeah, it. It doesn't make a difference here, though.
+[[DM]]
+Okay, that's a fail.
+Varis (Vince)
+Let me click all these d6s. He'll be taking 68 force damage.
+[[DM]]
+Okay.
+Rin (Rachel)
+Wait, did you say 68?
+[[DM]]
+Yes, she.
+Varis (Vince)
+Yeah, the force breath is 18D6.
+Rin (Rachel)
+Damn.
+[[DM]]
+Okay. Yep. I mean, he's still standing, but. All right.
+Varis (Vince)
+Yeah, that's unfortunately all I can do. Then. I will. How much room is there above the water? Like, from water to the ceiling?
+[[DM]]
+Like, seven feet.
+Varis (Vince)
+Okay.
+[[DM]]
+The room is pretty much filled with water.
+Varis (Vince)
+I think. I mean, so technically you can share spaces with friendly. With, like, with allies, right?
+[[DM]]
+Yeah.
+Varis (Vince)
+Am I able to just, like, squeeze my way in here?
+[[DM]]
+Sure. Yeah.
+Varis (Vince)
+Okay, so I'm gonna try and, like, I can't do anything mechanically, but I'm gonna be, like, fronting on this. Where Zombie.
+[[DM]]
+Here, I'll move you. Can I get back? There you go.
+Varis (Vince)
+Trying to put a bear in between him and my friends.
+[[DM]]
+Okay, Ogre (Chet).
+Orphie (Taylor)
+All right.
+Ogre (Chet)
+Vacuum cleaner.
+Varis (Vince)
+Go, Burr.
+[[DM]]
+All right.
+Ogre (Chet)
+29.
+[[DM]]
+That hits.
+Ogre (Chet)
+417 psychic damage.
+[[DM]]
+Okay.
+Ogre (Chet)
+22.
+[[DM]]
+Yep.
+Ogre (Chet)
+For 15 psychic damage.
+[[DM]]
+What?
+Ogre (Chet)
+And then I. I got a crit.
+Sanis (Gabe)
+At the end of it.
+[[DM]]
+Okay, sure.
+Ogre (Chet)
+For another 17. Plus 7 radiant damage.
+[[DM]]
+All right, Ogre (Chet), what does it look like as you finish off Lord Raylana?
+Rin (Rachel)
+Zombie, let's go.
+[[DM]]
+I'm gonna win.
+Ogre (Chet)
+Just sucking all the way until the soul's completely in. Then I'm going to expel it out instead of letting it go over to the next side yet and bRin (Rachel)g it back as a specter.
+Sanis (Gabe)
+And point at.
+Ogre (Chet)
+His mom and say, protect your son from your wife. So he's. He's my specter now.
+Orphie (Taylor)
+I've never been so Happy to not get the kill.
+Ogre (Chet)
+Yes.
+Orphie (Taylor)
+Same. Beautiful.
+Rin (Rachel)
+So much poetic justice in this statement. Right now. Ogre (Chet) literally just fixed the whole problem.
+Sanis (Gabe)
+He's been planning this. You can see he's been planning this. The moment he got the sword, He's like, I want to make a spectrum. Who's it gonna be?
+[[DM]]
+You, Ogre (Chet). Laser focused on. On killing Lord Raylana. Just slashing and slashing at him until finally you get the last blow. And as you feel which dig into Lord Rana's chest, you feel the spirit, his very soul go into the sword. And through the sword, into the leather. Daddy Game boy. And then you expel it back out.
+Ogre (Chet)
+Yeah. Starting at his hand, obviously, because this is another application of mage hands.
+[[DM]]
+Amazing.
+Rin (Rachel)
+And always, always.
+[[DM]]
+Santa's. You see your father inspector form from actually, you know, before all of this, this happened a bit younger. And he looks at you, Santa, and he just says, I'm sorry.
+Orphie (Taylor)
+No, no, no, no.
+Sanis (Gabe)
+Literally, I like mock him.
+Orphie (Taylor)
+I'm just like, go to hell.
+Ogre (Chet)
+Go beat your wife.
+[[DM]]
+And then, yeah, you stick the middle finger up at him and then he just turns to his wife and he brandishes a short sword.
+Ogre (Chet)
+I'm just standing on it.
+Orphie (Taylor)
+Short swords like an island.
+[[DM]]
+Yeah. Short sword shorts.
+Rin (Rachel)
+Wait, question. Is the zombie body floating?
+[[DM]]
+Yeah.
+Ogre (Chet)
+Can you put it under me on the Z because I'm standing on now?
+[[DM]]
+Yeah, I'll say that. It's like floating and you're standing on top of the body.
+Rin (Rachel)
+Lovely.
+Varis (Vince)
+Yeah.
+Ogre (Chet)
+That's the stuff.
+Rin (Rachel)
+She sells short swords on the speech. Amazing.
+Orphie (Taylor)
+Absolutely amazing. You know what? It was a slip of a tongue.
+[[DM]]
+All right, it is.
+Orphie (Taylor)
+10 o'. Clock.
+[[DM]]
+Your mom's turn, Sanis (Gabe). And she is going to attempt to run towards you, or I guess swim towards you. So she's going to make it.
+Ogre (Chet)
+Do I get my attack of opportunity?
+[[DM]]
+Yes. Yes, you do.
+Ogre (Chet)
+Dirty20, bro.
+[[DM]]
+For damage.
+Sanis (Gabe)
+12.
+Ogre (Chet)
+I gained eight hit points. My target died.
+[[DM]]
+And she is going to attempt to hit you. All right, that's just. That's one hit. It's one hit.
+Rin (Rachel)
+I will be. I believe I still have my reaction to warding Flare that.
+[[DM]]
+Okay, that's a miss.
+Sanis (Gabe)
+Let's go.
+[[DM]]
+So. So your mom rushes towards you, Sanis (Gabe). And misses with the first slash. As the water is moving around, waves being flailed out by all the moving bodies in the laboratory. And then with the second hit, she is a. She just barely is about to hit you when Rin (Rachel) sends out a warding player and blocks that hit.
+Rin (Rachel)
+And with. With that, I think Rin (Rachel)'s gonna shout you don't get to with your son anymore. You're not his family. We are.
+[[DM]]
+Amazing. And now your mom is floating in front of you, your swords clashing against each other as your mom tries to get the upper hand on you. Santa's, it's your turn.
+Sanis (Gabe)
+Well, she's gonna be this close. I might as well pull out my short sword and try to hit. Is bless still going?
+Rin (Rachel)
+I believe. Technically, yes.
+[[DM]]
+Yep.
+Sanis (Gabe)
+Okay, hold on.
+Rin (Rachel)
+We have not hit 10 rounds yet. Surprisingly.
+Sanis (Gabe)
+12 doesn't hit, does it?
+[[DM]]
+No, it does not. But you know what? Roll me a D20.
+Sanis (Gabe)
+Oh, 19.
+Rin (Rachel)
+You're muted. Chris. Oh, never mind. Sorry. You're good.
+[[DM]]
+You Santas. You hear a voice?
+Sanis (Gabe)
+Why do I keep heaRin (Rachel)g voices? You know, they say early 20s is when schizophrenia manifests. You can just tell me my. My character schizophrenic.
+[[DM]]
+You hear a voice. And that voice is of your sister now, the goddess Aphonexa.
+Orphie (Taylor)
+Is that what these roles has been? The ability to call Selena?
+[[DM]]
+You hear her go? It seems like you need some help.
+Orphie (Taylor)
+Oh, now I tell you what. The Ray Lanas are never on time and it's not all right.
+[[DM]]
+She says, I. I know that you're fighting against our. Our family. Yes, it. You know, gods and goddesses of the pantheon not supposed to interfere with the going ons of mortals as much or we're not supposed to do this very often. But this is important, so I'm going to help you out here. And please roll me with advantage.
+Sanis (Gabe)
+Great. These two dice, let's do it. Oh, thank God. Because one of Those was a nat. 1, 22 to hit.
+[[DM]]
+Yep, that hits.
+Sanis (Gabe)
+Ah, sweet. All right, and then 1d6, Nine damage.
+[[DM]]
+Okay, that is enough. She had five hit points left. You feel your sister's power flow within you as you gain renewed vigor to strike true.
+Sanis (Gabe)
+Yeah.
+[[DM]]
+What does it look like? And what does Santa's feeling as you deal the final blow to your mom?
+Sanis (Gabe)
+Well, you know, I being raised rich and you know, I obviously took fencing classes, so we're just, you know, short. Sorted it up with their little fencing maneuvers and. And she slips and I like parry her away and right into her chest. Like, kind of like up with the. Into her heart. Yeah, like that.
+[[DM]]
+You do so. And pull the blade out and you see the light begin to fade from her eyes as she also says I'm sorry. And you see her slowly sink into the depths of the water of the laboratory.
+Sanis (Gabe)
+I mean, Santa's can finally breathe. He just. He's just like. Okay, that's one threat taken Care of. Oh, fuck those guys.
+[[DM]]
+And with that, I'll say that the water level fully goes to the top of the room. And the were zombies that are in there begin to flail wildly and are not able to try and get at you. I'm gonna take you guys out of combat.
+Rin (Rachel)
+Is the zombie that Ogre (Chet) is on, like, floating out of the broom right now?
+[[DM]]
+It's. It's kind of like it's staying in the room, kind of plugging one of the cracks that's in the ceiling. Okay, but there are other cracks. Say that again.
+Ogre (Chet)
+Can I shatter the ceiling?
+[[DM]]
+Go for it.
+Rin (Rachel)
+Hell yeah.
+Ogre (Chet)
+All right. I cast shatter on the ceiling.
+[[DM]]
+All right.
+Rin (Rachel)
+I love.
+Sanis (Gabe)
+Boom.
+Orphie (Taylor)
+And yeah, these. These were zombies are victims. Like, we don't hate them.
+[[DM]]
+You cast shatter and around you, Ogre (Chet), the ceiling opens up and the water begins to flow upward through the ceiling.
+Ogre (Chet)
+I ride the zombie, right?
+[[DM]]
+You, you ride. Whereas I'm out out the ceiling, I assume, Varis (Vince), do you sweep Santa's Rin (Rachel) and Orphe out of there?
+Varis (Vince)
+Yeah, if they just want to like, ride on my back, hell yeah, they're gonna me. Is Vuthala also flailing about? Like, can they like not swim or something?
+[[DM]]
+Yeah, you see him flare, flailing about?
+Varis (Vince)
+If, if I can, I'd like to like, kind of grip them. I like go over there and grip them and like take them out with us.
+[[DM]]
+All right, you. You grab him and you. You pull them out of the. The room.
+Varis (Vince)
+Yeah.
+[[DM]]
+Okay.
+Orphie (Taylor)
+Chris didn't even try to kill me.
+[[DM]]
+They didn't have a chance to. You know, you were just kind of in the. You persuaded Ruthala and then you were in the thick of it.
+Orphie (Taylor)
+Orphie (Taylor) ends with full health.
+[[DM]]
+Yeah. So over you kind of like surfboard style, ride the corpse of Lord Raylana out of the laboratory and the rest of you guys. Yeah. With his ghost grabbing Vuthala, just make it out of the laboratory. And Varis (Vince), you feel as you are holding Vala, that he slowly begins to. To shRin (Rachel)k and. Or he slowly begins to lose consciousness. And when he. Once he does, you see that he shRin (Rachel)ks in size back to his normal form. But you still. You still have them in your claws. As you guys leave the whole structure, you see from afar, underwater, it begins to crumble upon itself and the entire structure falls. And yeah, you guys make it out of the laboratory.
+Rin (Rachel)
+So we know that we didn't cause the laboratory to collapse, right? Or did we? Were we the cause for the laboratory collapsing?
+Ogre (Chet)
+I don't remember.
+Orphie (Taylor)
+What did we do?
+Rin (Rachel)
+We didn't so the thing is, is like there was this room to the right and then the laboratory tour continuing to the left or something. Like one direction was this room and like something the other way. We were supposed to blow something up, but instead we like, we see the Raylanas, we're going to fuck them up because they fucked with like Santa's and Selena.
+Orphie (Taylor)
+So.
+Rin (Rachel)
+We didn't do any. At least I don't think we did anything.
+Varis (Vince)
+I feel like it just was happening. I don't remember.
+Sanis (Gabe)
+You think our friend guy that we made.
+Orphie (Taylor)
+Carl. Carl threw their up?
+Sanis (Gabe)
+Carl blew this up. He knows Carl blew this up.
+Rin (Rachel)
+Plot twist. The man's actually a. A ballistic specialist.
+Sanis (Gabe)
+He's a sleeper agent.
+Orphie (Taylor)
+We taught him about fair pay and equal treatment and all of that. He was like, this whole place is going up.
+[[DM]]
+We radicalized him. Seems to be a trend.
+Rin (Rachel)
+It does. Hey, we are all about fair pay and good working conditions here.
+Orphie (Taylor)
+After that one episode, the one where.
+Rin (Rachel)
+We were at the factory and Rin (Rachel).
+Orphie (Taylor)
+Was doing inspection, we learned about it from that guy. And even though they all turned out to be evil, the lessons they taught us were real.
+Ogre (Chet)
+Still, they weren't necessarily evil.
+Rin (Rachel)
+No, I was just wondeRin (Rachel)g if that was evil. All the other guys I don't think were evil genuinely. She just had her own like agenda also. Chat. Why the is your water bottle glowing?
+Varis (Vince)
+I don't know.
+Ogre (Chet)
+I think Dawn's getting her power back.
+Varis (Vince)
+So bright.
+Orphie (Taylor)
+It's a ghost.
+Ogre (Chet)
+It's not broken up by the age.
+Rin (Rachel)
+Okay, sorry to distract, but the. The reason I'm asking is like we don't. Can I tell as we're like shooting up into like to the surface, like what seems to be like. Are there any explosions happening right now as the laboratory is like blowing up? Can I kind of see any like evidence of what potentially caused it to collapse? Like was it because we were fighting or. Or was it because something else happened?
+[[DM]]
+Give me an insight check.
+Rin (Rachel)
+Now that I actually, I'm gonna keep bless up because I don't want us to die. I also had disadvantage on this because I'm still poisoned, right?
+[[DM]]
+Yes. Okay.
+Rin (Rachel)
+Okay. So since it's at least insight, I still have somewhat. So that's a 14.
+[[DM]]
+With a 14, I will say that you are right. You're right that what you guys were doing in that laboratory didn't seem like it should have brought the whole laboratory down. You know, some. Some tubes exploding and like, you know, maybe like some splashing around of water and like their Raylana magic going on. It shouldn't have brought down the whole house, so something else definitely happened to collapse the entire structure. Okay, but you don't know what? Not sure. With the 14. Hello. Oh, my goodness. Oh.
+Rin (Rachel)
+Such cute. OMG. Both the girlfriend and the cat.
+[[DM]]
+But yeah, with. With everyone on Varis (Vince)'s back, swimming through the water, V untransformed in his claws. Ogre (Chet) riding the dead body of Lord Raylana like a surfboard, with the specter Lord Raylana right next to him. You guys swim off and. And hit the surface of that lake area that you guys were in in the civic district. And that's where we end today's session.
+Orphie (Taylor)
+Woots.
+[[DM]]
+Nicely. Nicely done, guys. Nicely done. And a couple indeed close calls.

@@ -1,0 +1,3870 @@
+---
+source: 11-011126-Pacts.md (Raw)
+corrected: true
+correction_date: 2026-05-16
+corrections_applied: 480
+---
+
+# 11-011126-Pacts (Corrected)
+
+> Spelling normalized per campaign spelling dictionary.
+> Verbatim transcript text preserved except for proper noun corrections.
+> Total corrections: 480 (Artifacts: 1, Characters: 6, Factions: 1, Guilds: 22, Locations: 1, PC Names: 444, Planes: 4, Terms: 1)
+
+---
+
+11-011126-Pacts
+
+
+Rin
+I'm guessing y' all did continue campaign when I wasn't able to make it last session.
+Unknown
+Yeah. Was. Yes.
+Orphe
+Sleeping.
+Unknown
+Rin was recharging her batteries.
+Orphe
+You were sleeping in my backpack.
+Rin
+I think I'm okay with that. That sounds wholesome. I'm here for this.
+Unknown
+So I'll go through the summary. I don't remember every single little thing that happened. And maybe hopefully the AI generated summary that you have, Taylor.
+Orphe
+Yeah, I haven't done it yet.
+Unknown
+At some point in the future. It's fine, it's fine. I'll just give the notes that I have and feel free to chime in and correct me. Last we left off, you guys were at the beginning of last session in the Simic district where you guys saw a blimp with a goblin head floating away from the lab that had imploded. Notably, as you guys discussed, the lab explosion wasn't caused by anything that you guys did. So presumably it was something around that blimp. Benji then showed up and told you guys about the blimp and that the Dimir Guild was still in chaos, but still figuring out Benji managed to get a position on the council. Temporary council, that is trying to figure things out. After the crash of the ghost mind handed you guys some potions, told you guys that the blimp was headed over to Tin street, took Vuthala Zombie where Zombie Vuthala to the Selesnya Guild and you guys went over to chase the blimp that was headed over to 10 Street. When you guys got there, you found.
+Kalmar
+That it had been a hot second.
+Unknown
+Since you really noticed and looked at the area around 10th Street. You know, the banana man ogres caretaker is there. You guys went to 10 Street High School. But you know, since coming to Ravnica post 5 years, never really chilled around here. So you noticed that there was a massive skyscraper amongst other parts of Tin street that had been built out and you know, maybe gentrified a little bit. There was a massive skyscraper with like goblin designs, goblin statues, kind of like brutalist design with goblins holding up pillars. And you realize that this is Krenko's hq. Krenko hq. And Krenko notably was the one that had given the party you guys a quest to find the sword of feast and famine.
+Rin
+Oh no. I knew this was coming back.
+Unknown
+You guys, of course very tired after fighting Sanis's family and escaping, which by the way, Lord Rihanna is a specter under Ogre's control at this point. You decide to at night take a long rest while scouting out the massive skyscraper on Orpheus Watch. A goblin gave her a message that Krenko wanted to meet with you guys on Sanis's watch. He saw a skulking figure entering Krenko hq but could not figure out who it was. And after some discussion, you guys decide to just give the sword hilt to Krenko. Because after Ogre and Don now which is encounter with Bolas, the blade shattered and now all Ogre has is the hilt. So talked about it. So you decided to just go in and maybe give him the hilt after you guys received a message from Krenko that he wanted to meet with you guys. So the next morning you'll wake up, decide to go meet with Krenko at the front door to Krenko hq. You run into Reka, if you remember the guard back from the Marrow Pits, the Scottish red haired lady from the Marrow Pits. And you know, you guys are let in after you show the message from Krenko. And you guys instead of meeting with Krenko, are sent over to his assistant named Kiku, also a goblin, where she tells you guys that she still wants the hilt or Krenko still wants the hilt and that the Immortal sun is going on auction tomorrow. And so with that, you guys have not enough money and decide to formulate a plan to acquire money so that you're let into the auction house. So before you guys leave, as the elevator doors close, Sanis spots Narset Spidey style on the ceiling of one of the rooms in Krenko hq. You guys head out and you guys talk about maybe meeting with Ava the Dragon on Ravnica, the gold. The gold hoarding dragon. To maybe find out some information, maybe something that she knows, maybe get some support from her to the auction house, possibly talk to Benji. And I think you did summon Benji and he said that he would relay some messages over to Dahlia, Amara and Hekara from is it Selesnya and Rakdos Guild respectively. Just that the auction is happening and that to. To send people and resources over to support. So with that you then decide to go to the Selesnya Conclave with Lord Raylana's specter walking the entire way and the rest of you guys just teleporting with Benji. And it's. It's. This whole session has been. This whole session was meeting a lot of past NBC's. You guys meet up with Saskia, Myra and they just on meeting you guys are smoking Selesian spinach and just throw money at you guys to help support you to go to the auction. I think they give you like 500 gold just like they had it on their person just threw it at you. And then a Johnny and Nissa, on your instruction, said that they'll go over to the Gruel Guild to help or Berygmos and Sharp Dog solidify control over the other contender, Domri Rade, who seemed to be Bolus aligned. And I believe that is where we left off. You guys were just like at the slicing Guild trying to plan out next moves. Some things to note is that you guys were talking about going to the Orzhov district to see what's going on over there. Because you guys have heard rumors that there's been nobody, no living being or ghostly beings in the Orzhov District at all. And you theorize that maybe you could reinstate the Orzhov bank and get the whatever funds are left there to help you guys out with the auction house. You guys also remember that when you were at the Reylana Mansion, you guys listened in on a conversation between Liliana and Vraska and that they had a conversation that Kaya had been dealt with. Whatever that means. You're not sure. And lastly, you guys were still on track on the trail to try and figure out how to revive Niv-Mizzet. Theorize that you can, if you got the got an artifact from every guild in Ravtica and then go to the Implicit Maze and do ritual. You guys would be able to bring Niv Mizzen back as you have their spirit trapped in Varis's Dragon spirit box. So that is where we're. We're at. That's the situation right now. You guys are at the Selesnian Conclave just chilling out, planning your next moves. What do you guys do?
+Ogre
+Thought we were already headed to the Orzhov.
+Unknown
+Seemed like you guys are headed to the Orzhov Guild.
+Ogre
+All the things were pointing there as first, I remember going around talking to everyone and recruiting a Johnny to start an army of Planeswalkers and leaving Lord Ray Lana with him with I think five more hours left with the instructions of tell them everything.
+Rin
+I love that.
+Ogre
+And I think we were just leaving while Ogre accidentally solved all the problems in the background.
+Varis
+Yeah, I think we ended the session with us like.
+Ogre
+And then we go up this heist.
+Unknown
+Right? So what are you having Lord Raylana tell a Johnny and Nissan, whoever other Planeswalkers are there.
+Ogre
+Oh, just answer any of their questions.
+Kalmar
+Okay.
+Ogre
+And be honest.
+Unknown
+Okay. All right. So you guys are heading over to the OR off Guild.
+Sanis
+Then before we leave, are there any like, random health potions just lying around on the ground that I can Just kind of scoop up on the way out.
+Unknown
+Oh, Sanis. So I'm pretty sure that you bought some.
+Sanis
+I only have one in my inventory. I don't remember adding anymore.
+Varis
+Did we talk to the.
+Unknown
+Because Benji had. Benji had given you guys health like regular health potions. And then Sanis, I believe using your insurance you went over to the doctor and got superior health potions for the party.
+Sanis
+Yeah.
+Unknown
+Okay.
+Sanis
+Okay. I just want to make sure. That's what I thought. Yeah. Okay.
+Rin
+In this game.
+Orphe
+Okay.
+Sanis
+Well, as wealthy as my parents are.
+Rin
+No, you're not wrong. That is true. Because they no longer exist.
+Sanis
+Oh thank God.
+Varis
+Okay. I do.
+Unknown
+I would be careful about that. I don't know about no longer exists. But you know.
+Rin
+Well one is currently in a spectral form, so there's that.
+Kalmar
+Yeah.
+Unknown
+You don't know where the other one went.
+Rin
+Oh, true.
+Ogre
+Well, it's not like they could be undead.
+Sanis
+Ah.
+Rin
+It'S not like they're part of the Bulgarian build or anything.
+Orphe
+Right.
+Unknown
+Oh damn. That's.
+Ogre
+That's what happened to all of them so far.
+Rin
+Yeah. Fun times.
+Sanis
+My entire family. Yeah.
+Orphe
+But like it'd be funny if all of you became undead in different ways.
+Ogre
+Well, that's what happened.
+Sanis
+We kind of did.
+Varis
+Zombie.
+Sanis
+What's a damn fear?
+Ogre
+He's only got a little bit more time being a ghost.
+Rin
+So the zombie place is currently reopened.
+Unknown
+The zombie place.
+Rin
+The. The zombie like position of undead is currently available again. So since what's her instead of an undead.
+Sanis
+Yeah, I don't like that for her.
+Ogre
+I like skeleton. I think we need a skeleton in the mix.
+Rin
+I mean that's still. I. Would that still fall under zombie or would that fall under.
+Varis
+Technically we're all skeletons.
+Ogre
+The zombie needs meat.
+Varis
+True. Just. Just with a meat suit.
+Unknown
+At least some meat.
+Rin
+Yeah.
+Sanis
+[[DM]] is like.
+Unknown
+Oh no, no, no. We're not going to talk about the last episode. Anyways. So you guys go over to the first church of Warzone. Yeah. So okay.
+Rin
+I feel like on the way there is when written like wakes up and is like extremely confused as to what's going on. And someone decide whoever is going to tell her what happened.
+Sanis
+I feel like I would vote for Ogre to tell you what happened.
+Orphe
+He would get.
+Sanis
+He would get through it the quickest.
+Orphe
+Yeah. As he goes along.
+Ogre
+So there was big explosion. We went up on the water. Sanis's dad's a ghost. We saw a balloon. The balloons. The goblins. The goblins want the sword. The sword is mine. But the goblins have the sun. The sun can't die. And we need to get it. And the planeswalkers gotta help. We gotta go to kill ghosts.
+Orphe
+And I take it back. Nobody's correcting him. We're just gonna be like, yep, that's about it. That's right.
+Ogre
+Is that just all the bullet points of a presentation?
+Unknown
+By the way, that merfolk that you met, Carl. You have no idea where he went?
+Orphe
+Oh, yeah. We're pretty sure he's dead.
+Ogre
+It's totally fine.
+Orphe
+You know, as much as we could if he didn't get a chance to ask the girl out. That's not on us.
+Unknown
+Schrodinger's merfolk.
+Rin
+I casually just rolled a wisdom check. And I rolled a 23. So I definitely interpret everything that he. He just.
+Kalmar
+Definitely.
+Unknown
+Yep, yep.
+Orphe
+You've become a master at translating ogre.
+Rin
+At translating ogres.
+Ogre
+Let me check my persuasion. I rolled a four for a 14 still. So that's.
+Orphe
+God damn, we're done.
+Ogre
+I. I don't know what I'm saying. But I'm easy to interpret now.
+Rin
+Perfect.
+Varis
+And I don't remember. Did I say that I was summoning Eugene again to fly us over to Orzhov? Because I think we're sort of on a timer right now.
+Sanis
+Eugene was summoned. I thought you flew us last time.
+Orphe
+I think.
+Varis
+Was I a dragon?
+Orphe
+Him flying us and then saying we weren't gonna do that.
+Unknown
+You know what?
+Orphe
+Maybe instead of doing work in the background, I should be processing our notes from last time. In the background.
+Varis
+Am I currently a dragon? I don't have it.
+Unknown
+I don't remember.
+Orphe
+I don't think so.
+Varis
+I don't have it used.
+Rin
+And it's been several weeks.
+Sanis
+Okay. I was like. The last time I remember was that we got. We traveled to Selesnya Conclave via Varis. Who flew? Right. Who flew us?
+Unknown
+Yeah, travel has been.
+Ogre
+Or calling Benji.
+Varis
+Well, we got here from.
+Unknown
+That was Benji.
+Ogre
+Yeah. Because you guys teleported Benji's name three times. He appears.
+Sanis
+Gotcha.
+Unknown
+Yes.
+Varis
+I guess it's just the question is, how quickly can we get to Orzab on foot versus flying on Eugene?
+Unknown
+It's right next to the Celesian Conclave.
+Orphe
+So if we like walk, we should be fine.
+Unknown
+An hour.
+Ogre
+Let's race.
+Varis
+Probably fine for an hour. I'll save my spell slot.
+Rin
+Yeah, I'd say it's worth. We can. Hours. Not bad.
+Sanis
+Cool.
+Unknown
+All right, so you guys walk over to the Orozov district and you get to the border between the Orzhov district and the Silesian Conclave. Takes a little bit of time, but once you get there as soon as you cross over, you kind of feel all feel like a wave of cold go over you guys, Whoever wants to can make me a arcana check if you want.
+Orphe
+Arcana checks? Because they don't make any fucking sense. Sense for me to do. So. It's really funny when I get high. Okay, it's 11, 15.
+Unknown
+Or insight. It's up to you.
+Orphe
+Oh, I could do inside. I didn't.
+Sanis
+Oh, if it's insight, then it's 16.
+Orphe
+Insight is 22. Oh, man, I wish I saw those sound effects.
+Rin
+Oh, that's a 15 for me.
+Unknown
+Anyone with a 14 or over, which some of you guys have made, as soon as you cross over the threshold into the Orzhov district, you feel that wave of cold go over you as you realize that the air feels still and you get the sense that like, there's no wind, there's no breeze, no gusts, the dust is settled on the ground. Everything feels still. It seems as if the very life has been sucked out of this whole area.
+Rin
+I don't like that.
+Unknown
+Yeah, but otherwise, I don't know if.
+Kalmar
+There'S anything you guys want to do.
+Unknown
+The rest of the way to the First Church of Orzhov. It's like maybe another 20 minute walk. I'm running.
+Ogre
+It's just echoing. So I'm slapping my feet as I run.
+Orphe
+I'm going, if you lick my laptop, I will smack you.
+Rin
+Okay.
+Varis
+Yeah, don't do that.
+Unknown
+As. As Ogre is running down the street and yelling. Ah, that is all you guys hear as well as the sounds of his feet slapping against the street, against the pavement.
+Orphe
+So bye, babe. Drive safe.
+Sanis
+Bye, Corey. Drive safe.
+Orphe
+Say bye. Party says bye. He said goodbye.
+Varis
+Real quick. When's the last time that we did a shorter long rest?
+Unknown
+You guys took a long rest when you camped outside of Krenko hq.
+Sanis
+Yes, because I remember doing a four hour meditation and doing a watch. We did watch rotations.
+Kalmar
+Yes.
+Unknown
+We should have everything back.
+Varis
+And that's where Benji grabbed us from there, right?
+Unknown
+Yep. Okay, you guys left Pranko HQ and then he grabbed you.
+Varis
+Yeah. So you guys can. Because I think I can cook four of my treats. So you guys get four temporary hit points.
+Rin
+Hell yeah.
+Varis
+Remember that before we do combat. Inevitably.
+Rin
+Sweet.
+Varis
+And if you happen to already have temp hp, you can eat that later with bonus action.
+Unknown
+Who rolled the highest on that arcana check on entering the district?
+Rin
+I think that was Varis for Arcana.
+Varis
+Yeah.
+Rin
+Yeah, Insight. It was Orphe.
+Orphe
+Orphe out of 22.
+Unknown
+All right. I'll say for you, Varis, the feeling that you get of being here.
+Varis
+Is.
+Unknown
+Kind of feels like the aftermath of like, I'd say like the aftermath of like a forest fire, but like a forest fire that has been complete and there's like no forest left. So what you feel is that typically there's like a little bit of magic in the air or a little bit of life in the air from just either spirits or people being around. You get none of it. And you get the sense that something happened here and now there's nothing.
+Varis
+Can I try casting a spell? Just like press the digitation. Just make like a little fire illusion in my hand.
+Kalmar
+Yeah, yeah, you do. So.
+Unknown
+And the fire pops up just fine. Like your magic is working just fine. It just. In a place like the Selesnya Conclave, right? Where there's like a lot of trees and a lot of Celestial priests around generating life magic and healing magic. Right. The air is thicker in a sense. The feeling you get here is devoid of all that. The air is very thin. So, yeah, you. You press the digitize some fire instantly and it's not a problem. But it's kind of like lighting a torch in the middle of a dark cave.
+Varis
+Yeah. So it looks like magic still works. Double check that.
+Rin
+This is very odd that like, we don't feel life here.
+Varis
+It's just empty. There's. There's nothing to so be here.
+Sanis
+There's. There's no life here. But can we tell how long it's been like that? Like, can we tell? Was there ever life here? And if there was, how long ago it was here?
+Unknown
+The last time you guys were here was when Kaya had taken over as the guild leader of the Orza guild. And if you remember, she was like starting to release spirits and free spirits. But there in the confusion, there were still people around. Some people running away, maybe some people trying to find like, belongings or whatnot.
+Sanis
+In game. How long. How long ago is that? Few months, right?
+Kalmar
+Not a few months. I would say.
+Unknown
+Like, how many long rests have you guys had? Like, maybe three. It's been maybe three or four days, I'd say. Oh, maybe even a week. Who knows anywhere in between that time.
+Sanis
+Okay, so this is a really quick thing that just recently. Haven't got it. Okay.
+Unknown
+Interesting. Interesting.
+Varis
+Well, we should chase after Ogre before he gets too far away.
+Rin
+Yes, definitely running after Ogre.
+Ogre
+He's gonna come back. Hey guys. I don't know where I'm going.
+Rin
+Based on like showing we know that, like there's no magic. No, like, life per se. Does it seem like there's, like, I guess, maybe, like, residual magic? Or does it seem like people ran in a hurry? I know, like people were running out, like, a few days ago whenever what's your face was.
+Unknown
+There are no bodies. There are no bodies. You don't sense any traces of residual magic. Interesting. There is the extreme lack of.
+Rin
+Extreme lack of. Is this potentially what they were talking about?
+Orphe
+That they took care of her?
+Varis
+I can imagine this feeling of just. Just this void. This nothing is like. I mean, this isn't in real life, but in. In tv. But like, if you suddenly no longer had your heartbeat. Just something that's always been there that you never really noticed.
+Rin
+Yeah. Or like you're used to having, like, a specific, like, white noise in the background, and then all of a sudden, it just switches off.
+Unknown
+Yeah. I'll. I'll even add here, right. That there are many Leylines in Ravnica just flowing all over the plane. Right? Because of all the guilds that are there and because. I mean, it's not together anymore. But the Guildpact founding is literally bound together by the energies from all these Leylines. Right? Celestial Conclave. It's strong. You feel it. And on crossing over to the Orzhov Guild, it's like you don't.
+Varis
+Yeah.
+Unknown
+There's nothing.
+Rin
+Damn.
+Varis
+Does that maybe mean, like. Because I know, like, all the people are just gone, but, like, maybe even Kaya is either dead or, like, some, like, just out of. Out of power.
+Rin
+I mean, we know she was taken care of. Whatever that means. We heard that from the conversation.
+Varis
+So maybe that's what this emptiness is.
+Rin
+That's what I was thinking as well, which concerns me because I. That, like, the type of. Do I know of any type of magic that potentially could cause, like, this type of devastation of just, like a complete annihilation of magic in an area.
+Kalmar
+You know what?
+Unknown
+Roll me a D20.
+Rin
+Oh, okay. I will rule the one that Nanda got me for my birthday. Nice big beefy boy, Rin. As she's thinking trips on a stone and face plants into the ground.
+Orphe
+Okay, so it's a one.
+Rin
+We're off to a great start. Coming back into 2026, you just.
+Unknown
+You were just too deep in thought about it.
+Rin
+I was way too deep in thought.
+Varis
+Yeah. Gotta get the bad rolls out now. Yeah, get him out early.
+Rin
+I'm done. I'm done. I'm done for the day, y'. All.
+Ogre
+Let's just go back to the last place we saw her.
+Rin
+That's Actually a good option. We were able to get there via the Orzhov Bank. Right. First bank of Orzhov.
+Orphe
+Okay.
+Rin
+Orpheus, that's not a bad idea, actually.
+Orphe
+Was this my idea?
+Rin
+Sorry, Ogre. Sorry. I'm tired. I will be in a forewarning. I will be in a consistent state of tiredness for the next, like until the end of January.
+Orphe
+Girl. Same. Yeah, we're finally going to hire a new executive director. So I. There's a light at the end of my tunnel.
+Unknown
+All right, You guys walk over to the First Church of Orzhov. You guys are perplexed as you walk or make your way to where all of this went down. You know, not like a week ago. Or Soft Guild being taken over by Kaya. You guys were kind of working with her until you realized that she was in cahoots and crazy using us. Using. You guys assassinated the Obsidat and then started free all the spirits going back to the place where shit went down. And normally you. You get to the First Church of Warzov. And I mean just the entire district right now looks kind of in shambles, like buildings. Walls taken out, floors taken out, roofs caved in, rubble. On the streets, it. It's not looking great, but notably, like I said before, you don't see any corpses or spirits or anything. It's just devoid of all life. And so as you look at the First Church of Orzhov, it almost stands silent. You guys remember like, it was like nice white and black facades with like gold trim and kind of imposing. This like large building. The face of the Orzhov Guild. Taxes even in life and death, you're going to pay on your debts no matter what. And it was like a place of power. Now you see that it's almost as if that golden brim has dulled the shine now. Now dulled in the light. And that. That black and white facade kind of turning into this sort of gray. And you see that the front doors of the church are slightly ajar.
+Sanis
+That's never hear anything suspicious.
+Ogre
+Cool. I don't even have to open them when I walk right in.
+Kalmar
+Oh my God.
+Unknown
+Ogre walks right in.
+Orphe
+No.
+Rin
+Son of a. Ogre, get back here. We don't know if someone's in there. Most likely there's someone in there.
+Unknown
+Now.
+Sanis
+Just follow Ogre in.
+Unknown
+All right. Ogre's the first one in. And what is the. Is there anything that you say as you come in?
+Ogre
+Just as I step in, I'm like, there's definitely at least one person in Here, you.
+Unknown
+You. You say that right? You say, there's definitely one person, person, person. And that echoes in the large, empty church.
+Ogre
+Oh, maybe there's a lot.
+Unknown
+A lot, a lot, lot, lot.
+Ogre
+Yeah, there's so many, many, many, many.
+Varis
+Hi.
+Sanis
+Hi.
+Orphe
+Hi.
+Ogre
+Hello.
+Kalmar
+Hello. Hello.
+Unknown
+Hello, Ogre.
+Varis
+It's just an echo.
+Ogre
+Hi, Echo. I'm Ogre.
+Varis
+Okay.
+Rin
+And then the echo says, hi, Echo. I'm Ogre.
+Ogre
+No, I'm Ogre.
+Rin
+Oh, no. We started a loop. Y' all.
+Orphe
+Turn into, like, a Greek tragedy.
+Sanis
+Yeah, can I. I want to do my can trip. Dancing lights.
+Unknown
+Okay.
+Sanis
+And then, let's see, I can combine all four lights into one glowing, vaguely humanoid form of medium size. So I want. I want to do one big orb and just have it hanging over, like, the center of the party or over my head as I walk in after Ogre.
+Unknown
+All right, sure. You cast dancing lights, and this ball of light hovers above you guys, illuminating you guys against the dim sunlight that kind of creeps into the first church. I won't even have you guys make a check or anything. You guys see on the other side of the church, past all of the bank tellers, some of the rubble, past the staircase that leads downstairs to the portal, kind of like on the steps, the marble steps that lead up into the tower where Varis's parents used to live and other Orzhov priests. You see on the stairs, the marble staircase, kind of a half transparent, half translucent figure laying again propped up against the wall on the marble steps.
+Sanis
+Oh, hey.
+Ogre
+You must be echo.
+Unknown
+Nice. 82's reference. Not it.
+Rin
+I guess I follow. I follow Ogre up to the being. Does the being look familiar by chance?
+Unknown
+Yeah, it's Kaya.
+Orphe
+She dead?
+Unknown
+As you guys take a closer look at Kaya, you see that half of her body is translucent and ghostly. You see that even the weapons, some of the clothing, the weapons at her side and some of her clothing are translucent, translucent and ghostly as well as, like, half of her face. As you guys come up, you see that she slowly raises her eyes and lifts her head up, propped up against the wall. Oh, you're late. Or, you know, maybe. Maybe I'm early. I can't really tell time. Kind of weird for me right now.
+Rin
+We're late. What the heck are you talking about?
+Ogre
+I'm okay.
+Varis
+What happened to you?
+Unknown
+She doesn't seem like she, like, registers what you guys are saying. She just kind of, like, looks up past you guys and she says, gone, Everyone.
+Kalmar
+Everyone's gone.
+Rin
+Could I potentially do an arcana check? To see, since I did the arcana check on her earlier and know that she's, like, in between the two planes. Can I see if potentially she's, like, more in the plane of death than Ravnica now?
+Unknown
+Sure. Romy.
+Orphe
+Arcana, Wrong plane. And honestly, how unfair. You guys know I wanted to kill her.
+Rin
+Sadly, you didn't get the chance. That's a 24 for Arcana, that's pretty good.
+Unknown
+You get the sense that her, like, what binds her to this plane of reality and like, the corporeal plane is like, something that was inherent in her. Right. Like. Like she was able to, like, go between, like, the ghost, the blind eternities, and the corporeal realm. Just because that's like, that was something of her biology. That's something that she had. Yeah. With the 24 Arcana, you realize that that aspect, what allowed her to do that has been severed and she is on the brink of death.
+Rin
+Oh. I relay this information to the rest of the group.
+Orphe
+The brink. You say we finish the job?
+Rin
+Rin's gonna try and touch her.
+Unknown
+Which part?
+Sanis
+Let's get as much information out of her.
+Rin
+Basically, her hand, like, almost try to grab it like ginger.
+Kalmar
+Right, Right.
+Unknown
+Are you gonna grab the part? So, like, the entire left side of her body is all ghostly. The entire right side of her body is still physical.
+Rin
+I will probably try to grab the part that's physical.
+Unknown
+Yeah.
+Orphe
+You.
+Unknown
+You touch it and you're able to feel it.
+Rin
+Okay.
+Ogre
+Can I use a ghost on the other or a mage hand?
+Sanis
+On the other.
+Unknown
+Use a mage hand and it goes right through. Spooky.
+Rin
+Touching your hand. I'm going to ask what. What happened here?
+Unknown
+You. When you touch her hand?
+Kalmar
+Huh?
+Unknown
+Actually, give me. Give me a dexterity check.
+Orphe
+Oh, interesting.
+Unknown
+Not a saving thru. Give me a check.
+Orphe
+Yeah, the check is okay. Especially dex.
+Rin
+That's an 8.
+Unknown
+You are surprised as you touch her physical hand, her right hand that is still bound to this corporeal realm. As soon as you touch it, you see that her eyes light up in recognition and you are surprised as she immediately grabs, like, grabs your hand, pulls you in, and your face is up right against her face.
+Kalmar
+I opened everything up.
+Rin
+What'd she say?
+Unknown
+I opened everything up. Everything. The spirits, the vaults, everything unbound. Everything was out there in the open, and now it's all gone.
+Rin
+Was you opening everything up. The reason that, like, nothing exists here anymore.
+Unknown
+He took it all.
+Orphe
+I'm gonna make a note. That Orpheus now standing right beside Rin, like.
+Rin
+Wait, who took it all?
+Kalmar
+Bolas.
+Unknown
+He Took it all.
+Rin
+I think you played right into their hand. They wanted you to do what you did to the Orzhov Guild to provide them power.
+Unknown
+He promised me everything. He promised me that he could. He could save my home. He promised me.
+Orphe
+Promises, promises.
+Rin
+You know, the one thing about bad guys is. Is they never keep their promises. And that's kind of why they're bad guys.
+Kalmar
+My home.
+Unknown
+It's gonna be torn asunder.
+Rin
+Where is your home? Or fish, this woman is dying.
+Orphe
+Good.
+Ogre
+Maybe a bad guy promised he was going to do it because then it wouldn't happen.
+Unknown
+She squeezes your hand and she goes. They. They fed on everything. That there's nothing left.
+Rin
+What?
+Unknown
+The Eternals.
+Orphe
+Okay.
+Rin
+They came in and ate everything. Got it. That's not good, though. That means, did they get more powerful once they consumed everything?
+Unknown
+She then lets go of your hand and you see, she sort of goes into a fetal position. She just goes, my home. My home. I'll never be able to save my home.
+Rin
+Where is your home?
+Kalmar
+My home.
+Rin
+Kaya, where is your home?
+Unknown
+You're like, shouting at her and she doesn't register it, but you do. You do hear her go to Vada. My home. Stuck between reality and the ghostly realm. I was the only one who got out.
+Rin
+Ah, that explains now why she is the way she is. Rin makes a note of this forest.
+Unknown
+What you doing?
+Varis
+I am thinking. Hypothetically, if I were to. Because I. I think before it's been empty, before we needed. Before I needed to use it again, could I use my Hedron to have two different, like, spirits in it and then be able to keep them separate?
+Unknown
+Give me an archon.
+Varis
+Check. A 24.
+Unknown
+24. You know that the dragon box, the Hedron was only designed to contain dragon spirits. That's specifically what it was designed for. And it re. And it really only has space for one. One dragon.
+Varis
+It's a big spirit.
+Ogre
+Okay, so guess we got to add or desist.
+Varis
+Well, I was also thinking if. Yeah, why not?
+Rin
+I think that's our best bet.
+Unknown
+Okay, so what are you gonna do? What are you doing? You're trying to figure out what.
+Varis
+Well, I say, ogre, do you think that you could absorb her or her, like, energy?
+Ogre
+It'd probably be easy. I'm just gonna stab her with witch.
+Sanis
+She's dying.
+Ogre
+She's like.
+Unknown
+This is.
+Rin
+This is a mercy kill.
+Unknown
+Yeah.
+Kalmar
+Give me one sec here.
+Ogre
+Take over all the ghosts and that. I was actually the one who took them all.
+Sanis
+Oh, I'm assuming it's been more than one minute, right?
+Unknown
+Yeah, it's been more than one minute.
+Sanis
+Just because my cantrip was up. Does that mean it's dark now? We can't see her?
+Unknown
+No, it's. It's dimly lit. It's dimly lit, so you can still see her? It's just like, dimly.
+Varis
+I think that was only dim light anyway, so.
+Kalmar
+Okay.
+Unknown
+Okay, how. How are you stabbing her with?
+Ogre
+Oh, I'm. I'm just gonna, like, put the sword up to her arm. Like it's a. Like her shoulder, where it's ghostly, like it's a vacuum cleaner. It's just. I'm gonna try sucking her up. Okay, Mansion this.
+Varis
+All right.
+Unknown
+Sweet.
+Varis
+In.
+Unknown
+In the style of Luigi. Like a vacuum cleaner. And the pack on your back. You take witch out and the sword hilt, and you stab Kaya in her ghostly shoulder. As you do, you see that her eyes go wide and then start to glow a white. And Varys, she looks at you and you see that her eyes are focused on your chest, like right here. And then it looks up at you and you hear her go. As her form begins to disappear. The account closes, the balance transfers, we depart. But the interest remains. And then you see that ogre. You actually don't feel her go into your sword and into the leather daddy ball. As you strike her form, you actually feel it kind of disperse and disappear. And then the ghostly form flows in from her left side to her right side. And then like a wave, as the blade strikes over, sweeps over her ghostly form begins to be sucked up. Physical form turns to ghost, and the ghost form gets sucked up until she's no longer there. Varis, you feel exactly the same.
+Kalmar
+Okay, I like that.
+Ogre
+I like that a lot. I got no confidence, baby.
+Varis
+The fact that that didn't need to be said, that was the expectation. I don't like it either.
+Orphe
+Maybe it did need to be said.
+Sanis
+You.
+Kalmar
+You feel.
+Unknown
+You feel exactly the same. Like nothing has changed. But what you guys, I guess, well, don't see before you is the form of Kayakas. Here she is now.
+Sanis
+Gone.
+Ogre
+Cool. Is her cool dagger still around finally?
+Unknown
+No. Her ghostly daggers also turned to ghost form along with the rest of her body. There's nothing there. If you didn't know any better, this was just a blank marble staircase. You wouldn't have even known that she was ever here.
+Varis
+So, Ogre, were you able to absorb her? That seemed different.
+Ogre
+Yeah, that's not what usually happens.
+Orphe
+Can you. Do you have any, like.
+Varis
+I don't.
+Orphe
+Know, view over the leather Daddy? But can you be sure that she's in there? Her specifically?
+Ogre
+I don't know. You want to ask sis?
+Orphe
+Yes.
+Ogre
+I'll take it out and.
+Unknown
+Yeah. What is it?
+Ogre
+Or if it's got a question.
+Varis
+Yeah.
+Unknown
+Huh?
+Orphe
+Is. Is the in there?
+Kalmar
+Oh, what?
+Unknown
+What? Kaya?
+Orphe
+Yeah, that.
+Unknown
+No, no, no, she's not in here.
+Orphe
+You know where she is?
+Unknown
+Like out there somewhere.
+Orphe
+Okay, cool. Thanks so much. Have a great night.
+Rin
+Bye.
+Unknown
+Okay, cool.
+Ogre
+Is Greg in there?
+Sanis
+Who?
+Ogre
+I don't know how many Gregs are in there?
+Orphe
+How many Gregs are in there?
+Varis
+I mean, he did suck up a lot of you.
+Ogre
+Roll for Greg's.
+Unknown
+There's like. There's like at least seven Gregs in here. Okay.
+Rin
+Asking about Greg's.
+Orphe
+There's at least seven Greg's in here.
+Unknown
+There's at least seven Greg's in here. Gregging it up.
+Orphe
+Okay, title of this.
+Ogre
+How many Kevins?
+Unknown
+At least six. I don't know what that means.
+Orphe
+It's two threes.
+Kalmar
+Well, like, I mean, I mean, like.
+Unknown
+You know, would you consider if their middle name was Kevin? A Kevin is if their nickname is Kevin but their real name is actually like William. Like, does it even matter?
+Orphe
+Kevin?
+Rin
+Why would be surprised?
+Orphe
+You know what? Okay, I will accept nicknames. I will not accept middle names.
+Unknown
+Okay, there's seven.
+Rin
+Two.
+Unknown
+Okay. Okay, more stupid questions.
+Varis
+What about.
+Orphe
+Just go back to sleep or something?
+Unknown
+No, this is sis. This is sis.
+Orphe
+Who the assist. Oh, this is Pip.
+Unknown
+How dare you. Did you just call me Pip?
+Orphe
+No, I'm sorry, that was out of character.
+Unknown
+The screen turns off.
+Orphe
+Did you just misgender me?
+Rin
+That was kind of rude, Orphea.
+Orphe
+I was out of character. That was Taylor saying that.
+Rin
+Buttercup, I need you to get off the desk, please.
+Varis
+But Taylor, we definitely need a clean clip of chat asking, can you roll for Greg?
+Rin
+Yes, please.
+Varis
+We definitely need that.
+Orphe
+How many Greg's are in there?
+Rin
+How many grades?
+Orphe
+Seven Greg's. Somebody just go drop that quote in the hive real quick.
+Rin
+Yes, please do. Quote of the night. Roll for Greg's.
+Orphe
+At least seven Greg's in the leather Daddy ball. Just so you guys know, no context. No, he wants at least seven Greg's in the leather Daddy ball.
+Ogre
+By the way, if I showed you.
+Sanis
+Guys this.
+Kalmar
+Chat, you suck.
+Unknown
+Oh, my God.
+Orphe
+Oh, my God.
+Unknown
+I don't have. I don't have audio.
+Orphe
+So if you go to Google and you search her name and poop, there is a video of a man who has made a song out of your name that has to do with poop. And he's gotten fun times names and I wonder how long he's been doing it.
+Rin
+That's hilarious. Absolutely.
+Unknown
+On that note, you guys are on the staircase. Marvel staircase. In the first character, you just sucked up Kaya. And actually didn't suck up Kayakai is now dispersed into the blind attorneys. Wherever she may be. God rest her soul. God's rest her soul.
+Orphe
+So she's just.
+Unknown
+You guys are just asking sis how many Greg's are in the leather daddy ball.
+Orphe
+Yeah, we really are just standing here at an important time asking how many.
+Kalmar
+Yeah.
+Sanis
+And.
+Unknown
+And once again, Varis feels the same.
+Kalmar
+As he did before.
+Ogre
+I don't like feeling the same as always. Yeah.
+Kalmar
+How does that make you feel?
+Unknown
+Words. The words that Kaya uttered as she looked at you, Boris had no effect.
+Kalmar
+On you at all.
+Varis
+Whatever the that means. So I don't know where we need to like go to next to deal with the bank thing, but I would like to go upstairs first to see if any of my family's stuff is there.
+Unknown
+Okay, sure. You guys go upstairs.
+Orphe
+We might as well go up them.
+Rin
+Yep.
+Unknown
+You guys go upstairs. Forest to your family's living quarters in the farm. The first church of Orzhov. Yeah. It seems untouched other than the fact that on trying to leave, your parents quickly rifled through their belongings before getting out of there. So there are like drawers overturned and I mean looks like unkempt. But it does also look like nobody has been here. Is there anything specific that you were looking for?
+Orphe
+Ew, it's so unkempt in here.
+Varis
+One thing is I guess to look to go to like my mother's stuff and see if there's any jewelry that she left. Try and find a diamond.
+Unknown
+Okay. Give me an investigation check with advantage.
+Rin
+Oh yeah, because he would know where they would be.
+Unknown
+Diamond.
+Kalmar
+Gross.
+Ogre
+Panty. Right.
+Varis
+Could I ask for.
+Sanis
+Guys, it's his mother's underwear. What?
+Kalmar
+I know.
+Unknown
+That's why I said gross.
+Ogre
+The other kind of anti raids are a.
+Rin
+Okay, getting guidance.
+Varis
+Maybe I should have Gabe look this instead.
+Ogre
+Thank you for checking up on that. There was a part.
+Varis
+Yeah. Oh, cool.
+Rin
+You have guidance.
+Varis
+So I. I assume that's dirty.
+Unknown
+Dirty 20 or Nat? Nat 20. Okay.
+Varis
+Casual and then a one.
+Orphe
+No. You're so casual about Nat 20s.
+Varis
+I mean, it's just an investigation check.
+Rin
+I mean, yeah, but like to find the diamonds.
+Orphe
+That's where Rachel money.
+Varis
+It's not like I'm the barbarian that decapitates people. With Nat 20s. Yeah, but that's a bit more exciting.
+Orphe
+But Lord chill. To get that 20s on.
+Sanis
+Okay.
+Unknown
+On a nat 20, here's what happens. You go into your parents bedroom, Varis. And you know instantly where they keep their valuables. It's not like they've hidden that kind of thing into you. You've in fact seen where your mom has furnished any number of occasions or events or even going out. Know where she goes over to get her jewelry. So go in there and you find a diamond. But Also on that, Nat20, you know that your father helped manage some of the accounts at the First Church of Orzhov. I mean, as a priest, it is also their responsibility to manage debts. And see some paperwork that's on the dresser. You feel a slight pull to it.
+Varis
+What is it?
+Unknown
+You touch the paper and you instantly know what this is. It's a loan agreement document. And without even reading it, you understand who the loan is given out to and for how much and when the expiration is and the interest.
+Orphe
+You're infected.
+Varis
+Is. Is. Is the. The recipient of the loan. Does that stand out to me?
+Unknown
+No. Seems like a random Joe Schmo, someone that your dad was. Was helping out. But can you kind of find it weird like that you were able to just like touch the paper and then I just know. And just know.
+Orphe
+You'Re infected, man.
+Kalmar
+So.
+Varis
+I'll take that paper with me and just. I don't know.
+Kalmar
+Okay.
+Varis
+I don't know if it'll come in handy at all. So with the diamond, is there just like other bits of jewelry and whatnot?
+Unknown
+Yeah, yeah, I'd say like some silver necklaces, couple rings.
+Varis
+I'll just like if I can, you know, take as much as I can. Just put it in my bag.
+Unknown
+Yeah, you could. You could say like five pieces of assorted.
+Rin
+Okay.
+Unknown
+So.
+Varis
+Do we know or maybe if virus just knows where we would need to look for figuring out the. The bank system thing.
+Unknown
+Yeah, I'm not even gonna have you roll. You feel a pull or you. You know that you need to go to the basement and to the portal. You know innately that you need to open up the mana energy lines to Pecunia.
+Rin
+Did you say Petunia?
+Unknown
+Pecunia.
+Rin
+Pecunia.
+Unknown
+You know that as well. I mean, Rin, you don't know what Varis is thinking, but Varis, you know that Pecunia is the moon that you guys went to that had the vault.
+Varis
+All right, I will. Wait a second. That's the group. We need to go back down to.
+Unknown
+The portal.
+Varis
+Try and fix all this.
+Rin
+Lead the way.
+Unknown
+Anyone that wants to give me an insight check.
+Orphe
+Oh my God.
+Varis
+Including Me or.
+Unknown
+Nope, not including you.
+Varis
+No need.
+Ogre
+I got a nat 20, everybody. I got a 17 for a 20. Dirty 20 for a dirty 20.
+Rin
+I got a 15 over here.
+Unknown
+Give me a wisdom check.
+Varis
+A 1212.
+Unknown
+Cool. Everyone that got over 12 got a 12 or over understands that it's a little bit weird that Varis knows exactly what to do in this moment to re establish the first.
+Orphe
+Are you infected, bro?
+Varis
+I mean, I have been here. I've done some work here. And that's also where we. The portal is where we went to. That's like the vault where like all the spirits and stuff were.
+Unknown
+Yeah, it was.
+Orphe
+Yeah. And I still don't know any of that.
+Varis
+So, like, I mean, I don't really know much more than that either.
+Ogre
+My net 20 had me running already.
+Unknown
+Down to a portal. Just out of pure instinct of portals. Varis. Varis. Somehow innately you know that if you were to go to the vaults, that's on Pecunia Ravnica's second moon, where the vault, or who knows what's left in the vault, the Orzhov vault that has all of the Orzhov gold is left. You know that for you to go there, you know exactly how to fix the mana lines connecting the vault to Africa.
+Varis
+Okay.
+Rin
+I like want to get rid of whatever is controlling him, but at the same time, I don't know.
+Kalmar
+Nothing is controlling him.
+Unknown
+Nothing is controlling you. Virus of your own free will. You just know these things. You know these things now.
+Orphe
+This is so weird. Yeah, he's infected.
+Unknown
+He's.
+Orphe
+I don't know how many times I have to say it. He's totally infected, man. I don't know what that means, but it's the best for it right now.
+Varis
+And this is just like out of character, this is Navarro saying this, but I mean, I am currently the highest ranking Orzhov member in the guild.
+Rin
+That is true.
+Varis
+Technically.
+Sanis
+That we know of.
+Kalmar
+I mean, I mean, yes, yes, that is true.
+Varis
+That's currently in Orzhov district. Even more so inside the bank at least.
+Kalmar
+Yeah, you're the only.
+Unknown
+You're the only people there.
+Rin
+Yeah.
+Unknown
+You're the only people in the Orsoft district that. What?
+Kalmar
+You know.
+Ogre
+Is this the Plot of Succession?
+Sanis
+Maybe?
+Ogre
+I have no idea what that's just actually about.
+Sanis
+So why does that matter though? Why does it matter that he's the highest ranking or Zol member? Why does it matter that, you know he knows?
+Varis
+That was just Vincent saying that.
+Sanis
+No, I'm asking [[DM]]. Like, why does it. Why does it matter that we Know that this is strange.
+Kalmar
+That he suddenly.
+Unknown
+Knows how to fix the Orzhov banking situation. I feel like you guys didn't know before. You guys just came here to try and figure that out somehow. But now suddenly Varis understands how to fix it. He knows. Yeah.
+Ogre
+We were also all there to watch the very cryptic end of Kaya.
+Orphe
+What did we see when that happened?
+Unknown
+She said. She said before she left. The account closes. The balance transfers, we depart, but the interest remains.
+Orphe
+Yeah, man. You're totally infected by the account. It's.
+Varis
+Oh, can you like type that out.
+Rin
+Of all of the debts?
+Orphe
+Hold on.
+Rin
+Is he contracts now?
+Orphe
+Yeah.
+Ogre
+Yeah.
+Rin
+Oh my God. That's not good.
+Ogre
+Obviously, let's run to the worst infection.
+Orphe
+In the world is account.
+Rin
+Plot twist. Virus is actually going to become an accountant.
+Orphe
+Wait, what if you're like Ben Affleck, accountant? That's pretty cool.
+Varis
+That.
+Orphe
+That'd be better because the account is super cool.
+Varis
+I mean, I don't think me or Varis is autistic enough for that. So I don't think that's gonna work out very well.
+Orphe
+And [[DM]] can deliver.
+Varis
+I mean, I only got 10 intelligence. I don't think it's gonna work.
+Orphe
+He is very autistic.
+Unknown
+Okay, so what do you guys do?
+Rin
+I guess we just follow him.
+Unknown
+Okay.
+Sanis
+Is there any money just lying around?
+Orphe
+Actually, like people like Forest is infected. He just leaves a trail of change wherever he goes.
+Sanis
+That's not what I meant, but that's funny.
+Rin
+That is really funny.
+Sanis
+I meant more like, you know, like last day of school, everybody wears papers around stuff. Is there any money behind that people left behind?
+Unknown
+Nope, there's nothing there. Everything's gone. No bodies, no clothes, no money.
+Sanis
+Empty.
+Orphe
+Hey, are you okay?
+Unknown
+So are you guys go.
+Orphe
+Sanis's parents were.
+Rin
+Now.
+Orphe
+Are we rich by proxy?
+Varis
+I mean. Yeah. Virus will try and you know, you know I'm saying like, hey, like, we need to go downstairs. If no one's actually like not following that, I'll just start going downstairs.
+Sanis
+I'm just. I'm following the group wherever the group.
+Rin
+Rin's extremely apprehensive, but follows.
+Kalmar
+Okay.
+Unknown
+I left a while ago. Okay's already in front of the portal.
+Ogre
+I'm through it.
+Orphe
+So used to him. We just kind of like. We used to, you know, want to put him on a leash or like, would grab him or whatever. Now we're like. And they just let him do his thing. He's fine. He's fine.
+Rin
+It eventually leads to good things, you know, so can't be too High. We.
+Varis
+We do need to find a wizard to, like, craft, like, a magic leash for us that any of us. It's like a cantrip. We can just like or, like, throw a lasso on Ogre and just keep yank it back, literally.
+Rin
+The cantrip's called lasso Ogre.
+Varis
+Yep.
+Rin
+It doesn't work on any other creature except for those designated as Ogre.
+Unknown
+Just a GPS collar, and he's fine. You guys go into the basement and Ogre, you. You run up to where the portal is first, but you see that it's not. It's not lit up.
+Ogre
+Oh, I know what to do, Misty. Step directly into the wall.
+Unknown
+Yeah, directly into the. Just pop up right in front of the wall.
+Orphe
+I really wish I could do that.
+Ogre
+It didn't work. I'll wait.
+Unknown
+Varis, you walk up to the portal and you know instantly you wave your hand and you perform sort of a link with the portal and change the coordinates of it to Pecunia to that Orzhov moon base.
+Sanis
+While he's doing that, I want to read. I want to, like, lean over to Ogre and be like, I think you need a running start.
+Ogre
+Ogre's already in a sprinter stance. He's, like, way ahead of you and just takes off.
+Unknown
+Yep. Vars, as soon as you put up the portal, Ogre is already through.
+Varis
+Okay, well, let's go.
+Unknown
+Yeah, you guys make it through. And now on Pecunia, one of Ravenka's moons and also home to the Orzhov Grand Fault.
+Varis
+You're.
+Kalmar
+You're in that same moon base.
+Unknown
+And so you walk through its halls. Everything looks the same as it was before. But you go up to that kind of large viewing hall where you can see directly into the vault alongside its, you know, big vault door, which is currently open, and you see that there is not as much gold there as there was when you first got there. It looks like there's only, like, if there were. What is it? Like, maybe. Maybe 10, 12, like, big gold piles. That was the horde of the. Or I guess the liquid money that the Orzhov Guild had now down to just one pile of gold, which.
+Varis
+I'd.
+Unknown
+Say maybe like 100,000 gold pieces. So a lot.
+Sanis
+We should split that.
+Unknown
+But not as much as before. But, Varis, you feel kind of a pit form in your heart as you look at how empty this vault is.
+Varis
+Yeah, that's not good.
+Unknown
+And you feel a desire to fill up his fault.
+Ogre
+If you turn it into a. If you turn into a dragon, you'll fill it all better. Just saying.
+Varis
+True. Do I know what, like, what to do about that?
+Unknown
+Yeah. Reform the Leylines connecting this vault to Ravnica, and give out thones, take interest and fill up the vault.
+Varis
+So just run. Run the bank. Got it?
+Rin
+Yes.
+Unknown
+Run the bank. Yeah, but Vars, you. You walk in to the middle of the vault and you see that there is a big Orzhov insignia on the ground, right? Like, the piles of gold that were all around before had obscured it, but now it's in full view. You know, that kind of like, sun icon there, emblazoned on the floor. And as you trace your steps around it, you can almost see in your vision, not real, but in your vision, the ley line lattice connecting the vault to Ravnica.
+Varis
+I guess, probably just, like, do I know how to, like, get it reconnected, like, properly?
+Unknown
+Is that what you want to do?
+Orphe
+We have to do something, like, sing a song for the Honmoon. I saw this on a movie recently.
+Varis
+So, I mean, I was thinking, like, probably, like, maybe staying in the middle of that, the Orzhov insignia, and just try and, like, attune to it, like, to the ley lines.
+Unknown
+Somehow you know the words. But as you trace the outside of the Orzhov icon and you run your hand against the smooth stone and the lines that are in the middle of the floor, you say, by ledger written in bone and gold, the debts and interest laid upon me shall draw.
+Varis
+And.
+Unknown
+Connect to those below. And you feel nothing at first. But then slowly, you see the lattice that is bridging this fault to Bravnica begins to re knit itself. And all of you guys feel the arcane energies of the vault begin to transfer and make a connection to Rafnica. What Varys has just done has reinstated the. The gold in reserves here with the first bank of Orozov back down on Rava.
+Sanis
+So now they have money. What about us?
+Orphe
+There's a lesson in here somewhere about you having it inside of you all along or something.
+Rin
+Yeah, that's kind of what I was getting.
+Ogre
+Doesn't. Doesn't that take away money from here?
+Varis
+I was gonna say if. If we were to take some. Yeah, I was just about to ask. Would I know, like, if we physically took any money out of here, what effect that would have?
+Unknown
+You certainly don't feel great about it.
+Varis
+Right.
+Unknown
+But you know. But you know that for the greater good, if this is what must be done to preserve Ravnica, then you feel it in your bones that the preservation of Ravnica as a whole comes above the power that you Hold. Now. You feel a true connection to this meager pile of gold coins that are sitting in this chamber. And that if you need to use this to save Ravnica, then it'll be done. But it's gonna hurt.
+Varis
+Yeah. Do. Did we know for the auction. Do we know how much that it was going for?
+Unknown
+You don't know what the starting bid is?
+Rin
+Okay.
+Varis
+Is there a way that without actually needing to take any gold with us, that I can do some sort of IOU type thing? So like, you know what I mean?
+Unknown
+You feel. You feel right now that you have the power to give out loans and transfer money at will You Okay, Human.
+Orphe
+Credit card or not. Human dragonborn.
+Varis
+Okay, See, if we do want to use this money for the auction, we can. Though I'd rather not.
+Unknown
+You Varys. You no instinct for. It's. It's weird how you know this, but right. Right now, it feels like second nature to you. You hold out your palm and you snap a finger. And 10 gold pieces from the pile appear in your hand.
+Rin
+How did you do that?
+Kalmar
+Do it again?
+Ogre
+I don't know.
+Orphe
+Tavern.
+Varis
+Well, maybe we can figure that out later.
+Sanis
+Just keep doing that.
+Ogre
+You can fill up that whole vault.
+Sanis
+I always imagine Rin would be the one to run a bank, considering you only like to really cook, right?
+Varis
+I mean.
+Orphe
+Hey.
+Varis
+Yeah, Rin. I mean, we need. We need some more employees again.
+Rin
+I guess we can do something after we get the pact figured out.
+Orphe
+And after we save the world.
+Rin
+Yeah, after we save the Multiverse. I think think we can discuss. But I would not be opposed. I mean, we have to put the profits from our adventures somewhere.
+Varis
+So I. Do we just go to go back to the auction now or did I forget? Did we?
+Unknown
+The auction is happening tonight. Yeah, the auction is happening tonight.
+Ogre
+Do we ever end up talking to the Bronze Dragon or Copper Dragon?
+Unknown
+You guys have not talked to Ava yet? No.
+Varis
+Okay. I was gonna say if I forget if there was some other goals that we had. So do we want to do that then?
+Sanis
+Wait, did we already get. So remind me. For. Was it for this mission or. A mission? We already did that. We were gonna get the. The. The gruel and another guild to be a distraction while. Yeah, we snuck in or something like that.
+Varis
+That's what I think. Benji might have also been passing along that message. But now we have like a Johnny and them going over there to link up with. Was it the. The gruel, right?
+Rin
+Yeah.
+Varis
+Yeah. So that. That's kind of like the backup plan.
+Ogre
+Yep.
+Unknown
+So right now you have enough time to make one visit enough. You have enough time to make one visit before the auction begins.
+Sanis
+And we're all agreed that we're not going to try to steal it. We're going to actually try to buy it.
+Ogre
+We have not made that agreement whatsoever.
+Varis
+Okay.
+Sanis
+I was curious.
+Rin
+Going to say.
+Varis
+Yeah, Plan A was basically like Benji was going around trying to link up the different guilds, see what resources they can all pull together. So if we can do the auction, great. If not, then. Then we'll ransack the place with the gruel. That's like the plan there.
+Ogre
+Well, go pick up this bronze dragon that transforms into a small girl for distractions and go pull off a heist with her.
+Rin
+The heist is plan B. We are going to at least try to do this legally first.
+Ogre
+No, it's boring.
+Rin
+Let's be real. The goblins are involved. And this is the dude that, like, tried to ask us to get a sword, and he's definitely involved with the mafia. To be honest, I don't. I don't think it's going to take too long for us to get to plan B, but I at least want to attempt plan A.
+Sanis
+Okay, but what's the difference between the mafia and the mob?
+Rin
+Nothing.
+Unknown
+Interesting. Three letters at least.
+Rin
+I don't think so. This is Rachel talking.
+Sanis
+I think it's two letters. Oh, no, you're right.
+Rin
+Oh, no.
+Varis
+Two.
+Rin
+Fiat.
+Sanis
+So three letters. Mo is what they have in common here.
+Unknown
+So.
+Rin
+Sweet. So copper dragon it is.
+Varis
+Sure.
+Kalmar
+Yeah.
+Unknown
+Okay, you guys follow Varis out of the Orzhov moon base holding the vault of Orzhov. With Varis and his money teleporting powers, you guys make it out of the vault. And as you, Varys, walk past the bank teller platforms, desks that are at the front of the first church of Orzhov, you kind of feel a flitter in your heart as you feel those vacant positions. And you guys make it out of the first church, and you guys go to Tin street to meet up with Ava, which is. Ava's on 10th Street. Where? In the sewers. At least that's where she was the last time that you saw her.
+Ogre
+Yeah, the perfect place to stage a heist from.
+Sanis
+Is there any way that I can contact. I don't even know her new name is, but I'm gonna keep calling her Selena.
+Unknown
+Hey, Phinexa.
+Sanis
+Yeah, Selena. Is there a way for me to get a hold of her for her to. So. For. For us to. I just want to check in, let her know about her parents and, And. And. And See if there's any resources she could spare for D20. Okay. 10.
+Unknown
+10. Okay, cool. Let me make a note.
+Sanis
+Yo, that spun like a dreidel. It was wild.
+Rin
+Classic.
+Sanis
+I've never seen my dice do that. So like to see it. It was legit. Just like that was mild.
+Unknown
+Cool. All right. You reach out with your mind for your sister and you get no response.
+Sanis
+That makes sense. Okay.
+Unknown
+But okay, you guys make it over to Tin street where because the first church is like somewhat nearby 10th Street. So you're able to just walk over, walk through the silent streets until you make it over the border to 10th street and kind of part of the Izzet district. And just like before, you're greeted with more of a. Even through the midst of this war that's going on with the Second Sun, 10 street is hustling and bustling with lots of high rises, yet still has a lot of street vendors lining the streets. And it's bustling with. With activity. And over in the distance you see Krenko HQ with its menacing goblins holding up columns, concrete facades. And yeah, you find after some maneuvering because the streets are different and buildings torn down, buildings built, you find the sewer entrance. That flow first led you down to meet Ava. And after some walking around and now whoever wants to who's leading?
+Rin
+I would imagine Ogre was probably leading, right?
+Sanis
+Yeah, I figured we'd all be following him. Or Varis, if I remember correctly.
+Orphe
+He.
+Ogre
+If you're ready to follow me, that's fine. I figured we'd follow Rin because she'd be the one who actually kept track of everywhere we were going down here. I will watch.
+Unknown
+Ogre roll me investigation. Great.
+Ogre
+I got a six.
+Unknown
+Six. You guys kind of trudge along the dirty sewer water for quite a bit. It goes up to your waist and for some of you guys, up to your chests. And after a bit, it's clear that Ogre doesn't know where he's going. And the water level is slowly rising.
+Ogre
+That means we're getting closer.
+Rin
+I don't think that's the case.
+Unknown
+That you can hear a little girl giggling, echoing through the tunnels.
+Rin
+Oh, maybe we are getting close.
+Ogre
+Exactly where I was going.
+Rin
+Remind me her name was Ava again.
+Unknown
+Ava.
+Rin
+Ava? Ava, is that you?
+Unknown
+Silence. It's all you hear is the echoing of your. Your voice.
+Rin
+We just wanted to talk again.
+Unknown
+Rin, are you gonna take point?
+Rin
+I guess so.
+Unknown
+Give me an investigation check.
+Rin
+Okay, I'm rolling guidance on myself. Okay, Much better. That is a 23.
+Unknown
+Yeah, great. With a 23 you let Ogre lead for a little bit because you thought that he might have remembered, but Ochre's just having a good time rolling around in the sewer water, going down the tunnels.
+Rin
+Just doing classic ogre things.
+Unknown
+Exactly. You take a final left turn, Rin, and you decide you'll take point at this point. And after taking a couple lefts, taking a couple rights, you dodge a couple of pipes that are coming in from above that spit out some fresh sewer waste. You come upon Ava's chamber, and it's open, and you can. You've got a clear view. You can see amongst piles of gold and random trinkets and knickknacks. Sitting on top of one of them is a little girl.
+Rin
+Hey, Ava, it's the Breakfast Club again.
+Ogre
+Yeah, we gotta do a heist. Not on you.
+Unknown
+You guys. You guys didn't get it.
+Kalmar
+Well, you guys got a little bit dirty, but not.
+Varis
+And you.
+Unknown
+But you just didn't get annoyed. As annoyed as I. Okay, it's fine. I. You guys made it through once. I figured that you guys wouldn't be annoyed a second time.
+Ogre
+Do you want to annoy goblins?
+Unknown
+I do love annoying goblins.
+Ogre
+We got a way to annoy the goblins the most.
+Kalmar
+How?
+Ogre
+I don't remember. It's some. We gotta steal a ball.
+Unknown
+Is it a shiny ball?
+Ogre
+The shiniest ball. I think it's called Shiny ball.
+Orphe
+Close enough.
+Unknown
+You see that Ava as a little.
+Kalmar
+Girl.
+Unknown
+She has, like, brownish hair, standing like. I don't know, what's a height for a small child? Like, two feet? You see her in, like, kind of like brown rags, hands at her hips, goes, let's go get a ball.
+Sanis
+Yeah.
+Orphe
+Adorable.
+Unknown
+But if I find it, I'm gonna keep it.
+Rin
+No, you are not. We need that. It is very, very important that we get that. We get it back. Yeah.
+Ogre
+Bars is gonna send it to the moon.
+Unknown
+Wait, you're gonna send it to the moon?
+Ogre
+Yeah.
+Kalmar
+No, no, no, no, no, no, no.
+Unknown
+The agreement here was that if I. If I help you out, I get the shiny ball and I add it to my horde.
+Varis
+That was never agreed on.
+Kalmar
+Why are we here?
+Ogre
+We're gonna annoy goblins.
+Rin
+That's your payment.
+Ogre
+Yeah. The most annoying goblins.
+Kalmar
+But I want.
+Unknown
+But I want shiny stuff.
+Varis
+They probably have other shiny stuff.
+Ogre
+Varis has shiny stuff.
+Unknown
+Do I have to give up some of my shiny stuff to get new shiny stuff?
+Sanis
+No, no, no, no, no. Not at all.
+Ogre
+All new shiny stuff, you just get.
+Sanis
+To add more shiny stuff. Just not the shiny.
+Unknown
+More shiny stuff to Shiny stuff. Wait, but what's in it for you guys?
+Rin
+We just need the ball.
+Sanis
+The shiny ball and messing with goblins.
+Unknown
+So I can't have the shiny ball, but you're saying that I could have other shiny stuff that I find to add to my shiny hoard?
+Varis
+You can have anything else you want that you find there.
+Rin
+It doesn't belong to them anyway. So.
+Unknown
+Is old Nibby still out there?
+Rin
+Who?
+Varis
+Oh, Nibby. Oh, no. She. They are currently dead.
+Orphe
+Yeah, she's like. Yeah, absolutely zonked.
+Unknown
+Oh, phew. So I can go and do it? I thought that. Oh, you're gonna bring it back?
+Orphe
+Yeah.
+Varis
+Yes, eventually.
+Orphe
+That's what this whole thing is about.
+Unknown
+Well, some of you know I'm here.
+Orphe
+No, I don't know. She's dead.
+Varis
+She's never mentioned you, so.
+Unknown
+Okay, well, that's. Never mention me to her. Yeah.
+Varis
+Just either way. Yeah. We've never told Niv about you. And it has never said anything to us.
+Unknown
+Okay? So if I'm gonna help you out, you never tell Niv that I'm here. I get more shiny stuff to add to my horde, and you guys get the shiny ball.
+Varis
+Yep.
+Unknown
+What if I want the shiny ball?
+Rin
+You cannot have the shiny ball.
+Unknown
+Why can't I have a shiny ball?
+Sanis
+Because we can have another shiny ball.
+Kalmar
+Why do you need. Why do you need it more than I do?
+Varis
+We need it to save Ravnica and possibly the. The rest of the multiverse.
+Sanis
+So you like having shiny stuff, right? If the end of the world happens, you don't get any more shiny stuff. We need this so that you can get more shiny stuff.
+Kalmar
+No, but then if I have the.
+Unknown
+Shiny ball, then I have all the shiny stuff.
+Varis
+And then soon after the world will end and then all your.
+Sanis
+And then no more shiny stuff.
+Ogre
+Yeah, the ball won't be shiny anymore.
+Unknown
+Whoever wants to give me a persuasion check?
+Rin
+Not me.
+Ogre
+I have a plus 10.
+Sanis
+I have a. Oh, okay. Yeah, no, I have.
+Rin
+I'm giving yogurt guidance.
+Ogre
+I don't need it. I got 28.
+Sanis
+I did a nat 20. I got a 27.
+Ogre
+Okay, but I have expertise.
+Rin
+Hold on. I am. I am rolling guidance for Ogre anyway. And I'm giving him a plus four because that is what I rolled.
+Varis
+Okay.
+Unknown
+And Sanis, what are you guys saying to Ava to persuade her to help you guys and not take the immortal sun?
+Sanis
+Take it away, Ogre.
+Ogre
+I think I. I was saying that.
+Sanis
+That.
+Kalmar
+But if you.
+Ogre
+If you have the shiny ball. The ball can't be shiny because nothing will be Shiny anymore. So if we get the shiny ball, then the shiny things you have can stay shiny, and then you can get.
+Sanis
+More shiny stuff later on.
+Rin
+Are you.
+Unknown
+Wait, are you saying the shiny ball makes things not shiny anymore?
+Sanis
+Yeah.
+Ogre
+My head hurts.
+Kalmar
+Oh, I don't. I don't want that.
+Unknown
+Then.
+Sanis
+Okay, then. Cool.
+Ogre
+That's. Yeah, put on the moon.
+Unknown
+Wait, but then if you want it, then you guys won't be shiny anymore.
+Orphe
+I'm always shiny.
+Unknown
+You know what? It's.
+Sanis
+As long as you have shiny stuff, that should be all that matters, right?
+Ogre
+Yeah.
+Kalmar
+We got to get rid of it.
+Sanis
+As long as you have shiny stuff, that's all that should really matter at this point.
+Kalmar
+Okay.
+Unknown
+Okay. Okay. Okay. Okay.
+Sanis
+Yeah, we just need your help.
+Unknown
+Okay.
+Kalmar
+Okay.
+Unknown
+I'll go with you guys. I'll get some shiny stuff. You guys take the shiny ball. That, like, doesn't make things shiny, but that's okay because you're okay with not being shiny. So you'll take it?
+Ogre
+Yeah, I think so.
+Rin
+Yes.
+Unknown
+Okay, great. Well, then let's get out of here. We can take the back entrance.
+Rin
+I shouldn't be surprised. There's a back entrance.
+Unknown
+Great. And then she leads you behind her dragon's hoard. Where again, you know, you guys see kind of like weird little knickknacks and toys, big piles of gold there, a couple swords, a bow and arrow, and. Yeah, you guys make it to the end of the vault.
+Sanis
+Before we leave, I was like, hey, can I. Can I borrow that bow and arrow?
+Unknown
+What? That's my bow and arrow.
+Sanis
+Okay. I just wanted to borrow it, but. Okay.
+Unknown
+Give me a persuasion check with disadvantage.
+Sanis
+Okay. With disadvantage.
+Unknown
+Oh, this is going to be interesting.
+Sanis
+One's a 16, one's a 50. Oh, it's either 23 or 22.
+Unknown
+Oh, Jesus.
+Orphe
+That's how you do it. That's how it's done.
+Unknown
+Okay. Yeah. She goes, okay, you say you're just gonna borrow it.
+Sanis
+Yeah. Here, I'll give you mine so you can hold on to it while I have yours. And that way I won't forget to give you yours back.
+Kalmar
+Okay.
+Unknown
+You stick out your hand to give her the bow, and she hisses at you. You give her. You give her the perun's last word, right?
+Sanis
+I try to.
+Varis
+Yeah.
+Rin
+This is actually a better bow.
+Unknown
+You try. You try and give her the prune's last word, and she doesn't. You. She hisses at the bow.
+Sanis
+Okay. Do I still get to borrow her bow, though?
+Unknown
+She. She goes, I. Why do you have. Okay, you guys are friends With. With old Nivi. That's fine. I don't want your icky bow.
+Kalmar
+Just.
+Unknown
+I don't. I don't want to touch it. I don't. I don't want it. But you can. You can borrow my bow.
+Sanis
+Okay. Thanks.
+Unknown
+Okay.
+Sanis
+I appreciate it.
+Unknown
+Okay. Before you.
+Kalmar
+You.
+Unknown
+You put the bow away, she kind of spits in its general direction.
+Sanis
+So fucking dramatic. I grabbed the bow and arrow that I'm allowed to borrow.
+Unknown
+Okay.
+Sanis
+Is it just a regular bow and arrow?
+Unknown
+Give me one second.
+Rin
+Classic.
+Varis
+So what just happened? You talked your way into getting a new bow.
+Unknown
+He borrowed a bow.
+Sanis
+Borrowed a bow.
+Unknown
+Yeah, until we go, your bow's opie already.
+Sanis
+I don't like the silence. It's giving me anxiety. [[DM]].
+Unknown
+Pay no attention to the man behind the screen.
+Sanis
+If it wasn't Jeff Goldblum, I probably wouldn't have a. I probably would be pretty angry about the man behind the screen. Honestly, I really love that guy.
+Orphe
+He is a beautiful, beautiful man.
+Sanis
+He is just so personable as, like, a celebrity.
+Orphe
+Yeah, like, it's really rare to see somebody, like, as chill as he is. And he is so chill.
+Sanis
+Yeah, he's real goofy, too.
+Unknown
+Let's see if I do this.
+Sanis
+Anybody here have more than one cat?
+Unknown
+I have three.
+Sanis
+Yeah, they. They get rowdy and just play with each other. Right. But they get like. Like, they play fight all the time, even when you're trying to sleep, right?
+Unknown
+Oh, we don't sleep with them out.
+Sanis
+Oh, you guys are better than us.
+Varis
+They.
+Sanis
+We have to, like, starfish so that they can sleep comfortably in the bed.
+Unknown
+While we sleep Uncomfortably Nelly's a light sleeper, so no cats. But I just sent you a message with the weapon.
+Sanis
+Okay. Okay. Huh. Interesting. Okay.
+Orphe
+Cool.
+Unknown
+Yes. You see that? It has emblazoned or carved into the wood like gold accents and insignias of dragons by where you grip it. Can't remember what the name of that part of the bow is. Yep, there you go. Ava's long bow of power.
+Sanis
+Okay. Okay, cool, cool, cool, cool, cool, cool, cool. I'm gonna add that to my inventory here.
+Kalmar
+Okay?
+Unknown
+But with that, Ava follows or leads you guys out of her chamber. You see that? She gives two of her nails a click. Almost like she is locking a car as you guys leave the vault. And now you guys are.
+Kalmar
+It's time for the auction.
+Unknown
+So with that, it will take place at Krenko hq. Well, it's not going to take place at Crinkle hq. You're going to go to Krenko hq To go to where the auction is. But before we get to that data clock, take a break. Come back at like 8.
+Sanis
+10.
+Rin
+Sounds good.
+Sanis
+Sounds good.
+Unknown
+8, 10 for auction. It's going to be the last one, last item that's up for auction. Just so you know. I tell you this because. Because I'm. I'm sort of. I want to make sure that you have all the information you need and just know that someone's always watching up for you. Thank you, Rin. She gives you a wink.
+Rin
+Confused, but gives a thumbs up. We appreciate it.
+Unknown
+Give me an insight check.
+Orphe
+Oh, God.
+Rin
+I want a good dice for this. Or not. That is a. Math is hard. 23.
+Unknown
+23. Okay. That's actually good. Obviously you sense that there is a little bit something more behind the wink, of course. And you kind of look at her expectantly for a second, and she goes, all right, so if anything goes down and she flips you something into your palm, just top. Thought.
+Rin
+You said tap it.
+Unknown
+Something will go down tonight.
+Kalmar
+Just.
+Unknown
+She looks at. She look, she. She looks at the other guard and makes sure that the other guard is out of earshot and goes, something makes might happen tonight, just so you know. And then stands back up and opens the door to let you guys in.
+Rin
+Can the rest of the party hear what she was saying to me?
+Unknown
+No.
+Rin
+Okay. Finn's gonna relay all of this in a very confused state of like, I, I, I. I don't know. I'm slightly concerned. We're not the only ones that are potentially, like, going after the. I wanted to say The Son of S. The Eye of Sauron, but that's so wrong.
+Ogre
+The shiny ball. What do you mean?
+Sanis
+We're going after the Son of Sam?
+Ogre
+Yeah. The unkillable sphere.
+Rin
+The unkillable sphere. Yes. That someone else is going after that tonight.
+Varis
+I'm a little concerned because that wouldn't be surprising.
+Ogre
+We've sent everyone after it.
+Orphe
+True.
+Unknown
+All right. But yeah, so she. She lets you guys in. But notably Orphe, you're the last one in. And rea. Fully does like a up down goes, damn.
+Orphe
+I know, right? We'll straighten up her bow tie and like, the sexiest way possible. I don't know what that means, but it looks good. And I should note that Orpheus Dr. Dreads are in like, a half up, half down, pullback sort of thing.
+Sanis
+Why do y' all keep pissing [[DM]] off?
+Ogre
+That one may have been racist.
+Sanis
+Yeah, they're not called dreads anymore.
+Unknown
+They're called locks.
+Orphe
+I'm so sorry.
+Sanis
+Yeah.
+Kalmar
+All right. My computer fully just blue Screened.
+Orphe
+Oh, no. Pretty fast for a blue screen.
+Varis
+Yep.
+Unknown
+I'm on the phone. Yeah. All right, that's. Oh, okay.
+Varis
+We thought you were just being racist.
+Kalmar
+No, we know.
+Orphe
+Have you tried installing and reinstalling Discord?
+Sanis
+Have you tried unplugging and plugging it back in?
+Varis
+Have you.
+Kalmar
+I think.
+Unknown
+I think it's just the camera.
+Kalmar
+The webcam is just awful. Always have.
+Sanis
+Unplug it, blow on it, and then plug it back in.
+Orphe
+Yes. Yeah, Blow it.
+Varis
+Yeah. The old Nintendo method.
+Unknown
+Hold on.
+Ogre
+Sorry. Steve Carell had a message about that. So that's what she said.
+Kalmar
+All right, so going back to the description of. Of that you were going on Orphea. I disconnected. When you're describing the dreads.
+Orphe
+Oh, yeah, they're. They're in like a. A half up, half down pullback, so she's looking flawless.
+Sanis
+Oh, no.
+Orphe
+I don't know. We'll go with the pullback for now.
+Kalmar
+Okay. All right, you guys. Oh, computer, you guys are in. And you notice that you guys are in kind of a big ballroom area.
+Unknown
+There are tons of folks here.
+Kalmar
+Also dress to the nine. Everyone's got masks on. There is a bar on one side of the room, which is filled with guests lining up to get their drinks. And then on the other, other side of the room, the back end of the room, there are, like three double doors that you presume lead into the amphitheater, which is where the auction is going to take place in a little bit. Anyone that wants to give me either perception checks or investigation checks.
+Ogre
+I got a nat one to a nat 20. Investigation, I got a 21.
+Rin
+Perception is a 27.
+Unknown
+Okay. Okay.
+Kalmar
+So, rin, you got 27 for perception. Ogre, you got a nat 20.
+Unknown
+Yeah.
+Kalmar
+That is crazy.
+Ogre
+One that re rolled to a nat 20. And I have a plus one for 21 for investigation.
+Orphe
+Right?
+Kalmar
+Yeah. Crazy Sanis.
+Sanis
+16 for perception 16. My passive is more than that. Can I use Adamstead?
+Kalmar
+No. Okay, so.
+Unknown
+Okay.
+Orphe
+No, no.
+Kalmar
+I will give each of you guys a couple of things. Stow.
+Ogre
+Sanis stick, health potions. Sorry.
+Kalmar
+S. You notice a couple of people just kind of in a corner talking to themselves, dressed in all black, but like jet black. And they have black masks. That's notable.
+Sanis
+So the emo kids at the party.
+Rin
+Yes. Yeah, yeah, let's go with that.
+Sanis
+Cool. I'm gonna go hang out with the Schizos.
+Rin
+Yeah.
+Kalmar
+Okay.
+Unknown
+Awesome.
+Kalmar
+You see Sanis's go towards a pair of people dressed in jet black. Rin, what's noticeable to you is you see.
+Unknown
+Kind of.
+Kalmar
+You see two People at the bar, both of them dressed in kind of.
+Unknown
+Tribal formal wear, Kind of.
+Kalmar
+Like South American looking formal wear.
+Rin
+So potentially from Ixalan.
+Unknown
+Roll me History.
+Ogre
+Right now it's more like Ixalof. Am I right?
+Orphe
+Is it though?
+Kalmar
+Which roll?
+Rin
+It's a 12.
+Kalmar
+Maybe. You may. You see. You see that there are, like, some things that are just off about it.
+Varis
+Like.
+Kalmar
+Like, it does remind you of Ixalan, but, like. No, it's different. It's different. And then what else do we have here?
+Unknown
+Ogre?
+Kalmar
+You. You notice one of the guards standing in front of the. One of the doors to the amphitheater? Looks to be a goliath with a mask on. And you with the nat20. He's a friend.
+Rin
+Yes.
+Kalmar
+And.
+Unknown
+Let me just check my notes here.
+Kalmar
+Is that about everything? Oh, you know what, Varis, I'll say that you notice Kiku on the. The goblin assistant that you met. She's not wearing a mask, is hanging out on the second floor balustrade of the ballroom.
+Varis
+Kiki was the person that we were talking to, like, before, and like, I think we gave her the. The sword handle. Yeah.
+Unknown
+You.
+Kalmar
+You haven't given it to her yet. I don't believe. Unless you did. Did you guys give her the hilt?
+Varis
+Wasn't there, like. Like, a thing in the desk that came up and, like, we put the hilt into.
+Ogre
+We did, but we didn't actually give it to them because they weren't gonna let us talk to what's his face.
+Varis
+Okay.
+Unknown
+Yeah.
+Kalmar
+So you. You still have the hilt?
+Unknown
+Yeah.
+Orphe
+All right.
+Unknown
+Okay.
+Varis
+Yep.
+Unknown
+So that.
+Kalmar
+That's what you guys see. Senis, you see the pair of dressed in jet black folks with jet black masks. When you see the pair of folks by the bar wearing South American style getups. And then, Varis, you see Kiku on the balustrade on the second floor. Who acts first? S. Sanis, would you just immediately start walking towards the two dressed in black?
+Sanis
+I want to. Are there like, servers walking around with like, hors d' oeuvres and. Or drinks or anything like that?
+Kalmar
+Oh, definitely. Yeah, definitely.
+Sanis
+I want to take, I guess, a flute of champagne and then go stand near them and kind of like hold a wall up, but eavesdrop.
+Kalmar
+Okay. Okay. What, you just want to listen to what they're talking about?
+Sanis
+Yeah.
+Unknown
+Okay.
+Kalmar
+Give me an active perception check.
+Sanis
+11.
+Kalmar
+I'll say this. You don't hear anything coming from the pair. You hear them take like. Like shuffling around as they're like, kind of leaning on one leg versus the other when they like, lean up against the wall so they're making sounds, but you don't hear them conversing.
+Sanis
+But do I see their mouths moving?
+Kalmar
+They wear masks.
+Sanis
+Oh, right. I mean, I guess I move on to the next to. To. I'm gonna go, like, stand next to Orphe and kind of, like, converse with her, and I guess that'll be my turn.
+Unknown
+All right, Orphe, what are you guys talking about?
+Orphe
+Oh, we are people watching.
+Sanis
+Yeah, we're talking about the people walking by. Like, oh, my God, I can't believe they're wearing those shoes. Like, that doesn't even match their blazer.
+Orphe
+Yeah. Orpheus decided that she looks amazing, which she does. And therefore, everybody else is just not quite up to par. So.
+Kalmar
+All right, so y' all are just mean girls ing it up, like, on the side of the room. Just like, like, scoping.
+Orphe
+Like, using people watching as, like, a tool, but also people watching Posted.
+Unknown
+Okay.
+Orphe
+Kind of, like, monitoring the situation but also talking mad quietly.
+Unknown
+Love it.
+Kalmar
+Give me an active perception check.
+Orphe
+I would love to. Dirty20.
+Rin
+Oh, nice.
+Kalmar
+Okay.
+Unknown
+Make a roll. Nice.
+Kalmar
+You see that you're kind of looking at everyone's outfits and, like, commenting like, oh, yeah, like, that person's shoes don't match their dress. That person's tie don't match their pants. Right. And as you see Sanis's walking towards you from trying to eavesdrop on the pair of folks dressed in black.
+Unknown
+Or if you.
+Kalmar
+You see that one of them. Their eyes follow Sanis as they. Sanis walks towards you kind of watching.
+Orphe
+Okay, that's it. That's it for dirty 20.
+Sanis
+Lots waste.
+Kalmar
+You know, you notice. You notice that one of them is watching, watching Sanis's.
+Orphe
+When Sanis's comes and posts up next to me, I'll be like. I'll, like, point in the opposite direction and, like, make like I'm talking about somebody else in the room. But to Sanis, I'll be like, hey, people, are these. Those people over there were scoping you out? So just so you know.
+Sanis
+Play real cool. I don't look because I know who she's referring to already. I'm just like, okay, appreciate it.
+Kalmar
+That's at this point that one of the attendants walks over to you guys, and. Sanis serves you a glass with some champagne in it and says, this is. This is from Anonymous. It's a drink for you.
+Rin
+Don't take it.
+Sanis
+I want to smell it. Is it bubbling at the bottom? Is it?
+Kalmar
+Oh, it's definitely bubbling at the bottom. Give me a perception check for smell.
+Sanis
+Not the bubbling at the bottom, that means they drop something in it. Oh, my God. My fucking perception sucks with these dice. Eleven again.
+Orphe
+Can I. Perception.
+Kalmar
+I mean, champagne naturally bubbles, and, like, there are certain glasses that have, like, a little thing at the bottom to induce nucleation points to. To bubble the champagne. So smells pretty normal to you.
+Rin
+Can Rin grab the glass from Sanis and start?
+Kalmar
+Rin, were you. What? Were you. Were you gonna walk over to the.
+Varis
+Folks at the bar?
+Kalmar
+Are you sticking around?
+Rin
+I hadn't left yet.
+Unknown
+Okay. Okay.
+Rin
+I was going to, but I hadn't left yet.
+Kalmar
+Okay.
+Rin
+I think she was going to see what everyone else was doing. She's gonna grab the champagne and start doing her own inspection instead of doing a perception. Can I do an active medicine check?
+Unknown
+Sure.
+Varis
+Okay.
+Rin
+Because she's specifically looking for poison. As long as that's good to look for poison.
+Kalmar
+Yep.
+Sanis
+Okay. I, like, watch her, and I'm just like, please don't spill.
+Orphe
+Don't spill.
+Rin
+I'm also casting guidance on myself because Rin is not letting someone poison Gabe. Poison. Poison Sanis. Sorry.
+Varis
+Oh.
+Rin
+Oh, yeah. Math is hard. I think that is a. I think that's a 30.
+Kalmar
+It's a 30.
+Rin
+A 19 plus 8 plus 3.
+Unknown
+It is. Okay, well.
+Kalmar
+Well, Rin, you take a whiff of this and kind of suss it out. You kind of. You waft it right, and you. You get essence of sleep on this.
+Varis
+Oh.
+Rin
+Rin is going to. Is the usher still there?
+Kalmar
+Yeah, yeah.
+Rin
+Rant. I'm imagining this. The. Whoever this usher is is definitely much this taller than.
+Kalmar
+Oh, yeah, definitely. Like, like, dressed in, you know, like, a servant's uniform. Black suit, black bow tie. Even has, like, a little mustache, curly mustache, and kind of like a white cloth over one of his forearms. She goes, yes, miss.
+Rin
+Please tell me who sent this to my friend here?
+Kalmar
+Oh, I cannot. It was a secret admirer.
+Rin
+Rin is going to grab the man's arm and look at him. And if anyone else is looking at Rin in this point, her eyes are flaring like bright red. Couple gave. Who told you to give this glass to my friend? And you are going to tell me who it is. I highly doubt your job requires you to keep customer confidentiality.
+Kalmar
+You grab onto his arm and he goes, please, miss, you must unhand me. I will call the security. Do not make a scene, please.
+Rin
+I won't make a seat. I just need you to tell me who sent this.
+Kalmar
+I do not know. It was a sick. All that was told to me that it was a secret admirer.
+Rin
+Who told you to make this drink and bring it over here?
+Kalmar
+My manager.
+Rin
+Who is your manager?
+Kalmar
+In the back, in the kitchen. Would you like to speak?
+Sanis
+You.
+Kalmar
+You would. You would like me to call the manager here?
+Rin
+Yes, of course. There's a problem with this drink.
+Kalmar
+Okay, I will go to ZBAC and I will get the manager to come talk to you.
+Rin
+Friend is going full. Karen.
+Unknown
+All right.
+Kalmar
+You see that? These.
+Varis
+The.
+Kalmar
+The butler turns around, beelines it to the kitchen. You're holding onto the drink, I assume?
+Rin
+Oh, of course. I think she's going to take. Do I have anything in my inventory? Damn. I don't think I necess. I don't think I have anything that, like, I want to try to essentially contain. Like, try not to mess with any of the liquid in the glass at.
+Sanis
+All.
+Rin
+But I don't have anything to, like, put over the top of it. Maybe like, some paper. I don't know.
+Kalmar
+I'm sure you have, like, a scrap piece of paper somewhere if you want to take that out.
+Rin
+I. I do have a piece of paper. I'll just like. It's gonna look so janky. Actually, no. She's gonna grab one of the cocktail napkins that's definitely on one of the tables nearby and grab one of those and, like, hold it on top of the glass. And Rin's going. Whoever is standing, like, next to us, like, Rin's definitely gonna let them know, hey, that drink was spiked with sleep.
+Unknown
+Okay.
+Kalmar
+Okay, cool.
+Ogre
+Not over there. He definitely went to go talk to his friend. So he did not hear that.
+Kalmar
+Yep. Amazing. Yeah. Ogre, we'll get to you. But Rin, I'll say that as you talked to the butler and called for the manager, see that you did attract a little bit of attention. You see some of the other auction goers kind of look at you and noticeably with a passive perception of 18, you look over to the bar and you see that one of the South American dressed folks, like, kind of covers their hand and leans over to the other to say. As if to say something and then points at you.
+Rin
+Rin is also going to give this information to Orphea and Sanus and I guess Varis, if Virus, you're with us still.
+Varis
+I am following Ogre. Okay.
+Rin
+To Sanis and Orphe. Then that about, like, the two South American dressed people at the bar. That I had noticed earlier.
+Unknown
+Okay.
+Kalmar
+Okay, cool. We'll go to you. Ogre and Ogre, you walk up to the Goliath.
+Unknown
+Yeah.
+Ogre
+Said it was a scream, friend.
+Kalmar
+Right.
+Ogre
+Like, I know this Person maybe backs along.
+Kalmar
+Yeah, yeah, sure, sure. You, you, you. You walk up to him.
+Ogre
+It's me, Ogre. I'm gonna lift up the Ogre maps to show the dragon one underneath and.
+Unknown
+Put it back down.
+Kalmar
+And the big hulking Goliath. Give me an insight check.
+Unknown
+What Teen 13. 13.
+Kalmar
+Yeah.
+Unknown
+Okay.
+Kalmar
+Yeah. Seems like a real, real friendly guy. And. And you say, hey, I'm Ogre, and look up at him and the Goliath looks down at you just because. Oh, you're. You're. You're a friend.
+Unknown
+Oh, yes.
+Ogre
+Oops. I wasn't supposed to say.
+Varis
+Yeah.
+Kalmar
+Oh, oh, oh, yeah.
+Ogre
+Ogre.
+Kalmar
+Yeah. I don't know if I'm supposed to talk to anyone right now.
+Ogre
+But we're friends.
+Kalmar
+No, I know we're. We're friends.
+Ogre
+It's okay. If it helps, it's a secret too, but I'm naked right now. Again.
+Varis
+What?
+Ogre
+Yeah, yeah.
+Kalmar
+No, but you're clothed.
+Ogre
+It's just magic. It's covering up my backpack with all my clothes.
+Sanis
+Oh.
+Kalmar
+I don't know why we did it. I wasn't supposed to talk. I have to stick to the plan.
+Orphe
+Accidentally sexually harassing this person.
+Ogre
+I don't think either you two were there for that session.
+Unknown
+If this is the person, this is the right person that I think it is.
+Ogre
+What's up?
+Kalmar
+Oh, the pl. The pl. And you see that the Goliath puts his hands to his head and he goes. Oh, calar. Must stick to the plar. Must stick to the plaid.
+Ogre
+You know, we need help with our plan too.
+Kalmar
+Wait, you guys have a plan too?
+Unknown
+Yeah.
+Ogre
+Who's your plan with?
+Orphe
+Oh.
+Kalmar
+Oh, they told me that I can't tell anyone.
+Sanis
+I'm.
+Ogre
+I'm Ogre. I'm not anyone.
+Kalmar
+Oh, give me. Give me a persuasion check with advantage.
+Rin
+The logic is great. I. I love it.
+Ogre
+23.
+Unknown
+23.
+Kalmar
+Ogre isn't anybody. Oh, yes. Oh, this has been eating Calbar up all night. Calbar can't talk to anyone. Okay?
+Ogre
+So I'm fine.
+Kalmar
+Okay, Ogre, the plan is, is that we're going to take the. The sun. I don't know how it's possible to take the sun, but we're gonna do it.
+Ogre
+Wow, that's a good plan.
+Kalmar
+I think so.
+Ogre
+What are you gonna do with it?
+Sanis
+Who.
+Ogre
+Who are you help? Like, why do you guys want the sun?
+Kalmar
+Because it's like, they told me that people can't leave, so we wanted. We want to destroy it.
+Ogre
+Oh, yeah, that's a good idea. That's kind of what we want. To do, too.
+Kalmar
+Oh, you're. You're gonna destroy the sun, too? It sounds so wrong to say.
+Unknown
+Yeah.
+Ogre
+I think maybe the daughter's next. I don't know.
+Kalmar
+Oh, my head hurts.
+Ogre
+Oh, hi, virus. That's like.
+Sanis
+Yeah. You.
+Kalmar
+You see. You see Ogre, like, with his head to his face, and the guard, all this tiny halfling, hands to his face, and this giant figure, hands to his face, just looking at each other.
+Varis
+I'm like. I'm just kind of, like, letting the conversation happen because it's not like their incorrect. Well, Ogre's incorrectness really is going to have an effect because obviously that's not what's going to happen, but it's just like.
+Ogre
+So what are you supposed to do to help?
+Kalmar
+I. I have to let certain people in. Well, for the auction, I'm gonna let everyone that's supposed to be in there in there, but there's certain people after that I have to let in.
+Ogre
+Oh, who's that? Is it us?
+Kalmar
+It's. Her name is Narset.
+Ogre
+Oh, I know.
+Kalmar
+I know her. Oh, you know her?
+Varis
+Yeah.
+Unknown
+Oh, so we're all friends?
+Kalmar
+Oh, so we're all friends here?
+Ogre
+Yeah, we're all friends. I'm friends with everybody. Well, almost everybody.
+Kalmar
+Oh, you know. You know, Ogre, I. You know, I knew I could trust on you.
+Unknown
+Always.
+Ogre
+Really big today.
+Kalmar
+Hey, do you wanna. Do you wanna get lit on it a secret? Yeah. Yeah, yeah, yeah, yeah.
+Sanis
+Oh.
+Kalmar
+He looks at the other guards that are looking at him that are at the other doors giving him kind of a stink eye. And he bends down to you, Ogre, and you see him take out a little earpiece that he has.
+Unknown
+He goes, look, Ogre.
+Kalmar
+See, I could talk to. I could talk to Shayla, who is outside. And he puts the earpiece into your ear.
+Sanis
+Hello.
+Ogre
+Hi.
+Unknown
+And you?
+Kalmar
+I'm Ogre. You hear? Gilmer, you idiot. You weren't supposed to do that. What are you doing?
+Unknown
+Do you remember me?
+Kalmar
+Do you.
+Unknown
+Do you remember me?
+Sanis
+Yeah.
+Ogre
+We had a campfire and you saw my penis.
+Unknown
+Yeah.
+Kalmar
+Yes, Ogre, yes. We all did. Yes. Can you. Can you be a good little trooper and give the earpiece back to Kalmar?
+Unknown
+He.
+Kalmar
+He's having a little bit of trouble here.
+Ogre
+I think he's doing great. All right, here you go. I'm gonna give it back to him. I was good at that.
+Kalmar
+Oh, did you. Did you also talk to Shayla, too?
+Ogre
+Yeah.
+Sanis
+Seems happy.
+Kalmar
+I didn't know that they had devices like this. Now I can have my boss talk to me all the time anyways. I'm sure I'm everyone always. I'm sure you're bored, ogre.
+Ogre
+I.
+Kalmar
+Everybody gets bored when I talk.
+Ogre
+I'm not bored.
+Kalmar
+Oh.
+Ogre
+How many Gregs have you met?
+Unknown
+How many what?
+Ogre
+How many Greg's have you met?
+Kalmar
+All right, we're gonna cut that Steve over there, and then we'll go back to Rin Orpheus. And Sanis's ogre's not bored, but we.
+Ogre
+Can end his scene there.
+Rin
+Yep.
+Unknown
+Yep.
+Kalmar
+All right, we go back to the other crew and Ram Sanderson. Or ifyou guys see a little a goblin in formal wear, hobble over two guys and just go. I hear you're asking for the manager.
+Rin
+Yes, I was told by your employee here that a anonymous request was made for this particular drink to be. Be given to my friend here.
+Kalmar
+Yeah, that's right.
+Rin
+And you were the one that gave the order?
+Kalmar
+That's right.
+Rin
+We need to know who that is.
+Orphe
+It.
+Kalmar
+The whole point of it being anonymous is that it's anonymous, you know, however.
+Rin
+When someone's life is in danger, that kind of goes out the window.
+Kalmar
+Life in danger? What do you mean?
+Rin
+This is a spiked drink, sir. How can you let someone give another customer a spike drink in this establishment? Do you know how many laws this is breaking?
+Kalmar
+Spiked drink? Oh, I. I had nothing to do with this.
+Rin
+Well, then please give me who the person was so I can go deal with them myself.
+Kalmar
+Here, let me.
+Unknown
+Let me take the.
+Kalmar
+I'll take the drink. And I will let you take the.
+Rin
+Drink until you tell me who told. Who asked you you for this.
+Varis
+I.
+Kalmar
+I can't. I can't.
+Rin
+Why?
+Kalmar
+I can't. I just can't.
+Rin
+Are you under a spell?
+Unknown
+No.
+Rin
+Why can't you tell me who it is?
+Kalmar
+Hey, listen, it's just that. It's just the auction house policy. Once somebody gives a request to give a nice drink that's on the house, we don't keep track of who it is.
+Rin
+Then who brought you the order? You definitely have to remember, you're a smarter man than that.
+Kalmar
+Listen, the notes just come in, the messages just come in, and we give out the drinks. What can I tell you?
+Rin
+Well, then, who prepared this drink?
+Kalmar
+Yeah, Mickey, our bartender.
+Rin
+Okay, and is that over by where the south, like South American looking people are?
+Kalmar
+Yes. Yes.
+Rin
+Okay, can you please point? Is he the only one there? Is there multiple bartenders?
+Kalmar
+There are multiple, but he points you out, Points Mickey out to you.
+Rin
+Okay, great. That was the only information I needed. I very much appreciate that, but I definitely would recommend before doing that, you definitely should screen who these drinks are going to and what they're asking for, because this is very not safe. And definitely, if someone, like, got hurt here, that would put a very negative opinion on your establishment, and that's never a good idea. Dude. Reputation is always important when it comes to restaurants and anything related to food.
+Varis
+You.
+Kalmar
+He. He just says, okay, fine.
+Unknown
+And then he.
+Kalmar
+You see that he turns around, and you hear him mutter under his breath, mob. There's no rules.
+Unknown
+What the.
+Kalmar
+He just walks away.
+Rin
+So he's actually upset that they don't do anything. I love it. Or he's like, they don't have any rules, so they can do whatever they want. Okay. Either way.
+Kalmar
+Yep.
+Unknown
+Yep. There you go.
+Varis
+Yep.
+Rin
+Okay, Rin, I'm guessing Orphea and Sanis heard all this information.
+Orphe
+Of course. Well, unless indicated otherwise.
+Rin
+Would y' all like to come with me to the bar then, and try and interrogate this Mickey person?
+Sanis
+Well, I'm just following Brynn. I'm just. I'm just like. You know, like, when you have the girlfriend that's always yelling at the waiter for whatever is wrong with the boyfriend. Daughter. I'm that guy standing behind Rin, just scratching the back of his head, like, shrugging every time she mentions me.
+Varis
+And then.
+Rin
+Or is the intimidating muscle. And I'm here for it, of course.
+Unknown
+Amazing.
+Rin
+For going to the bar.
+Unknown
+Yep.
+Kalmar
+You go to the bar, and you begin to talk to Mickey the bartender.
+Unknown
+And.
+Kalmar
+You see that Mickey is currently. He's got, like, a Boston shaker, mixing a drink, and looks up at you, kind of has, like, a black vest, black slacks, slicked back hair, elven ears, and goes, oh, what. What can I do for you?
+Varis
+Hi.
+Kalmar
+Thing is how you just cut the entire line.
+Rin
+Well, I have a complaint to file, so hopefully that would warrant and rinse. Can look back. Apologies. I'm potentially saving y'. All. Saving your life. My friend here received a request or received this drink. However, it spiked with sleeping potion, and I want to know why that is the case. I was told you were the one that prepared this drink for my friend here.
+Kalmar
+Oh, yeah. I put the sleep essence of sleep in there on request.
+Rin
+Is this something y' all do regularly?
+Orphe
+That's really not my. Dude, what the.
+Rin
+What's wrong with you? Are you.
+Kalmar
+Are you the folks over there? And he points over to the corner where the pair of folks in black were.
+Unknown
+They're gone.
+Kalmar
+And he goes, oh, well, they. They. Okay, well, they. They requested it, so that's. That's what I did.
+Rin
+Are you act. Do you know what you're allowing?
+Kalmar
+Do you want me to serve. Do you want me to serve a paralysis essence of paralysis cocktail to somebody? I mean, it tastes great. Like, I put in like some like, orange bitters, and it's got like a hint of like coconut. It's. It's fantastic. It tastes great. That is what you're asking, right?
+Rin
+No. Why are you giving someone a paralysis potion that's so bad?
+Kalmar
+And then he points to the menu behind him and you see like classic cocktails, like old fashioned White Russian, and there's even a hot toddy in there. But then on the other column, there's like essence of paralysis, essence of sleep, essence of restraining.
+Rin
+Understood. Essentially, what these drinks were is what I'm hearing.
+Orphe
+I mean, is asleep.
+Kalmar
+Yeah, yeah, but then, but then, but then the bar, Mickey just goes, but like, the, The. The drink will actually put you to sleep. So I did you.
+Rin
+Y' all really need to rethink your. Your menu because this is not safe here.
+Kalmar
+I mean, this is very tasty. And then you. You actually hear someone just completely collapse behind you.
+Ogre
+Did you say his name was Mickey?
+Orphe
+Yeah.
+Rin
+I'm definitely going to be contacting the health inspector when all of this is over and come here, because this is not.
+Unknown
+Okay, wait, there's a health inspector?
+Rin
+Yes. Oh, my God. Rin just puts her hands in her face and then like, just pushes the drink back to the bartender. It's like, we don't want any of yalls drinks.
+Kalmar
+You here next to you. Since you went up to the bar next to the folks dressed in South American garb. One of them actually has walked away at this point, but the other one over here is the conversation you've been having with the bartender. And you just hear him go, well, I'll tell you, my friend, you know, the cocktail of paralysis, it really makes my fingers tingle.
+Rin
+Is this Isaiah?
+Ogre
+You're saying that out loud instead of looking.
+Kalmar
+Are you saying that out loud?
+Rin
+No, I'm asking you, [[DM]].
+Kalmar
+Convenience. I check.
+Rin
+Rin is casting guidance on herself. It's not hiding it. Hell fucking yeah. That was an insight check, right? That was a 28.
+Kalmar
+Yeah.
+Unknown
+In the flesh.
+Kalmar
+It's Isaiah.
+Unknown
+Ya think?
+Orphe
+Why is he only around when I have to behave myself?
+Rin
+Rin literally turns into orphan. And she's like, I'm so sorry.
+Orphe
+I hate it here.
+Rin
+It's good to see you again, friend.
+Kalmar
+He. He looks at you and he just starts wiggling his fingers. He's like, drink makes it so tingly.
+Rin
+Are you coherent right now?
+Kalmar
+What do you co. Brilliant.
+Rin
+No, that is definitely not the case. Then we don't need to fight anyone while we're here. Rin says under her breath. Who was your friend, by the way? I didn't recognize them.
+Unknown
+Oh, I.
+Kalmar
+You be the person that was just next to me. Yeah, he was also dressed in my kind of similar. Oh, yeah?
+Varis
+Yeah.
+Unknown
+Well, what's his name again?
+Kalmar
+He takes another sip of his cocktail. Oh, what was it?
+Orphe
+I hate you so much.
+Kalmar
+My memory is so blurry right now.
+Rin
+I wonder why.
+Kalmar
+Blick.
+Sanis
+Blake.
+Kalmar
+Don't seem to remember.
+Rin
+You keep saying Blake.
+Kalmar
+Blareth Blick. Gareth Trick.
+Unknown
+Oh, my God. Pony.
+Kalmar
+I can't seem to remember the name.
+Unknown
+Anyways.
+Kalmar
+Or my favorite evening. What are you doing here?
+Orphe
+I hate you.
+Kalmar
+Oh, I love you.
+Orphe
+You know, we're just here.
+Kalmar
+You're just here. You can just be randomly here just.
+Unknown
+For no reason, or if he literally.
+Orphe
+Doesn'T answer him back.
+Kalmar
+I get it. I get it. Don't worry. Well, if you don't want to talk to me, I say sennis. What have you been up to?
+Sanis
+Not dying.
+Kalmar
+Oh, good, good, good. That is also very good. Not dying is here.
+Sanis
+Isaiah, what are you doing here?
+Kalmar
+I'm having, you know, some paralysis cocktails. I had to sleep one before. Had a little, you know, two minute nap. That's good. Well, okay. You know, like, it's not often that one gets the chance to be in the underbelly and also, you know, auction for some pretty interesting items, you know, some good stuff.
+Rin
+So we've heard.
+Unknown
+Yeah.
+Rin
+Particular you're interested in?
+Kalmar
+Oh, you know, I have to be honest. There was a kind of, you know what an Airstream is?
+Rin
+An Airstream?
+Kalmar
+Yeah, yeah, an Airstream, you know, like, you could put it behind like a horse or like a vehicle, you know.
+Varis
+God.
+Kalmar
+And you know this one, Krinko, he said that it can sleep up to five. The ceiling comes down and bedding comes down. It's got the toilet and a shower. Poor kitchen. Could use it for all my travels.
+Unknown
+You know.
+Rin
+Do I get the sense that this is potentially Ogre's Tavern?
+Varis
+That they somehow rebuilt, they salvaged it?
+Kalmar
+Who's to say? Who's to say?
+Unknown
+Pretty excited.
+Rin
+Oh, yes. Okay, noted.
+Kalmar
+Who's to say?
+Ogre
+Or it's the replacement.
+Rin
+That we're the replacement?
+Varis
+Yeah, I mean, that's. That's the vibe I'm getting.
+Rin
+I'm here for the replacement as well.
+Kalmar
+Are you. Are you in for. Are you in for the. The. The air stream as well?
+Rin
+I guess we may be. We're currently in the market for a replacement, but.
+Kalmar
+Well, you know, then best of luck to the highest bidder.
+Orphe
+Yeah.
+Kalmar
+That is, after all, the fun of an auction, isn't.
+Orphe
+Is.
+Rin
+It is indeed.
+Kalmar
+Great. Well, you know, hopefully there are no crazy events that go on tonight. Though I have a feeling whenever we are in the same room together, that kind of thing happens. So may we leave with the Airstream intact after this auction.
+Rin
+Was the person who you were with named Benji by chance?
+Unknown
+Who.
+Rin
+I take that as a no. That was the only person I could think of that had a B name that we met. I can't think of anyone else.
+Kalmar
+Oh, no? No.
+Rin
+Okay. Just wanted to double check.
+Kalmar
+Still can't remember his name. Oh, I don't remember. Nice guy, though.
+Rin
+Where'd you meet him?
+Kalmar
+No, I. Where was it? Oh, it's where I got this. I. I got this outfit.
+Rin
+I'm trying to remember, cuz I know I. We've. We've definitely met this person before. Has the per. Has the person come back yet at all?
+Kalmar
+What person?
+Rin
+The person. The other person that he was with that he can't remember the name of.
+Unknown
+Nope.
+Kalmar
+They.
+Unknown
+They're gone.
+Kalmar
+They're gone.
+Rin
+Okay. Okay. Well, I don't think we're gonna get any more information out of him. We're probably good to keep walking around. We'll let you know if we need any help from you, Isaiah.
+Kalmar
+Oh, great.
+Rin
+Keep an eye out for any suspicious characters as well.
+Kalmar
+But if anyone asks, my name is Johnny.
+Rin
+Nice to meet you, Johnny.
+Kalmar
+Great. Have a good night. And then you, You. You walk away.
+Rin
+What was the name of the dude that ended up being like, the king of the, like, hidden civilization in Ixalan?
+Kalmar
+Kwatli Pakal.
+Rin
+What was the name he went by when he wasn't that?
+Kalmar
+You mean Jareth Wig?
+Rin
+Yes. Oh my God. Bryn has this aha moment as she's walking away, but it's not worth going back to talk to him about it.
+Orphe
+It's never worth going back to talk.
+Kalmar
+You just hear, Bye, Orphe.
+Orphe
+Whatever, dude.
+Kalmar
+Incredible ogre. We. We go back to you and Kalmar and he. He. He goes. I've only met like maybe one Greg. I don't remember quite.
+Ogre
+Yeah, I haven't met any yet.
+Kalmar
+Oh, wait, so then what, are you looking to meet a Greg?
+Varis
+Not really.
+Unknown
+Why? Oh. Oh.
+Ogre
+So when's your plan start? Because ours is being kind of boring.
+Kalmar
+Calmer goes. Oh, well, it's supposed to start during the auction.
+Ogre
+And what's time?
+Kalmar
+What's time? Is it the thing that Keeps moving forward.
+Ogre
+Oh, yeah. I guess I can move more ways. What about the auction? When does that start? Is there anything else? Oh, we should just steal. I think we should just steal.
+Kalmar
+Oh, that's what we were gonna do.
+Unknown
+Yeah.
+Kalmar
+Yeah.
+Ogre
+Should we help each other?
+Kalmar
+Yes. Oh, Shayla just telling me.
+Unknown
+No.
+Ogre
+Tell him I said loud and clear. And then it's gonna, like, give away, but I'm gonna run back to Rin.
+Unknown
+It's.
+Kalmar
+It's at this point. Yeah. Okay, so all of you guys meet up, and you guys also see at this point, Rekka has come inside of the ballroom, and Marin and Sanis, you guys having 18 passive perception, lock eyes with Rea. And you see that she does kind of like a watching you signal at you guys. Yes, exactly.
+Rin
+And I'm watching you because y' all are being sus. Or I'm watching you as. Hey, I. I got eyes on you. Like, you're good.
+Kalmar
+You see your wink.
+Orphe
+Okay.
+Kalmar
+Sanis and Rin, give me an active perception check now. Nope.
+Sanis
+12.
+Rin
+Active perception. That is a 23.
+Unknown
+23.
+Kalmar
+That's pretty good. That's pretty good. You see a little sparkle coming from one of Reka's ears, like, from inside.
+Rin
+Oh, okay.
+Orphe
+She's.
+Rin
+She's got the earpiece in as well. Can I motion back to her? And, like.
+Kalmar
+She just puts a finger to her lips, like, shushing you.
+Rin
+Rin's gonna give this information to the rest of the group that's with her. Oh, did Ogre and Varis tell the rest of the group about the plan?
+Varis
+Imagine Ogre would tell his version, and then I'd fill in the gaps.
+Unknown
+Yeah, sounds good.
+Ogre
+All right, so don't worry. We got more plans. I think we're gonna be just fine.
+Rin
+I think our friend at the door might also be involved with that plan as well.
+Unknown
+Is that three plans?
+Orphe
+No, two.
+Rin
+She's a part of the second one.
+Ogre
+But there could be more plans.
+Rin
+I mean, there could be. I mean, we have two plans, so that makes three.
+Ogre
+Are they our third plan?
+Rin
+Undetermined. They might be, but what if they are making this worse?
+Orphe
+Like, you're just feeding him.
+Rin
+Like, Rit's like, no, this makes sense.
+Orphe
+Like, am I standing next to you? Because I'm gonna. I'm, like, gonna grab your arm and be like, rin, stop.
+Rin
+There's too much logic.
+Ogre
+But what if there's actually seven plans and we only know about four of them, but two of those four are the same three?
+Rin
+Hopefully that's not the case. Or. Okay, my brain hurts now.
+Ogre
+Is this not how all your brains work all the time.
+Rin
+Tphs.
+Unknown
+All right.
+Kalmar
+As you guys reconvene and catch up on what you guys have found out so far. Sanis getting served a cocktail of sleep, but turns out it's actually on the menu. You find out that Isaiah is here with a certain Jareth Wake, the.
+Sanis
+One.
+Kalmar
+Of the rulers of one of the tribes in Ixalan. Why is he here? And Ogre and Varis met with Kalmar, who is acting as one of the guards. Also, in a previous encounter, you guys remember as the doppelganger from a little one shot encounter that you had, who worked with Kaylin, kind of the brains of the operation. So that is what you guys.
+Unknown
+Oh, and.
+Kalmar
+And also the two folks dressed in jet black are now nowhere to be seen. You guys reconvene and from above you see Kiku walks out onto a little die and goes. Hello, everyone. Welcome to the first annual Franco Masquerade auction.
+Unknown
+Hear a lot of clapping going around.
+Kalmar
+As you know, we have a pretty full round of auction tonight. Hope you guys have all been enjoying the cocktails, the sleep and paralysis and very tasty old fashions, I might add. Very delicious. And you see that she gives a little, little hat tip to Mickey at the bar. So I would like everyone. There we go. Very nice. I would like everyone to give a another round of applause to Krenko, who has so graciously hosted all of us here to have this opportunity tonight. All of the proceeds will go directly to Krenko himself. Quite a charity, quite, quite the event we have going on here. So another round of applause. Marvelous, marvelous. Thank you. Thank you. So in a moment, the doors to the auction house will open. Please go in in an orderly fashion or. Well, I mean, if you guys want to push each other and try and rush your way in there, I don't really care. Find your seat and behold Franco himself on the podium. He will be our emcee tonight for the auction itself. So thanks everyone and enjoy the show. And with that, you see Kiko kind of backs up. The doors open to the amphitheater where the auction is going to take place. And you see Calmore. As one of the guards begins to usher people in. There are some attendees that are kind of pushing themselves to the front to try and get to the front row of the auction house, but overall pretty uneventful. As everyone starts to shuffle into the auction house, where would the. The party? Okay, actually, I'll give a little outline of. Of how the auction house looks. There are many rows of seats kind of like in an amphitheater style and a little stage out in the front. You look up and you see that there are stage lights pointing at the stage as well as a covered kind of like cage that looks like it's hanging by a chain from the roof.
+Unknown
+From the ceiling.
+Kalmar
+There are a couple of kind of like.
+Unknown
+What do you call it?
+Kalmar
+Box seats kind of like on the second or third floor that are out looking down at the stage. And everything is kind of in like a red and gold style. Ornate again, bordering on tacky, as is the goblin style. You see that there is a big poster of Krenko in front of the curtains on the stage. And also a little imposing statue of Krenko to the stage. Stage right. Holding a sword and looking up in a menacing pose. Where do you guys sit?
+Sanis
+Should we sit together or should we all spread out in groups?
+Rin
+We definitely should spread. Sit somewhat close, I think.
+Sanis
+I mean, I want. I. I typically would like to sit in the back just so I have a really good vantage point of everything being the ranger. But I mean, where. Where would you guys choose to sit?
+Ogre
+Is there a chandelier?
+Unknown
+You know what?
+Sanis
+No.
+Kalmar
+They're definitely. They're definitely chandeliers in this room. They're at least. They're. They're at least four.
+Unknown
+Cool.
+Ogre
+I get to the chandelier closest to the the stage.
+Unknown
+Okay.
+Ogre
+I want to watch from up there.
+Kalmar
+Okay.
+Sanis
+You.
+Kalmar
+You make your way to the front. And you see that actually ogre.
+Unknown
+There are.
+Kalmar
+There is an. There looks to be a seat open, but there's a bag on it. And you see kind of a plump goblin in a red dress sitting next to this open seat with her purse in it.
+Ogre
+That's fine. I'm going to get up and get on top of the chandelier on. That's above her.
+Kalmar
+You're going to jump up onto the chandelier?
+Unknown
+Yeah.
+Ogre
+I'll climb across the. Climb up a wall. There's a very ornate ceiling that has many handholds.
+Unknown
+Okay.
+Ogre
+A couple get here without having to misty step.
+Kalmar
+A couple of the guards kind of meet you at the wall. And they go, whoa, whoa, whoa. And you can't.
+Unknown
+No climbing.
+Kalmar
+What are you. What are you doing?
+Ogre
+But it looks like a climbing wall. Why wouldn't I be able to.
+Varis
+I will.
+Kalmar
+I assure you it is not a climbing wall. Please get down.
+Ogre
+What if I pay you 5 gold?
+Kalmar
+5 gold, you say?
+Sanis
+Yeah.
+Kalmar
+Give me a persuad.
+Ogre
+29.
+Rin
+Let's go.
+Varis
+Incred.
+Kalmar
+Incredible.
+Unknown
+He goes. Okay.
+Kalmar
+I mean, five gold. The chandelier seat is yours.
+Ogre
+Cool. I'm gonna give him, like, seven gold.
+Rin
+Love it.
+Kalmar
+You give him seven gold. And you see that his buddy next to him is like, what the, man?
+Unknown
+Where's my.
+Kalmar
+Where's my five, seven gold. What the, man? And he goes, no, no, the. This, this. And you see, they start getting into a verbal fight.
+Varis
+Cool.
+Ogre
+I let him get up. Chandler.
+Kalmar
+Amazing.
+Rin
+Phenomenal.
+Kalmar
+You see, you guys all see ogre taking a seat on the chandelier stage, right?
+Rin
+I don't ask questions because I'm gonna be honest. Probably gonna be helpful.
+Kalmar
+You see, you see ogre.
+Unknown
+Actually, there's.
+Kalmar
+On one of the, like, box seats that's, like, eye level to you. There's, like, a halfling girl dressed in formal wear with her parents. And she sees you swinging, and she points at you and goes, oh, it looks like fun.
+Ogre
+It is.
+Kalmar
+And then you see her go, mom, dead. I also want to hang from the chandelier.
+Orphe
+Sia plays in the background.
+Unknown
+That's right.
+Rin
+Yes.
+Sanis
+This is Sia's origin story. The. You mean.
+Kalmar
+And. And her. Her parents tell her no. And then you see her ogre jump off of the railing and. And hang from the chandelier. She grabs it with one hand.
+Ogre
+I'm gonna steady it a little bit with a mage hand and then give it a spin. It's gonna look like I'm just being helpful at first, but I'm really making it more fun.
+Kalmar
+No, she hangs on. She hangs on tightly. And she just goes.
+Rin
+We may not have needed the dragon as a distraction. We just need an ogre.
+Kalmar
+Which, by the way, at this point, you noticed Ava is not with you guys right now.
+Ogre
+Yeah, she is.
+Varis
+Oh, my God.
+Ogre
+Who brought a child to this?
+Kalmar
+Where are the rest of you guys sitting?
+Ogre
+I want to know more about them.
+Rin
+Is there a door that seems to go backstage?
+Kalmar
+Is there a. There are a couple doors that seem to go backstage. That is correct.
+Rin
+I think Rin's gonna try to seat herself and maybe someone else from the group group with her near that door.
+Kalmar
+You see that Rea is now standing in front of that door.
+Rin
+Interesting.
+Orphe
+Orphea would like to be somewhere where she can see everything.
+Kalmar
+So the back of the room?
+Orphe
+Sure. But off to the side.
+Rin
+Are you gonna. Would you accompany Rin to sit near the door where Rea is?
+Orphe
+Is that on the back?
+Varis
+Yeah, sure. Yeah, sure.
+Rin
+It would be towards kind of the frontish, I'd imagine.
+Orphe
+Do I have a good scope of the entire place from the front?
+Rin
+Probably not you.
+Kalmar
+I would say. Yeah. No, you you have a pretty good view of everything from all the way in the back. The amphitheater is kind of sloped downwards. Right. So you have a clear view of, like, all the heads. Second floor, stage ceiling.
+Unknown
+So.
+Kalmar
+Or you're in the back.
+Orphe
+Yeah.
+Kalmar
+And then Rin is muted.
+Rin
+Yes, I was. Varis and Rain are going to go sit near where Rea is, near that door.
+Unknown
+Probably Renan Forest by.
+Rin
+Based on all the winking that happened. She's helpful.
+Kalmar
+Stage left.
+Unknown
+Okay. All right.
+Kalmar
+And then Stannis, where are you sitting?
+Sanis
+Oh, all right. I was like, I'm gonna sit in the back because I want to have a good vantage point of all exits. So whichever corner gets me that view, I want to stand in the back with my back against that corner.
+Kalmar
+So you and. You and Orphe are paired up in the back.
+Sanis
+Yep. Twinsies.
+Kalmar
+Sick. All right, so we've got Ogre on the chandelier spinning around with the halfling girl. We have Orphe and Sanis in the back, kind of drawing a bead on the situation. Varis and Rin stage left by where Rekka is standing guard. And yeah, that's. That's the position of everyone.
+Unknown
+Cool. So.
+Kalmar
+After a bit, the background chatter goes down, the lights dim, and you see Franco come up on stage. There's like a little podium, and you see a couple of assistants wheel up an easel and some, like, tools next to Franco, you see that Krenko goes. Hello, one and all, and welcome to the first annual Franco Masquerade Auction. Thank you, thank you, thank you. Applause he goes. As my lovely assistant Kiku had said before, tonight we have quite the variety of items up for auction today. Now, I'm going to keep it a surprise for you, so don't blow your load on the first item here. Now, a couple of ground rules here before we start. If you bid, then your bid may be outbid by the next highest bidder. That's how auctions work. Now, I'm going to keep it to a minute. Per auction item, there will be. There will be three items in total. Now, you must have the money in your account or with you at this present moment presented to the folks over in the back. And then you will have your item, of course, at the end of the auction. But those are the ground rules. Highest bidder wins. You have a minute pay first item at the end of the auction.
+Ogre
+Now.
+Kalmar
+If everyone's ready, let the auction begin. And with that, you hear a roar of applause and the sounds of the first item being rolled up on the Stage, I'd say Sanis and Orpheus. You guys have the best view of everything. Can you both give me a perception check?
+Sanis
+18, 19.
+Kalmar
+Not bad. Not bad. But I cannot give you everything. So you, from your view in the back, see the very two same individuals dressed in black on. In one of the box seats on the second floor.
+Orphe
+Oh, didn't go lay down.
+Kalmar
+You what?
+Sanis
+Huh?
+Orphe
+Sorry. No, I was talking to my dog.
+Kalmar
+Okay. Yeah. You see the two folks dressed in black on. In box seats on the second floor with a 19. I will also say that you see Isaiah as well as Jareth in box seats on the opposite side of the room. Stage. Right. That is what you see on an 18 and 19. And yes. So with that, Franco announces the first item. And you see a. An airstream roll up onto the stage and crinkle goes the first item. Based off of the renowned Ogre's Tavern, a very faithful recreation of it. Ogre's Tavern.2. Bidding will start at 10,000 gold.
+Rin
+Holy hell.
+Varis
+I'm gonna lean to RIN. Now, the fact that it's a recreation. How much you want to bet that anything is functional as it should be?
+Rin
+I highly doubt it. I do. Based on what the drinks are here, I am very concerned about the integrity of the structure of the electrical of the. The magical etheric oven. Oh, my God. That took so long to install. Yeah, I would say it's probably like back alley level knockoff. Actually. Can I tell from here?
+Unknown
+[[DM]], you're up.
+Kalmar
+You're in the first row. So you've got a pretty good view. Yeah. Give me. Oh, what would this be? I mean, I'd say arcana could probably do it because there were some magical parts about Ogre's Tavern.
+Unknown
+Or. Or just like.
+Kalmar
+Yeah, or just like intelligence.
+Rin
+Honestly, I'm doing Arcana.
+Unknown
+Yep. Go for it.
+Orphe
+Okay.
+Rin
+That is a 28.
+Kalmar
+You had serious doubts. You, like, how good could a recreation be? And this is like Krenko's. Like, probably Krenko's handiwork that we're talking about here.
+Unknown
+Right.
+Kalmar
+So probably shoddy. But as the thing rolls onto the stage just by its, like, heft alone, and how the wood on the stage creeks as it gets rolled out by a.
+Unknown
+A different.
+Kalmar
+Is it horse and the like, based off the weight of it, you feel the energy coming off an etheric battery that is inside the trailer. And in fact, you see someone as Krenko is hosting the auction and demonstrate he's like doing like a 360 around it. And one of his assistant Goblin assistants walks in, like, turns on the stoves, and, like, almost like a walk level of power, flame comes out, sticks his hand all the way through this drawer of holding that's in there. And you get the sense of that not only is this a replica, it's upgraded. I think, like, if. If you got. If you guys with the first Ogre's Tavern were driving, like, I don't know, a Honda crv. This is like a Cadillac.
+Rin
+I think Rin's going to, like, frantically grab Varis his arm. We need that thing. Are you sure it is a better. It is, it is. They somehow took Ogre's Tavern and made it better. We could make so much money with that thing.
+Varis
+Could we though?
+Rin
+Yes. I mean, the ovens on that shit actually are so much better than what we had for you. The things you could cook, the cocktail we could make. How many people we could have now.
+Varis
+Sure. But, like, so excluding our time skip, we had what, how many handful of years that we ran the Tavern? I could probably count, but that was in the number of years it's been the same number of times we've opened.
+Rin
+But that was because it wasn't upgraded. This is upgraded.
+Orphe
+This.
+Rin
+Oh, my God. I mean, taking notes, like, you just see her, like, just. We need to bid on this. We need to bid on this.
+Varis
+So, [[DM]], this also has solar panels. Okay?
+Unknown
+Solar panels.
+Varis
+So [[DM]] does.
+Ogre
+Come on.
+Varis
+Can't. Can I, like, as me just willingly have Varis use the money, or am I gonna have to roll, like, saving throws or something to try and fight?
+Kalmar
+What saving throws?
+Varis
+Like, I'm asking, like. Like, if I want to just be like, oh, yeah, let me just pop money from the bank. Am I gonna have to, like, have an inner turmoil or anything because I'm using bank money, or can I just do it?
+Orphe
+You could give us a loan.
+Varis
+Well, that was the idea that I can just make my own terms and it just.
+Kalmar
+Only one way to see. But Varis, as you're thinking about it, you see coming from the box seats, dressed in South American garb, isaiah raising an 11,000.
+Orphe
+Let him buy it. We'll steal it from how? Or he'll give it to us. One of those.
+Varis
+How. How far away, like in the back is Orphe and Sanis's?
+Rin
+Pretty far back, I'd imagine.
+Unknown
+Yep.
+Sanis
+Well, how many rows are there here in the action? Like, actually like auction house? How many rows?
+Kalmar
+I'd say, like 25 seats. 25. 25 rows?
+Sanis
+25 rows. Okay.
+Rin
+Not like the first row, but probably like row Five or six, I would imagine.
+Sanis
+Yeah.
+Varis
+Would they be, like, more than 30ft away?
+Ogre
+Okay, is it like, 10 columns? Are we talking, like, 50?
+Sanis
+Shut up.
+Rin
+It depends on the row. If this is a true amphitheater, it's going to be in a circle. So not all the columns are going to be the same size.
+Unknown
+Just one. How many?
+Ogre
+We're talking.
+Sanis
+Enough with the math.
+Varis
+So I guess Varis. Will, did we get like. Like, sign things, or do we just, like, raise our hands?
+Kalmar
+You guys did get signs. You guys did get signs that you can write on.
+Varis
+Okay, I get. I would just yell out, like, 11. 5.
+Unknown
+Somebody else in the crowd. 12.
+Orphe
+Well, don't hesitate now. You didn't think you were gonna be the only person to bid.
+Varis
+Yeah, yeah, do it.
+Orphe
+That's always. Immediately she's saying it, and for some reason. Reason you're just feeling it. She's like, come on, man. Don't start the video and then chicken out.
+Unknown
+You see a 13, 5, 14.
+Kalmar
+Isaiah stands up.
+Unknown
+15, 16.
+Kalmar
+And, yeah, you in the classic auctioneer voice, you hear Krenko, 16.
+Unknown
+16.
+Kalmar
+Do I hear 16?
+Unknown
+16, 16.
+Kalmar
+17. 17. Do I hear 17? And then you see someone stands up.
+Unknown
+18, 20.
+Kalmar
+You see. You see the. The.
+Rin
+Hold on. So the stage would be within 30ft of me, right? And the dude's walking around, turning like the stove's on there. There is active fire on the same.
+Kalmar
+Oh, yeah, yeah, yeah.
+Rin
+I would like to. This is so dumb, but if it works the way I want it to, this could do something. So I'm imagining these flames are, like, pretty. Like, they're trying to show off the, like, amount of power that they have, right?
+Kalmar
+Yes.
+Rin
+So I'm gonna cast thurgy cantrip, and I'm going to as, like, quietly as I possibly can. And I'm actually going to attempt to make the flames dim as much as possible to make them essentially, like, seem like they're not as good as they're trying to make it out to be.
+Orphe
+Where is the person, like, right now? Is it, like, the same couple of people making bids, or is it just.
+Unknown
+Random across the room right now?
+Kalmar
+So in the beginning, it was, like, maybe five different. Now it has narrowed down to you guys, Isaiah, and the goblin lady that's in the front.
+Orphe
+I'm going to walk down the side aisle to a visible eyeline to the goblin lady in the front.
+Kalmar
+You're gonna give her eyes?
+Rin
+Yeah, to try and intimidate her.
+Orphe
+I guess.
+Rin
+Yeah.
+Kalmar
+Okay. Give me intimidation with disadvantage.
+Orphe
+Why disadvantage? Come on.
+Unknown
+Yeah, with disadvantage.
+Orphe
+What if I Rage.
+Rin
+You're gonna have to smack someone. Or yourself.
+Orphe
+Wouldn't that be intimidating?
+Ogre
+You just get so serious that you're.
+Kalmar
+Do you wanna. You wanna rage?
+Orphe
+No, I just wanna be intimidating. Creature.
+Rin
+Wanna just banish an object? Can I just banish an object?
+Orphe
+You could banish the lady. Okay. Disadvantage.
+Rin
+Oh, I could.
+Varis
+You could.
+Rin
+I could use one of my fourth level spell slots to banish this woman.
+Varis
+That would be super aggressive.
+Orphe
+Let me try this. Hold on.
+Rin
+Thank you.
+Ogre
+Yeah. Subtle spell.
+Unknown
+Yeah.
+Orphe
+Eight with disadvantage.
+Varis
+I think that would still raise suspicion.
+Kalmar
+Okay. What do you say to this lady?
+Orphe
+I don't say anything.
+Kalmar
+You just stare at her.
+Rin
+You just keep staring at her.
+Ogre
+You.
+Kalmar
+You stare at her, and she looks over at you, and she pulls one of her eyelids down and gives you a tongue.
+Orphe
+Gives me time.
+Kalmar
+And spits brass. Yeah. Spits raspberries at you. Yeah, like that. Like that.
+Unknown
+Rachel.
+Varis
+Yep.
+Kalmar
+Rin, you attempt to thaumaturgy the flames dimmer to make it look like the airstream is not as powerful as it is. And all the bells and whistles are not as fancy as they are. But you see, your spell hits a barrier as soon as it hits this edge of the stage and fizzles away. And Franco. Franco goes.
+Unknown
+You.
+Kalmar
+You think that you can try and kill me or manipulate the stage? No, it will not work. And the bidding war continues. Orphe tries to intimidate the. The lady does not work. Rin tries to make the trailer not as attractive. And the bidding continues.
+Rin
+That's exciting.
+Varis
+The. The woman that's doing the bidding. What race is she?
+Kalmar
+She's a goblin.
+Varis
+Goblin.
+Rin
+She's a gobbo goblin.
+Unknown
+That sucks.
+Kalmar
+Bids at at 20. Isaiah says 21.
+Varis
+Rin, how. How far should we go for this?
+Orphe
+If I turn on my tattoos and they visibly show up on my body, would that be intimidating?
+Unknown
+You.
+Kalmar
+Do you want to try? Do you want to try again?
+Orphe
+Sure. I mean, like, I can't give up at one try, but, like, I also realize that there may be some sort of structure you're following that I'm not sure about. This isn't exactly initiative. So if I need to wait a little bit, that's fine.
+Kalmar
+Here, let's. Sanis and Ogre. Is there anything you guys would like to do?
+Unknown
+I think I'm just waving at.
+Ogre
+Isaiah. That's about it. Playing around.
+Unknown
+Okay.
+Kalmar
+Just. Just waving at Isaiah. 22.
+Ogre
+Interpreted as. A raise. I'll be that guy.
+Rin
+Wait. I have a question. So you can definitely tell me if this does not work, or we can talk about this. Offline after the session because it is 10 o', clock, but so licensing agreements and everything. I feel like. I feel like Rin would have done all of the proper legal shit in order to make sure that the word the name of Ogre's Tavern was could never be used in another place.
+Orphe
+What?
+Kalmar
+If you're telling me that Rin has trademarked at Ogre's Tavern.
+Orphe
+Absolutely.
+Rin
+Probably. Let's be honest, Rin. If someone going to do it, it would be written. So can they actually say this is a replica of it if it's not technically a licensed replica by the company that owns Ogre's Tavern?
+Orphe
+As long as they say replica. It falls under parody law.
+Rin
+It falls under parody law.
+Ogre
+I. I might be jumping out of line here, but I can I just posit goblins? I think Goblins. Goblins don't care.
+Varis
+It's not going to stop the auction.
+Ogre
+These are goblins.
+Rin
+Throw something out there not to actually burn it.
+Kalmar
+Rachel. Rin, I respect it. This is not the Azorius Guild. This is you guys. You guys are in the underbelly of Krenko's headquarters.
+Orphe
+Why haven't I gotten proficiency off?
+Rin
+This is our property, and we're gonna take it back. Yeah, we're seizing and assisting it. I want to be clear.
+Orphe
+This is not Overs Tavern. It's not ours.
+Rin
+Ours.
+Sanis
+Yeah.
+Orphe
+Caught on fire. Exploded into a million pieces.
+Sanis
+If it.
+Rin
+If we are not assuming that it falls under parody law, then yes, it would be ours.
+Unknown
+It's going to be.
+Kalmar
+Yeah, it's. It's Uger. Spelled with a U. Curse. Tavern.
+Ogre
+Ogre's Tubern.
+Varis
+They're Canadian.
+Orphe
+It's definitely Canadian.
+Varis
+Okay, so I'm gonna. So I'm leaning right again. Say like, so the. For the shiny thing. That's definitely the auction. Like, the auction plan is definitely not working. Right. That'll probably be too expensive. If this is what the Tavern is going for. Right?
+Orphe
+You are in control of all of the money.
+Varis
+Nothing.
+Sanis
+Oh, I know.
+Varis
+I'm just saying we surely don't have enough to buy that. Legit.
+Rin
+I mean, to be honest, I would safely assume yes.
+Varis
+So I'm not gonna worry about saving money for that. We're at 20. It's at 22. Right? Right now.
+Unknown
+Yep.
+Kalmar
+Isaiah has just raised and raised it to 25.
+Orphe
+Just let him 30. Just let him buy 30. I mean, you can go against him if you want to.
+Kalmar
+I just rolled the goblin. Raised it to 38.
+Orphe
+Let Isaiah win. If we need to bid against the Goblin, that's fine, but Let Isaiah win.
+Varis
+Yeah, I think I'll drop out.
+Kalmar
+When the goblin raised to 38, you see Isaiah just start pounding his fist on the banister of the box seat, and you hear him shouting profanities. You walk towards the goblin lady. So you're, like, in between the goblin lady and Isaiah.
+Orphe
+Can I look back at him? I just need to communicate something with my eyes. So I don't know if there's a role. Role or something, but I want to be like, look, if you had that money and we have our money, let's pull our resources.
+Sanis
+That's a lot to be saying with your eyes.
+Orphe
+Well, you know what? I have very expressive eyes.
+Kalmar
+Isaiah says 40. And when he says 40, if she's.
+Orphe
+Not intimidated by me, I could literally just go up to Isaiah and be like, hey, how about we pull our resources? There's no way you could be standing there.
+Kalmar
+You could. But.
+Unknown
+But. But. Orfe.
+Kalmar
+You lock eyes with him, and he. He gives you a nod, and then he puts up 40. And after he puts up 40 immediately, the goblin lady takes her handbag and chucks it at Isaiah. It hits his head, and he goes over the bout the the banister and falls the first floor.
+Orphe
+If I'm stuck standing between them, can I block that from happening?
+Kalmar
+Oh, okay, give me.
+Orphe
+Dex.
+Kalmar
+Give me a Dexter Athletics check.
+Orphe
+Okay, 27.
+Kalmar
+You catch the handbag.
+Orphe
+I want to throw it back.
+Ogre
+No, wait. The money.
+Orphe
+What money?
+Ogre
+It's a handbag. It's full of money.
+Orphe
+Oh, whatever. Yeah, I'll catch it.
+Ogre
+That's funny to say as you throw it.
+Sanis
+Oh.
+Varis
+Wait a minute.
+Orphe
+I was thinking it was like, her. Her auction paddle for some reason.
+Kalmar
+I was like, no, it's. It's her handbag. And this thing. This thing weighs, like, 50 pounds.
+Orphe
+That's fine. I'm a fucking bear.
+Kalmar
+Yeah. And you catch it. You kind of, like, jump up and catch it, and when you get back to the ground, you thud.
+Orphe
+But it still lands.
+Kalmar
+Yep. And you still land on your feet, but you catch it. The goblin lady gives you the finger, and. And then she runs over to the box seat. You see her cast a spell, and then she jumps up to Isaiah.
+Unknown
+And.
+Kalmar
+Decks him across the face, and they full on begin to brawl.
+Orphe
+We're here for a reason.
+Rin
+I want to rage.
+Orphe
+Can I make a. Okay, now I'm gonna look at Varys and be like, keep going.
+Rin
+Yeah. No, Brynn's doing the same thing.
+Varis
+Keep going.
+Orphe
+Keep bidding.
+Rin
+40. 40. The most recent. Most recent bid was 40, right?
+Varis
+Yeah, yeah. Like, we're just Gonna let him take.
+Orphe
+We're combining forces, and he's a little busy, so you're gonna take over.
+Varis
+All right.
+Ogre
+Yeah, but he's got it currently.
+Orphe
+Yeah. I mean, but I said keep going. I didn't say bid right now. If. If Isaiah was the last one, then we'll let it ride. But if somebody else bids, then I.
+Rin
+Also don't trust that Isaiah actually read your message correctly.
+Orphe
+I don't care. He. It seemed to me like.
+Sanis
+Like take advantage.
+Unknown
+So, 41.
+Varis
+Wait, who.
+Orphe
+Who's doing 41?
+Ogre
+Well, because was saying that she wasn't sure how much she trusted you reading, like, so should we just buy it out from under Isaiah?
+Varis
+Well, see here. I mean, here's the potentials. Either he's buying it for us.
+Orphe
+He.
+Varis
+Will work it out with us later and that we can still get it, or you as.
+Unknown
+As you're.
+Kalmar
+As you're saying, or Varis, you're discussing this with Rin. You hear Isaiah shout out, I. I will make Isaiah stabbing happen as you hear him getting punched in the face.
+Orphe
+Okay, then I'm not gonna join in. I'm gonna let her kick his ass. Look at Varys and be like.
+Varis
+I will say 41.
+Kalmar
+And you hear crinkle.
+Varis
+Oh, what does Cranko say?
+Kalmar
+No, at the same time that, like, the brawl is going on. Right. Krenko in his auctioneer voice is just like, narrating. Oh, we got 39. 39. 440. 40 from. From this master gentleman over here. Oh, and Coppola lady is jumping up and punching him in the face. Oh, looks like he can't bid anymore. And, oh, we got a 41 from the Dragonborn over here.
+Orphe
+And they just turn into like, a football club. Like one of those people on the radio who calls football plays. And he's doing a play by play by the.
+Unknown
+Yes, he's.
+Kalmar
+He's literally doing a play by play. And the guards are not getting up to even, like, help, like, separate them. Like, this is full on happening.
+Orphe
+I still have this purse, right? Can I look in it?
+Varis
+Okay, so while that's happening, I do want to subtle cast hold person on Isaiah.
+Rin
+Yes.
+Varis
+And I really hope.
+Orphe
+Yeah.
+Varis
+You can't move or speak.
+Kalmar
+Okay.
+Rin
+Why did we do that? Why.
+Kalmar
+Why did we do that?
+Ogre
+He's also stopping her right now.
+Kalmar
+Okay, what is. What is your. What is your spell? Save DC.
+Varis
+Chat. Good idea. I will upcast it so I can target them both.
+Unknown
+Incredible.
+Varis
+17. And that's a. Wisdom.
+Orphe
+That's what I'm talking about.
+Varis
+Incredible for both of them.
+Kalmar
+They both fail.
+Varis
+Awesome.
+Kalmar
+So you.
+Varis
+You.
+Kalmar
+You see this gobble lady with like superhuman strength just like jump up and start beating the out of Isaiah and Varis. You take this opportunity to raise the bid to 41 and hold person, both of them, and you hear them just kind of like muffled screaming because they can't move their. Their mouths. And Krenko then finally slams the gavel down and says, Sold 41k to the gentleman over here. Ogre's Tavern.
+Orphe
+Yes.
+Kalmar
+For 41 k. I. I walk over.
+Sanis
+To Varis and I'm like, you know that leaves us with only 59, 000 left for the sun, right?
+Rin
+We weren't going to get it anyway.
+Varis
+I. I don't think we can afford the sun even with the full hundred or whatever.
+Sanis
+I don't know, man.
+Varis
+We're probably going to plan B on that one. Okay, well, because also remember, there's. There's other people doing too. So, like, we're. The auction's not finishing.
+Orphe
+Orpheus happy on multiple levels. We just got the Airstream. And also we get to do plan B. And plan B was always Orpheus favorite anyway.
+Kalmar
+And. And you know what, Sanis? Please give me another perception check. As you were the. You are one of the only ones that's kind of chilling. Staying back, observing the situation.
+Orphe
+Thank you for that.
+Kalmar
+What did you roll?
+Sanis
+What am I supposed to be rolling? Sorry, my girlfriend decided to distract me.
+Orphe
+Fries?
+Kalmar
+What? Five.
+Unknown
+You rolled a five?
+Ogre
+High vantage. I can see a lot.
+Kalmar
+Fine.
+Unknown
+Ogre, roll me as well.
+Ogre
+Oh, my God. Net 20 for a 20.
+Kalmar
+Yes.
+Ogre
+I got a nat.
+Sanis
+Dirty 20.
+Rin
+Yes.
+Ogre
+Wow, I'm wasting a lot of those today.
+Orphe
+Well, I'm not getting any, so you're doing it for the both of us.
+Varis
+I may have it.
+Rin
+Help.
+Kalmar
+Amazing.
+Sanis
+You.
+Kalmar
+Ogre with Anat 20.
+Ogre
+Yeah.
+Kalmar
+In the midst of all of this chaos, as you're swinging on the chandelier with the halfling girl spinning around, having the time of her life, Isaiah and the goblin being the out of each other before being hold held person and Varis holding up the winning bid of four 41,000 gold pieces. Where you look up and you see in the cage, which is obscured by black fabric, you sense that the immortal sun is there. But to the right of the cage that is currently covered, that has the immortal sun ended to the right by the ceiling, you see Spidey Narset obscured, slowly making her way to the cage. And that is where we're going to end for today.
+Rin
+Amazing.
+Orphe
+Absolutely suspicious.
+Sanis
+Suspicious as.
+Rin
+Remind me, we don't Hate her, do we?
+Varis
+No.
+Kalmar
+You guys.
+Varis
+Better.
+Rin
+I'm just like trying to figure out why she's going after this thing so hard. And it's like.
+Varis
+There'S probably like 10 different parties at play right now.
+Rin
+Probably.
+Varis
+I'm not too surprised.
+Orphe
+Yeah. Just because we're not privy to it doesn't mean it's bad.
+Varis
+Bad.
+Unknown
+Yeah, true.
+Ogre
+I think the nonsense that Ogre was saying earlier about plans is probably the smartest thing he's ever said.
+Unknown
+Yeah.
+Orphe
+What if there are seven plans?
+Rin
+Yeah. Was like, oh, yeah. That actually kind of makes sense, probably.
+Ogre
+It's like the first half of a lot of different thoughts.
+Kalmar
+Amazing. Great session, guys. Great session.
+Sanis
+That was interesting going on there.
+Orphe
+The end really picked up there. It did. I was a fan.
+Rin
+I just felt like. Like when [[DM]] was describing the final scene, it was just like one of those things where you just see the chaos, but it's in slow motion. And then Ogre is like kind of in real time and looks up and then season are set and then everything goes black and it's like, next episode.
+Orphe
+Next time on the breakfast club, the JoJo.
+Kalmar
+To be continued meme.
+Rin
+Yes, exactly. Okie doke. I've gotta get up at 5am tomorrow, so I'm gonna sign off. Night, y'. All.
+Sanis
+Night, guys.
+Rin
+Good night, guys.
+Orphe
+Oh, oh, hey, whoever's left. Do you guys want to. I. I forgot to start recording again after we came back from break. Who's still here?
+Kalmar
+I'm still here.
+Orphe
+Chat and Vincent, just say what you were wearing? I started like, right when we got to the thing. I just. What I didn't get was what everybody was wearing.
+Kalmar
+Sanis was wearing a fancy suit, all black. He sent a picture in the chat with a ski mask.
+Orphe
+Just eye holes and mouth hole cut out.
+Kalmar
+Yep. Varis is wearing a. Just his regular robe that looks ornate enough with a full kind of like off white mask.
+Orphe
+Okay.
+Kalmar
+Ogre. Ogre is wearing a rainbow suit with like four, maybe five or six different masks, one of them himself included. Orphe, you're wearing a power suit. All black, white undershirt with a black bow tie, dreads in a half up, half down style, and a Zoro mask.
+Orphe
+Okay. The only thing I'm gonna change about that is that I do. I just want it to be like, I don't know what a power suit is. So I'm just gonna say like that it's a just a very well fitted tuxedo.
+Unknown
+Yep.
+Kalmar
+That's what we call a power suit.
+Orphe
+Okay, cool. I'm like, I don't know what a power suit is, but.
+Kalmar
+Yeah.
+Orphe
+Okay. Excellent.
+Ogre
+My very first thought was, I picture Orphe being, like, the groom in a lesbian wedding.
+Orphe
+That picture of Blake Lively helps.
+Kalmar
+Yeah, that's.
+Ogre
+That's exactly what I was picturing.
+Orphe
+She's like, I don't want to wear a dress. And then she puts on a tux. She's like, God damn, I look good.
+Varis
+And I. I sent you a picture of Virus if. I don't know if you were, like, manually putting the description in the.
+Orphe
+I'm not, like, I'm going by voice, so if you want to describe it.
+Varis
+Yeah, it's, like, black robes with, like, ornate. It's got, like, purple accents and silver trim that look like flames. Kind of.
+Orphe
+Excellent. All right. All right.
+Rin
+Okay, thank you.
+Unknown
+Oh, wait.
+Kalmar
+And then Rin was wearing.
+Unknown
+A red suit. I assume it's, like, the same color as her hair and is wearing a mask with dragons and suns a la dol Ara.
+Orphe
+Is she wearing a suit or is she wearing a dress?
+Unknown
+Oh, like a skirt. A skirt. Red skirt and, like, a red top. Kind of Victorian style.
+Orphe
+Yeah, Victorian style.
+Varis
+Didn't she have some with green or.
+Orphe
+She started screaming, but she changed her mind.
+Unknown
+She got her characters confused.
+Orphe
+Well, you know what? Green and red are not a bad combo. It's just kind of [[DM]]tmasy.
+Kalmar
+We see it every winter.
+Orphe
+All right, well, thank you, guys. That's all I needed. I have. I think I have the rest of the notes ready to go, or it might be. The most recent one is still happening, so I'll upload those in a minute.
+Unknown
+Yep. Taylor, do you mind just sending me both of those? Or, you know, if it's in, like, that Google link that you sent?
+Orphe
+I will do both.
+Unknown
+Sick.
+Orphe
+Yep.
+Varis
+Just don't forget that. That audio clip of. Can you roll for Greg's.
+Orphe
+Okay, I'll try to find that.
+Varis
+All right.
+Kalmar
+Amazing.
+Orphe
+All right, later, you guys.
+Unknown
+All right, cheers, guys. Great session.
+AssemblyAI | Playground
+

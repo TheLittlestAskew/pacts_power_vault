@@ -1,0 +1,4307 @@
+---
+source: 05-090725-Pacts.md (Raw)
+corrected: true
+correction_date: 2026-05-16
+corrections_applied: 40
+---
+
+# 05-090725-Pacts (Corrected)
+
+> Spelling normalized per campaign spelling dictionary.
+> Verbatim transcript text preserved except for proper noun corrections.
+> Total corrections: 40 (Artifacts: 1, Characters: 7, Guilds: 1, PC Names: 30, Planes: 1)
+
+---
+
+05-090725-Pacts
+
+Orphie (Taylor(Me))0:14
+We are recording. All right, wait. Do me a favor, everybody, just one by one, say your name real quick. It'll just make my life a little bit easier when I'm trying to identify speakers.
+Chandra (Bree(Guest Player))0:16
+I love it.
+Orphie (Taylor(Me))0:20
+Character name or it doesn't matter.
+[[DM]]0:30
+Ogre, Rin Bars, Stannis.
+Chandra (Bree(Guest Player))0:33
+Chandra.
+[[DM]]0:38
+Dm.
+Orphie (Taylor(Me))0:40
+Yeah, that works.
+Chandra (Bree(Guest Player))0:40
+Thanks.
+Orphie (Taylor(Me))1:02
+I have. I always list people like chess or it's like Ogre with Chet in parentheses and Chris with dm and no DM with Chris in parentheses, which makes it easier because sometimes we talk to each other not in character.
+Ogre (Chet)1:10
+Yes, Ogre. So it's the right voice.
+Orphie (Taylor(Me))1:21
+I think it. I haven't had trouble distinguishing between voices except for for one time and it was Chris.
+[[DM]]1:24
+Probably the different voices.
+Orphie (Taylor(Me))1:24
+Mhm.
+Ogre (Chet)1:26
+That makes the most sense.
+Orphie (Taylor(Me))1:34
+Um, but I also have it set for ChatGPT to ask if it's not sure which voice belongs to which person.
+[[DM]]4:37
+Cool. Cool. All right, let's do a quick summary then. Uh, last session you guys were at the Selesnya Conclave. Did a bunch of tasks there. You met up with Brula, who is Selena, one of Selena's, uh, were zombie sisters. And you sent her off to go to the Izzet Guild to fix up Scrappy and possibly punch Ral if she sees him. Uh, and then Nissa gave everyone a potion of superior healing and one extra, the Chandra, and basically caught, uh, Nissa up with what was going on in the whole situation. Um, and then you guys went over to the front lines to go grab the jar of holding that you guys had notice that the Allies had reinforced the line, brought in their ema tanks, uh, fortifications, etc. So you guys go out with Molly's blessing to grab the, um, the drawer of holding. Rin, you take the old Ogre's Tavern sign, put it in the drawer. You guys go back to the apartment. It's chaos. You see that the Gruul broke through to the Boros district. Um, but you met up with Clarissa outside of the apartment to take the drawer and run over to the Selesny Guild. She has no idea where her boyfriend is, but you brought. You told her to get the safety. Um, then you guys hopped onto Varis and Vars. You flew the party over to the Golgari Guild to meet to go to the bone mine because Brula had told you guys that Selena was there and injured. On the way there, you guys found a certain Isaiah bending Eternals off of Niv mizz body. So you guys naturally disembarked, fended off the Eternals, helped Isaiah much to the Chagrin of, uh, Sanus and Orphea. Uh, but notably, Isaiah was the one that did free Chandra from, uh, her prison from being imprisoned. Um, so Chandra wanted to go and help Isaiah out. And so then with Ogre's help, Varis captured Niv's essence into the dragon box that he had that was emblazoned with Niv Miz's symbol, and then decided to go to continue on to the bone mine. And Isaiah said that he would join you guys. Okay, so that's where we leave off. You guys are just around the area where N Miss's, uh, body and essence had been absorbed, and you guys are hanging with Isaiah.
+Ogre (Chet)4:44
+All right, let's go.
+Rin (Rachel)4:53
+I mean, we shouldn't leave Selena alone, if possible. So. Yeah, we should probably get going.
+Orphie (Taylor(Me))4:56
+Yeah, I think that's the plan.
+Ogre (Chet)5:00
+We go.
+Rin (Rachel)5:03
+How far are we right now at.
+Ogre (Chet)5:05
+The end of that still?
+[[DM]]5:05
+Right.
+Ogre (Chet)5:09
+Like, we're trying to bust ass over there.
+[[DM]]5:14
+Yeah. Uh, Isaiah goes. So do any of you know where to go then?
+Rin (Rachel)5:17
+I think we do.
+Ogre (Chet)5:19
+Yes.
+[[DM]]5:20
+Who is leaving?
+Sanis (Gabe)5:36
+Yeah, I already. I already started walking towards the. The little tunnel entrance under underground that we usually take whenever we go back home for me. Um, so I just already started walking that in that direction, wherever that is.
+Rin (Rachel)5:42
+Because we're currently still in the dmz, right?
+[[DM]]5:43
+Yeah.
+Ogre (Chet)5:45
+But we got a big dragon.
+Rin (Rachel)5:46
+Yeah.
+Ogre (Chet)5:49
+For a little bit longer at least.
+Chandra (Bree(Guest Player))5:53
+I thought he had to turn back or was he still dragon?
+Ogre (Chet)5:55
+You're a regular sized dragon now.
+Varis (Vincent)5:56
+Yeah, that's right.
+Rin (Rachel)5:57
+Right.
+[[DM]]5:59
+Yeah. You're still a dragon.
+Varis (Vincent)6:03
+Yeah. So, Chris, if I have.
+[[DM]]6:03
+If.
+Varis (Vincent)6:19
+If Ogre gives me one of his reduced mushrooms and I would go down to large size, would that allow me to. I mean, I would fit in the tunnel, but would that allow me to fly? Or is my wingspan still too big?
+[[DM]]6:26
+If you're reduced size, you could still fly. As for getting into the tunnel, you guys aren't there yet, so.
+Varis (Vincent)6:29
+Right, yeah.
+Rin (Rachel)6:36
+So we could still just have you fly us over to where the tunnel entrance is, which I think was the plan.
+Varis (Vincent)6:45
+Oh, I mean, yeah, to get to the tunnel. I. I was thinking, like, when we get to the tunnel, if I would still be able to fly down it just to keep us at the same speed.
+Rin (Rachel)6:47
+Probably not.
+[[DM]]6:50
+So we're all hopping on top of Venice's back then?
+Rin (Rachel)6:51
+Yes.
+[[DM]]6:60
+Yeah, we're already up here. Come on. Oh, great. And you see him just, like, single jump up on top of Boris's back.
+Ogre (Chet)7:02
+I'm gonna look over at Orphe and.
+[[DM]]7:03
+Go, okay, I get it.
+Orphie (Taylor(Me))7:09
+Okay, okay.
+[[DM]]7:11
+Ogre finally annoyed me.
+Rin (Rachel)7:15
+Hey, Ogre doesn't like someone. What is this?
+Orphie (Taylor(Me))7:25
+I feel like, um, at this moment, Orphe and Sanish Santa would share a. A look of annoyance about Isaiah.
+Sanis (Gabe)7:40
+Oh, yeah, I definitely already rolled my eyes and everything. And just like, I'm trying to keep my distance from him because I blame him for Selena's death. I've gone through the list of, uh, anybody I could blame, I've blamed them. He's last on the list. I was first.
+[[DM]]7:48
+Even though deep down, you know that it's not actually his fault.
+Orphie (Taylor(Me))7:50
+Who's to say?
+Sanis (Gabe)7:54
+Everybody knows it's my dad's fault, but yeah, I'm gonna hold him to it.
+[[DM]]8:21
+Right, right, right. Naturally. Um, but yeah. So you guys make your way over to the entrance to the bone mine, or as flies on over. Yep. All right, cool. While you guys are flying over, Isaiah just goes. So, friends. Uh, you know, it's been a hot second since I've seen you. I. What have you been up to?
+Rin (Rachel)8:31
+Quite a lot, actually. Um, there was a five year time skip that we missed prison.
+Orphie (Taylor(Me))8:35
+We've seen him since then.
+[[DM]]8:37
+Uh.
+Rin (Rachel)8:40
+Oh. We didn't interact with him, though, while he was down there. Right.
+[[DM]]8:41
+You saw me in prison?
+Rin (Rachel)8:42
+Oh, we did.
+[[DM]]8:44
+I think it was only I did.
+Orphie (Taylor(Me))8:56
+We saw him right before we went into the thing with the trials, because it was the day my dog died and I just was not interacting with him.
+[[DM]]9:11
+Right, right. That is. That is right. Isaiah goes. So wait, you. You saw me in jail? But, uh, it's fine. I. You. As you can see, I got that. Anyways, you didn't want me to get you out.
+Ogre (Chet)9:12
+I. I asked.
+Chandra (Bree(Guest Player))9:15
+You told me. Oh.
+[[DM]]9:21
+Oh, you know, that was the other time. There are so many times that it just gets kind of confused in my head.
+Rin (Rachel)9:24
+Is there a reason always end up in jail?
+Orphie (Taylor(Me))9:32
+I swear to God, he's like time jumping. Oh, is it because he's a troublemaker? Is it because he's going around doing.
+Rin (Rachel)9:35
+True. That actually would explain.
+[[DM]]10:02
+You know, I'm simply. I'm a traveler. I go to different places and I experience the worlds you know, I've been to. You guys have been to Ixalan, I've been to Tarkir. I've been to Erexia. Uh, not a pretty place, but still a good experience. You know, strict saving changed a lot. Changed a lot.
+Sanis (Gabe)10:05
+It sounds like you like to around and find out is what it sounds.
+[[DM]]10:05
+Like.
+Chandra (Bree(Guest Player))10:08
+When he mentions.
+[[DM]]10:16
+You know, Sennis. I do in fact do both, just so you know.
+Orphie (Taylor(Me))10:19
+Of course I Think he wants to you.
+[[DM]]10:48
+Yes. But anyways, uh, and he walks over to Chandra, and he puts a hand on Chandra's shoulder. You know, things didn't go completely to plan, but, uh, you know, we made it out alive anyways. Isn't that right? And he kind of, like, punches you in the chest. Softly. Chandra.
+Chandra (Bree(Guest Player))10:52
+I was gonna say she's gonna punch him back at a sheer reflex.
+[[DM]]10:55
+Just like a joking punch.
+Chandra (Bree(Guest Player))10:56
+Yeah.
+[[DM]]10:59
+Um, but he still goes. Oh. Ow. Okay.
+Chandra (Bree(Guest Player))11:05
+Did anyone. Did anyone else make it out from the Flame Seekers?
+[[DM]]11:42
+Uh, you know, now that I think about it, uh. Uh, no. No, no, no. Uh, no. After you got captured, it was, uh, not a very good time. Uh, you know, Professor Onyx, she. She snitched on everyone. She let everyone. He. She let, uh, Bolas know the identities of everyone. So it was not safe.
+Chandra (Bree(Guest Player))11:47
+She made it out. Who do you know if she made it out?
+[[DM]]11:59
+Oh, Professor. Hey. Yeah. Have you seen her?
+Chandra (Bree(Guest Player))12:00
+No.
+[[DM]]12:04
+Mhm.
+Chandra (Bree(Guest Player))12:08
+Chandra's just gonna be mad.
+Ogre (Chet)12:10
+What's a professor?
+Rin (Rachel)12:18
+They're kind of like the teachers from high school, but usually get paid a lot more.
+Chandra (Bree(Guest Player))12:20
+Would he know what high school is?
+Rin (Rachel)12:21
+Yes.
+Ogre (Chet)12:25
+I just wanted him to be confused about the wrong part of this.
+Orphie (Taylor(Me))12:31
+If you're not sure if he might know something, it's okay to talk to him like he's stupid. I do.
+[[DM]]12:34
+Oh, professors get paid?
+Orphie (Taylor(Me))12:37
+Oh, my God, most of the time they do. Yeah.
+Chandra (Bree(Guest Player))12:44
+I think when you're not acting undercover as one, you get a paycheck. If you're undercover, then the school didn't officially hire you.
+[[DM]]13:01
+Oh, that is true. You know, it just so happened. I guess it makes sense that you walk into a classroom and you stand in the front and you start talking. Uh, people. Depends. Usually listen. They listen to me.
+Rin (Rachel)13:07
+Did he. Did he pretend to be a professor at this Strixhaven place?
+[[DM]]13:09
+Yes.
+Rin (Rachel)13:20
+Oh, God, I was asking that to Chandra, but yes. I'm not surprised in the slightest.
+[[DM]]13:28
+Yeah, Chandra even, uh. She even attended some of my classes.
+Rin (Rachel)13:35
+Hopefully you are actually teaching correct information, so.
+Chandra (Bree(Guest Player))13:38
+Sorry. My parents brought me food.
+[[DM]]13:60
+Ooh, nice. Um, I taught a class. It was called Adventuring 101. And then I also taught another class called the, uh. On the undead and defending against them. You know, I have fought against the undead, like, once or twice.
+Orphie (Taylor(Me))14:04
+We.
+Rin (Rachel)14:05
+We know.
+[[DM]]14:11
+Oh, that's right. That one time on Excel. Oh, now I remember.
+Rin (Rachel)14:14
+Yes, you literally turned an entire.
+[[DM]]14:16
+M.
+Rin (Rachel)14:19
+Army of zombies, um, who were just minding their own business against.
+Orphie (Taylor(Me))14:32
+Have you forgotten? Because we remember. Pepperidge Farm remembers.
+[[DM]]14:46
+You see, that was early on. Into the career, you know, early on. Yeah, early on into the experience. Yeah. Remember, it's been five years.
+Ogre (Chet)14:52
+What did you do late on after, out of experience?
+[[DM]]14:54
+Well, fighting. More on dead.
+Ogre (Chet)14:57
+What's the best one?
+[[DM]]15:04
+Oh, there was this big guy. This big guy. Bony arms and, uh, very sinewy muscles.
+Varis (Vincent)15:05
+Yeah.
+Chandra (Bree(Guest Player))15:07
+Was that the one you found in the cave near the school?
+[[DM]]15:32
+Oh, yes, yes, he was in the cave. And you see, and he brandishes his, uh, his, uh, long sword that's got like fire dancing up it, you see. Quick tricks with this. And, uh, you know, you cut it off and you burn the incision. I are very effective against yonded, so. It's weird.
+Ogre (Chet)15:36
+My sword too. Darkness.
+[[DM]]15:41
+Oh, whoa. Watch. Where do you swing the thing?
+Ogre (Chet)15:51
+Yeah, she's cool. She eats souls or something. I think she poops them into my.
+[[DM]]16:00
+Ball from a Game Boy. It must be very. That must be a very dangerous.
+Chandra (Bree(Guest Player))16:03
+Not.
+Ogre (Chet)16:05
+Coming out because I said that.
+[[DM]]16:08
+He's embarrassed.
+Chandra (Bree(Guest Player))16:13
+What?
+Rin (Rachel)16:15
+I hope to God the AI got that one.
+Orphie (Taylor(Me))16:16
+I'm sure it did.
+Chandra (Bree(Guest Player))16:18
+Chad.
+Varis (Vincent)16:21
+I think that's the worst line you've ever said.
+Rin (Rachel)16:26
+I'd have to agree with that. In all the times I've played with you. I think that is one of the worst lines, if not the worst.
+[[DM]]16:27
+Why?
+Ogre (Chet)16:29
+Because, uh, it might be kind of right.
+Rin (Rachel)16:33
+Yes.
+Sanis (Gabe)16:35
+Should we be worried about Ogre?
+Rin (Rachel)16:39
+We're always worried about him. But he somehow is okay.
+Orphie (Taylor(Me))16:47
+Somehow was thinking his wisdom was improving. And yet maybe not so much a problem.
+Varis (Vincent)16:49
+Well, I think the fact that he understands.
+Sanis (Gabe)16:50
+Proven wrong again.
+[[DM]]17:04
+It'S like that's a testament in and of itself, you know, Ogre, this. This bullet sounds very interesting. Do you mind if I see it?
+Orphie (Taylor(Me))17:07
+I wouldn't touch it if I were you.
+[[DM]]17:14
+Sure. Oh, sure. Let me see. No, let him.
+Sanis (Gabe)17:16
+Let him touch it. Let him touch it. Let's watch.
+[[DM]]17:31
+Uh, you hold it up to him. Yeah, you hold it up to him and he takes a look. He kind of cocks his head and goes. Oh, you know, I think I've seen this before. And, uh, you see him put not even like one finger on it and he slumps over unconscious.
+Ogre (Chet)17:36
+Does he just fall off the dragon? Does anyone hold on.
+Orphie (Taylor(Me))17:37
+What did you say?
+Chandra (Bree(Guest Player))17:42
+Grab Isaiah. Uh, and be like. Did you just.
+[[DM]]17:44
+What? What?
+Rin (Rachel)17:48
+You don't touch the Leather Daddy Game Boy.
+Chandra (Bree(Guest Player))17:51
+The what?
+[[DM]]17:52
+The letter Daddy Boy.
+Orphie (Taylor(Me))17:55
+Leather Daddy Game Boy.
+Rin (Rachel)17:58
+The ld. Ldbg.
+Orphie (Taylor(Me))18:06
+It was a Leather Daddy ball and there was a Game Boy and then they were combined and now it is a Leather Daddy Game Boy.
+Chandra (Bree(Guest Player))18:14
+But why? What do you Mean, is Isaiah, like, alive?
+Orphie (Taylor(Me))18:16
+He's fine.
+Rin (Rachel)18:24
+He was just overwhelmed by the ex. Like, literally intaking the thousands of deaths that have.
+Ogre (Chet)18:30
+Yeah, yeah, Maybe hundreds. You want to try it?
+Rin (Rachel)18:32
+Don't. Would not recommend.
+Chandra (Bree(Guest Player))18:39
+No, no, I'm. I'm good. I think I've been close enough to death already.
+Rin (Rachel)18:44
+Yeah, I would. I, uh, would not recommend.
+Chandra (Bree(Guest Player))18:48
+Wait. Like, it just knocks your ass out.
+Rin (Rachel)18:50
+Well, or worse.
+Ogre (Chet)18:52
+I don't know what they're doing.
+[[DM]]18:53
+It.
+Rin (Rachel)19:02
+It doesn't necessarily knock you out. Pretty much the soul of a dead God. A dead death God exists in that thing.
+[[DM]]19:07
+Um, and as well as the God of Goddess of ambition.
+Rin (Rachel)19:10
+What?
+Chandra (Bree(Guest Player))19:14
+Just carry that around? Why does he have that?
+[[DM]]19:18
+Well, yeah, uh, Ogre absorbed. Uh, Oketra.
+Rin (Rachel)19:25
+Oh, yeah. There's now three. No, there's three gods in there because there's two gods of death and one goddess of ambition.
+[[DM]]19:31
+Wait, what was the other God of death?
+Rin (Rachel)19:35
+Um, the bat boy from Exalted.
+[[DM]]19:45
+It was the. Oh, okay, you're talking about Orogalon. Okay, okay, yeah. Arugula. Oh, my God.
+Varis (Vincent)19:46
+Is that his new name?
+[[DM]]19:53
+Oh, my God. Daddy. Arugula. Uncle Arugula. Yeah.
+Rin (Rachel)20:11
+Anytime, like, I hear someone's name like that, I don't like, quite. That's not, like, quite, like, English. Uh, in fantasy, somehow it just ends up equating to something that just sounds like food. Like, there's a Guild Wars 2 character that I've just now affectionately named Tiheen instead of Tahern.
+[[DM]]20:14
+Tahini. Oh, my God.
+Rin (Rachel)20:17
+Yep. His name is Tahin, but. Yes.
+Chandra (Bree(Guest Player))20:21
+So Daddy Processing is hilarious.
+Rin (Rachel)20:54
+It's great. I love it. But yeah, so, uh, yeah, so there is, uh, at least three God souls, along with multiple old, um, ghost souls from the Orzhov in there. So, um, yeah, you kind of just get overwhelmed by all of their thoughts about just experiencing the death of millions of people all at once. It's kind of traumatizing. So if you're not prepared for that, you're gonna get smacked.
+Chandra (Bree(Guest Player))21:01
+How is he? Okay. And Chandra kind of looks concerned at Ogre.
+[[DM]]21:02
+Yes.
+Chandra (Bree(Guest Player))21:05
+He's just a little guy because it.
+Rin (Rachel)21:07
+Was made for him. And that's kind of the thing.
+Orphie (Taylor(Me))21:12
+Out of character. Ogre is a God.
+Chandra (Bree(Guest Player))21:13
+Yeah, no, I know.
+Rin (Rachel)21:16
+He's a demi. Again, essentially a demigod.
+Chandra (Bree(Guest Player))21:19
+Yeah, I don't know if Chandra knows that, so I'm playing it up. Like, she doesn't.
+Orphie (Taylor(Me))21:26
+We don't even know that. Not really. I mean, like, I think maybe we have some information, but we're not totally sure.
+Rin (Rachel)21:35
+I think written is essentially at this point inferred it just from the fact that she has, like, experienced the leather Daddy ball before. Twice. Twice.
+Orphie (Taylor(Me))21:40
+Orphea just tries not to think about it because it just seems like too big of a thing right now.
+[[DM]]21:41
+Yep.
+Ogre (Chet)21:46
+I thought he kind of told you when he got smart for that little bit.
+Rin (Rachel)21:57
+Oh, yeah, Wait, no, we do know about this. Yeah. Because you were telling us about our previous, like, uh, from m. The picture on Ixalan, like, the different people at the tree.
+Ogre (Chet)21:58
+Yeah.
+Orphie (Taylor(Me))22:02
+Like I said. Or if he just is trying not to think about it.
+Rin (Rachel)22:07
+Yeah. Because you technically met her grandmother. You've met Athena.
+Orphie (Taylor(Me))22:08
+There's way too much going on.
+Rin (Rachel)22:16
+No, you are not bringing that into existence.
+Orphie (Taylor(Me))22:18
+No, absolutely not.
+Rin (Rachel)22:19
+I reject that.
+Orphie (Taylor(Me))22:21
+I reject that.
+Rin (Rachel)22:31
+So there is an ongoing joke that anytime we run into some sort of, like, demon or devil of some kind of, um. That. That is.
+Orphie (Taylor(Me))22:34
+Or God. Yeah.
+Rin (Rachel)22:46
+Um, that. That is who? Athena. To get, uh, Orpheus bloodline. I can't remember if it's your maternal or paternal side and how the tiefling started.
+Orphie (Taylor(Me))22:53
+Oh, I'm not even sure if it was maternal or paternal. I'm not sure I ever indicated that I was gonna say.
+Chandra (Bree(Guest Player))22:55
+I think paternal eternal.
+Rin (Rachel)23:01
+Makes sense. Yeah. Because. Because your dad was the one that was really forced, like, forcing the magic, if I remember correctly.
+Orphie (Taylor(Me))23:02
+He's a jackass.
+Rin (Rachel)23:10
+Yeah. So there's a joke. Anytime we ran in, run into somebody, she's always asking if that's her grandfather or not. Because we don't know.
+Chandra (Bree(Guest Player))23:11
+Are you my grandpapa?
+Orphie (Taylor(Me))23:20
+The leading. The leading option was actually the first one we ever met who is very much like a Balrog from Lord of the Rings.
+Rin (Rachel)23:23
+Well, and he knew about.
+Chandra (Bree(Guest Player))23:24
+Somebody has a type.
+[[DM]]23:25
+He.
+Orphie (Taylor(Me))23:26
+He knew too much. What?
+Chandra (Bree(Guest Player))23:28
+You say somebody has a type?
+Orphie (Taylor(Me))23:39
+Yes. Well, I mean, she's a Tling. And to continue that bloodline, there'd need to be definitely some demon in there.
+[[DM]]23:43
+Yep. Doesn't.
+Ogre (Chet)23:44
+A giant snake.
+[[DM]]23:45
+So.
+Orphie (Taylor(Me))23:54
+Hey, listen, there's somebody on this planet who would. A giant snake. I guarantee it.
+Chandra (Bree(Guest Player))23:55
+God.
+[[DM]]25:05
+Let's not bring that note. We fade the black. Cut to the next scene. And you guys are now approaching the entrance to the bone mine. Um, and when you guys do so, um, you guys are overhead, so I'll just tell you guys. Um, you see, uh, on the approach to the mine, the air starts to smell like, uh, like death and decay. Um, but also you. You catch a lot of, like, earthiness and, like, dust being kicked up. And when you look down, you see that there are hundreds of, uh, dead eternals. Just littered, uh, across the field, heading towards, uh, or towards the entrance of the bone mine. They're just hundreds of Eternals corpses.
+Rin (Rachel)25:09
+Oh, those bikinids went ham.
+[[DM]]25:11
+Um, yes.
+Orphie (Taylor(Me))25:15
+Good for them. I. You know, I was on the fence.
+Rin (Rachel)25:16
+About those guys.
+Orphie (Taylor(Me))25:19
+But I'm convinced now.
+[[DM]]25:23
+Um, if you want to take a closer look, you'll have to land.
+Orphie (Taylor(Me))25:26
+Isn't this where we're going?
+Rin (Rachel)25:30
+It's before the mine.
+Orphie (Taylor(Me))25:30
+Oh, uh.
+Sanis (Gabe)25:43
+So we can't see anybody that may. Is even at this height that like, may be alive and, or animated or whatever that can harm us or.
+[[DM]]25:52
+No, you. You can't really tell. You need to get closer. Okay, let's get close enough.
+Rin (Rachel)25:55
+Varis, do you want to get in a little closer?
+Varis (Vincent)26:04
+I mean, what, just to see if there's any. If it's actually dead bodies or not on the field, I guess.
+Ogre (Chet)26:09
+Um, like, if something's gonna explode out of this when we go forward, that would kill us too.
+Sanis (Gabe)26:19
+He said they were by the entrance, so it'd be. It'd be best to like, check to make sure we don't get ambushed.
+Varis (Vincent)26:24
+Consensus is that. Good idea.
+Chandra (Bree(Guest Player))26:31
+M. Who else would be fighting the Eternals that would want to ambush us?
+Ogre (Chet)26:34
+People weren't expecting us to show up.
+Orphie (Taylor(Me))26:39
+I'm never surprised about people wanting to beat us up.
+Chandra (Bree(Guest Player))26:43
+No, people are kind of dicks in. In catastrophic events anyway, so.
+Orphie (Taylor(Me))26:45
+Yeah, that's about right.
+Sanis (Gabe)26:51
+All of this is happening and Isaiah is still just slumped over on top of Varis's back, right?
+Chandra (Bree(Guest Player))26:53
+Yeah, I'm holding on to him.
+Rin (Rachel)26:56
+It has been slapping him across the face to wake him up.
+[[DM]]26:59
+No, he's not waking up.
+Rin (Rachel)27:02
+That's not surprising. A lot of damage?
+[[DM]]27:17
+Uh, no, but. But every time you do slap him, he just goes. He's just like. He. He snores and you hear him whisper. Whisper. Cheese. Cheesecake. Mhm.
+Rin (Rachel)27:20
+I must really like cheesecake.
+Chandra (Bree(Guest Player))27:22
+Does anyone have a marker?
+[[DM]]27:23
+I get that too.
+Orphie (Taylor(Me))27:35
+Or if he keeps a Sharpie in her pocket. Um, because she likes to draw on her jeans so she hands it to you.
+Chandra (Bree(Guest Player))27:42
+I don't know what he. He looks like, but I will draw a monocle and a mustache just for fun.
+Orphie (Taylor(Me))27:47
+I think he has a mustache. Uh, but a monocle would work.
+Chandra (Bree(Guest Player))27:51
+I'll add a goatee there.
+[[DM]]27:53
+Um, give him a unibrow.
+Sanis (Gabe)27:54
+Give him a unibrow.
+Ogre (Chet)27:59
+The shit taking grin picture.
+[[DM]]28:03
+Yeah, yeah. Yep, yep, yep. It's that picture.
+Chandra (Bree(Guest Player))28:10
+God, this looks like somebody's granddad.
+Ogre (Chet)28:12
+He's pooping and confident about it.
+Chandra (Bree(Guest Player))28:14
+Oh, no.
+Orphie (Taylor(Me))28:15
+Drive safe.
+Chandra (Bree(Guest Player))28:22
+Oh, he's got A beard, though. Um, yeah, I'll draw, like, the nerd mustache.
+Sanis (Gabe)28:23
+Uh, bye, Corey.
+[[DM]]28:23
+Have a good day.
+Orphie (Taylor(Me))28:30
+Gabe says, bye, Unibrow. He's. He's already halfway out the door.
+[[DM]]28:36
+Um, all right. You drawing Isaiah's face? Yeah.
+Chandra (Bree(Guest Player))28:45
+They'd be like, this is for those boring ass. Uh, lectures. Saved my life, but I still had to tolerate that in the meantime.
+[[DM]]28:57
+Love that. Love that. Um, all right, uh, with that, you guys descend and get a little bit closer. Um, anyone that wants to give me a perception. Ch.
+Sanis (Gabe)29:03
+What time of day is it?
+Orphie (Taylor(Me))29:07
+I'm not even.
+[[DM]]29:11
+You know what? I guess it would be night time. It would be later in the day, because you guys haven't long rested yet, right?
+Chandra (Bree(Guest Player))29:12
+Oh, no.
+Sanis (Gabe)29:12
+Yeah.
+Rin (Rachel)29:13
+No.
+Sanis (Gabe)29:15
+Oh, we had a long rest.
+Rin (Rachel)29:17
+No, we didn't.
+Sanis (Gabe)29:20
+Why'd you guys say that? Son of a. I ain't gonna. Long rest.
+Orphie (Taylor(Me))29:21
+You know what he did?
+Chandra (Bree(Guest Player))29:23
+I got a seven.
+Orphie (Taylor(Me))29:24
+No, sir.
+[[DM]]29:36
+If you guys. If you guys want, um, this flight to be a short rest, do you guys need the HP recovering?
+Rin (Rachel)29:38
+I will take.
+Orphie (Taylor(Me))29:40
+I'll let you guys decide that because it didn't do for me.
+Varis (Vincent)29:43
+Uh, I got a 18 perception.
+Orphie (Taylor(Me))29:45
+Yeah, hold on.
+Rin (Rachel)29:49
+I did not do well in my perception. That is math. I got a 16.
+Orphie (Taylor(Me))29:55
+I got a 15 perception.
+[[DM]]29:56
+Yeah.
+Chandra (Bree(Guest Player))30:03
+I got a seven.
+Rin (Rachel)30:06
+Oh, do I need to roll mine?
+[[DM]]30:10
+You're just busy holding Isaiah so he doesn't fall off.
+Rin (Rachel)30:15
+It did not automatically apply my healing dice. Rude.
+[[DM]]30:21
+Okay, um, everyone that got over a 14 or over.
+Rin (Rachel)30:22
+God damn.
+[[DM]]31:07
+Uh, you see that, um, there are a bunch of broken concrete pillars strewn about the Eternals. And if you, uh, with a 14 or over, you do see that there are, uh, like, claw marks through, uh, some of the Eternals, as well as, uh, bone arrows protruding from a lot of them. You actually see. You actually see a line of five Eternals, uh, all pierced through the same giant bone arrow. Hell, yeah.
+Rin (Rachel)31:09
+That must have been Selena's, then.
+Ogre (Chet)31:14
+Oh, so it's safe. I'm just gonna start waltzing over.
+[[DM]]31:23
+Um, okay, so every ogre, uh, you hopped off Varys, and you're. You're going towards the entrance. Yeah.
+Ogre (Chet)31:27
+Sel has been out here killing people. It's safe. I have no worries whatsoever.
+[[DM]]32:04
+All right, Ogre, you walk towards the entrance to the bone mine, and you see that it had been collapsed in, uh, but then, uh, uh, excavated. And in fact, Ogre, you see, uh, three Eternals, uh, just mindlessly digging with shovels at the entrance to the bone mine. Uh, you see that, uh, one of them is missing a Leg, but still standing. Another one is missing an arm, and the other one is just a torso, but still digging with a shovel.
+Ogre (Chet)32:07
+Absorb their souls.
+[[DM]]32:23
+You walk over, you're just gonna slice them in a. Um, I'm gonna go up, like. Hi, I'm Ogre. Uh, you. You just hear. You hear them all say, dig, dig, dig. Tunnel, dig, tunnel.
+Chandra (Bree(Guest Player))32:25
+Diggy, diggy hole.
+Rin (Rachel)32:27
+Diggy, diggy hole.
+Sanis (Gabe)32:30
+Even the one without the head. Just the torso.
+[[DM]]32:33
+Uh, torso and head. Torso up.
+Rin (Rachel)32:34
+No legs.
+[[DM]]32:36
+Oh, like. Like black.
+Sanis (Gabe)32:36
+No legs.
+[[DM]]32:37
+Yeah.
+Sanis (Gabe)32:39
+Oh, God. Okay.
+Rin (Rachel)32:41
+T of just a flesh wound.
+[[DM]]32:52
+Yeah. But, uh, yeah, Ogre, you come by and you do a single sweep, and you reap, uh, all three mindless eternals. Yeah.
+Ogre (Chet)32:58
+I'm gonna start digging using this shovel.
+[[DM]]33:13
+All right. Uh, you can't. You guys. The rest of the party, I imagine, uh, walk up to the entrance of the bone mine, and you see Ogre just having reaped three of the eternals that were mindlessly digging and then just started continuing to dig on his own.
+Rin (Rachel)33:30
+Um, does it. How far had they gotten into the excavation? Because you said the. The, like, entrance had been collapsed.
+[[DM]]33:38
+Yeah. Okay, you see that? You see that? The entrance is big enough for, like, two people to fit side by side through.
+Rin (Rachel)33:42
+Not a giant dragon.
+Ogre (Chet)33:46
+But a large dragon.
+Varis (Vincent)33:54
+I mean, I could try and speed up the excavation.
+Rin (Rachel)33:55
+You could.
+Ogre (Chet)33:58
+So let's try that first.
+Rin (Rachel)34:02
+Yeah, I'm good with that.
+Ogre (Chet)34:04
+Help me dig.
+Rin (Rachel)34:08
+Rin's just gonna stand back and watch because she has no strength.
+[[DM]]34:13
+All right, is anyone else helping Varis, uh, and Ogre out?
+Chandra (Bree(Guest Player))34:16
+No.
+Varis (Vincent)34:20
+So would.
+[[DM]]34:24
+Um.
+Varis (Vincent)34:40
+It doesn't say as much that it would affect, like, objects, but would my force spread? The fact that it's force damage, would that affect, like, the. The tunnel, the blockage? And you can certainly try into it, through it.
+[[DM]]34:41
+You can certainly try.
+Varis (Vincent)34:57
+Yeah. I'll see if my force breath can just, like, blast it open. Do you want me to, like, roll damage for it or, like.
+[[DM]]34:58
+Yeah, yep. Uh, roll damage, please.
+Varis (Vincent)35:05
+67.
+[[DM]]35:52
+67. Um, okay. Yeah, that's. That's pretty good. Um, you managed to, uh, with your, uh, dragon breath weapon, um, blow away a pretty good amount of rubble. You see, like, huge rocks and boulders push, uh, themselves through, uh, the tunnel, making, uh, way. And instead of, uh, the tunnel being large enough for two people, uh, a part of the entrance is now, um, big enough for. For four people to. To go through. But you haven't quite widened the tunnel all the way. Um, as you look through, uh, it's kind of like, you know, a big cylinder and has narrowed down to a smaller cylinder.
+Orphie (Taylor(Me))35:54
+Oh.
+Chandra (Bree(Guest Player))35:57
+So he gonna just push the congestion deeper.
+[[DM]]36:03
+He's doing it.
+Ogre (Chet)36:10
+The little mushroom so you can go in deeper into it.
+Varis (Vincent)36:21
+I mean at this point I think just probably just forcibly trying to break up the debris would be the, the thing here.
+Rin (Rachel)36:28
+I think keep going if you can.
+[[DM]]36:31
+All right. How are you going to do so.
+Rin (Rachel)36:32
+Rock and it did not go over well.
+Varis (Vincent)36:35
+So you think another breath weapon or.
+Ogre (Chet)36:38
+Yeah, they recharge, right?
+Varis (Vincent)36:43
+I mean, yeah, I have to roll every time to see it. Might take me seconds.
+Ogre (Chet)36:44
+Let's go.
+Varis (Vincent)36:52
+All uh, right, let's see. Nope, that didn't recharge.
+[[DM]]36:56
+Yeah. So I'll say as you're waiting for your, your breath weapon to recharge.
+Rin (Rachel)36:57
+Yeah.
+[[DM]]36:59
+It does take time. It does take time. Right. So.
+Rin (Rachel)37:14
+I think while we're waiting, um, Rin, I think starts walking into like a portion of the tunnel. I don't know if this is a good idea, but.
+Varis (Vincent)37:15
+You sure about that?
+Rin (Rachel)37:17
+Yeah, no, never mind.
+[[DM]]37:19
+We'll just wait.
+Rin (Rachel)37:21
+We'll just wait.
+Varis (Vincent)37:27
+I mean, I would, I mean if you do that, I mean I would. I'm not just gonna like blindfire. Like I'll, uh, wait.
+Rin (Rachel)37:47
+I mean like from the hole that he made, can we see like if there's any like, has there been like traffic recently? Does it look like like the Myconids are there or like anything else of like a struggle? Any other eternals that are potentially under the debris?
+[[DM]]37:49
+Give me an investigation check.
+Rin (Rachel)37:50
+Okay.
+[[DM]]37:54
+Um, this is going to be a 20 since the entrance has already been blown up.
+Rin (Rachel)37:58
+Yeah, I am rolling with guidance uh, on this.
+Chandra (Bree(Guest Player))38:05
+Yeah, it might have been been better to look before the dragon spit down the tunnel.
+Rin (Rachel)38:11
+Yeah. Uh, that is a 1717 investigation. Yeah.
+[[DM]]38:17
+Yeah, the entrance is too blown up for you to determine anything. Okay.
+Rin (Rachel)38:25
+Course didn't think about it until the dragon had blown it up.
+Chandra (Bree(Guest Player))38:27
+Mhm.
+Rin (Rachel)38:28
+How it always works, right?
+Ogre (Chet)38:31
+Selena was just right there.
+[[DM]]38:40
+Um. Oh my God, you guys. You guys hear a voice behind you? Uh, go. Oh. Looks like Selena did quite a number here.
+Chandra (Bree(Guest Player))38:42
+Oh, so now you're awake.
+[[DM]]38:56
+Morning. Oh, oh, good morning. I was just out for a second. Uh, you know, something about you peer into the abyss and the abyss peers back at you. Something like that. But hey, I'm back.
+Rin (Rachel)39:00
+It's more like peering at death and death stares back. I think is.
+Orphie (Taylor(Me))39:02
+I think it was the void.
+[[DM]]39:05
+Um, blind. Eternity is death. It's all the same.
+Rin (Rachel)39:08
+Okay, it's just waving.
+[[DM]]39:12
+Hello, ogre staring.
+Ogre (Chet)39:14
+Right in the eyes. I'm the Truth tortoise.
+[[DM]]39:21
+But, yeah. Seems like, uh, Selena did a great job here.
+Rin (Rachel)39:24
+That does seem to be the case. Not surprised.
+[[DM]]39:31
+You know, bone bow and, uh, bone claws. Very badass.
+Rin (Rachel)39:37
+It is.
+[[DM]]39:46
+Yes. So, uh. Yeah, and he gives you a little pat for us. You're gonna continue the job?
+Varis (Vincent)39:51
+Uh, yeah, I'm trying.
+[[DM]]40:11
+Oh, great. Hey, listen, don't let me stop you. I don't know why, uh, you know, more mines employ dragons. If it's that easy to blow through a mine like this, I don't see why not. Use everywhere. Save all the time. Nope.
+Chandra (Bree(Guest Player))40:20
+Yeah. Dragon excavators.
+Rin (Rachel)40:23
+Yes, dragon excavators.
+[[DM]]40:28
+Remember you took, uh, mining 101 at Six Haven, right?
+Chandra (Bree(Guest Player))40:32
+No, I. That wasn't one of my electives.
+[[DM]]40:33
+Oh.
+Chandra (Bree(Guest Player))40:36
+I didn't think I'd need it.
+[[DM]]40:39
+Oh, it was a great class. You know, it rocked.
+Chandra (Bree(Guest Player))40:40
+Did you teach it?
+[[DM]]40:44
+Oh, no, no, it was not me. It was not me.
+Rin (Rachel)40:45
+So it was probably good.
+Chandra (Bree(Guest Player))40:47
+Oh, damn.
+[[DM]]41:02
+Oh. What happened there? What? What? I meant, what? Yeah, why were you teaching? Oh, I was. I was teaching class. Yeah.
+Chandra (Bree(Guest Player))41:08
+We were undercover. Did you.
+Ogre (Chet)41:11
+Did you learn anything?
+[[DM]]41:19
+Although I. I was the one teaching. Well, I mean, I. I tell you, I learned a lot, but mainly, uh, I was teaching.
+Ogre (Chet)41:25
+Yeah, I didn't learn much in school there. I'm gonna go back to doing stuff. I was really close to a thought.
+[[DM]]41:31
+Oh, wait. Is Ogre know how to read? He's a smart lad.
+Rin (Rachel)41:36
+He did not do well in that class.
+[[DM]]41:37
+Oh.
+Rin (Rachel)41:40
+To be honest, I still don't know how they ended up giving him a diploma.
+[[DM]]41:47
+Oh, well, if it were the principal, I would have given him a diploma.
+Rin (Rachel)41:57
+I mean, I agree, but it was a requirement. Did we ever say how Ogre was able to.
+Ogre (Chet)42:09
+I just went up to get my diploma and I didn't understand. I wasn't getting one for so long that they just went, fine, gave me one.
+Rin (Rachel)42:13
+That's probably what happened.
+[[DM]]42:14
+Yeah, yeah, yeah.
+Ogre (Chet)42:22
+Like conversations with my dying dad. Uh, okay.
+Chandra (Bree(Guest Player))42:23
+See you later.
+[[DM]]42:32
+Um, all right. So, uh, varsity gonna shoot off another breath weapon.
+Varis (Vincent)42:43
+So many dice. 51.
+[[DM]]42:47
+68. Okay. And then what was your last roll?
+Varis (Vincent)42:50
+60.
+[[DM]]42:53
+What was it?
+Rin (Rachel)42:56
+67 was the first one.
+[[DM]]43:07
+Yeah. Okay. Uh, still. There's still about like a third of the entrance that still needs it excavating.
+Rin (Rachel)43:15
+Don't think I have anything that can help with this.
+Ogre (Chet)43:17
+Let's just do it.
+Chandra (Bree(Guest Player))43:18
+I mean, we could just go.
+Varis (Vincent)43:21
+Is it.
+Rin (Rachel)43:23
+Yeah. Various. Just wouldn't be able to.
+[[DM]]43:25
+Well, I mean, uh.
+Varis (Vincent)43:45
+Well, I mean, I can still shrink down a size. Would that then be Enough for immediately like, um, squeeze through, is it? I. I don't remember how squeezing mechanics work, but, like, you can go. You can squeeze through, I think, like even a size below what you are.
+Ogre (Chet)43:47
+Yeah, just move it half your speed.
+Chandra (Bree(Guest Player))43:49
+There are squeezing mechanics.
+Varis (Vincent)43:50
+Yeah.
+[[DM]]43:51
+Yep.
+Ogre (Chet)43:52
+That's what they're called to.
+Orphie (Taylor(Me))43:56
+Oh, somebody's thought of everything.
+[[DM]]43:57
+Yeah.
+Varis (Vincent)44:02
+Like, I think you can fit through a space like the size below you. It'll. You just move half speed.
+Ogre (Chet)44:08
+Disadvantage and attacks against you have advantage.
+Varis (Vincent)44:11
+Yeah. So don't do that in combat.
+Ogre (Chet)44:16
+Yeah. You get stuck in a combat while squeezing. It sucks.
+Rin (Rachel)44:17
+I can imagine.
+[[DM]]44:33
+Um, yeah, I mean, you could you try and fit in it? Just the visual that I'm getting is just. Boris is just scrunched up like a cat, inching himself through this. This tunnel.
+Rin (Rachel)44:34
+He's definitely last.
+[[DM]]44:36
+Yeah.
+Ogre (Chet)44:38
+Uh, should he be first?
+Chandra (Bree(Guest Player))44:40
+No.
+Ogre (Chet)44:44
+That should be going backwards.
+Varis (Vincent)44:50
+What should I be going backwards?
+Ogre (Chet)44:58
+Well, we gotta get your face with the breath weapon facing the right way. I don't know how easy it would be to turn around.
+Rin (Rachel)45:02
+So. No, his fate. He's definitely in face first.
+Ogre (Chet)45:08
+Let's go.
+Rin (Rachel)45:09
+Yep.
+Sanis (Gabe)45:13
+Did we have somebody pushing him from behind too, or.
+Varis (Vincent)45:15
+No, I don't think we would need to.
+Sanis (Gabe)45:20
+I hope not. Well, don't get stuck.
+Ogre (Chet)45:30
+I was ritual casting my, uh, helping hands, the. I can't remember what it's called right now. The invisible guy, Unseen servant.
+[[DM]]45:31
+So that's.
+Ogre (Chet)45:41
+That's gonna walk behind you, pushing you. Um, it's got two mage hands back there.
+Varis (Vincent)45:54
+Hey, man, watch those hands there. Um, so, I mean, yeah, this one, I. I can. I can take the reduced mushroom and then I should be able to go to get through.
+[[DM]]46:52
+Okay, sure. You take the reduced mushroom and go to large size. Now your mini dragon berries, you fit through. All right, cool. So, um, you guys walk through the entrance, make it through the tunnels, and, uh, after some time after descending, uh, you know, you guys start to see, like, the purple fluorescent mushrooms on the walls. Um, start to see some, uh, corpses that have mushrooms, uh, growing off of them. Uh, but notably, you do also see some etern dead Eternals strewn about, uh, alongside the other corpses that have shrooms growing on, um. Um.
+Chandra (Bree(Guest Player))46:54
+Do the dead eternals have shrooms growing on them?
+[[DM]]46:56
+No, they do not.
+Chandra (Bree(Guest Player))46:58
+Interesting.
+Rin (Rachel)46:59
+Who fresh?
+[[DM]]47:06
+Anyone that wants to give me an arcana check. It's gonna be a tough one.
+Chandra (Bree(Guest Player))47:16
+Dice jail, you failed me. It rolled the two.
+Rin (Rachel)47:22
+Thank God. I'm rolling atrociously tonight.
+Varis (Vincent)47:23
+We got a 15.
+Orphie (Taylor(Me))47:29
+I rolled a nine. Or if he tried. Even though she has no magic ability.
+Rin (Rachel)47:32
+Let's go, Santa from Santa's.
+[[DM]]47:34
+But you guys needed a 21 for this one.
+Rin (Rachel)47:37
+Well, 21.
+[[DM]]47:39
+21.
+Sanis (Gabe)47:41
+That's a lot, buddy.
+Rin (Rachel)47:44
+I can't even. Even guidance won't help that.
+[[DM]]48:40
+Um, you guys. Yeah, you guys see the corpses, see the dead Eternals. And um, after a certain point, the tunnel opens up a little bit wider into that same familiar cavern that you guys remembered all the way back when you visited the bone mine. Uh, the home base of the Myconids. And um, here you see in the far corner of that opening, um, uh, you see like five myconids. And then you see one larger one who you guys also recognize as the leader from last time. Um, and then you see a. Ah, Selena lying on the ground.
+Sanis (Gabe)48:48
+Immediately run up to her. I'd give caution to the wind and just go to my sister.
+Rin (Rachel)48:51
+Rin follows Lena.
+[[DM]]49:04
+Get up. Healing word level three. Are you actually gonna expend it? I'll use level one. Okay.
+Rin (Rachel)49:06
+Mhm.
+Chandra (Bree(Guest Player))49:12
+He's like. That sounded like. Are you sure about that question?
+Ogre (Chet)49:14
+Yeah, I'm definitely doing it.
+[[DM]]49:15
+Okay. Okay.
+Rin (Rachel)49:21
+I. I think Rin's gonna do a more comprehensive evaluation before expending any more spell slots.
+[[DM]]49:27
+How, uh, much would you roll Ogre? Oh, I forgot to.
+Ogre (Chet)49:41
+Uh.
+[[DM]]49:53
+Eight. Eight. Okay. Um, she is in her regular human form and you do see some scratches, uh, knit themselves. But she shows no signs of waking up.
+Rin (Rachel)49:57
+Uh, can I do a medicine check on her?
+[[DM]]50:09
+Um, sure. Sure. Okay. It's gonna be. It's gonna be a 19. You're gonna hit a 19.
+Rin (Rachel)50:11
+I will be rolling guidance on this.
+Orphie (Taylor(Me))50:12
+One then as well.
+Ogre (Chet)50:20
+You could do it. Bardic inspiration. I forget I have them.
+Rin (Rachel)50:23
+Uh, that's a plus six, right?
+Ogre (Chet)50:28
+You can add a D6 to it if you want. After you.
+Rin (Rachel)50:41
+I. I will add a D6. That was definitely needed. Um, okay, that's 8.
+[[DM]]50:43
+17.
+Rin (Rachel)50:45
+25.
+[[DM]]51:39
+Good. Uh, on closer inspection, you see that, yes, Selena has some like, superficial wounds and cuts from what it looks like her was her struggle, uh, with the Eternals on trying to get into the bone mine. Um, but with a 25. 25 is really good. Um, you with. With that help from Ogre and just your, uh, knowledge in healing and pulling upon, uh, Dora, you have a little inkling of what's going on and you go over to Selena's neck and you see that there is some black running through her being.
+Rin (Rachel)51:46
+Oh, that's not good. Um, do I recognize this is the same black that, uh, infected Penny?
+[[DM]]51:57
+Um, before you even start to form your thoughts, you Hear the leader of the Myconis go, uh, yes. That is one way to say hello.
+Rin (Rachel)52:08
+Hi. Sorry. Um, we saw her on the ground and we're a little concerned. Apologies for just barging in.
+[[DM]]52:11
+I understand that this is your friend.
+Rin (Rachel)52:17
+Yes, this is his sister and our friend.
+[[DM]]52:25
+Uh, yes, well, as you can see, we were attacked.
+Rin (Rachel)52:36
+Seems she fought off pretty quite a few by herself. Um, unless y' all were able to help. Either way.
+[[DM]]53:05
+You. You say that and you look around and you do see, um, like around 20 to 30 dead m eds. Like in the cavern. Mhm. You see him, um, solemnly put hand to Selena's forehead and he goes, I have done all that I could, but I fear that it may have done more damage than good.
+Rin (Rachel)53:12
+Um, what happened? How did she get this black ichor on her?
+[[DM]]53:32
+After battling the Eternals and defending the colony, she sustained two heavy of injuries, so I. I had to use the essence.
+Rin (Rachel)53:38
+The essence?
+[[DM]]53:41
+He nods.
+Rin (Rachel)53:44
+Say that again?
+[[DM]]53:46
+Yes. He nods.
+Rin (Rachel)53:49
+Okay. Uh, what. What is the essence?
+[[DM]]54:04
+The. The essence from which we. And he gestures to all the Myconids, the five, the four that are left, from which we come into being.
+Chandra (Bree(Guest Player))54:09
+So you're turning her into a Myconoid?
+Rin (Rachel)54:29
+No. Um, if I'm remembering correctly, the reason the Myconids ended up becoming into existence is they mixed. It was some chemical from the plant that ended up mixing with the mushrooms in the soil.
+[[DM]]54:43
+Yep. So in the bone mine, um, the liquid in the pits that gave birth to the were zombies mixed with the, uh, neighboring mushrooms do.
+Rin (Rachel)54:53
+Now this is Rachel thinking that's not necessarily a bad thing, because she had. She came from that, if I remember correctly.
+[[DM]]54:54
+Selena.
+Rin (Rachel)54:54
+Yes.
+[[DM]]54:60
+Uh, above the table. Yes. Okay.
+Rin (Rachel)55:23
+Yeah, because we knew, like, she was. She was experimented upon by. Can't remember his name off the top of my head, but I know it sounded like Vars, but it wasn't Varis. Uh, Varric. Um, because she also absorbed some of the goop from the battlefield where we fought him and was able to use it. Right.
+Ogre (Chet)55:27
+Immersed himself in the goop and became the same thing that she is.
+Rin (Rachel)55:28
+Yes.
+Orphie (Taylor(Me))55:35
+So we can only assume that Selena was also immersed.
+Varis (Vincent)55:37
+No, that was my idea backfiring.
+Ogre (Chet)55:42
+You teleported him into the vat, thinking.
+Varis (Vincent)55:44
+That that would be bad, and then.
+Rin (Rachel)55:44
+It ended up, um.
+[[DM]]55:47
+Yeah, he turned into the Were zombie.
+Ogre (Chet)55:51
+Because it was graded. So he was just locked in there until he turned into the thing? Yeah.
+Rin (Rachel)55:57
+So can I. Can I tell then, if the. Them injecting the ichor was a bad thing?
+[[DM]]56:03
+You're gonna have to make an arcana check this time.
+Rin (Rachel)56:04
+I'm okay with that.
+[[DM]]56:11
+Should I just gonna be. Ah, a hard one. It's like hot springs, you know? It's very cleansing.
+Orphie (Taylor(Me))56:13
+Will it make me big?
+Rin (Rachel)56:19
+I am also rolling guidance on this one, too, because I don't.
+Orphie (Taylor(Me))56:22
+Sincerely, the girl who only wants to be big.
+Rin (Rachel)56:27
+Okay. Better. That is a 24.
+[[DM]]56:45
+Oh, all right. Um. Yeah. You trace a finger on the black vein, um, that you see, uh, on Selena's neck, and you recognize it as Bolas's corruption.
+Rin (Rachel)56:48
+So not good. Noted. Okay.
+Ogre (Chet)56:53
+Can witch suck it out?
+Rin (Rachel)57:01
+Would witch be able to. She sucks out souls, and I don't know if we want to suck out Selena's soul.
+Ogre (Chet)57:03
+Well, she sucks.
+[[DM]]57:03
+Okay.
+Sanis (Gabe)57:08
+I want to go into my head and talk to Daddy. Daddy and ask him if there's a way I can save my sister.
+Ogre (Chet)57:10
+Suck the blood out.
+[[DM]]57:28
+Uh, Zek just goes, um, Well, I haven't dealt with both. All this is corruption before, but I'm sure if you. You go to the Source, that could probably help.
+Sanis (Gabe)57:47
+All right. Um. I mean, damn it. See, I can't. I can't do that whole, like, movie thing where I pick her up and she's a limp noodle because I have no strength, right? So, like.
+Varis (Vincent)57:50
+I. I do.
+Rin (Rachel)57:52
+Go ahead.
+Varis (Vincent)57:55
+I say I do have a crazy thought.
+Rin (Rachel)57:59
+I have a crazy thought.
+Varis (Vincent)58:37
+And. And this is totally, like, outside of the bounds of game mechanics. Um, so. So, currently, as a dragon, I don't, like, have any magic right now, but would I be able to, like, somehow pull out very small amount, like, a strand of Ugin's, like, essence, and sort of, like, push it into Rin, and then she performs a healing spell and that, like, empowers it to try and, like, burn away, um, Bolas's, ah.
+[[DM]]58:39
+You could try. You can certainly try.
+Varis (Vincent)58:47
+So, I mean, yeah, if. If I'm able to do that, I'll, like, try and pull out, like, just a slight.
+[[DM]]58:58
+Sure. You. So you get. You give, uh, some of Ugin's spirit energy over to Rin. You kind of, like, manifest it, pull it out, and then hand it over.
+Varis (Vincent)59:11
+Yeah, I was. I was hoping one of her healing spells had components. Um, but they don't. So I couldn't, like. I was hoping to, like, replace one of her components, but, uh.
+[[DM]]59:17
+But no, but if you want to, um, do this as a part of, ah, Rin's healing ritual, I'm gonna. I'll allow it.
+Rin (Rachel)59:25
+And actually, I think as you're doing that, um, Rin's gonna pull out the syringe from who knows how long ago.
+Ogre (Chet)59:30
+Here, Isaiah knows.
+Rin (Rachel)59:31
+Isaiah remembers.
+[[DM]]59:44
+Oh, okay, yeah, you pull it out and Isaiah goes, oh, I remember that. Oh, bad memories there. Very bad memories.
+Rin (Rachel)60:17
+We remember correctly, this syringe has essentially, I think, Bolas's essence in it. Because the ichor that's in the black ichor that's inside of this was what was turning the zombies into zombies. Um, however, due to my channel divinity that I did within whatever, like closeness to the syringe, the syringe also has like celestial radiant power coursing inside of it as well. And we have no clue what it does.
+[[DM]]60:26
+Uh, wait, other than Bolas's essence, that black liquid. Wait, did you do anything to it?
+Rin (Rachel)60:35
+So if I remember correctly, this thing, my channel divinity hit it. I can't remember if it was because due of combat or what, but my channel.
+Varis (Vincent)60:36
+Yes.
+Rin (Rachel)60:47
+And there's a swirl of bolas's essence and radiance, like celestial power inside of it. And it's now a swirl of like black and white.
+[[DM]]60:49
+Yes, I do remember that. I do remember that. That.
+Rin (Rachel)60:55
+Okay, I, I think I failed the check on it, so I have no clue what it does.
+Varis (Vincent)61:01
+So, so how do you want to use that right now?
+Rin (Rachel)61:19
+So what I was thinking I could do one more check on it, see what happens if we don't know, we could potentially infuse Ugin's essence into this as well. And potentially it becomes, becomes an anti vax, A, uh, vaccine essentially.
+[[DM]]61:19
+Ah.
+Varis (Vincent)61:25
+Uh, okay. So instead of putting like the energy into, directly into her, we put it into the vial.
+Rin (Rachel)61:26
+Correct.
+Varis (Vincent)61:28
+Okay, cool.
+[[DM]]61:47
+Okay. All right. All right, you take Ugins, uh, you take a strand of Ugin spirit energy from you virus in your dragon form. You're a little bit closer to him so it's easier for you. Um, give me, give me an arcana check.
+Rin (Rachel)61:51
+Cast guidance on you.
+Varis (Vincent)61:56
+Okay. I don't know if it's gonna matter.
+Rin (Rachel)62:03
+I'm gonna be very happy. This is a cantrip because I'm gonna be using it on all of the rolls right now. That is a 12.
+Chandra (Bree(Guest Player))62:04
+Hell yeah.
+Varis (Vincent)62:04
+Yeah.
+[[DM]]62:07
+69. With the guidance.
+Varis (Vincent)62:10
+Yes, you with the guns, with the guidance.
+[[DM]]62:28
+Okay. Um, you do manage to pull out, um, a strand, but, uh, it's not as powerful, it's not as dense with his energy as you, uh, wanted it to be. But you still do manage to pull some energy out.
+Ogre (Chet)62:36
+Can I give the help action for advantage on that? By using a mage hand to pull to grab that line of energy and.
+[[DM]]62:38
+Help pull it out. You're gonna firmly grasp it.
+Rin (Rachel)62:40
+Yeah, I'M gonna firmly grasp.
+Varis (Vincent)62:43
+You're gonna try and, like, pull more out.
+[[DM]]62:47
+Yeah. Give the help action.
+Varis (Vincent)62:48
+All right, one more, one more roll.
+[[DM]]62:57
+What is. What does Ogre say? What does Ogre say as he's helping to pull this strand from Varis?
+Ogre (Chet)63:06
+Know what to do? I'm just gonna grab it. And judging by the result of this advantage, I did know what to do.
+Varis (Vincent)63:09
+Yeah. So that. That turned into a 29.
+[[DM]]63:10
+Oh.
+Chandra (Bree(Guest Player))63:11
+Oh, my God.
+[[DM]]63:13
+Oh, to the.
+Rin (Rachel)63:21
+Yeah, there we go. And the plus three makes it a 29, I think.
+Varis (Vincent)63:24
+Yeah, yeah, that's what the. With 29.
+[[DM]]63:50
+Yeah. Yeah. Ogre, you. You see that Varis is, uh, struggling a little bit. Um, and you take no hesitation, and you just pull out some mage hands and yank the energy out of Varis. And now it is, uh, perfectly this opal, shining opal color, uh, semi translucent, dense energy strain.
+Ogre (Chet)63:59
+My lack of hesitation is my greatest trait.
+[[DM]]64:11
+Um, so, yeah, Rin, you. You have, uh, the syringe that's swirling with black and white energy and Ugin's essence.
+Ogre (Chet)64:16
+In the honor, inject yourself and become all powerful.
+[[DM]]64:16
+No.
+Chandra (Bree(Guest Player))64:23
+Don'T let Ogre eat that. He doesn't need any more weird substances.
+Orphie (Taylor(Me))64:25
+Oh, you have no idea.
+Chandra (Bree(Guest Player))64:32
+Uh, it's like watching a kid eat glue, play doh and anything else they can get her hands on, but also.
+Orphie (Taylor(Me))64:38
+Knowing that he's probably not gonna get harmed from it. At the same time, uh, the one.
+Chandra (Bree(Guest Player))64:40
+Kid in the class that can't die.
+Varis (Vincent)64:43
+A mushroom.
+Ogre (Chet)64:45
+Just from the side of the room.
+Rin (Rachel)64:47
+You grow slightly larger.
+[[DM]]64:50
+Don't.
+Ogre (Chet)64:53
+Don't get me excited about them being those mushrooms.
+[[DM]]64:54
+Oh, no.
+Chandra (Bree(Guest Player))64:57
+Run over and eat the whole pile.
+Ogre (Chet)64:59
+Can I restock?
+Rin (Rachel)65:19
+Can I? So can I do a check on the syringe before I inject it into her participation? No, I want to know if this will actually do what I want it to do.
+[[DM]]65:21
+Now you give me an arcana check.
+Orphie (Taylor(Me))65:22
+Okay.
+Rin (Rachel)65:31
+I am going to roll guidance on this. Rin has not stopped. Just like praying to Dolora during this entire.
+[[DM]]65:34
+On the board.
+Rin (Rachel)65:41
+Much better. Okay, that is a 31.
+Chandra (Bree(Guest Player))65:43
+Jesus.
+[[DM]]66:12
+Um, so 31 is fantastic. But even with these types of, like, energies and forces, there's always going to be a level of uncertainty. So with the 31, you know, it could work. What? What? The side effects might be undetermined. Undetermined.
+Ogre (Chet)66:14
+Give it to Santa.
+[[DM]]66:25
+But ultimately, but ultimately, with the amount of, um, uh, good energy that that is there, ultimately would be positive.
+Varis (Vincent)66:36
+So we've already put the essence into the. The vial at this point, yes.
+Ogre (Chet)66:38
+Above it hesitating Right.
+[[DM]]66:40
+Uh, do you put them together?
+Rin (Rachel)66:44
+Oh, no, that and I once I had put them all together.
+[[DM]]67:35
+Okay, so you put, um, Ugin's energy, uh, together with what is in the syringe. And now you see that the syringe, the outside, uh, the border of the liquid now is shining with an opal sparkly sheen. So now, uh, you understand this syringe to be infused with the energies of not only bolas, but also Dol. Ara. Ah. And Ugin. Okay, you swear in it that you can see that opal sheen almost kind of wrestling with that black liquid inside. It's like, um, it's like oil and water, right?
+Rin (Rachel)67:36
+Okay.
+Varis (Vincent)67:38
+Yeah, but it's. It's 2v1.
+Rin (Rachel)67:46
+So now it. Yeah, now it's 2v1. Yeah.
+Sanis (Gabe)67:52
+Wait, can I. Can I put my essence into it or can they take my blood?
+[[DM]]67:53
+Does that help raising.
+Rin (Rachel)67:57
+Um, wait, I want this injection.
+Sanis (Gabe)67:58
+Too valid.
+[[DM]]68:01
+Um. Mhm.
+Sanis (Gabe)68:06
+I just want to help her as much as I can. That's my sister. Yeah.
+Orphie (Taylor(Me))68:08
+I just want. All right, the injection, it's not.
+Sanis (Gabe)68:09
+Listen, it's not West Virginia.
+Orphie (Taylor(Me))68:11
+If there's anything left over this.
+Sanis (Gabe)68:13
+Oh, don't make me laugh.
+Rin (Rachel)68:14
+It hurts.
+Chandra (Bree(Guest Player))68:16
+Sorry.
+[[DM]]68:19
+We all.
+Rin (Rachel)68:28
+I. I mean, I don't see any reason that it would hurt everything but.
+Chandra (Bree(Guest Player))68:30
+The kitchen sink kind of medicine.
+Rin (Rachel)68:31
+Yep.
+Ogre (Chet)68:34
+Need some wholesomeness. Let's.
+Rin (Rachel)68:44
+I mean, yeah. Uh, do Orphean Santa give Rin like their blood? Essentially.
+[[DM]]68:48
+Sure.
+Sanis (Gabe)68:55
+Yes, yes, yes, yes, yes, yes, yes, yes.
+Rin (Rachel)69:00
+So we have drow, vampiric blood and tiefling. Uh.
+Chandra (Bree(Guest Player))69:03
+Oh, blood.
+Rin (Rachel)69:05
+Love this. I love this so much.
+Ogre (Chet)69:08
+Did some of my mage hand energy get mixed in with that, uh, Ugin shit?
+Chandra (Bree(Guest Player))69:13
+M. Can you stick it, like through the glass somehow and stir it with.
+Orphie (Taylor(Me))69:16
+The mage finger or if he just spits in it?
+Rin (Rachel)69:21
+Uh, actually, yes. No, it's not Orpheus blood. It's Orpheus.
+Orphie (Taylor(Me))69:22
+It's definitely spit.
+Chandra (Bree(Guest Player))69:25
+Gross.
+[[DM]]69:41
+Okay, okay, you. You. You mix it all together and now you have this syringe that is the combined efforts of everyone here, along with some divine energies infused with it. What do you do?
+Orphie (Taylor(Me))69:45
+Orpheus stands to the side and just yells, rise.
+[[DM]]69:54
+You hear Isaiah go. I don't know what I'm seeing, but I like it.
+Orphie (Taylor(Me))69:58
+M. Somebody take him out.
+Rin (Rachel)70:01
+You want to get him a girl?
+Orphie (Taylor(Me))70:05
+I mean, no, I mean, I mean, take him out.
+Ogre (Chet)70:09
+Like, grab the syringe and stab her.
+Orphie (Taylor(Me))70:10
+Make him unconscious.
+Rin (Rachel)70:19
+Rin's gonna take a breath and like, very medically, like, injected into her.
+[[DM]]70:29
+Okay, give me, Give me the last roll. Give me a Medicine check.
+Rin (Rachel)70:31
+Okay. And I will be rolling with guidance on this one.
+[[DM]]70:33
+Bad.
+Ogre (Chet)70:36
+You got a help. Action. A couple mage hands coming into that plunger.
+[[DM]]70:42
+Figure out a time to get it. I don't know. I don't know about that.
+Ogre (Chet)70:48
+It's you hesitating a little bit, and I'm like, no hesitation.
+Rin (Rachel)70:54
+Actually, that would be bad, because if you hesitate, you're potentially putting air into her veins, which would not be good.
+Chandra (Bree(Guest Player))71:02
+Well, no, but if you inject too fast, uh, you can blow the vein. No. Yeah, but if you inject too fast, you can blow the vein.
+[[DM]]71:09
+Ogre, are you gonna help? Yeah. Okay. All right. He gives a help. Action, Rin.
+Rin (Rachel)71:21
+Okay. Thank God for the help. Action. Um, that's a 16.
+[[DM]]71:36
+A 16. Okay. Um, you needed a 15. So you. I feel like, Rin, your hands are shaking as you try and find, like, a.
+Rin (Rachel)71:37
+Yes.
+[[DM]]72:20
+Your hands are shaking as you try and line up the vein. Uh, the right vein in her elbow. You finally find it. But just as you're about to hesitate, from behind you, you hear ogre go. No hesitation. And, um, mage hand comes in and just slaps the back of that syringe, injecting the full force of this divine liquid, this crazy concoction that has Bolas's energies. Dolores blessing, uh, Ugin's spirit energy. Uh, Orpheus spit.
+Orphie (Taylor(Me))72:20
+Yes.
+[[DM]]72:37
+Yep. Um, and Santa says, blood. And they all go right into Selena. And you see her start to convulse.
+Chandra (Bree(Guest Player))72:38
+Oh.
+[[DM]]72:42
+And you.
+Orphie (Taylor(Me))72:45
+Well, this is either the mic and.
+[[DM]]72:54
+The leader walks over, who, at this point, you find out his name is Thal. Go. This was a lot.
+Rin (Rachel)72:58
+You have no idea.
+[[DM]]73:07
+Uh, I would have told you that, um, our essence pit is being corrupted currently.
+Rin (Rachel)73:11
+Your what is being corrupted?
+[[DM]]73:13
+The pit of essence.
+Rin (Rachel)73:17
+But wait, it's being corrupted by what?
+[[DM]]73:43
+Yes, it's being corrupted by, uh, this, uh, what you call it. Machine being. This. This m. Um, Human machine. Um, how you describe it? Uh, arms of metal.
+Rin (Rachel)73:46
+Okay.
+Chandra (Bree(Guest Player))73:47
+Robot.
+Rin (Rachel)73:48
+A robot?
+[[DM]]73:54
+No, not fully autonomous. Half man, half metal.
+Rin (Rachel)73:56
+M. Cyborg. Got it?
+[[DM]]73:59
+Yes.
+Orphie (Taylor(Me))74:01
+Do we know any cyborgs?
+[[DM]]74:16
+You kind of. You kind of do. Anyone that wants to give me a history check? Uh, Bucky, is it?
+Rin (Rachel)74:17
+Bucky Barnes.
+[[DM]]74:22
+The Winter Soldier.
+Rin (Rachel)74:23
+The Winter Soldier.
+Sanis (Gabe)74:26
+He is not 20.
+Orphie (Taylor(Me))74:27
+What did you say?
+[[DM]]74:28
+What?
+Orphie (Taylor(Me))74:28
+Are we rolling?
+[[DM]]74:36
+No, you know what? No, no. Everyone else. Nope. It's just Sanis. You good?
+Orphie (Taylor(Me))74:37
+Because I got a five from.
+[[DM]]74:44
+From this description. Nail it immediately. You, uh, know who this person is? Because this person.
+Orphie (Taylor(Me))74:45
+Is it.
+[[DM]]74:52
+Your dad was there when you died the first time. Okay.
+Varis (Vincent)74:53
+That's who I thought it was.
+[[DM]]74:53
+Uh.
+Orphie (Taylor(Me))74:60
+Lance. Why does Lance keep it coming. M. Up.
+Chandra (Bree(Guest Player))75:02
+You got it.
+Ogre (Chet)75:04
+I'm a big bad bro.
+Rin (Rachel)75:08
+Steven came in. Right now. That would be wild.
+Sanis (Gabe)75:13
+Okay, Bubble rig Rose. The guy we were smoking with.
+[[DM]]75:38
+Right. It's Tezzeret. Um, the schemer. The one who was there with the giant crystal, uh, who, uh, was at the top of the tower and had. Oh, the reason I spoke and minions. Yes. Energies absorbed by the crystal and had it explode.
+Orphie (Taylor(Me))75:40
+Do I need to harm him?
+Rin (Rachel)75:41
+Yep.
+[[DM]]75:55
+Um, oh, but, Chandra, you hear sis blurt out Tezzeret. And, uh, you know Tezzeret very well because he was the one that tortured you.
+Rin (Rachel)75:57
+That.
+Chandra (Bree(Guest Player))76:01
+I'm gonna kill him. Where the is he right now?
+Ogre (Chet)76:04
+Isn't he also the one who took the Immortal Sun?
+Rin (Rachel)76:05
+Yes.
+Chandra (Bree(Guest Player))76:08
+I'm gonna burn this alive.
+Ogre (Chet)76:12
+Let's go fight him.
+[[DM]]76:33
+Is she okay? Yeah. At this whole revelation of freaking out over Tessera. Um, you guys. You guys look back at Selena and you see her now sitting up.
+Rin (Rachel)76:34
+Ris.
+Orphie (Taylor(Me))76:36
+It worked.
+Rin (Rachel)76:41
+Selena, how are. How are. How are you feeling? Is she. Is she coherent?
+Orphie (Taylor(Me))76:44
+Well, she's conscious.
+[[DM]]76:48
+You look into her eyes, and they are solid white.
+Orphie (Taylor(Me))76:49
+Oh, cool. She's.
+Rin (Rachel)76:53
+Did we just make a fucking, like.
+Chandra (Bree(Guest Player))76:54
+Uh.
+[[DM]]77:01
+Yeah. Cool.
+Ogre (Chet)77:02
+What were we trying to do?
+Rin (Rachel)77:06
+Not that we were trying to just bring her back. She's a.
+Sanis (Gabe)77:11
+Were zombie. Um, demigod. I'm here for it.
+Rin (Rachel)77:12
+This poor girl.
+Sanis (Gabe)77:16
+I run up and hug her. Um, I just run up and hug her.
+[[DM]]77:23
+You don't hear anything from her. You. You just feel her arms slide, uh, onto your back.
+Rin (Rachel)77:32
+Can I sense what's going on right now, like, inside of her body?
+[[DM]]78:06
+Um, you. Uh, Santa, you hear her whisper into your ear, take me to the essence bits. What? Take me to the essence bits. I would like to go there. Uh, why?
+Orphie (Taylor(Me))78:09
+Just do it. She's ascending.
+Ogre (Chet)78:10
+Let's go.
+Orphie (Taylor(Me))78:11
+Let her go.
+Sanis (Gabe)78:16
+She's ascending. Oh, my God. Valid.
+[[DM]]78:16
+Okay.
+Sanis (Gabe)78:30
+Let's go. I take my. I. I mean, I can't carry her ass, but I guess, you know, I do that one arm over my shoulder thing while she is weak, and we walk over to the Essence pit because she told me to.
+[[DM]]79:19
+Um, yeah, so. So the essence pits aren't, like, right. Right here. They're further down. So th goes the essence Pits. If you would like to go there and help us cleanse, uh, the influence that Tezzeret is currently pumping, um, it will be down these tunnels over here. And, uh, he gestures over, um, to a path. The other path leading out of the cave.
+Varis (Vincent)79:22
+Don't worry.
+Ogre (Chet)79:23
+We'll go pump some influence.
+Rin (Rachel)79:32
+Yeah, I guess. I guess we are heading out.
+Chandra (Bree(Guest Player))79:36
+Is that where that guy.
+Sanis (Gabe)79:37
+Yeah, I'm just taking my sister wherever she told me to go.
+Rin (Rachel)79:40
+Yes, that's where Ted is. Is at the pools.
+Orphie (Taylor(Me))79:41
+Yeah.
+Chandra (Bree(Guest Player))79:44
+No, Chandra's going. She's not waiting. She's going.
+[[DM]]79:45
+Okay.
+Chandra (Bree(Guest Player))79:50
+Her hair's on fire. She's ready to somebody up.
+Varis (Vincent)79:56
+My question is the. The way to the pools is that big enough for me?
+[[DM]]80:03
+Me? The. The path is enough. Is large enough for you as a large creature.
+Varis (Vincent)80:04
+Okay.
+Ogre (Chet)80:09
+Just let me know when we get there.
+[[DM]]80:14
+An hour. Okay.
+Rin (Rachel)80:19
+If I remember correctly, the pool room was pretty big.
+[[DM]]80:23
+Which. Okay. This is wild, y'.
+Orphie (Taylor(Me))80:23
+All.
+[[DM]]80:26
+What the hell? What the hel. Okay.
+Rin (Rachel)80:28
+What the hel. Where does that come from?
+Varis (Vincent)80:30
+TikTok.
+Rin (Rachel)80:43
+Okay. Some streamers I follow. Started saying that and I was just like, I don't know where the it's coming from. And now I'm hearing it in like, non those streams instances. And I'm so confused.
+Varis (Vincent)80:49
+Yep. We all have the brain rot. It gets us eventually.
+[[DM]]80:50
+Yep.
+Rin (Rachel)80:52
+I don't have tick tock. I don't watch tick tock.
+[[DM]]80:56
+Me neither. Somehow it's in my vocabulary.
+Rin (Rachel)81:02
+Well, that's why tick tock, though. That's how it's getting to you.
+Varis (Vincent)81:06
+See, Rachel? That's why it's called rot. It doesn't matter. It'll get to you.
+Rin (Rachel)81:09
+It finds a way. It's contagious.
+[[DM]]81:11
+Yep.
+Ogre (Chet)81:18
+My last notes are just kind of Claire Obscure. Expedition 30. Something. Question mark.
+Rin (Rachel)81:19
+Expedition 33.
+[[DM]]81:20
+Yes.
+Ogre (Chet)81:23
+I think you were talking about it. That was the last time I took notes.
+Rin (Rachel)81:25
+Yeah, I haven't taken notes at all.
+Ogre (Chet)81:27
+It's such a great game.
+Rin (Rachel)81:32
+I still need to finish it. I haven't finished act two yet.
+Sanis (Gabe)81:35
+Um, what are we talking about?
+Ogre (Chet)81:42
+If you get just complete the story or it's unfun when you complete the story.
+Rin (Rachel)81:43
+Yep.
+[[DM]]81:44
+Too easy.
+Rin (Rachel)81:46
+Good to know.
+[[DM]]81:48
+Um, all right.
+Ogre (Chet)81:49
+My friend told me that and I was very thankful.
+[[DM]]81:56
+Go on. Things are happening here. Just give me one second, guys.
+Chandra (Bree(Guest Player))81:56
+Y.
+[[DM]]81:59
+Ramble more.
+Sanis (Gabe)82:03
+Yeah, no, you're the dm. You should already have this taken care of. Let's go.
+Chandra (Bree(Guest Player))82:03
+Come on.
+Sanis (Gabe)82:05
+We're on a schedule.
+Ogre (Chet)82:08
+And I was way overpowered for the.
+Sanis (Gabe)82:09
+I have a bedtime.
+Chandra (Bree(Guest Player))82:13
+No bedtimes here.
+[[DM]]82:15
+This is DND at 5:30.
+Sanis (Gabe)82:22
+I didn't say right now. I'm just saying let's keep going.
+[[DM]]82:28
+Because, you know, General, I. You know, at some point I will need to go to bed. At some point, I will need to wake up from that sleep.
+Sanis (Gabe)82:40
+I. I have to go to bed before 10pm Otherwise, I'm just gonna be cranky. I'm old. The 30s hit me like a truck.
+Chandra (Bree(Guest Player))82:44
+Uh, what it's like being old.
+Sanis (Gabe)82:53
+Yep. I wear my Crocs everywhere. I don't. If I don't get jerks.
+[[DM]]83:05
+Give me one sec. I am.
+Chandra (Bree(Guest Player))83:11
+I like how I put that image in the lore chat. I thought I put that in the main chat, but it's still funny either way.
+[[DM]]83:15
+Yeah, Pure lore.
+Ogre (Chet)83:18
+I mean, it's candy.
+Chandra (Bree(Guest Player))83:20
+He still looks like that.
+Ogre (Chet)83:25
+He ever watches it off. He has presidigitation and still doesn't do it.
+Chandra (Bree(Guest Player))83:37
+It's a magic Marker. Quite literally, dude. This micanoid looks cool as hell, though. All right.
+Ogre (Chet)83:38
+So brittle.
+Chandra (Bree(Guest Player))83:42
+I'm saving this. I like it.
+[[DM]]83:46
+Okay. Oh, okay.
+Ogre (Chet)83:50
+It has a human skeleton. I understand it now. I didn't zoom in yet.
+[[DM]]83:56
+You guys.
+Chandra (Bree(Guest Player))83:58
+For the most part, it looks like bark in some areas.
+[[DM]]86:49
+You guys go down, um, the, uh, path to the ossuary pits. Would you guys recognize, uh, from before, your earlier stint in the bone mine, which is where they earn marrow pits. Marrow pits, um, which is where they took the marrow and the, um, ancient essences of corpses, uh, long gone and distilled them, their concentrated, uh, soul essences, just sitting in these open pits. Um, tasty. Very tasty, very juicy and rich. Um, but this time around, due to your previous events, uh, in the bone mine, you, uh, do see, uh, rubble around. As you enter the marrow pits, you do see, uh, the remnants of the etheric equipment that has been destroyed. There's rubble everywhere. Um, some parts of the marrow pits are collapsed, but for the part that is not, you see, um, a black and red figure, um, with a biomechanical right hand and red eyes, who you guys recognize as Tezzeret. And, um, in front of him, you see, uh, three black and purple huge myconids with bulbous recesses and, uh, black tendrils dripping off them. Um, and into the pits, you see a big pump that is leading to a small black portal that is behind Tezzerett and swirling around in the marrow pits. What once was, um, a kind of milky white color from before is now tainted with streaks of black. And you guys enter and you hear Tezra go, ah. Uh, we meet again. Seems the Breakfast Club has decided to crash this party today. In the end. In the end, Bolas will win through all. It's futile.
+Varis (Vincent)86:57
+We are the party, pal.
+Chandra (Bree(Guest Player))87:10
+Lol. She's miffed. She's like, nah, this. You don't get to talk to us. He's gonna set. Try to set his ass on fire.
+[[DM]]87:16
+Okay, you guys, you're Chandra. Uh, you're gonna immediately walk up to him and fireball in the face.
+Chandra (Bree(Guest Player))87:18
+Oh, yes.
+Ogre (Chet)87:18
+Fireball.
+[[DM]]87:22
+All right, uh, everyone roll Initiative, please.
+Rin (Rachel)87:31
+I am out of level three spell slots. Let's go.
+Chandra (Bree(Guest Player))87:38
+I know I'm not in a great place spell spot wise, but thank the.
+Sanis (Gabe)87:39
+Gods for that short rest.
+Chandra (Bree(Guest Player))87:44
+Lucky for you, I don't get anything.
+Orphie (Taylor(Me))87:46
+21 initiative for Orphe.
+Ogre (Chet)87:48
+26.
+[[DM]]87:52
+God damn, I got my crit.
+Chandra (Bree(Guest Player))87:57
+It's okay. I didn't get that grade on initiative. I only got a 14.
+Rin (Rachel)88:02
+Oh, nat 20 for RIN. That's a 21.
+Varis (Vincent)88:11
+I guess I have no initiative bonus. That sucks.
+[[DM]]88:18
+So, um, that's a nat 20 plus. What? So for what?
+Rin (Rachel)88:20
+One. So 21.
+[[DM]]88:21
+Okay.
+Rin (Rachel)88:26
+Bars initiative does all.
+Varis (Vincent)88:29
+Yeah, I mean, it helps you go sooner.
+Orphie (Taylor(Me))88:35
+I have another DM that'll basically let you get an action surgeon for doing an at 20 on initiative.
+Varis (Vincent)88:38
+Uh, got a three big dragon's going last.
+[[DM]]88:39
+Yay.
+Chandra (Bree(Guest Player))88:52
+I was gonna say fun thing to do to be like, maybe you get, like, a surprise attack as, like, your first attack since you got a NAT turning, but I don't know, that'd be cool.
+[[DM]]88:59
+All, uh, right, let us see here.
+Chandra (Bree(Guest Player))89:01
+Arson.
+[[DM]]89:03
+What is he doing?
+Chandra (Bree(Guest Player))89:04
+Arson.
+[[DM]]89:10
+Okie dokie. What is he doing? That's nothing.
+Ogre (Chet)89:12
+What is he doing for this?
+[[DM]]89:17
+No, no. Uh, world funny today, unfortunately.
+Chandra (Bree(Guest Player))89:20
+Uh.
+[[DM]]89:43
+Okay, I am just going to share the Initiative tracker here just so that we're all on the same page. M.
+Rin (Rachel)89:50
+Uh, Taylor, what's your, um, dexterity?
+Orphie (Taylor(Me))89:54
+15.
+Rin (Rachel)89:56
+Okay, she goes first.
+Chandra (Bree(Guest Player))89:59
+Okay, I got a 14. Why do I have a 20?
+[[DM]]90:01
+Oh, you got a 14. What?
+Chandra (Bree(Guest Player))90:04
+Yeah, that happened? Don't know.
+[[DM]]90:38
+Okay, um. All right, so, Ogre, you go first. Um, I will describe the scene to you. Tezzeret is, uh, tezzeret is 45ft from the party. Um, the myconids are, uh, 15ft from.
+Rin (Rachel)90:41
+You guys are in front of us.
+[[DM]]90:42
+In front of you guys.
+Rin (Rachel)90:44
+Are they enemies?
+[[DM]]90:49
+They're. They don't look normal.
+Rin (Rachel)90:50
+Okay.
+Ogre (Chet)90:52
+Yeah, they're corrupted.
+Rin (Rachel)90:54
+Corrupted. Noted.
+Ogre (Chet)91:07
+All right, uh, for my turn, I'm going to, um, just summon Witch out, and she's going to cast darkness on herself.
+[[DM]]91:09
+Okay.
+Ogre (Chet)91:31
+And I'm gonna, like, run forward and start sending the mic in it on the. The right so that they still have full view of everyone else, but no one can see me. Or now the mic in it that I'm fighting with. Okay, I can't attack though. That's all my actions.
+[[DM]]91:32
+Okay. Um.
+Ogre (Chet)91:38
+I think unless he has true sight or true seeing.
+[[DM]]91:47
+No, but please, you stepped up next to him, right? You're within five feet.
+Ogre (Chet)91:49
+Yeah.
+[[DM]]93:09
+Okay, Please make me a, uh, constitution saving throw against poison. It's not poison. Okay, uh, 15. 15. Oh, okay. Uh, you just take five points of necrotic damage, right? Um, you feel this like, miasma swirling around. Um, but you hold your breath and it's fine. Um, but yeah, all right, cool. Is how these turn. Oh, what am I gonna have him do? All right, all right. Chandra. Mhm. Uh, Tezzeret waves a hand over at youth. Please make me a wisdom saving throw with disadvantage.
+Chandra (Bree(Guest Player))93:19
+Oh God, I'm scared. Oh, this is already not great. Uh, I rolled a three is the lowest.
+[[DM]]93:59
+Okay, you feel now. Um, uh, throughout your time here on Ravnica, you know, you felt like that, like, little tickling sensation, uh, at the bottom of your neck. Never really bothered you. Uh, but now you feel it flare up and. Give me one second.
+Chandra (Bree(Guest Player))94:01
+Oh.
+[[DM]]94:19
+Um, where is my thing? Um, let me just roll a dice real quick. One, two.
+Chandra (Bree(Guest Player))94:20
+I'm scared.
+[[DM]]94:41
+Okay. Oh, that's okay. Okay. Lucky, luck. All right. Just sent you a message.
+Sanis (Gabe)94:49
+Uh, you spontaneously combust, don't you?
+Rin (Rachel)94:54
+I think I know what it is. I'm not looking forward to this.
+[[DM]]95:08
+Um, yeah, and, uh, I'll just say no. You know what, Varis, Give me a perception check.
+Varis (Vincent)95:22
+All right, so that's, uh, a natural. Uh, 20 for a 33 total.
+[[DM]]95:27
+A natural. Funny. Uh, you see Chandra, look directly at you.
+Varis (Vincent)95:29
+Yeah. Okay.
+[[DM]]95:43
+Um, all right, next up is. That's, that's it for Tezzeret. Next up is Orphea.
+Orphie (Taylor(Me))95:49
+So who was it that, um, Ogre ran up on? Was it Tesserate?
+[[DM]]95:51
+No, it was one of the Myconids.
+Orphie (Taylor(Me))95:55
+Oh, One of the Mikanids. And how far away is Tesla from me?
+[[DM]]95:55
+45Ft.
+Orphie (Taylor(Me))96:00
+Okay.
+[[DM]]96:01
+Um.
+Orphie (Taylor(Me))96:03
+Rage.
+[[DM]]96:23
+Yeah. Yep. Tezzeret is, uh, standing behind the pits. So, um, in order to get to him, it'll be, um. If you want to jump over the pits to him, you can. Otherwise, well, it's up to you on if you want to go through the pit, liquid or not.
+Orphie (Taylor(Me))96:25
+I have 40ft of movement. Will that get me there?
+[[DM]]96:31
+Uh, yeah. Yep.
+Orphie (Taylor(Me))96:37
+All right, then I will do the jumping. Do I need to roll anything for the jump?
+[[DM]]96:46
+Notably, I will say that you will have to move through, uh, the Mikonids. They won't get an attack of opportunity. But I will need you to roll.
+Orphie (Taylor(Me))96:48
+Roll what?
+[[DM]]96:51
+Constitution. Uh, Saving throw twice.
+Orphie (Taylor(Me))97:05
+Okay. What did I just roll? Okay, ignore that. I don't know what it was. It was initiative rolled. Initiative again. Um.
+[[DM]]97:09
+Con.
+Orphie (Taylor(Me))97:13
+Save. Okay. First one is a 16.
+[[DM]]98:02
+Good. You just take five points of necrotic damage, and then the second one, 11. Okay, so what happens is, um, you notice the miasma that is surrounding the myconids. Um, and you hold your breath. Uh, and so through the first one, you managed to get through, but the second one, you, um, had to take kind, uh, of a larger step trying to avoid the, uh, mic. And it's swinging at you. Um, so you had to take a breath in. And with that, it's like it burns going in, and you feel yourself getting tired. Uh, you have one level exhaustion right now.
+Orphie (Taylor(Me))98:07
+Okay. Just gonna.
+Chandra (Bree(Guest Player))98:10
+Pull up.
+Orphie (Taylor(Me))98:12
+Exhaustion rules. Just so I have them.
+[[DM]]98:17
+Rip.
+Rin (Rachel)98:17
+No fireball.
+Ogre (Chet)98:23
+Or if it can take fire.
+[[DM]]98:25
+M.
+Chandra (Bree(Guest Player))98:30
+What do you mean, no fireball?
+Rin (Rachel)98:35
+I guess I could fireball.
+Orphie (Taylor(Me))98:35
+Okay.
+Chandra (Bree(Guest Player))98:35
+Yeah.
+[[DM]]98:36
+Okay.
+Rin (Rachel)98:36
+You know, so.
+Orphie (Taylor(Me))98:37
+Yeah, be fine.
+[[DM]]98:39
+Yep. So you make it through.
+Chandra (Bree(Guest Player))98:40
+Question.
+Orphie (Taylor(Me))98:48
+Um, and how much damage do I take? Just five. Halved to two.
+[[DM]]98:50
+It's five necrotic damage.
+Orphie (Taylor(Me))98:52
+Uh-huh. Have. Is that already halved?
+[[DM]]99:05
+Uh, you will take five necrotic damage just by being there. So does your. Does your rage have necrotic damage?
+Orphie (Taylor(Me))99:08
+Yeah, I'm protected against everything but psychic damage.
+[[DM]]99:11
+Okay, so you just take five points of necrotic damage total.
+Orphie (Taylor(Me))99:19
+Okay. Okay. And so I am at Tez, or.
+[[DM]]99:34
+Whatever his name is, um, to jump over the pit. I will say it's a bit difficult because of all of the rubble and the size of the jump that you need to take. So please give me an athletics check.
+Rin (Rachel)99:38
+Oh, yeah. Also, can she make it the full way now because she doesn't have the full 40 movement anymore.
+[[DM]]99:42
+That's level two. That's level two exhaustion.
+Rin (Rachel)99:49
+Never mind. Sorry. You only suffered one numbers on the side. I was just like, yeah, that's all you get for exhaustion.
+[[DM]]99:53
+Yeah. Not only do you have disadvantage and your speed is half, but you're also dead.
+Orphie (Taylor(Me))99:55
+Oh, okay. I get advantage.
+Rin (Rachel)99:57
+It's either a 16 or, uh.
+Orphie (Taylor(Me))99:57
+It's a 16.
+[[DM]]100:04
+Uh, uh, it's. You just. It's normal now, since you have disadvantage from one level of exhaustion.
+Rin (Rachel)100:08
+But.
+[[DM]]100:12
+That.
+Ogre (Chet)100:13
+First one would be correct.
+[[DM]]100:15
+So what was the role?
+Orphie (Taylor(Me))100:16
+A. Ah, 16.
+[[DM]]100:26
+70. Oh, okay. You need to beat a 14, so that's fine. So you hop over and. Yeah, you're, like, right into. In Tezzard's face right now.
+Orphie (Taylor(Me))100:53
+Okay, cool. Um, so we'll hit him, uh, 23, 23.
+[[DM]]100:55
+Yeah, hit some.
+Orphie (Taylor(Me))101:03
+Okay, uh, that'll be 11.
+[[DM]]101:06
+Okay.
+Orphie (Taylor(Me))101:15
+And then again, that'll hit for 28.
+[[DM]]101:18
+Oh, Jesus.
+Orphie (Taylor(Me))101:24
+Okay, and that will be 18. Uh, plus.
+Rin (Rachel)101:26
+Four.
+Orphie (Taylor(Me))101:34
+Rage. Okay, I'm sorry, six. Plus six for rage.
+[[DM]]101:42
+Okay, um, give me. And uh, give me a perception check.
+Ogre (Chet)101:46
+Are you missing the 2D4 plus 6 as well? From those?
+Orphie (Taylor(Me))101:56
+Hold on. Uh, that's a 23 perception. I. I cannot. I mean, remember what is included in this that I already rolled. So does that not include Blazebringer?
+Ogre (Chet)102:03
+I don't think so. Looks like it's just the D12 that's showing up. See, it's still two D4 plus six fire damage.
+Orphie (Taylor(Me))102:10
+Two D4. That's four.
+Chandra (Bree(Guest Player))102:16
+What it said. Is it not including your rage?
+Orphie (Taylor(Me))102:17
+It never includes rage.
+Chandra (Bree(Guest Player))102:29
+Mhm. Somebody in, um, my other campaign made a ring of rage that like, isn't a, uh. Like you don't have to attune to it, but it just helps add the rage so you don't have.
+Orphie (Taylor(Me))102:37
+I had something like that, but things just got really weird for a while about what was showing, what wasn't, so I stopped.
+[[DM]]102:38
+The.
+Ogre (Chet)102:47
+The plus eight is including the rage because that's five plus three. Oh, never mind. It's a plus three already, isn't it? Never mind.
+Orphie (Taylor(Me))103:16
+Yeah, no, the, it's um, just the Regular damage is a 1D12 + 8. It shouldn't include the rage, so. Oh, I forgot what I rolled the first time. 11 and then 16. Hold on, let me just pull up my game log.
+Ogre (Chet)103:21
+Oh, it's just not updated to the next level of rage.
+[[DM]]103:39
+I. I would just, um, the ones that you posted. Let me just double check here. And yes, those are the ones that I'm going with. The uh, ones that Visualize Vincent posted for their rules for exhaustion.
+Varis (Vincent)103:44
+But chat. Uh, it is adding the rage damage.
+Ogre (Chet)103:48
+Yeah, uh, still instead of a plus three.
+Varis (Vincent)103:53
+Yeah, so then an extra two more points, I guess.
+Orphie (Taylor(Me))103:58
+Okay, so not the six for Rage, just adding two more for Rage.
+Ogre (Chet)104:01
+So four less flashing damage.
+Orphie (Taylor(Me))104:07
+After that. That's my turn. I got nothing else.
+[[DM]]104:11
+All right, so total, how much was the damage on the second hit?
+Orphie (Taylor(Me))104:30
+Oh God, hold on. Okay, so first damage was 11. Second damage was 18. Um, and then four for Blazebringer is.
+Ogre (Chet)104:34
+31 slashing damage and 10 fire damage.
+[[DM]]104:37
+Total.
+Orphie (Taylor(Me))104:44
+Yeah, and then, uh, two more. Because it's only calculating two out of three points of my rage.
+Ogre (Chet)104:46
+I put that in the 31.
+Rin (Rachel)104:50
+Okay, 31 slashing 10 fire damage.
+Orphie (Taylor(Me))105:02
+Um, and because I thought of the corniest thing ever. Um. Wait, what's his reaction to me hitting him.
+[[DM]]105:10
+Um, he. So where. Where do you hit him?
+Orphie (Taylor(Me))105:27
+I think if it's. If Orphe had to jump over something to get here, um, then what she's probably doing is slashing downwards as she lands and then, uh, back up, since it's two hits.
+[[DM]]105:41
+Okay. Swing down and then a swing up. M. Tezer goes. As expected of Athena's, uh, descendant.
+Orphie (Taylor(Me))105:44
+Damn right.
+[[DM]]106:06
+What was your perception check? Uh, 23, as you're. As Blazebringer, uh, hits Tezzeret. You do hear a clanging sound as the ax kind of bounces off a little bit as you hit him. Yeah. What else?
+Orphie (Taylor(Me))106:15
+Uh, no, I was gonna say something stupid, but I'm gonna save it because. Because I feel like it just doesn't have the same impact right now.
+[[DM]]106:43
+Um, okay. Um, yeah, so you hit him with the two strikes, uh, and then he actually lashes ah out, and you see a black, ah, tendril sticking out that looks like it has electricity, uh, circulating around it and. Orphan, can you make me a deck saving throw?
+Orphie (Taylor(Me))106:52
+I can, and I get advantage on this. Oh, wait. Saving throws are different than ability checks, right?
+[[DM]]106:54
+Yes.
+Orphie (Taylor(Me))107:00
+Okay, good. Wow. I rolled two threes for a five.
+[[DM]]107:05
+Okay.
+Orphie (Taylor(Me))107:12
+Um, you, advantage.
+[[DM]]107:42
+All right, so you will take 16 points of necrotic damage after being halved. Uh, just eight then. Um, but you see him reach out with a tendril, and then it gets pulled back into him, and you feel as though a part of your essence has been stolen.
+Orphie (Taylor(Me))107:45
+Hey, man, that's kind of gross.
+[[DM]]107:56
+I'm talking about an awful lot of essence this session. No.
+Sanis (Gabe)108:03
+You can't just be going around touching people's essences like that, bro. That's nasty.
+[[DM]]108:05
+You are next.
+Orphie (Taylor(Me))108:08
+Did you wash your hands before you touched my essence?
+[[DM]]108:11
+Absolutely not. Absolutely not.
+Orphie (Taylor(Me))108:12
+Ew.
+Rin (Rachel)108:15
+He's been sticking his hands in these essence pools. What do you think?
+Orphie (Taylor(Me))108:16
+Gross.
+Rin (Rachel)108:26
+Um, is there a way that I could use a fireball and hit all five of the enemies and not hit Orphe?
+[[DM]]108:30
+What's the, um, what's the radius? 40.
+Rin (Rachel)108:33
+So it'll definitely. It can potentially hit everyone. It's 40 foot diameter.
+[[DM]]108:36
+I mean. Oh, my God is right there.
+Orphie (Taylor(Me))108:41
+I could duck.
+Ogre (Chet)108:45
+You're back in time and be an evil cage lizard.
+Rin (Rachel)108:47
+What was that?
+Ogre (Chet)108:50
+Go back in time and then be an evocation wizard instead?
+[[DM]]108:54
+Um, nah.
+Orphie (Taylor(Me))109:07
+This is what I get for having better decks. Wait, so technically, though, we rolled the same with Initiative, so I'm going first just because I have decks. But isn't this technically happening at the same time?
+[[DM]]109:16
+Yeah, technically happening at the same time, I guess. Um, you don't have any movement left, do you?
+Orphie (Taylor(Me))109:21
+No, but maybe she hits him before I land. It takes time to jump.
+Rin (Rachel)109:24
+You would literally be going through the middle of the fireball.
+Orphie (Taylor(Me))109:30
+Can you just hit everybody else? And not the wood that's behind me or whatever.
+Rin (Rachel)109:40
+I would like to do some damage to Tezzer it, but I can just hit the mic and it's inst. Instead.
+Orphie (Taylor(Me))109:48
+Yeah, we can coordinate in the future. Um, but maybe just this round, we. We just don't hit me.
+Rin (Rachel)109:53
+Yeah, okay.
+Orphie (Taylor(Me))109:59
+In the future, can I take the dodge action to avoid getting hit by Rin.
+[[DM]]110:04
+As a full action on your turn?
+Orphie (Taylor(Me))110:05
+I don't know.
+Chandra (Bree(Guest Player))110:06
+I don't.
+Ogre (Chet)110:09
+I think that gives you advantage.
+Orphie (Taylor(Me))110:10
+Can I use my movement to duck?
+[[DM]]110:14
+That's.
+Ogre (Chet)110:16
+That's what a deck save is that.
+Rin (Rachel)110:21
+Yeah. Um, yeah, I'll just hit the mic and it's. Instead.
+[[DM]]110:23
+You're gonna fireball the Mikonids instead?
+Rin (Rachel)110:25
+Yeah, I'll fireball the mic.
+[[DM]]110:33
+I'm just. I'm just trying to visualize this, right? Because it's like, you guys are here. The myconids are here. Three, 30. No, 15ft away.
+Rin (Rachel)110:34
+Yeah.
+[[DM]]110:39
+And then 30ft from the myconids is Orphea and Tessera.
+Rin (Rachel)110:39
+Right.
+[[DM]]110:58
+So four, 40ft. Uh, I. I'm trying to picture where you put it, that you would only hit the myconids and I'm not. I guess I. Yeah, I guess there's verticality to it. That's fine. We will just roll for the Micah hits.
+Orphie (Taylor(Me))110:60
+Yeah, they're really big, right?
+Rin (Rachel)111:03
+It would be written well.
+[[DM]]111:06
+Well, they'll. It'll hit, like, their heads. Sure.
+Rin (Rachel)111:11
+Hey, that's where most of the shit's going on. Yeah. So I'm gonna do a level five fireball.
+Chandra (Bree(Guest Player))111:14
+Uh, why is your radius 40ft?
+Rin (Rachel)111:18
+No, the diameter is 40ft. The radius is 20.
+Ogre (Chet)111:21
+Oh, uh, it always confusingly gives the other measure.
+Rin (Rachel)111:47
+Well, I don't care how, like, half the distance is. I need the full 40ft because that's how much space I need. 20 doesn't give me shit. That's. Like how. Like, that doesn't even give me how far I need to be away from it. Like, 40ft is more useful for me. Okay. So, uh, dexterity saving throw of 16.
+[[DM]]112:08
+71. Okay. Um, two of them make it, and. No, two of them do not make it. The last one does make it. So I'll just do it for these two. Number three. Number two. Did not.
+Rin (Rachel)112:26
+Okay, let's see here. 10, 20, 29, 31. Fire damage. I Did not roll any sixes.
+[[DM]]112:31
+What was it again?
+Rin (Rachel)112:33
+Uh, 31 fire damage.
+[[DM]]113:01
+Okay, okay, okay. All right. Uh, the one saves and the other two do not. They take 31 points of fire damage. Anything else?
+Rin (Rachel)113:06
+Um, I don't think there's anything else. Okay.
+[[DM]]113:11
+Okie dokie. We'll go on to Sanis then.
+Sanis (Gabe)113:21
+All right, so how far is, um.
+[[DM]]113:29
+M. That guy. Te.
+Sanis (Gabe)113:33
+I had. I knew it was a t. I you.
+[[DM]]113:34
+Easy.
+Sanis (Gabe)113:38
+Um, easy. Yeah. Uh, how far is he?
+[[DM]]113:41
+45Ft.
+Ogre (Chet)113:43
+It is impossible for him to be.
+Sanis (Gabe)113:58
+45Ft while in this room. Okay, so like, technically speaking, he's not undead or con or a construct. Right? Because technically he's a cyborg. He's a human who has robot parts. Correct.
+[[DM]]113:60
+Yeah, yeah, sure.
+Sanis (Gabe)114:09
+Okay. I just want to make sure that I can use my phantasmal force on him. I don't want him to be a waste. Um, so I want to use my phantasmal force on him.
+[[DM]]114:12
+Mhm. Okay.
+Sanis (Gabe)114:18
+And he has to roll a intelligence saving throw.
+[[DM]]114:26
+And what was the spell safe? DC.
+Sanis (Gabe)114:29
+16.
+[[DM]]114:39
+72. Um, yes. Um, just give me.
+Sanis (Gabe)114:53
+For those who were wondering.
+Orphie (Taylor(Me))115:02
+Why won't Target let me use Google Pay?
+Chandra (Bree(Guest Player))115:09
+I'm sorry, Target? That's rude.
+Sanis (Gabe)115:12
+Because they lost $12 billion in the last quarter.
+Orphie (Taylor(Me))115:16
+I know. I wouldn't even be shopping with them if it wasn't Taylor Swift.
+Sanis (Gabe)115:20
+Or necessary. Yeah.
+[[DM]]115:24
+Okay. He does fail. He does fail.
+Sanis (Gabe)115:43
+Uh, yeah. Okay, so what I want it to be is I want it to be, uh, the memory of us in the tower with the crystal.
+[[DM]]115:44
+The.
+Sanis (Gabe)115:46
+But instead of it blowing up, we kill him.
+[[DM]]115:54
+Okay, so it's just this scene that's playing in front of him, that's projected in front of him.
+Sanis (Gabe)115:60
+He's just watching himself die over and over and over again.
+[[DM]]116:13
+Okay, uh, you. You take a look at him, Santa, and you see that he looks to his right where you caught the image. And he looks spooked.
+Rin (Rachel)116:20
+Knew it.
+Sanis (Gabe)116:35
+Um, and then. Oh, wait, no, that's my action. Does that have two attacks per action? That counts as one action, though, right?
+[[DM]]116:45
+Uh, phantasmal forces, one action. This is your whole action.
+Sanis (Gabe)116:46
+Okay, cool.
+[[DM]]116:47
+Yep.
+Sanis (Gabe)116:55
+Um, yeah, and then I just want to, like, position myself in front of my sister so that nobody hurts her.
+[[DM]]116:57
+Okay, cool.
+Sanis (Gabe)116:59
+And that's my turn.
+[[DM]]117:22
+All right. Yeah, you see that? Deseret is like, looking to his right and looks like he's gonna back away from, uh, that direction. Okay. Should you have added Selena to the Initiative? Should I? No. No, I don't think I should have.
+Sanis (Gabe)117:25
+I don't know she's ascending or something. I don't know.
+[[DM]]117:37
+I don't. I don't think I should have. Come on, man. All right, well, that's. That's one.
+Chandra (Bree(Guest Player))117:41
+I really spelled his name wrong.
+[[DM]]118:40
+Okay, and then. Okay, so it's Isaiah's turn. And Isaiah whips out his fiery longsword, and he goes, oh, friends, let us have grilled mushrooms today for. For dinner. And he swipes three times at the myconid. Uh, in the middle. Middle. And manages to connect with one of the slices, dealing 26 points of damage, but misses with the other two. But that is Isaiah. Next up, we have Chandra.
+Chandra (Bree(Guest Player))119:07
+So Chandra is pissed, but instead of her. Her wrath looking at. What the fuck's his name? Tazeret, her gaze shifts to Varys, and she's just gonna growl out you and throw a fireball over in that area.
+[[DM]]119:24
+Okay, so that's going to hit Varis, uh, Senis, and Rin, as well as the Micah N. Right. Well, actually, it's going to hit everyone except for Orphe. Right, that's exc.
+Ogre (Chet)119:27
+All way off to the right now.
+[[DM]]119:31
+Okay, sure. So everyone except for Ogre and Orphie.
+Chandra (Bree(Guest Player))119:38
+The deck save DC.
+[[DM]]119:38
+What?
+Chandra (Bree(Guest Player))119:40
+Uh, 17.
+[[DM]]119:46
+Okay, everybody roll, please.
+Varis (Vincent)119:49
+And I rolled a 17.
+Chandra (Bree(Guest Player))119:56
+Damn. I'm gonna start rolling for damage.
+Sanis (Gabe)120:00
+Wonderful. I rolled a nine.
+Varis (Vincent)120:05
+I mean, even if I didn't make that, it's only a scratch.
+Orphie (Taylor(Me))120:08
+I rolled an 18.
+Rin (Rachel)120:09
+Let's go.
+Chandra (Bree(Guest Player))120:34
+Okay. That do anything? No. Where's my calculator? And, uh, on my finger.
+[[DM]]120:42
+You know, I'm pretty sure last time he also casted this and he targeted Orphe. I feel like.
+Ogre (Chet)120:45
+No, it was Penny.
+[[DM]]120:50
+Oh, it was Penny. Oh, that was. Right. That was. Right. Never mind. Never mind.
+Rin (Rachel)120:53
+Yep, that was Penny.
+Orphie (Taylor(Me))120:57
+Yeah. G it. Right?
+[[DM]]121:14
+You know, that tower thing happened so long ago. You know what happened during that? Did somebody die? People die. I can't remember. All right, so, um.
+Ogre (Chet)121:18
+Delivered a puppy.
+[[DM]]121:21
+How much damage?
+Chandra (Bree(Guest Player))121:23
+That'll be 27.
+[[DM]]121:30
+Okay, so everyone that failed, take the full. If you made it, take half.
+Sanis (Gabe)121:36
+What was that big, scary number? I dissociated.
+Rin (Rachel)121:38
+27.
+Sanis (Gabe)121:41
+Okay.
+[[DM]]121:44
+Okay.
+Chandra (Bree(Guest Player))121:50
+Thank God for that rest.
+[[DM]]121:51
+All right.
+Ogre (Chet)121:52
+A lot worse.
+[[DM]]122:05
+All right, but noticeably. You do see that the, um, two Micah nids took the full damage, and one of them took half. There we go.
+Chandra (Bree(Guest Player))122:24
+This is. This is Chandra right now, just Angie, but, like, her eyes are locked on Varys. Like, it's on site.
+Varis (Vincent)122:28
+I think she needs a Snickers right now.
+[[DM]]122:32
+You're not you when you're hungry, Chandra.
+Chandra (Bree(Guest Player))122:44
+I just got out of jail. I ain't had a snack in God knows how long. Okay, the PTS is raging.
+[[DM]]122:51
+Angie, Chandra is here. Anything else?
+Chandra (Bree(Guest Player))123:04
+I m. Think no. I think I only get one action. Um, yeah, she's gonna scoot away from the group more just to get like a better angle of attack, but also not being close enough to be slapped by anybody.
+[[DM]]123:06
+Okay.
+Varis (Vincent)123:14
+You're so lucky you moved away. I was about to legendary action you.
+Chandra (Bree(Guest Player))123:19
+Oh, no, not today.
+Varis (Vincent)123:25
+I'm pretty sure I don't get to move during that. So he got away.
+Chandra (Bree(Guest Player))123:28
+Yeah. Can't touch this game.
+[[DM]]123:51
+Okay, I'm gonna go to my kitted, uh, number three's turn and they're going to walk up to the party. So Rin, Sanis and Varis, can you guys all make me a constitution savings row, please?
+Chandra (Bree(Guest Player))123:53
+Oh, sorry, guys. You're just taking.
+[[DM]]123:59
+Uh.
+Sanis (Gabe)124:05
+Is this against being charmed or frightened?
+[[DM]]124:06
+Nope.
+Rin (Rachel)124:09
+20.
+[[DM]]124:23
+Okay, you guys each just take five points of the chronic damage. Sanis, 17. Two. Uh, okay, so that's just five points up in the crot damage. Cool. So no ill effects, just damage.
+Varis (Vincent)124:41
+I also. I also do want to say with Chandra Varis completely knowing that she. I mean, aside from being fireballed, uh, I know that she's hostile right now. Oh, yeah, her moving away would trigger opportunity attack, right?
+Chandra (Bree(Guest Player))124:42
+Oh, no.
+Rin (Rachel)124:44
+Oh, yeah.
+[[DM]]124:50
+Uh, sure. If. If we're going to say that you were next to her, we can go for an opportunity texture.
+Chandra (Bree(Guest Player))124:52
+What's my Dex?
+[[DM]]124:56
+Well, I mean, it would be your ac, right?
+Chandra (Bree(Guest Player))124:58
+Yeah, that's true.
+Varis (Vincent)125:06
+I don't think. Unless I roll low, I don't think you're getting away. Uh, so I will be, uh, tail attacking.
+[[DM]]125:10
+Okay. Two, but you don't have sentinel, so she's still gonna move away.
+Varis (Vincent)125:14
+Yeah, yeah, you still get to move away. But.
+Chandra (Bree(Guest Player))125:16
+But you're gonna slap me on the way.
+Varis (Vincent)125:19
+By the 29 is definitely slapping you.
+Chandra (Bree(Guest Player))125:21
+Oh, okay.
+[[DM]]125:24
+Okay, so roll for damage. Uh.
+Chandra (Bree(Guest Player))125:27
+Tail attack. Tail attack.
+Varis (Vincent)125:34
+Where to go? Uh, 8, 18. Bludgeoning damage.
+[[DM]]125:43
+Okay, Chandra, uh, can you make me another, um, with some saving throw, please?
+Chandra (Bree(Guest Player))125:44
+Yes.
+[[DM]]125:47
+Oh.
+Chandra (Bree(Guest Player))125:53
+That'Ll be a. Which was, uh, 17.
+[[DM]]126:02
+Wait.
+Chandra (Bree(Guest Player))126:06
+Waiting, waiting.
+Varis (Vincent)126:16
+I sadly don't have Jeopardy on my soundboard.
+[[DM]]126:29
+Um, okay, you. You do save. So you do snap out of it.
+Chandra (Bree(Guest Player))126:34
+Do I know what I've done?
+[[DM]]126:37
+Oh, yeah. Oh, yeah, you do.
+Chandra (Bree(Guest Player))126:56
+I think when she get, like, gets slapped, she kind of like looks around and then looks horrified at the group. Like guilt we've all over her face.
+[[DM]]127:50
+All right, um, all right, Chandra snapped out of it. Um, but okay, we'll go back to the mic in his turn. And they're going to attack Boris twice. Uh, first one's not a hit. Second one, what's your AC19. Yep. That is a no from this mic. This one's gonna also, um, walk up to you guys. Um, everyone, make me another constitution saving throw. So Rin V, Varis and Sanis.
+Sanis (Gabe)127:58
+Six.
+Rin (Rachel)128:01
+That's a five.
+[[DM]]128:08
+Okay, Rin, uh, and Sis, you both get one level of exhaustion. Bars, you're good.
+Sanis (Gabe)128:15
+One level of exhaustion. Oh, why do you hate me? So.
+[[DM]]128:25
+What are my roles today? Holy. Uh, yeah, the other Micah also swings twice at Varis and misses.
+Varis (Vincent)128:37
+I, I, I say I would like to legendary action. Any one of those. Uh, sure, just, just get a tail attack on one of those myconids.
+[[DM]]128:39
+Okay. You want it to be number two, number three.
+Varis (Vincent)128:47
+Um, whichever one just hit us with the necrotic.
+[[DM]]128:49
+Okay, sure.
+Chandra (Bree(Guest Player))128:52
+That'd be number two, I think.
+[[DM]]128:54
+Yep. So roll to hit.
+Varis (Vincent)129:07
+Keeps closing the window when I roll things. 18 hits and, and 15. Budgeting damage.
+[[DM]]129:49
+All right, great. Sure has been hit. And last but not least, we've got. Oh, no, sorry. The mic. Number one has to go. And actually, it'll hit actually at the start of its turn. No, no, at the start of its turn. Uh, Ogre, make me a constitution saving throw.
+Ogre (Chet)129:56
+24.
+[[DM]]130:14
+All right, you make it. You just take five points, necrotic, all right? And then it is going to attack you and absolutely do. Jack, Boris, it's your turn.
+Varis (Vincent)130:18
+All right, um.
+[[DM]]130:29
+I. Yeah, Two giant corrupted Micanids staring you down.
+Varis (Vincent)130:32
+Yeah. And then one over by Ogre.
+[[DM]]130:33
+Yeah.
+Varis (Vincent)130:58
+Um, I will multi attack and, and just focus on the ones right in front of us. Um, so first, my frightful presence. Ah, wisdom. DC19 wisdom. Save for all the enemies. And luckily, uh, Chandra is not one of them anymore.
+[[DM]]131:04
+Um, the Myconids fail. But Tessie.
+Varis (Vincent)131:13
+Okay, uh, okay. And then. Okay, bite.
+Chandra (Bree(Guest Player))131:14
+Wait.
+Varis (Vincent)131:21
+One bite, two claw. Okay, um, I will be focusing on making a two again.
+[[DM]]131:22
+Okay.
+Varis (Vincent)131:29
+Since I already hit him m to once. So first a bite, which is a crit. That's great.
+[[DM]]131:37
+Uh, I. There we go.
+Varis (Vincent)131:42
+Crit damage. Uh, what is that?
+[[DM]]131:43
+30?
+Varis (Vincent)131:47
+Uh, one piercing, plus that mic into.
+[[DM]]131:48
+Two is, is gone.
+Varis (Vincent)131:55
+Okay. I just want to roll the extra damage just because I want to see it. Plus another fourth from that bite. So that was just one bite.
+[[DM]]131:57
+All right. Gone.
+Varis (Vincent)132:13
+And then, and then I take my two claw attacks on the other one then for, uh, that is a natural one. So second. Second claw attack.32.
+[[DM]]132:15
+Yep.
+Varis (Vincent)132:19
+And then 18 slashing.
+[[DM]]132:30
+Okay, cool.
+Varis (Vincent)132:44
+Um, how, um, tall is this room?
+[[DM]]132:50
+Uh, I'd say that it's 30ft tall.
+Orphie (Taylor(Me))132:55
+M.
+Varis (Vincent)132:57
+Stay where I am.
+[[DM]]133:55
+Okay, um, at the top of the order, at the top of the order, I'm just gonna have Tessera fire off a spell here at Orphe. That's gonna be. That's going to be one hit, and then that's a nat 20.
+Ogre (Chet)133:58
+Are you sure that it's not being countered?
+[[DM]]134:00
+Are you going to counter?
+Ogre (Chet)134:02
+Yeah, absolutely.
+[[DM]]134:03
+All right.
+Ogre (Chet)134:06
+It's a. I can only cast at level three, though. Um, I'm guessing I have to roll.
+[[DM]]134:07
+This.
+Ogre (Chet)134:12
+Higher than level three spell.
+[[DM]]134:16
+Yeah, it's going to be the spells level plus 10, right?
+Ogre (Chet)134:18
+Yeah, I got a 20.
+[[DM]]134:39
+Uh, oh, yeah, 22. It's counted. So you see that, uh, Tezzeret, um, attempts to conjure black, uh, and red bolts in the air. And what does it look like when ogre counters that, uh, mage hands are.
+Ogre (Chet)134:45
+Just gonna pop up and encompass both of them and, like, absorb all their, uh, power as they dissipate.
+[[DM]]134:46
+Okay.
+Orphie (Taylor(Me))134:47
+Oh, yeah.
+Rin (Rachel)134:48
+Thank you.
+Ogre (Chet)134:53
+From the darkness.
+[[DM]]134:57
+You're welcome. Um, well, then that's it, Ogre. It's your turn.
+Ogre (Chet)135:04
+I'm just gonna go full Yoda on up this mic in it.
+[[DM]]135:05
+All right.
+Ogre (Chet)135:09
+With which advantage on everything for being in the darkness.
+Chandra (Bree(Guest Player))135:13
+Uh, fighting in a cloud.
+Ogre (Chet)135:27
+Uh, that is 20 psychic damage.
+[[DM]]135:31
+Attack.
+Ogre (Chet)135:44
+And then another 20 damage psychic, uh, damage on the second attack.
+[[DM]]135:47
+Now, what is this?
+Ogre (Chet)135:60
+You guys can see it, but the sword's power kind of diminishes as my eyes turn black. Witch's power, her bonus moves from my, uh, sword to my brain.
+[[DM]]136:03
+For spells, everybody's eyes are turning m.
+Ogre (Chet)136:17
+Different colors but mine, uh, that spells nothing. That's just the ability that's on my shield thing that lets me move her bonus between ac spell casting and sword.
+[[DM]]136:23
+Right, right. So, um, the attacks that you made on the Miconid, are they just. Were they just regular attacks? No, that. That's.
+Ogre (Chet)136:34
+The change is happening after the attacks. So the attacks are when she's still in the sword, and then she's going up to spell casting in case I need help with the next counter spell. Okay, I just rolled so many. 19.
+[[DM]]136:43
+Like, for. For attacking. For attack rolls. Yeah, yeah, yeah. Okay, no problem.
+Ogre (Chet)136:49
+Oh, no, the attack rules were psychic damage. So 40 total psychic damage.
+[[DM]]136:55
+Right, Right. But, like, like, the roll to hit was a 19 each. Uh, what was the.
+Ogre (Chet)136:58
+Yeah, they ended up being, like, the 20. I think it was 27.
+[[DM]]137:05
+73. Cool. I just wanted to know, like, what they were oh, sorry.
+Ogre (Chet)137:06
+Yeah, they were extremely high.
+[[DM]]137:10
+Yep, no problem. Um, okay.
+Orphie (Taylor(Me))137:13
+It helps your too if you guys say your stuff out loud.
+[[DM]]137:22
+All right. Yeah, you're, uh, Yoda style messing up this Mikonin.
+Orphie (Taylor(Me))137:27
+Oh, Auburn's ranked.
+Ogre (Chet)137:31
+The ball of darkness is just kind of moving around.
+[[DM]]137:45
+All right, it is Tezzer's turn. Um, I am gonna have him target you. Orpheus, since you're right there.
+Rin (Rachel)137:46
+What?
+[[DM]]137:50
+Can you make me two, uh, dexterity saving throws, please?
+Orphie (Taylor(Me))138:01
+Okay, hold on. I thought that this automatically rolled. Uh, eight.
+[[DM]]138:02
+Ah.
+Orphie (Taylor(Me))138:09
+And I thought this automatically rolled to my advantage. I don't know know why I didn't. 12.
+[[DM]]138:20
+Okay. You're going to take a total of 31 points of necrotic damage. It's going to be half for you.
+Rin (Rachel)138:21
+Mhm.
+[[DM]]138:32
+Since you're raging. Um, but then once again, you feel your essence taken, uh, and absorbed by H.
+Orphie (Taylor(Me))138:35
+Hey, that's mine.
+[[DM]]138:39
+And now it's his.
+Chandra (Bree(Guest Player))138:43
+Bad touch.
+[[DM]]138:45
+Or it's your turn.
+Orphie (Taylor(Me))139:29
+Okay. Um, okay. So we decided with that role, it does include. Hold on, hold on, hold on. Mhm. I wonder if I can just change this really quick. You know what? No, I'll do that later. Um, uh, Orphea will, um, activate tattoo.
+Chandra (Bree(Guest Player))139:32
+And.
+[[DM]]139:36
+Hit.
+Orphie (Taylor(Me))139:45
+God damn, that was almost an at 20. Instead it's a 26.
+[[DM]]139:50
+Oh boy. All, uh, right, roll for D damage.
+Orphie (Taylor(Me))141:06
+It was just so close. This is 17. And let's see, the extra rage damage is. Will be 1. So it's 18. Um, plus a D4 is 4. Hell yeah. Plus a 6 is 10. And then, uh, second hit. Oh, hold on. Before I roll again. Um, tattoo damage for that is not in features and traits. It's in invent. Eldritch Maul. That's an extra two. While, um, I'm here, I'm just gonna go ahead and roll that again so I don't have to come back over here. Okay, so five. That's a five. And then rolling to hit again, it's another 26.
+[[DM]]141:08
+Mm.
+Orphie (Taylor(Me))141:28
+Uh, so that's 13 plus the five tattoo. Plus, um, one is 19. Plus my D4 is another one.
+[[DM]]141:49
+Okay. Yeah, you're just, you're hacking away at Tezzeret and once again your ax is kind of bouncing off with each hit. You manage to get one slice across his chest. But then you see that the wound knits itself back up.
+Orphie (Taylor(Me))141:59
+Hey guys, I could use a little help. I mean, like, I'm hitting him pretty hard, but like, he's just kind of a piece piece of.
+[[DM]]142:15
+As a good bad guy should be. Um, Rin, before we go to your turn. Let's. We'll just take a 15 minute break. Been playing for a while, so come back at like 8:50.
+Rin (Rachel)142:17
+Sounds good.
+[[DM]]142:19
+8:50. Okie doke.
+Orphie (Taylor(Me))142:24
+Okay, stopping recording.
+[[DM]]
+Are we live?
+OPRHIE (TAYLOR(ME))
+Oh, yeah, actually.
+[[DM]]
+Sweet. Okay, well, next up is Red.
+OPRHIE (TAYLOR(ME))
+Oh, goodness. What do I want to do?
+RIN (RACHEL)
+Well, I think I want to get the away from these Mike and EDS.
+CHANDRA (BREE(GUEST PLAYER))
+Them in their stank.
+[[DM]]
+Thank you, Mike. Mykonids.
+RIN (RACHEL)
+I should have been pay. I should have been preparing, but I was not.
+OPRHIE (TAYLOR(ME))
+Laundry.
+RIN (RACHEL)
+Ice cream.
+OPRHIE (TAYLOR(ME))
+Even better.
+CHANDRA (BREE(GUEST PLAYER))
+Watching memes over here.
+RIN (RACHEL)
+I do have laundry I need to take out of the dryer, but it's not a requirement. How many Myconids are still up? Just two, right?
+CHANDRA (BREE(GUEST PLAYER))
+Just.
+[[DM]]
+Just two.
+OPRHIE (TAYLOR(ME))
+Just two.
+RIN (RACHEL)
+And there's definitely not a good place to do Fireball, so I think we're gonna xna the fireball. A.
+[[DM]]
+Forget.
+OGRE (CHET)
+You didn't have a chance to switch to massacre wounds, did you?
+RIN (RACHEL)
+I did.
+[[DM]]
+Oh.
+RIN (RACHEL)
+How are people doing?
+OPRHIE (TAYLOR(ME))
+I think we're all doing pretty bad, especially me and Sandis. I mean, like, okay, I am not.
+RIN (RACHEL)
+A good gauge right now because I take 50. Like, I negate all necrotic damage.
+OPRHIE (TAYLOR(ME))
+So to be fair, I'm at like.
+RIN (RACHEL)
+Might not. Hold on.
+CHANDRA (BREE(GUEST PLAYER))
+I'm doing okay. And I don't really think I deserve healing since I hurt a lot of people.
+SANIS (GABE)
+I mean, I don't know about 28 out of 94. Yeah, I'm rough. It's. And I have a level of exhaustion. It's rough over here.
+OPRHIE (TAYLOR(ME))
+Oh, yeah. I have a level of exhaustion too.
+VARIS (VINCENT)
+Yeah, Sanis, I feel ya. I'm down to 235.
+CHANDRA (BREE(GUEST PLAYER))
+Out of what? What the is your max?
+RIN (RACHEL)
+He's a dragon. What did you expect?
+CHANDRA (BREE(GUEST PLAYER))
+Yeah, don't heal him.
+SANIS (GABE)
+You sound just like a man who gets sick and is like, oh, my tummy hurts.
+CHANDRA (BREE(GUEST PLAYER))
+Take care of me in the corner over here.
+OPRHIE (TAYLOR(ME))
+Me and Corey got Covid.
+OGRE (CHET)
+Is that what you're like?
+SANIS (GABE)
+No, because I was born female.
+OPRHIE (TAYLOR(ME))
+Best of both worlds. Hannah Montana.
+SANIS (GABE)
+Yeah, what she said.
+CHANDRA (BREE(GUEST PLAYER))
+All of the benefits, none of the weaknesses.
+RIN (RACHEL)
+I'm trying to figure out what the I need to do.
+SANIS (GABE)
+I love taking you guys out like that. That's great. Cool. Carry on.
+CHANDRA (BREE(GUEST PLAYER))
+Not helping.
+RIN (RACHEL)
+I have one more level five slot and that's it. So that I can't.
+CHANDRA (BREE(GUEST PLAYER))
+No other spell slots?
+RIN (RACHEL)
+No, I have one level four. I have no level three. All my level twos and level ones, so.
+CHANDRA (BREE(GUEST PLAYER))
+Naru, I can't help anyone either.
+RIN (RACHEL)
+I don't have any who is not doing great. Right now, in regards to health, I'm at half Santa.
+CHANDRA (BREE(GUEST PLAYER))
+Well, either I got 54 out of 72.
+OPRHIE (TAYLOR(ME))
+That's not bad.
+RIN (RACHEL)
+That's okay.
+CHANDRA (BREE(GUEST PLAYER))
+Again, I. I don't deserve anything anyway.
+VARIS (VINCENT)
+It's not your fault.
+OPRHIE (TAYLOR(ME))
+That's not really how.
+CHANDRA (BREE(GUEST PLAYER))
+I know, but it's still funny.
+RIN (RACHEL)
+It isn't. You know what? Healing never hurt anyone. Yeah. Okay. I'm gonna move to a point where pretty much I'm within 30ft of everyone getting away from the Myconids as well. And I'm gonna cast mass cure wounds, I guess. Yeah. Okay. I need my D8s.
+CHANDRA (BREE(GUEST PLAYER))
+That's not gonna let them slap you, is it?
+RIN (RACHEL)
+Is it?
+[[DM]]
+I don't want to roll anything.
+CHANDRA (BREE(GUEST PLAYER))
+No, I don't want to roll anything. We love it. Hey, it helps.
+RIN (RACHEL)
+I here for the energy.
+VARIS (VINCENT)
+I mean, the Mikids would have been standing in front of me and I'm too big for Rin to be close.
+CHANDRA (BREE(GUEST PLAYER))
+So I thought I got.
+RIN (RACHEL)
+They were close enough to do damage to me, but. Yeah.
+VARIS (VINCENT)
+Well, just in terms of tax of opportunity, they wouldn't be close enough to Rin, I don't think.
+CHANDRA (BREE(GUEST PLAYER))
+No, I meant.
+RIN (RACHEL)
+Okay. Okay. That's actually pretty good. Each person, each target. Okay. Everybody gets 29 points of health back.
+SANIS (GABE)
+You are Godsent. Literally.
+RIN (RACHEL)
+Literally. You're welcome.
+OGRE (CHET)
+That requires sight though, right?
+CHANDRA (BREE(GUEST PLAYER))
+Huh?
+OGRE (CHET)
+It's creatures you can see.
+OPRHIE (TAYLOR(ME))
+Don't worry. The only person you can't see is Ogre.
+RIN (RACHEL)
+Nope. So it had the point at which the radius starts. I have to see. But it does not specify that the targets are. Yeah. A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in that 30 foot radius centered on that point. Each target regains hit points equal to 5d8 plus your spell casting modifier.
+[[DM]]
+Cool. Yeah.
+OGRE (CHET)
+You don't have to.
+RIN (RACHEL)
+That's specifically why we chose this was because of the darkness jar. Or at least I did.
+VARIS (VINCENT)
+So you brought me back to my256.
+OPRHIE (TAYLOR(ME))
+You're welcome. Does this do anything for exhaustion? Just curious.
+RIN (RACHEL)
+No.
+[[DM]]
+Okay.
+CHANDRA (BREE(GUEST PLAYER))
+I hope you step on an ice.
+SANIS (GABE)
+Cube in a sock.
+CHANDRA (BREE(GUEST PLAYER))
+I'm sorry.
+VARIS (VINCENT)
+I mean, in fairness though, as long as I'm alive, like. Like that. That's a big health pool.
+SANIS (GABE)
+Right? Right, right, right, right. But like, I really do. Like I. I said, I hope he steps on an ice cube in a sock.
+[[DM]]
+Oh, yeah.
+SANIS (GABE)
+A wet sock. Nobody likes a wet sock.
+OPRHIE (TAYLOR(ME))
+A sharp ice cube.
+SANIS (GABE)
+Oh, well, no, that. For that, I want Legos. Or. You know what?
+OPRHIE (TAYLOR(ME))
+You lose.
+SANIS (GABE)
+I hope you lose every charging Block you need.
+CHANDRA (BREE(GUEST PLAYER))
+Don't do that.
+RIN (RACHEL)
+His charging block. He needs us to charge his arm.
+SANIS (GABE)
+Not my girlfriend in the background like Babe.
+CHANDRA (BREE(GUEST PLAYER))
+That's so mean.
+RIN (RACHEL)
+Even she thinks it's so mean.
+SANIS (GABE)
+She does.
+[[DM]]
+She does.
+OPRHIE (TAYLOR(ME))
+I hope he fills up his gas tank and then his car dies.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, God damn. Y' all are out here going for the jugular.
+RIN (RACHEL)
+Really?
+OPRHIE (TAYLOR(ME))
+I hope his doctor increases his prescription right after he gets a refill.
+RIN (RACHEL)
+I believe that is all I can do.
+[[DM]]
+Okay.
+OPRHIE (TAYLOR(ME))
+I hope he gets hella kidney stones.
+RIN (RACHEL)
+Because I can only cast one spell per turn.
+SANIS (GABE)
+Okay, so are there any micronoid bad guys left or.
+[[DM]]
+Nah, there are two.
+RIN (RACHEL)
+Two boys left.
+SANIS (GABE)
+Okay, which one looks the worst?
+[[DM]]
+The one that's by ogre.
+SANIS (GABE)
+You mean ogre that we can't see?
+VARIS (VINCENT)
+You can only see one of them.
+[[DM]]
+You see. You see the cloud of darkness.
+OPRHIE (TAYLOR(ME))
+You have a general idea.
+[[DM]]
+That's what you see.
+SANIS (GABE)
+Okay, well I then yeah. I shoot at that one with my longbow.
+OPRHIE (TAYLOR(ME))
+Where is my actions with my space.
+CHANDRA (BREE(GUEST PLAYER))
+You shoot at the one in the darkness?
+SANIS (GABE)
+Yep. With disadvantage.
+CHANDRA (BREE(GUEST PLAYER))
+Okay.
+OPRHIE (TAYLOR(ME))
+There's a size size difference. So there's a good chance that he could aim higher and not have a problem hit with avoiding ogre.
+[[DM]]
+The. The microed is large. They're large size.
+SANIS (GABE)
+Ogre is itty bitty to hit with disadvantage was 15.
+[[DM]]
+Does not hit.
+SANIS (GABE)
+Okay, then I try to aim at the one that I can see.
+[[DM]]
+Sure.
+SANIS (GABE)
+21 noise that hits six damage and I want to deal. Can I do my dreadful strike where I deal extra D4 of psychic damage?
+OPRHIE (TAYLOR(ME))
+I don't know, Ken.
+[[DM]]
+What are the. Yeah, what are the restrictions on it?
+SANIS (GABE)
+Dreadful strikes. You can augment your weapon strikes with mind scoring magic drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra D4 psychic damage to the target which can take this extra damage only once per turn. The extra damage increases 1d6 when you reach 11th level in this class. So it's part of my ranger ability and my being a Feywild. Fey Wonder. Cool. So D4. Let's see.
+[[DM]]
+2.
+SANIS (GABE)
+I am a ranger and I taught. I taught putty tat. So that's total of eight damage, two psychic and six piercing.
+[[DM]]
+Got it.
+SANIS (GABE)
+And then that's my turn.
+[[DM]]
+Okie dokie. All right. It is Isaiah's turn. And then we're gonna see what these roles are.
+CHANDRA (BREE(GUEST PLAYER))
+What these roles are.
+RIN (RACHEL)
+I hate is.
+[[DM]]
+Okay. I mean, I guess, I guess, I guess. All right. But did you make it, buddy? Did you make the save all right, so you see Isaiah run up to the Myconid Mikid 3, the one that's engaged with Varis currently. And Isaiah strikes thrice, hits thrice, and you see that basically from the right, the left, and then down the middle, Isaiah slashes thrice and chops this myconid, and it falls apart in front of him. And you hear him go. You see, friends, that is how you grill mushrooms.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, my God.
+[[DM]]
+And then you see him. And then you see him go down to one knee as he suffers another level of exhaustion. But that's him. Slice and dice that Mike. And it.
+OPRHIE (TAYLOR(ME))
+Yes, he would have.
+RIN (RACHEL)
+He would have also gotten 29.
+OPRHIE (TAYLOR(ME))
+Health.
+RIN (RACHEL)
+Back, by the way.
+[[DM]]
+Okay.
+RIN (RACHEL)
+I also definitely forgot to give myself 29 back.
+[[DM]]
+He did not take any damage, so. Okay. All right. Oh, no, you know what? He suffered the two waves of necrotic damage, so he does heal that back, so that's 10. Cool.
+RIN (RACHEL)
+What is Selena doing, by the way?
+OPRHIE (TAYLOR(ME))
+She's hanging out.
+[[DM]]
+Chandra, do you want to look at what Selena's doing?
+SANIS (GABE)
+He's hiding behind her big brother.
+CHANDRA (BREE(GUEST PLAYER))
+I mean, is that an action?
+RIN (RACHEL)
+No.
+[[DM]]
+I'll let you have it as a free action. Just, like, look over at what she's doing.
+CHANDRA (BREE(GUEST PLAYER))
+Okay. What's she doing?
+[[DM]]
+She, you see, is sitting up with her eyes white, and you see that she is staring intently at the pits filled with liquid.
+CHANDRA (BREE(GUEST PLAYER))
+Okay.
+RIN (RACHEL)
+Riveting, content.
+SANIS (GABE)
+Weird at all.
+[[DM]]
+You actually. You actually see her raise a hand, reaching towards it, throw in the pit.
+CHANDRA (BREE(GUEST PLAYER))
+I really don't think she should go in there. I don't know if she should go into that pit. And then she's gonna. Can I do that thing? No, I can't do that thing. Then she's gonna kind of charge at Tezareth Tezzeret. I don't know if I can get over there.
+[[DM]]
+Yeah, I'll say that. Like, when you moved away from Vars, you just move to 15ft, so. So you can close the 30ft to Tezzaret.
+CHANDRA (BREE(GUEST PLAYER))
+I will get.
+[[DM]]
+But please do make me an athletics check.
+CHANDRA (BREE(GUEST PLAYER))
+Okay.
+[[DM]]
+Or acrobatics to jump over the pit.
+CHANDRA (BREE(GUEST PLAYER))
+I got this. Which one's better, though? Just. I'll do acrobatics because I got a 18 plus three.
+[[DM]]
+Yeah, you make it 21 with a flip. A fiery flip. You make it over the pit?
+CHANDRA (BREE(GUEST PLAYER))
+Yeah, yeah. As she flips, she's gonna cast. What level? Yeah, we'll do it at that level. Scorching Ray. Yeah. It's second level at Tezzeret.
+[[DM]]
+Okie dokie.
+CHANDRA (BREE(GUEST PLAYER))
+And she'll just Scream, you bastard. You made me hurt them. I'm going to kill you.
+[[DM]]
+You hear him?
+VARIS (VINCENT)
+Go.
+[[DM]]
+You snapped out of it. Interesting.
+CHANDRA (BREE(GUEST PLAYER))
+That's right.
+[[DM]]
+All right, roll your. Roll your attack rolls.
+CHANDRA (BREE(GUEST PLAYER))
+Okay, I said second level, right?
+[[DM]]
+If that's what you said. That's what you said.
+CHANDRA (BREE(GUEST PLAYER))
+Yes, I think so. It looks like it's the spellbox. I checked. Let me reread this again. Okay, so three fiery rays. Oh, that'll be a 12 plus nine.
+[[DM]]
+A 21.
+CHANDRA (BREE(GUEST PLAYER))
+74. Oh, that's probably not gonna hit. 11.
+[[DM]]
+No.
+CHANDRA (BREE(GUEST PLAYER))
+And a 26.
+[[DM]]
+Yep. That is cool.
+CHANDRA (BREE(GUEST PLAYER))
+So two out of the three, and I think they are both two D6 each. Yes. That one did not stay in the tray, but cool. And why the are you. Oh, I have the tray backwards. That's why they're coming out.
+OPRHIE (TAYLOR(ME))
+Betrayed.
+CHANDRA (BREE(GUEST PLAYER))
+The betrayal.
+RIN (RACHEL)
+Oh, my God.
+OPRHIE (TAYLOR(ME))
+Y'. All. I panicked. I thought I lost the recording for our last session, but I found it.
+CHANDRA (BREE(GUEST PLAYER))
+That'll be 15 total damage.
+[[DM]]
+75. Okie dokie. Yeah, you. What do you say as these couple of rays of fire hit Tezer?
+CHANDRA (BREE(GUEST PLAYER))
+Just you. I hope it hurts.
+[[DM]]
+And. And the fire. And the rays of fire hit him. All right, it's. This might get its turn. Ogre, can you make me kansei, please?
+OPRHIE (TAYLOR(ME))
+Oh, hey, Chris. I'm beating you at fantasy football.
+[[DM]]
+That's cool. 18. 18 makes it. Yep. So you just take five points. No chronic dam. And then he's gonna attempt to you. Oh, that's gonna be a 20 with disadvantage.
+OGRE (CHET)
+That hits.
+[[DM]]
+Yay. One of the only hits these Mikonids have scored all night.
+CHANDRA (BREE(GUEST PLAYER))
+Yay.
+[[DM]]
+For a measly.
+CHANDRA (BREE(GUEST PLAYER))
+3.
+[[DM]]
+It's gonna be 16 bludgeoning and 5 necrotic. All right, and then they're gonna go for the second hit. Nope, not a hit. Varis, it's your turn.
+OGRE (CHET)
+I pass on my con concentration saves, by the way, for darkness.
+[[DM]]
+Okay.
+VARIS (VINCENT)
+I don't know why I still have roll 20 open. I haven't used it I. Since I have blind sight. How is the the marketed by ogre looking?
+[[DM]]
+It's half dead.
+VARIS (VINCENT)
+And I'm sorry, is there still one stand in front of us?
+[[DM]]
+Nope, it's dead.
+VARIS (VINCENT)
+Okay, that's what I thought. I will go over, you know what with Tessera there is with him and Orphie, are they just simply, like, standing next to each other or does he, like, have her in any kind of.
+OPRHIE (TAYLOR(ME))
+He doesn't have me, like, hold.
+[[DM]]
+I mean, they're engaged in combat, but they're not like, grappled or anything.
+VARIS (VINCENT)
+Okay, I know Tesla goes before Orphea, I mean, because I can. I can do this with the cone I want to.
+[[DM]]
+I'll.
+VARIS (VINCENT)
+I'll fly up to Tezzeret and get right in his face and then force breath him.
+[[DM]]
+Okay.
+VARIS (VINCENT)
+Just point blank.
+[[DM]]
+All right, that's saving. Throw.
+VARIS (VINCENT)
+DC21 decks save.
+[[DM]]
+He makes it.
+VARIS (VINCENT)
+Okay, so it still takes half damage, so total is 60. So he takes 30 force damage.
+[[DM]]
+Jesus. Okay.
+OPRHIE (TAYLOR(ME))
+Yep.
+VARIS (VINCENT)
+Then that's my turn.
+[[DM]]
+Yeah. So the two Mikanids that were attacking you guys are dead. One of them is still standing. And Tez by the black corrupted pumps connected to the small makeshift portal taking all these hits. He just glares at you guys and he goes, you guys might take me down, but Bolas will succeed in the end. His corruption knows no end. His power is absolute. And your sparks will be harvested. Of that you can be sure.
+RIN (RACHEL)
+How can you be sure of anything?
+[[DM]]
+Rin, can you make me a wisdom statement there, please?
+OGRE (CHET)
+Never mind. Maybe I do. Stay quiet.
+CHANDRA (BREE(GUEST PLAYER))
+I just have to tell.
+RIN (RACHEL)
+That's a 10. I rolled a two. I need to stop rolling with this dice.
+[[DM]]
+Okay, cool.
+CHANDRA (BREE(GUEST PLAYER))
+Jail.
+OGRE (CHET)
+You rolled all the twos out. You're great.
+RIN (RACHEL)
+I just keep rolling twos. Though the problem, they don't seem to end.
+CHANDRA (BREE(GUEST PLAYER))
+You need a dice jail.
+[[DM]]
+Yep, we're at the top of the order. Ogre, your turn.
+CHANDRA (BREE(GUEST PLAYER))
+I'm scared.
+OGRE (CHET)
+Attacking the mic in it. Let's go. I guess first I'm gonna. My. My energy goes back. Or Witch's energy goes back to the sword with my bonus action before I make these attacks. 26 to hit and then 15 psychic damage.
+[[DM]]
+All right.
+OGRE (CHET)
+Then 23 to hit.
+[[DM]]
+Yeah, that hits max.
+OGRE (CHET)
+That is 23 psychic damage.
+RIN (RACHEL)
+Okay.
+[[DM]]
+Yep. You guys all just see like, little flashes of light or like the blade sticking out from the COVID of darkness as Ogre is continuing to slash this mic in into bits.
+OGRE (CHET)
+No physical damage has overcome it yet. It's just soul damage.
+CHANDRA (BREE(GUEST PLAYER))
+I don't need to cut you. I'm gonna cut your soul.
+[[DM]]
+All right.
+OGRE (CHET)
+Really should back out for me.
+[[DM]]
+All right. This time on Te's turn, he's just gonna do a different move here.
+CHANDRA (BREE(GUEST PLAYER))
+Don't wave your fingers at anyone else again.
+[[DM]]
+Or if he does a. An 18 hit you.
+OPRHIE (TAYLOR(ME))
+Yeah.
+[[DM]]
+Okay, that's going to be 20 points of necrotic damage.
+OPRHIE (TAYLOR(ME))
+Okay.
+[[DM]]
+And then the other hit, that's going to be a 19 to hit. And that's going to be 25 points of the cracking.
+OPRHIE (TAYLOR(ME))
+Okay.
+[[DM]]
+And then can you make me a DC14 conceic SA throw?
+OPRHIE (TAYLOR(ME))
+Yup.
+CHANDRA (BREE(GUEST PLAYER))
+Don't let him take any more of your essence.
+OPRHIE (TAYLOR(ME))
+Hold on, I need to do math. You said. What were the damages?
+RIN (RACHEL)
+20 and 25. Necrotic damage. That's not halved.
+OPRHIE (TAYLOR(ME))
+I believe it is halved. Yes.
+[[DM]]
+For a raging.
+RIN (RACHEL)
+No. Yeah. Yes, but.
+OPRHIE (TAYLOR(ME))
+Oh, the numbers were not half.
+RIN (RACHEL)
+No.
+OPRHIE (TAYLOR(ME))
+Yeah, no, I have a calculator out now. That's what I was doing. I was like, let's do math. Okay. And then I need to roll. Let me roll. Con save. Yes, yes.
+RIN (RACHEL)
+Yes.
+OPRHIE (TAYLOR(ME))
+Now one for six.
+[[DM]]
+Okay, so actually instead of taking that as damage, your hit point maximum is reduced by that much.
+OPRHIE (TAYLOR(ME))
+Okay, listen, I don't mind, but like, that's extra steps and I'm like trying to get last sessions notes together. You're just making it a little difficult. Oh, that is not.
+[[DM]]
+Oh, I gotta do more work.
+OPRHIE (TAYLOR(ME))
+Yeah, elective work that I'm literally doing on my.
+CHANDRA (BREE(GUEST PLAYER))
+Own last session for like a huge thing. And he wants everything. So as the note taker, I'm typing everything out for him. I still. I need to ask my group if somebody can record, but I don't think it could be me.
+[[DM]]
+Luckily we got good old chat GPT.
+CHANDRA (BREE(GUEST PLAYER))
+It's just my Internet's too.
+OPRHIE (TAYLOR(ME))
+Yeah, no, I'm just saying whoever you ask, it'll be free, so it's not like you're asking a lot of them.
+CHANDRA (BREE(GUEST PLAYER))
+Yeah, no. Yeah. Worst case, I could have somebody record and then they could send the footage and I could do everything else.
+OPRHIE (TAYLOR(ME))
+Are we waiting on something? Are we waiting on me? Okay, so sorry.
+[[DM]]
+That's okay.
+OPRHIE (TAYLOR(ME))
+That's right. I am right after him. Okay, let's see if I can do this quickly.
+CHANDRA (BREE(GUEST PLAYER))
+What was your con save? I thought that's what you were doing.
+OPRHIE (TAYLOR(ME))
+I already rolled the con. Yes.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, I was facing out my bed.
+OPRHIE (TAYLOR(ME))
+That's a nat 20 for 30.
+[[DM]]
+Oh, boy. Yep.
+OPRHIE (TAYLOR(ME))
+And I have my bonus action, so I can. Great weapon master.
+[[DM]]
+Yes.
+VARIS (VINCENT)
+That also doubles your tattoo force damage.
+OPRHIE (TAYLOR(ME))
+Beautiful. Okay, first, 24 damage.
+OGRE (CHET)
+Plus 25 because the. Or, sorry. 25 because the rage damage because rage.
+OPRHIE (TAYLOR(ME))
+Okay, yes. Yeah, 25.
+[[DM]]
+Got it.
+OGRE (CHET)
+Plus 2d6, 2d4. Plus 3.
+OPRHIE (TAYLOR(ME))
+2D6, 2d4. Rolling. All that. Oh, man. So 12.
+RIN (RACHEL)
+15.
+OPRHIE (TAYLOR(ME))
+So 15. 25 plus 15.
+OGRE (CHET)
+That being seven force damage. And eight fire damage, if that matters.
+OPRHIE (TAYLOR(ME))
+Okay, then second roll another nat 20 for 30.
+OGRE (CHET)
+Classic RP box move.
+[[DM]]
+Oh, my God. Y.
+OPRHIE (TAYLOR(ME))
+It was teetering on the side of the two. And the unicorn head.
+CHANDRA (BREE(GUEST PLAYER))
+Yes.
+[[DM]]
+Hell yeah.
+RIN (RACHEL)
+For the unicorn head.
+CHANDRA (BREE(GUEST PLAYER))
+All hail the unicorn.
+RIN (RACHEL)
+All hail the unicorn.
+OPRHIE (TAYLOR(ME))
+Oh, that was almost matched. Okay, 28 29. Plus the one it's with the one. It's 29 plus 2D4, 2D6.
+[[DM]]
+Just barbarian things.
+RIN (RACHEL)
+13 plus 3, right? Or no, let's see. So 16. Yeah, 29.
+OPRHIE (TAYLOR(ME))
+I get to use my bonus action to hit him again.
+[[DM]]
+45 in a row.
+CHANDRA (BREE(GUEST PLAYER))
+I'm gonna scream.
+OPRHIE (TAYLOR(ME))
+No, it's just a 20.
+RIN (RACHEL)
+It's just a. Just a dirty 20.
+OPRHIE (TAYLOR(ME))
+Just a dirty 20.
+OGRE (CHET)
+His filthy, filthy 20.
+[[DM]]
+All right, come on, roll the damage. Let's go.
+CHANDRA (BREE(GUEST PLAYER))
+He's like, sh.
+OPRHIE (TAYLOR(ME))
+76. So 10 + D4 + D6 is.
+OGRE (CHET)
+Absolutely soiled.
+OPRHIE (TAYLOR(ME))
+77. 3 more. So 13 more. Somebody tell me how much that was.
+RIN (RACHEL)
+78. Because it's 9 + 6. 9 + 3 + 3, right?
+[[DM]]
+Yeah.
+OPRHIE (TAYLOR(ME))
+Okay. Yes.
+RIN (RACHEL)
+15 total.
+OPRHIE (TAYLOR(ME))
+I mean, for all of it.
+[[DM]]
+Well, 10 + 3 + 3, because.
+CHANDRA (BREE(GUEST PLAYER))
+That is the actual 69 damage.
+OPRHIE (TAYLOR(ME))
+69.
+CHANDRA (BREE(GUEST PLAYER))
+Is that all total? Did I add that up right?
+[[DM]]
+Oh, my God.
+RIN (RACHEL)
+Hell, yeah.
+OPRHIE (TAYLOR(ME))
+I feel like I get an extra D4 because I rolled 69.
+RIN (RACHEL)
+So 36. No, this is 70 something. 80 if we're looking at all three hits. It was like, 80 something.
+CHANDRA (BREE(GUEST PLAYER))
+I didn't hear what the. I heard.
+[[DM]]
+Just.
+OPRHIE (TAYLOR(ME))
+Somebody had to be writing this down, right? Because I sure wasn't. I could.
+CHANDRA (BREE(GUEST PLAYER))
+I. I wrote the first two, but I couldn't hear what the last one was.
+OPRHIE (TAYLOR(ME))
+Hold on. Pulling up my game log.
+RIN (RACHEL)
+25 plus 29 plus 29 plus 16 plus 10 plus 6.
+OPRHIE (TAYLOR(ME))
+Okay.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, I don't know where you got.
+OPRHIE (TAYLOR(ME))
+Some of these numbers for grand total.
+RIN (RACHEL)
+And some of them needed plus one. So that's 10, that's 12. So that's 22 right there. 31.
+OPRHIE (TAYLOR(ME))
+Math is hard.
+RIN (RACHEL)
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That's 101 damage that she just did in one turn.
+CHANDRA (BREE(GUEST PLAYER))
+Jeez.
+VARIS (VINCENT)
+Just barbarian things.
+RIN (RACHEL)
+But not just barbarian things, Crit. Barbarian things.
+OPRHIE (TAYLOR(ME))
+Barbarian things. And I always roll on DND beyond because I need you guys to know that I'm not cheating.
+CHANDRA (BREE(GUEST PLAYER))
+I'm not bullshitting. I swear.
+OPRHIE (TAYLOR(ME))
+It's actually been a second since Orpheus Crit on anything.
+[[DM]]
+What. What level are we?
+RIN (RACHEL)
+10.
+OPRHIE (TAYLOR(ME))
+10?
+OGRE (CHET)
+Do you have brutal critical yet?
+OPRHIE (TAYLOR(ME))
+No.
+VARIS (VINCENT)
+Yeah, it's level nine, isn't it?
+RIN (RACHEL)
+Wait, what does that do?
+OPRHIE (TAYLOR(ME))
+Hold on.
+VARIS (VINCENT)
+You roll an extra damage?
+[[DM]]
+Yeah, Yeah, I do have critical.
+OPRHIE (TAYLOR(ME))
+I roll one additional weapon damage. Die when determining the extra damage for a critical hit with a melee attack.
+[[DM]]
+Yeah.
+OPRHIE (TAYLOR(ME))
+So is that. Is that two more details?
+[[DM]]
+Yeah, roll it.
+CHANDRA (BREE(GUEST PLAYER))
+Jesus.
+VARIS (VINCENT)
+Chris has been just subtracting numbers for, like, 10 minutes now.
+OPRHIE (TAYLOR(ME))
+That's an additional 13.
+RIN (RACHEL)
+So a total of 114 damage.
+OGRE (CHET)
+Pretty good.
+RIN (RACHEL)
+It's okay. It's okay.
+[[DM]]
+Do I have to rework my NBCs here?
+OPRHIE (TAYLOR(ME))
+No, because this is just a double crit. It only happens once every 400 times. Yeah, five or six sessions.
+[[DM]]
+All right, Orphe, what do you do as you decapitate? What do you say? What do you do as you decapitate? Tezzeret?
+OPRHIE (TAYLOR(ME))
+I say I'm gonna use the. The stupid thing that came up that came to my mind the first time I hit him, which was. Do you smell that? It's breakfast time.
+[[DM]]
+Oh, my God.
+RIN (RACHEL)
+Love it.
+[[DM]]
+Quote, quote. Of the session.
+RIN (RACHEL)
+Of the fucking session.
+[[DM]]
+And. And definitely I'm going to. I'm imagining, like, you're making, like, the rock face. Like.
+OPRHIE (TAYLOR(ME))
+Oh, yeah. So what I want to.
+[[DM]]
+Do you smell what? Orpheus cooking.
+RIN (RACHEL)
+Do you sell Orpheus cooking?
+OPRHIE (TAYLOR(ME))
+So I imagine that, like, in my head, what's happening is Odin, if you don't stop. Okay, I have Blazebringer in my hands. One hand on the hilt and one hand at the top. And he's trying to hold it off, and I'm forcing it towards his neck slowly. And I go, it's breakfast time. And I just shove it through his neck.
+[[DM]]
+Oh, my God. Can I. Yep.
+OGRE (CHET)
+Catch his soul. So I didn't. I'm not the one who slayed him. But I have this accursed specter thing I can do when a humanoid dies.
+RIN (RACHEL)
+Hey, wait.
+OPRHIE (TAYLOR(ME))
+With great weapon master, I also get.
+CHANDRA (BREE(GUEST PLAYER))
+He's already dead.
+OGRE (CHET)
+You already did the bonus action attack from it.
+OPRHIE (TAYLOR(ME))
+Oh, that's right. But it says, or reduce it. Okay, never mind. When I scored a critical hit. Or reduce a creature to zero. Damn. Okay, yeah, I think that's everything. Damn, I forgot about brutal critical.
+OGRE (CHET)
+I. I figured it would have put it in there. It was weird.
+[[DM]]
+It didn't.
+OPRHIE (TAYLOR(ME))
+Yeah, no, it definitely didn't, but I think it might have been because instead of me, just like, I rolled the crit, and then instead of just hitting the damage thing and letting it decide that it was crit damage by itself, I indicated it.
+[[DM]]
+Okay, well, I mean, whatever the case is, you cut his. You cut his head off.
+OGRE (CHET)
+But can I grab his soul and lock him here as a specter under my verbal control?
+CHANDRA (BREE(GUEST PLAYER))
+Oh, don't do that. Chandra doesn't want that around.
+OGRE (CHET)
+I mean, we can question the specter, right?
+RIN (RACHEL)
+Do it. Well, we can either do that or I have speak with dead. We can do either.
+OGRE (CHET)
+Or if I turn him into a spectre, I can also order him into my ball. Sorry. Into My Game Boy balls.
+RIN (RACHEL)
+The leather daddy Game Boy.
+OGRE (CHET)
+But I. This technically requires me to slay it, so I might not be allowed to use it. Okay.
+[[DM]]
+Nope.
+OPRHIE (TAYLOR(ME))
+But that really makes me want to put that on Facebook. Like, 114 damage in one thing, but none of it care.
+RIN (RACHEL)
+I may or may not have just sent a text to my friend of, like, yo, my. Like, our barbarian and our DND group just did 114 damage in one turn.
+CHANDRA (BREE(GUEST PLAYER))
+That is the most damage I've ever seen so far.
+RIN (RACHEL)
+I think it is for me too.
+OPRHIE (TAYLOR(ME))
+Yeah. Odin, stop scratching.
+CHANDRA (BREE(GUEST PLAYER))
+I've heard about people putting out some crazy damage, but I haven't seen it. That's a whole different ball game.
+OPRHIE (TAYLOR(ME))
+I'm definitely putting it in the hive.
+RIN (RACHEL)
+Yes.
+CHANDRA (BREE(GUEST PLAYER))
+Yeah. Celebrate with your people.
+OGRE (CHET)
+I think 231 is my record for one round.
+[[DM]]
+But that.
+OGRE (CHET)
+That was like a high. Like a level 14 action. Search, fishing, flame, tongue. Great sword slash. Well, yeah, so that. That was seven attacks.
+[[DM]]
+That'll do it. That. That'll do it.
+RIN (RACHEL)
+Definitely do it.
+[[DM]]
+I crit. I think. Six of them.
+RIN (RACHEL)
+Holy.
+OGRE (CHET)
+It was gross. A lot of 19s.
+RIN (RACHEL)
+That's a lot of. That's. That's nasty.
+OPRHIE (TAYLOR(ME))
+Nasty.
+[[DM]]
+Yeah. But as Tessera's head bounces on the ground, you hear him whisper, the harvest is coming.
+OPRHIE (TAYLOR(ME))
+What's coming?
+RIN (RACHEL)
+What is coming?
+[[DM]]
+The harvest.
+CHANDRA (BREE(GUEST PLAYER))
+The harvest is coming.
+OPRHIE (TAYLOR(ME))
+You know what?
+CHANDRA (BREE(GUEST PLAYER))
+Sandra's gonna kick the out of her.
+OPRHIE (TAYLOR(ME))
+It just makes me feel like I need a scythe. I could be even more deadly.
+[[DM]]
+But.
+OPRHIE (TAYLOR(ME))
+Yeah.
+[[DM]]
+Chandra, you just, like, start stomping on his body.
+CHANDRA (BREE(GUEST PLAYER))
+Yeah, she's like, just whatever she can break. She is doing it. She's stomping the out of him.
+RIN (RACHEL)
+Oh, I can't speak with dead. It's a level three spell. Never mind.
+OPRHIE (TAYLOR(ME))
+How long does it take? We could sit here until you short rest. I've got time.
+RIN (RACHEL)
+Cast it. No. Short rest doesn't do shit for me.
+OPRHIE (TAYLOR(ME))
+Me neither.
+RIN (RACHEL)
+Can I upcast it? It's not saying I can.
+OGRE (CHET)
+You just don't get a benefit from it.
+RIN (RACHEL)
+Oh, okay.
+OGRE (CHET)
+Still use the slot.
+[[DM]]
+Yeah.
+OGRE (CHET)
+It's not more powerful or targets more people.
+RIN (RACHEL)
+Okay, then I could do it. Are we wanting to ask Tezzeret what's going on?
+[[DM]]
+Yeah. By the way, you guys are out of combat. The miconid that was attacking you, ogre just falls over.
+OGRE (CHET)
+I did it.
+RIN (RACHEL)
+God, we're done. Because I was about to smack the crap out of Santa's next turn.
+OPRHIE (TAYLOR(ME))
+Why?
+[[DM]]
+What'd I do? Wait, what?
+RIN (RACHEL)
+Remember that wisdom saving throw? I failed. Yeah, I got commanded so.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, I knew it. I had a feeling.
+RIN (RACHEL)
+Yup.
+SANIS (GABE)
+That would have been bitching.
+RIN (RACHEL)
+And actually I would have fucked you up. Sacred. Like all radiant damage. It would have absolutely not like it would have fucked your day.
+[[DM]]
+So indirectly saying this Orpheus saved your life.
+RIN (RACHEL)
+Save your life.
+SANIS (GABE)
+Thanks.
+RIN (RACHEL)
+I took a new can trip. Holy word that legit. Just like anything that is undead, fiend or fae. It reduces your speed by 10. You cannot take reactions until the end of your next turn.
+SANIS (GABE)
+Phenomenal. That's great. I love that. That makes me feel all warm and fuzzy inside. Thanks. Rachel.
+RIN (RACHEL)
+Was either that or like do something else. That still would have like. Like half of my stuff is radio. It really would have you over. Anyway.
+SANIS (GABE)
+I like how we have both ends of the spectrum in this group though.
+OPRHIE (TAYLOR(ME))
+Because like yeah, there's a both ends of the autism spectrum.
+RIN (RACHEL)
+Don't make me laugh at her.
+CHANDRA (BREE(GUEST PLAYER))
+Here comes the tism.
+RIN (RACHEL)
+Anyway.
+[[DM]]
+All right guys. Chat. GPT is going to get that.
+CHANDRA (BREE(GUEST PLAYER))
+Tickled by the tism.
+[[DM]]
+Yeah. So Tezzerit is dead. The other myconids that you guys were fighting. Just the one falls over non responsive.
+OPRHIE (TAYLOR(ME))
+But yeah, just imagining Orphe like the kind of like energy comes that. That I'm like associating with. This is. Let me just see. Oh my God. Hello, Corey. Why are you home? Okay.
+SANIS (GABE)
+He heard me try to say hi and missed me.
+OPRHIE (TAYLOR(ME))
+Okay. The. The energy that I'm going with is like Thor bring me Thanos energy. I just did 114 damage on one turn. I rolled two nat 20s for 30s. You're not on video. I'm sorry. Not only is my camera off, but there are no lights on in this house. Everybody says hi.
+[[DM]]
+Also kill him.
+CHANDRA (BREE(GUEST PLAYER))
+Chris has. Chris. If that cat was just laying still and you were petting it, you would look maniacal as hell.
+OPRHIE (TAYLOR(ME))
+What?
+[[DM]]
+Yes.
+RIN (RACHEL)
+If I. Buttercup has been sitting on her cat this entire time. She's just a blob right here kitty.
+CHANDRA (BREE(GUEST PLAYER))
+All the cats I want to.
+RIN (RACHEL)
+She's passed the out loafing right now. And then there's Gertie. So cute.
+CHANDRA (BREE(GUEST PLAYER))
+I can't see puppy but cute puppy.
+RIN (RACHEL)
+Is just void on bed. There are two voids in the chat right now.
+CHANDRA (BREE(GUEST PLAYER))
+Three.
+RIN (RACHEL)
+Buttercups are really a void. She's. She's brown. She's not black.
+CHANDRA (BREE(GUEST PLAYER))
+Black brown tiger.
+RIN (RACHEL)
+Oh. But you're also a void as well because you're just black background.
+CHANDRA (BREE(GUEST PLAYER))
+I got bored with my old background. I haven't found anything. I like it. So I am just the void.
+OPRHIE (TAYLOR(ME))
+My phone background is the stuff we did with the late night group on that doodling thing?
+CHANDRA (BREE(GUEST PLAYER))
+Oh, God, yeah. The night owls.
+OPRHIE (TAYLOR(ME))
+Yeah.
+[[DM]]
+You guys see Selena reaching?
+CHANDRA (BREE(GUEST PLAYER))
+Oh, yeah. I don't think we should let her get in there.
+RIN (RACHEL)
+I don't like.
+CHANDRA (BREE(GUEST PLAYER))
+Is that portal still open?
+OGRE (CHET)
+I was gonna go help Selena. My darkness goes away.
+RIN (RACHEL)
+I'm so concerned about her reaching into this pit. Do. Look, is there a way I can do a check on, like, what will happen if she reaches into the pits?
+SANIS (GABE)
+First we want her to. Now we don't. What's going on? We want to. Do we want her to ascend or not?
+RIN (RACHEL)
+Life. That was what I wanted.
+[[DM]]
+Better open up that pit.
+RIN (RACHEL)
+Oh, Shadow looks so happy.
+OGRE (CHET)
+Some mage hands are bringing Selena over to that pit. No hesitation, all action. Let's go.
+[[DM]]
+She's reaching.
+RIN (RACHEL)
+Can I roll like, an arcana check to see what would happen if she touches the goo?
+[[DM]]
+Yeah, sure.
+RIN (RACHEL)
+I'm going to roll with guidance.
+CHANDRA (BREE(GUEST PLAYER))
+Is that portal with the. The weird, like, pipes still there?
+OPRHIE (TAYLOR(ME))
+I gotta message the boys.
+RIN (RACHEL)
+What is up with my rolls tonight? Holy hell.
+OPRHIE (TAYLOR(ME))
+Okay, I, I. You normally get random crit, and I think that I. When I crit, you can. Can't crit.
+RIN (RACHEL)
+No, not at all.
+[[DM]]
+With a 17, it's not. Not a good idea.
+CHANDRA (BREE(GUEST PLAYER))
+Double negative. I don't like.
+OPRHIE (TAYLOR(ME))
+She's got all of the.
+RIN (RACHEL)
+She's got all our juice.
+OGRE (CHET)
+Yeah, I'll just throw the Game Boy in too.
+VARIS (VINCENT)
+No, no, no, no.
+RIN (RACHEL)
+Don't do that.
+OGRE (CHET)
+Black lotus going straight in there.
+[[DM]]
+Let's go. No.
+RIN (RACHEL)
+Oh, no.
+[[DM]]
+Let's take this campaign literally.
+RIN (RACHEL)
+Just going to nuke everything.
+[[DM]]
+I respect.
+RIN (RACHEL)
+All that is left that exists is Teferi and he's just like, what the.
+OPRHIE (TAYLOR(ME))
+Fuck happened to everything?
+VARIS (VINCENT)
+He tries to time travel and it's like, oh, the universe is gone.
+RIN (RACHEL)
+The universe literally doesn't exist anymore.
+VARIS (VINCENT)
+It's like, oh, this timeline vanished. What happened?
+OPRHIE (TAYLOR(ME))
+Hello?
+[[DM]]
+Nobody's home.
+RIN (RACHEL)
+Nobody's home. Literally. Time doesn't even exist here anymore.
+CHANDRA (BREE(GUEST PLAYER))
+No way home.
+[[DM]]
+It's at this point, you guys see Selena is starting to crawl towards the pit now.
+OGRE (CHET)
+I'm helping her, all right?
+[[DM]]
+You're. You're helping her the whole time when she gets.
+SANIS (GABE)
+When she gets to the edge. Can I do like that. That, that uncle who just pushes the kid with his foot into the water.
+OGRE (CHET)
+Learn to swim.
+RIN (RACHEL)
+Into the V. Like, oh, my God.
+OGRE (CHET)
+She was born of this.
+VARIS (VINCENT)
+What she wants.
+SANIS (GABE)
+She is old enough to make her own decisions.
+OPRHIE (TAYLOR(ME))
+Not to mention she's more powerful than all of us. Yeah, except me.
+SANIS (GABE)
+When I crib, you try telling her no, go ahead.
+CHANDRA (BREE(GUEST PLAYER))
+Try telling Her?
+OPRHIE (TAYLOR(ME))
+No.
+[[DM]]
+Yes.
+RIN (RACHEL)
+But why do you have to push?
+OPRHIE (TAYLOR(ME))
+Hey, I might crit.
+[[DM]]
+Are you. Oh, okay. So it's happening. So she's been mage handed over and then Santa's. You push her in.
+RIN (RACHEL)
+I'll do it.
+SANIS (GABE)
+I push her in. I push her in. I help my sister do what she wants to do.
+[[DM]]
+All right. All right.
+RIN (RACHEL)
+I'm so scared.
+OPRHIE (TAYLOR(ME))
+This family helps each other.
+[[DM]]
+Of brotherly love.
+SANIS (GABE)
+You like Philadelphia?
+[[DM]]
+Exactly. You help Selena into the pit. Selena having absorbed having this concoction of Bolas's magic. Ugin's magic blessing of Dola Ranis's blood. Orpheus spit Ogre's touch. All the power of all of you guys invested into this magic. Into Selena, guiding her into this pit. Her eyes lit up pure white. She makes it into the vat of essentially the. The bone marrow, the liquid of ancient long dead beings. And basically the pure essence of all of these long dead beings and animals and. And whatnot. In this bat that has been kind of like fermenting for God knows how long. And corrupted by Bolas's influence via the pumps that Tezzeret installed into. Into them. Selena's body submerge submerges under the liquid. And you guys see bubbling for quite some time. And you hear Isaiah walk over and he goes. So this was a group decision.
+SANIS (GABE)
+It was her decision and that's all that matters.
+OPRHIE (TAYLOR(ME))
+She knew what she needed.
+[[DM]]
+So we support Selena. She wanted it and we just support her.
+OPRHIE (TAYLOR(ME))
+Or if he's trying to hold her for as long as Selena is.
+[[DM]]
+This. This was. This was good idea?
+OGRE (CHET)
+Yes, Best idea.
+RIN (RACHEL)
+We don't know. We're, I guess gonna find out.
+OGRE (CHET)
+Just gonna fish down in the air with a.
+SANIS (GABE)
+Were you gonna tell her?
+CHANDRA (BREE(GUEST PLAYER))
+No.
+[[DM]]
+Back where I came from, this site is like a. Almost like a hot spring. You know, like this defect. And he. He takes a couple of sniffs. It's like. Kind of smells a little bit like one too.
+RIN (RACHEL)
+Smells like sulfur. I guess that does make sense.
+OGRE (CHET)
+Can I touch it?
+RIN (RACHEL)
+So is anything else happening in this pit right now besides the bubbles? Ogre, do not touch it.
+[[DM]]
+For. For. For now. That's all you see are. Are bubbles. As you're having this conversation, as Isaiah is just commenting on what's going on here.
+RIN (RACHEL)
+Ogre, do not touch it. Please.
+VARIS (VINCENT)
+Varys do not need any other person.
+RIN (RACHEL)
+Going into the vat.
+CHANDRA (BREE(GUEST PLAYER))
+Rin.
+VARIS (VINCENT)
+It's okay. For the record, Varis has wrapped Ogre in his wing and pulled him away from the pool.
+OPRHIE (TAYLOR(ME))
+I was thinking about pushing him in.
+OGRE (CHET)
+A mage hand's gonna Come back with. No, I tasted it last time, and I was fine. It just burned a little. It's spicy.
+[[DM]]
+Wait, Ogre, do you taste a little bit.
+OGRE (CHET)
+Yeah, I want to. I want to see if it tastes.
+RIN (RACHEL)
+Different because he specifically grabbed it from the vat that Selena is in.
+[[DM]]
+Okay, give me. Give me con save.
+OGRE (CHET)
+Is this one to poison?
+[[DM]]
+No, it's not poison, buddy. 13.
+OGRE (CHET)
+I did bad on one. Finally I have a plus eight. It's hard to do bad on these.
+[[DM]]
+Okay. Yeah, just give me one sec. I'm. I'm looking stuff up here.
+CHANDRA (BREE(GUEST PLAYER))
+He's like, I'm calculating the. That's going on.
+RIN (RACHEL)
+I mean, you just tasted ancient bone marrow. Selena and whatever the else is in her right now that's going to potentially blow up back in our faces.
+[[DM]]
+Yeah, I've had it work. And that. That was a. That was a fail, right?
+OGRE (CHET)
+I mean, it's a 13. I assume that that's. That seems like it'd be odd.
+[[DM]]
+Sorry, sorry, I forgot to ask. The. The number 13 is a fail. You take 59 points of radiant damage and you go unconscious.
+OGRE (CHET)
+Oh, sick. But it's radiant damage. That's pretty good.
+RIN (RACHEL)
+You have. Do you still have that? Have it, like, cut in half?
+OGRE (CHET)
+No, I. I don't have resistance.
+VARIS (VINCENT)
+He's also not even raging, I don't think.
+OGRE (CHET)
+Right. Yeah, no, I'm just normal. I haven't used a rage in a long time. That whole level is mostly wasted.
+[[DM]]
+Yeah. You guys. You guys see Ogre walk over and scoop a little bit of the liquid and taste it and immediately keel over.
+RIN (RACHEL)
+What the. The one time him eating something actually causes him.
+OPRHIE (TAYLOR(ME))
+Right.
+SANIS (GABE)
+Medicine check to check on him.
+[[DM]]
+Well, Ogre first.
+OGRE (CHET)
+Does, like, anything visually radiant happen to me from all the radiant damage?
+[[DM]]
+Like.
+OGRE (CHET)
+Like just light shine out of my eyes like a painful.
+[[DM]]
+Oh, yeah. You know. You know what? I'll say that before you go unconscious, you barf up what you just swallowed, and you see that? He spits, like, a white liquid that immediately evaporates into, like, this yellow white smoke and then goes unconscious. Cool. Sanis, what are you doing?
+SANIS (GABE)
+I said I wanted to roll a medicine check to see if he's gonna survive, and I rolled the NAT20.
+[[DM]]
+I mean, Ogre, what. What's your HP?
+OGRE (CHET)
+I still got 12 HP. I'm good.
+SANIS (GABE)
+Level 12 HP.
+[[DM]]
+But he's currently unconscious, so. Yeah, sometimes.
+SANIS (GABE)
+But can I tell if he's going to survive for a minute?
+[[DM]]
+For a minute? For a minute. I'll say. He's just.
+OPRHIE (TAYLOR(ME))
+For a minute, he's fine. None of us blink. Oh, he'll be all right. I want to take 59 points of damage.
+RIN (RACHEL)
+So is the cut like. So nothing's still currently changing with the vat right now. Right.
+[[DM]]
+I'm assuming that Rin's freaking out. So as you look up at the pump that was connected to that portal, you see that it begins to be outlined in like, a white, yellow.
+RIN (RACHEL)
+Yep.
+[[DM]]
+And begins to fracture.
+OGRE (CHET)
+That's good.
+RIN (RACHEL)
+Okay, that. That. That's definitely good. Do I do. Is Selena in the vat at all?
+[[DM]]
+It's still bubbling. It is still bubbling.
+RIN (RACHEL)
+Can I sense her in there at all?
+[[DM]]
+Yeah, you don't have to roll for it. I'll say that all of you guys sense that she's there.
+OGRE (CHET)
+She's like that hot stone they bring you to put in your soup to reheat it.
+[[DM]]
+She says we're gonna talk about that later. But yeah. The pump, the pumpkin now explodes, and you begin to feel the entire mind shake.
+RIN (RACHEL)
+Selena can like, you need. We need to get out of here.
+[[DM]]
+There's no response.
+OPRHIE (TAYLOR(ME))
+Okay, so eating this stuff gives you. Does you a lot of damage. What would happen if I stick stuck my arm in and grabbed her?
+VARIS (VINCENT)
+Would you rather have me do that? If it's gonna somebody up.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, yeah. The dragon with like 200 something plus hit points reaching in there, you wouldn't recommend.
+VARIS (VINCENT)
+Yeah, and it's also damage that, like.
+OPRHIE (TAYLOR(ME))
+Right now, she doesn't care.
+OGRE (CHET)
+What if that stops the good thing that's happening? Like when we were all questioning if we should stop the thing going on inside Santa's head.
+[[DM]]
+You guys, can everyone make me a dexterity saving throw as rubble from the ceiling is beginning? No. Could I? Oh, yeah. Ogre. Yes.
+OPRHIE (TAYLOR(ME))
+Oh, that was almost 21. 21. Dex.
+CHANDRA (BREE(GUEST PLAYER))
+Save.
+VARIS (VINCENT)
+Could I forfeit my own health and just cover everybody and just take the brunt of the.
+OPRHIE (TAYLOR(ME))
+I don't need your help, Varys.
+RIN (RACHEL)
+I definitely need it.
+VARIS (VINCENT)
+Everybody does right now.
+RIN (RACHEL)
+Definitely need it.
+[[DM]]
+Everyone that fail will take 10 points of bludgeoning damage. You made it.
+RIN (RACHEL)
+I rolled a NAT one.
+[[DM]]
+Just take 10 points of bludgeoning damage.
+RIN (RACHEL)
+Okay.
+[[DM]]
+If you. If you made it, you don't take any damage as you dodge out of the way.
+CHANDRA (BREE(GUEST PLAYER))
+No worries.
+[[DM]]
+Yeah. So currently, yeah, that portal clear closed up pump exploded. All the black corruption that was in the pool has now been purged. And you see that it is just a whitish and slightly purple color. As the entire mine, the marrow pits, begin to shake. Bold rubble boulders stalact. Stalactic stalagmites. Either case, the floor.
+RIN (RACHEL)
+It's Stalactites, I think.
+OPRHIE (TAYLOR(ME))
+Yeah.
+[[DM]]
+The tights begin to fall as the marrow pits begin to collapse on itself.
+OPRHIE (TAYLOR(ME))
+Oh, my God. That's a bear. Look at this, Corey. Look at this dog.
+RIN (RACHEL)
+I don't like that Selena's still in there, but I also don't want to take her out because this might be a good thing.
+OGRE (CHET)
+Doing great, Santa.
+RIN (RACHEL)
+What? What are you doing?
+SANIS (GABE)
+I'm biting my time and just like, trying to dodge out of the way as much as possible until my sister makes surface again.
+RIN (RACHEL)
+I think Rin's gonna hide under Varis. Actually.
+[[DM]]
+You guys are sticking around.
+RIN (RACHEL)
+I think we are, yeah.
+[[DM]]
+Okay, everyone rolls another dexterity saving throw.
+SANIS (GABE)
+I want to hide under Varis's wings.
+[[DM]]
+Everyone make everyone make a Dexterity saving throw.
+SANIS (GABE)
+17.
+OGRE (CHET)
+Am I safe from Byvaris?
+CHANDRA (BREE(GUEST PLAYER))
+11.
+OGRE (CHET)
+I technically passed out while he was holding me because I use my mage hand to bring it to me. I was being obstinate.
+VARIS (VINCENT)
+What's the DC on it?
+[[DM]]
+This one's gonna be 18. Oh, okay.
+RIN (RACHEL)
+Don't fail with a 17.
+[[DM]]
+Okay, that's. That's gonna be 11 points of bludgeoning. You did not make it.
+OPRHIE (TAYLOR(ME))
+19.
+OGRE (CHET)
+I am conscious more so. Has it been a minute?
+[[DM]]
+I'll also. Yeah, it's been a minute. Okay. All right.
+OGRE (CHET)
+In that case, I passed. At 22.
+CHANDRA (BREE(GUEST PLAYER))
+Just wakes up and break dances away from the rocks.
+[[DM]]
+I don't notice the rocks.
+OGRE (CHET)
+I'm just moving around like, hey, what's going on? Like, Mr. Magoo.
+[[DM]]
+Isaiah goes. So, friends, I think that the ceiling is coming down upon us. If we're going to differ here, we should make a decision now or go.
+OPRHIE (TAYLOR(ME))
+I'm going to look at Isaiah directly in his face and say, doesn't it look like we already made a decision?
+[[DM]]
+So the decision is to stay then?
+OPRHIE (TAYLOR(ME))
+Yes. We can't abandon her again. But you're free to go.
+[[DM]]
+Sure. Then. Then I will stay. I am with you in solidarity. And you see, he pulls out an umbrella.
+OPRHIE (TAYLOR(ME))
+I was really just hoping everybody was. Would back me up. So if we want to run, we can. But like, I had to stick it to Isaiah in some way.
+SANIS (GABE)
+No, I agree. I'm. I'm not moving my sister.
+[[DM]]
+Not again.
+OGRE (CHET)
+Stand with Isaiah.
+[[DM]]
+All right, everyone, make me another dexterity saving throw.
+RIN (RACHEL)
+Before we do that, I would like to cast divine intervention. Okay, so at the beginning of 10th level, you can call on your deity to intervene on your behalf when your need is great. Employing your deities aid requires you to use your action. Describe the assistance you seek and roll percentile dice. If you Roll a number equal to or lower your cleric, level your day to intervenes. So, yeah, pretty much what I'm going to be asking is for cover, essentially. Like, we can stay until Selena. It leaves the vats.
+[[DM]]
+Okay. All right. Make your ro.
+RIN (RACHEL)
+That is a 65. That did not happen.
+OPRHIE (TAYLOR(ME))
+Okay, so de save.
+RIN (RACHEL)
+Yep.
+OGRE (CHET)
+I'm also healing wording myself. Okay, that's a 13 back.
+OPRHIE (TAYLOR(ME))
+That's a 12.
+[[DM]]
+Okay. This time. This time it's going to be a 20. You need to make a 20.
+VARIS (VINCENT)
+I got a 20.
+[[DM]]
+22, 26.
+OGRE (CHET)
+Four, or, sorry, six.
+RIN (RACHEL)
+Five.
+[[DM]]
+All right. If you did not make it, that's gonna be 13 points of bludgeoning damage. Like, the. The scene here now is that there is so much rubble and so many boulders just around in the marrow pits.
+RIN (RACHEL)
+The ceiling does not have good decks, by the way. Who doesn't have good decks?
+OPRHIE (TAYLOR(ME))
+I have advantage on deck saves, but my Dex is only plus 2.
+VARIS (VINCENT)
+Sounds like you need to cast blast on yourself.
+RIN (RACHEL)
+That is exactly what I'm doing, but I'm trying to decide if I want to use a level four slot, even though I don't need it, because I technically need five and I don't have any more level three.
+OGRE (CHET)
+Is the pit still bubbling?
+[[DM]]
+The pit is still bubbling, and you actually see that the rubble from the ceiling is actually kind of hitting the air above the pits and bouncing off.
+OGRE (CHET)
+Oh, I think she's probably good to leave.
+VARIS (VINCENT)
+Yeah, I think she's fine with my blind sight. Can I, like, is her body. Is she still there in the pit?
+OPRHIE (TAYLOR(ME))
+Yeah.
+[[DM]]
+Oh, yeah.
+OPRHIE (TAYLOR(ME))
+Air.
+[[DM]]
+Oh, yeah.
+CHANDRA (BREE(GUEST PLAYER))
+To see.
+[[DM]]
+Cool.
+VARIS (VINCENT)
+Let me make sure she didn't, like, dissolve or something.
+RIN (RACHEL)
+Yeah.
+VARIS (VINCENT)
+Like, we're just here for no reason. Like, she's already dead.
+[[DM]]
+No, she said her entire body is completely.
+OPRHIE (TAYLOR(ME))
+Chris is terrible. I don't know if he's that terrible.
+VARIS (VINCENT)
+Well, that just means her body is still there. That's all that means.
+RIN (RACHEL)
+Okay, Are we staying or are we going?
+OPRHIE (TAYLOR(ME))
+Should I. I stay or should I go?
+[[DM]]
+I think.
+OPRHIE (TAYLOR(ME))
+I think she's fine. We'll just stand directly outside of the cave.
+RIN (RACHEL)
+Sorry, my cat's just rolling on the floor. Okay, then I'm not going to cat.
+OPRHIE (TAYLOR(ME))
+Well.
+RIN (RACHEL)
+Yeah, I'll still cast Bless. I'm going to cast bless on myself on Ogre. On. Well, Ogre is. Are you.
+OGRE (CHET)
+I could use bless.
+OPRHIE (TAYLOR(ME))
+Okay.
+OGRE (CHET)
+Right now.
+RIN (RACHEL)
+Yes. Casting bless on you, Santa. I think you're good. Orphea. You're fine. I guess Varis and Chandra are the other two.
+OPRHIE (TAYLOR(ME))
+Do you have to be able to see the personal Class to. To cast bliss.
+RIN (RACHEL)
+I think.
+OPRHIE (TAYLOR(ME))
+So as I say, you should give Selena just a little bless.
+RIN (RACHEL)
+No, I actually do not.
+OPRHIE (TAYLOR(ME))
+Just a little extra slip in her way.
+VARIS (VINCENT)
+I say you can take it off me and put it on Selena if you want to.
+OPRHIE (TAYLOR(ME))
+Okay.
+RIN (RACHEL)
+Yeah. I'm giving bless to Selena, but it only lasts for, like, a minute while she's in 30ft of me. I don't know.
+VARIS (VINCENT)
+I think once you cast it, you. You have it.
+RIN (RACHEL)
+Oh, okay. Yeah.
+[[DM]]
+Then you're targeting Selena.
+RIN (RACHEL)
+She'll take one of them. So me, ogre, and Chandra and Selena.
+[[DM]]
+Okay, sure.
+RIN (RACHEL)
+Okay. And we're. We're heading out.
+[[DM]]
+All right. Before you leave, please, maybe one more dexterity save.
+OPRHIE (TAYLOR(ME))
+No.
+[[DM]]
+Gonna be 22.
+OPRHIE (TAYLOR(ME))
+That's enough, Chris.
+CHANDRA (BREE(GUEST PLAYER))
+Face his body on fire before I leave.
+SANIS (GABE)
+He really is trying to kill us.
+OPRHIE (TAYLOR(ME))
+Failing.
+VARIS (VINCENT)
+Nice.
+RIN (RACHEL)
+I fail.
+OGRE (CHET)
+I got 23.
+OPRHIE (TAYLOR(ME))
+Got a 16.
+OGRE (CHET)
+Thank you for the bless.
+CHANDRA (BREE(GUEST PLAYER))
+What's the.
+[[DM]]
+What was the one?
+CHANDRA (BREE(GUEST PLAYER))
+D4.
+RIN (RACHEL)
+No, less is. You get advantage. It's a plus. D4. Never mind. I can roll.
+[[DM]]
+What was the DC22.
+SANIS (GABE)
+Oh, sweet. I got a 25. That's awesome.
+[[DM]]
+Nice. So if you did not make it, that's 20 points of bludgeoning.
+VARIS (VINCENT)
+Is everybody still conscious?
+OPRHIE (TAYLOR(ME))
+Yep, I'm doing fine. Okay.
+CHANDRA (BREE(GUEST PLAYER))
+Yeah, no, I didn't make it, but I think I'm still conscious. Hold on.
+OPRHIE (TAYLOR(ME))
+Thank you.
+RIN (RACHEL)
+How much damage?
+CHANDRA (BREE(GUEST PLAYER))
+20.
+[[DM]]
+20.
+CHANDRA (BREE(GUEST PLAYER))
+Yeah, I'm still conscious.
+[[DM]]
+Okay, nice.
+VARIS (VINCENT)
+I'm just ready to scoop anyone up.
+OPRHIE (TAYLOR(ME))
+I'm kind of okay with it because if it keeps hitting me, then I get to stay raging.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, my gosh.
+RIN (RACHEL)
+That is true. So it's kind of okay for you?
+OPRHIE (TAYLOR(ME))
+Yeah.
+CHANDRA (BREE(GUEST PLAYER))
+I mean, can you hit yourself and still rage?
+OPRHIE (TAYLOR(ME))
+Yes.
+VARIS (VINCENT)
+I mean, technically, yeah, you can also just. You can also just make an attack. So you could just be punching the air.
+OPRHIE (TAYLOR(ME))
+Yeah, I can hit other things. I can get other people to hit me. We've tried a little bit of everything in every situation.
+[[DM]]
+Like, pinch me. I'm dreaming. No, pinch me. I'm raging. But okay, you guys make it out of the marrow pits, as the entire room has basically collapsed at this point. And who would be the last one out of the room?
+OPRHIE (TAYLOR(ME))
+Probably Varys.
+[[DM]]
+Vars is the last one out of the room. Right. As your tail clears the entrance, the rest of the rubble comes down and the marrow pits are sealed off.
+OPRHIE (TAYLOR(ME))
+It's just more dramatic that way. It had to be somebody with a tail leaving last.
+[[DM]]
+And that's. That's the marrow pits closed up. You guys walk towards the myconids, the myconid colony.
+RIN (RACHEL)
+I guess. Yeah, yeah.
+[[DM]]
+Okay. Yeah, yeah. Cool, cool, cool. Well done, you guys. Walk back towards the myconid colony and you see that all the myconids are unconscious.
+OPRHIE (TAYLOR(ME))
+They're fine.
+RIN (RACHEL)
+They're unconscious.
+OPRHIE (TAYLOR(ME))
+They got spores.
+[[DM]]
+They're unconscious.
+OPRHIE (TAYLOR(ME))
+Somebody else here. I don't have time for this.
+[[DM]]
+Who would go. Who would be the one that would go to inspect th. The leader?
+RIN (RACHEL)
+Rin. For sure.
+[[DM]]
+Rin.
+OPRHIE (TAYLOR(ME))
+If we notice that they are down for some reason and Rin is going towards. Towards them, Orphea will be on her tail, but keeping an eye out.
+[[DM]]
+Okay. To those that walk over to Thal, you inspect the Mike in its body and you don't see anything on him. And when you guys look up, you see an ethereal figure standing above the body. And it's that. And that is where I'm going to end the session.
+OPRHIE (TAYLOR(ME))
+You're so dramatic, Chris.
+OGRE (CHET)
+She's the mushroom queen now.
+OPRHIE (TAYLOR(ME))
+Stop.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, no.
+[[DM]]
+There we go. Happy Sunday, guys.
+OPRHIE (TAYLOR(ME))
+Is she evil or is she good? I feel like this is.
+[[DM]]
+This is so energy.
+VARIS (VINCENT)
+Did she.
+OGRE (CHET)
+Did tasting it fix witch's corruption? Is she back to Dawn?
+[[DM]]
+No.
+OPRHIE (TAYLOR(ME))
+You never know. Tasting something could totally do that. Which is why Ogre's gonna taste everything until you find something.
+CHANDRA (BREE(GUEST PLAYER))
+That Ogre is the little kid that runs around licking windows and benches in public?
+OPRHIE (TAYLOR(ME))
+Yes.
+RIN (RACHEL)
+1000% that is Ogre.
+OPRHIE (TAYLOR(ME))
+We have considered putting him on a leash on more than one occasion.
+CHANDRA (BREE(GUEST PLAYER))
+I would not be surprised. He'd be the kid that gets lost at Disney. And that's why he's on a leash.
+[[DM]]
+Yes.
+RIN (RACHEL)
+That happened. That literally happened at. At essentially an orgy fest.
+CHANDRA (BREE(GUEST PLAYER))
+Oh, my God.
+SANIS (GABE)
+Listen. So Ogre is the reason we have leash laws.
+OGRE (CHET)
+Yeah. And leashes are the reason Ogre has Misty step.
+RIN (RACHEL)
+Yes.
+CHANDRA (BREE(GUEST PLAYER))
+Honey. Can you misty step while you're restrained?
+OPRHIE (TAYLOR(ME))
+Sure he can.
+OGRE (CHET)
+Yeah. It's the way to get out of it. It's only verbal.
+OPRHIE (TAYLOR(ME))
+We've all openly considered leashing him, but have never done it because it wouldn't be effective.
+OGRE (CHET)
+Yeah.
+CHANDRA (BREE(GUEST PLAYER))
+Fair.
+OGRE (CHET)
+You tell him not to do something. Begrudgingly go, okay.
+OPRHIE (TAYLOR(ME))
+But then we have to, like, every time something happens.
+CHANDRA (BREE(GUEST PLAYER))
+We told you not to drink.
+OPRHIE (TAYLOR(ME))
+Remember to vocally say, don't do that before we. Before he does that, because he'll do it before saying anything.
+OGRE (CHET)
+We're above table. I've had to go above table. This is a bad idea. But Ogre thinks it will be a good one. There was a few times you guys just followed that one after that, and we got into trouble. I think one of the times we first were going back to the Kari district based on ogre being like, yeah, let's just go back to Santa's house right now. We just walked there. This is not a good idea. They're on high alert looking for us. You know, got stopped by guards.
+RIN (RACHEL)
+Sometimes you got to make bad decisions to end up finding the information you need to make good ones.
+[[DM]]
+Exactly.
+OGRE (CHET)
+No hesitation, all action.
+OPRHIE (TAYLOR(ME))
+Before you can be old and wise, you must first be young and stupid.
+SANIS (GABE)
+Ah, Mr. Miyagi.
+
+
