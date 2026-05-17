@@ -32,8 +32,8 @@
 const fs = require("fs");
 const path = require("path");
 
-// ── Load .env from Workflows folder ─────────────────────────
-const dotenvPath = path.resolve(__dirname, '..', '.env');
+// ── Load .env from the same folder as this script ───────────
+const dotenvPath = path.resolve(__dirname, '.env');
 require('dotenv').config({ path: dotenvPath });
 
 // ── CONFIG ──────────────────────────────────────────────────
