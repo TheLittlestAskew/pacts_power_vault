@@ -87,25 +87,25 @@ Chandra (Bree(Guest Player))5:53
 I thought he had to turn back or was he still dragon?
 Ogre (Chet)5:55
 You're a regular sized dragon now.
-Varis (Vincent)5:56
+[[VARIS]]:5:56
 Yeah, that's right.
 Rin (Rachel)5:57
 Right.
 [[DM]]5:59
 Yeah. You're still a dragon.
-Varis (Vincent)6:03
+[[VARIS]]:6:03
 Yeah. So, Chris, if I have.
 [[DM]]6:03
 If.
-Varis (Vincent)6:19
+[[VARIS]]:6:19
 If Ogre gives me one of his reduced mushrooms and I would go down to large size, would that allow me to. I mean, I would fit in the tunnel, but would that allow me to fly? Or is my wingspan still too big?
 [[DM]]6:26
 If you're reduced size, you could still fly. As for getting into the tunnel, you guys aren't there yet, so.
-Varis (Vincent)6:29
+[[VARIS]]:6:29
 Right, yeah.
 Rin (Rachel)6:36
 So we could still just have you fly us over to where the tunnel entrance is, which I think was the plan.
-Varis (Vincent)6:45
+[[VARIS]]:6:45
 Oh, I mean, yeah, to get to the tunnel. I. I was thinking, like, when we get to the tunnel, if I would still be able to fly down it just to keep us at the same speed.
 Rin (Rachel)6:47
 Probably not.
@@ -261,7 +261,7 @@ Ogre (Chet)14:57
 What's the best one?
 [[DM]]15:04
 Oh, there was this big guy. This big guy. Bony arms and, uh, very sinewy muscles.
-Varis (Vincent)15:05
+[[VARIS]]:15:05
 Yeah.
 Chandra (Bree(Guest Player))15:07
 Was that the one you found in the cave near the school?
@@ -289,7 +289,7 @@ Orphie (Taylor(Me))16:16
 I'm sure it did.
 Chandra (Bree(Guest Player))16:18
 Chad.
-Varis (Vincent)16:21
+[[VARIS]]:16:21
 I think that's the worst line you've ever said.
 Rin (Rachel)16:26
 I'd have to agree with that. In all the times I've played with you. I think that is one of the worst lines, if not the worst.
@@ -305,7 +305,7 @@ Rin (Rachel)16:39
 We're always worried about him. But he somehow is okay.
 Orphie (Taylor(Me))16:47
 Somehow was thinking his wisdom was improving. And yet maybe not so much a problem.
-Varis (Vincent)16:49
+[[VARIS]]:16:49
 Well, I think the fact that he understands.
 Sanis (Gabe)16:50
 Proven wrong again.
@@ -379,7 +379,7 @@ Rin (Rachel)19:35
 Um, the bat boy from Exalted.
 [[DM]]19:45
 It was the. Oh, okay, you're talking about Orogalon. Okay, okay, yeah. Arugula. Oh, my God.
-Varis (Vincent)19:46
+[[VARIS]]:19:46
 Is that his new name?
 [[DM]]19:53
 Oh, my God. Daddy. Arugula. Uncle Arugula. Yeah.
@@ -505,13 +505,13 @@ So we can't see anybody that may. Is even at this height that like, may be alive
 No, you. You can't really tell. You need to get closer. Okay, let's get close enough.
 Rin (Rachel)25:55
 Varis, do you want to get in a little closer?
-Varis (Vincent)26:04
+[[VARIS]]:26:04
 I mean, what, just to see if there's any. If it's actually dead bodies or not on the field, I guess.
 Ogre (Chet)26:09
 Um, like, if something's gonna explode out of this when we go forward, that would kill us too.
 Sanis (Gabe)26:19
 He said they were by the entrance, so it'd be. It'd be best to like, check to make sure we don't get ambushed.
-Varis (Vincent)26:24
+[[VARIS]]:26:24
 Consensus is that. Good idea.
 Chandra (Bree(Guest Player))26:31
 M. Who else would be fighting the Eternals that would want to ambush us?
@@ -609,7 +609,7 @@ Rin (Rachel)29:38
 I will take.
 Orphie (Taylor(Me))29:40
 I'll let you guys decide that because it didn't do for me.
-Varis (Vincent)29:43
+[[VARIS]]:29:43
 Uh, I got a 18 perception.
 Orphie (Taylor(Me))29:45
 Yeah, hold on.
@@ -681,7 +681,7 @@ Rin (Rachel)33:42
 Not a giant dragon.
 Ogre (Chet)33:46
 But a large dragon.
-Varis (Vincent)33:54
+[[VARIS]]:33:54
 I mean, I could try and speed up the excavation.
 Rin (Rachel)33:55
 You could.
@@ -697,19 +697,19 @@ Rin's just gonna stand back and watch because she has no strength.
 All right, is anyone else helping Varis, uh, and Ogre out?
 Chandra (Bree(Guest Player))34:16
 No.
-Varis (Vincent)34:20
+[[VARIS]]:34:20
 So would.
 [[DM]]34:24
 Um.
-Varis (Vincent)34:40
+[[VARIS]]:34:40
 It doesn't say as much that it would affect, like, objects, but would my force spread? The fact that it's force damage, would that affect, like, the. The tunnel, the blockage? And you can certainly try into it, through it.
 [[DM]]34:41
 You can certainly try.
-Varis (Vincent)34:57
+[[VARIS]]:34:57
 Yeah. I'll see if my force breath can just, like, blast it open. Do you want me to, like, roll damage for it or, like.
 [[DM]]34:58
 Yeah, yep. Uh, roll damage, please.
-Varis (Vincent)35:05
+[[VARIS]]:35:05
 67.
 [[DM]]35:52
 67. Um, okay. Yeah, that's. That's pretty good. Um, you managed to, uh, with your, uh, dragon breath weapon, um, blow away a pretty good amount of rubble. You see, like, huge rocks and boulders push, uh, themselves through, uh, the tunnel, making, uh, way. And instead of, uh, the tunnel being large enough for two people, uh, a part of the entrance is now, um, big enough for. For four people to. To go through. But you haven't quite widened the tunnel all the way. Um, as you look through, uh, it's kind of like, you know, a big cylinder and has narrowed down to a smaller cylinder.
@@ -721,7 +721,7 @@ So he gonna just push the congestion deeper.
 He's doing it.
 Ogre (Chet)36:10
 The little mushroom so you can go in deeper into it.
-Varis (Vincent)36:21
+[[VARIS]]:36:21
 I mean at this point I think just probably just forcibly trying to break up the debris would be the, the thing here.
 Rin (Rachel)36:28
 I think keep going if you can.
@@ -729,15 +729,15 @@ I think keep going if you can.
 All right. How are you going to do so.
 Rin (Rachel)36:32
 Rock and it did not go over well.
-Varis (Vincent)36:35
+[[VARIS]]:36:35
 So you think another breath weapon or.
 Ogre (Chet)36:38
 Yeah, they recharge, right?
-Varis (Vincent)36:43
+[[VARIS]]:36:43
 I mean, yeah, I have to roll every time to see it. Might take me seconds.
 Ogre (Chet)36:44
 Let's go.
-Varis (Vincent)36:52
+[[VARIS]]:36:52
 All uh, right, let's see. Nope, that didn't recharge.
 [[DM]]36:56
 Yeah. So I'll say as you're waiting for your, your breath weapon to recharge.
@@ -747,7 +747,7 @@ Yeah.
 It does take time. It does take time. Right. So.
 Rin (Rachel)37:14
 I think while we're waiting, um, Rin, I think starts walking into like a portion of the tunnel. I don't know if this is a good idea, but.
-Varis (Vincent)37:15
+[[VARIS]]:37:15
 You sure about that?
 Rin (Rachel)37:17
 Yeah, no, never mind.
@@ -755,7 +755,7 @@ Yeah, no, never mind.
 We'll just wait.
 Rin (Rachel)37:21
 We'll just wait.
-Varis (Vincent)37:27
+[[VARIS]]:37:27
 I mean, I would, I mean if you do that, I mean I would. I'm not just gonna like blindfire. Like I'll, uh, wait.
 Rin (Rachel)37:47
 I mean like from the hole that he made, can we see like if there's any like, has there been like traffic recently? Does it look like like the Myconids are there or like anything else of like a struggle? Any other eternals that are potentially under the debris?
@@ -809,7 +809,7 @@ Rin (Rachel)39:37
 It is.
 [[DM]]39:46
 Yes. So, uh. Yeah, and he gives you a little pat for us. You're gonna continue the job?
-Varis (Vincent)39:51
+[[VARIS]]:39:51
 Uh, yeah, I'm trying.
 [[DM]]40:11
 Oh, great. Hey, listen, don't let me stop you. I don't know why, uh, you know, more mines employ dragons. If it's that easy to blow through a mine like this, I don't see why not. Use everywhere. Save all the time. Nope.
@@ -869,11 +869,11 @@ Chandra (Bree(Guest Player))42:23
 See you later.
 [[DM]]42:32
 Um, all right. So, uh, varsity gonna shoot off another breath weapon.
-Varis (Vincent)42:43
+[[VARIS]]:42:43
 So many dice. 51.
 [[DM]]42:47
 68. Okay. And then what was your last roll?
-Varis (Vincent)42:50
+[[VARIS]]:42:50
 60.
 [[DM]]42:53
 What was it?
@@ -887,19 +887,19 @@ Ogre (Chet)43:17
 Let's just do it.
 Chandra (Bree(Guest Player))43:18
 I mean, we could just go.
-Varis (Vincent)43:21
+[[VARIS]]:43:21
 Is it.
 Rin (Rachel)43:23
 Yeah. Various. Just wouldn't be able to.
 [[DM]]43:25
 Well, I mean, uh.
-Varis (Vincent)43:45
+[[VARIS]]:43:45
 Well, I mean, I can still shrink down a size. Would that then be Enough for immediately like, um, squeeze through, is it? I. I don't remember how squeezing mechanics work, but, like, you can go. You can squeeze through, I think, like even a size below what you are.
 Ogre (Chet)43:47
 Yeah, just move it half your speed.
 Chandra (Bree(Guest Player))43:49
 There are squeezing mechanics.
-Varis (Vincent)43:50
+[[VARIS]]:43:50
 Yeah.
 [[DM]]43:51
 Yep.
@@ -909,11 +909,11 @@ Orphie (Taylor(Me))43:56
 Oh, somebody's thought of everything.
 [[DM]]43:57
 Yeah.
-Varis (Vincent)44:02
+[[VARIS]]:44:02
 Like, I think you can fit through a space like the size below you. It'll. You just move half speed.
 Ogre (Chet)44:08
 Disadvantage and attacks against you have advantage.
-Varis (Vincent)44:11
+[[VARIS]]:44:11
 Yeah. So don't do that in combat.
 Ogre (Chet)44:16
 Yeah. You get stuck in a combat while squeezing. It sucks.
@@ -931,7 +931,7 @@ Chandra (Bree(Guest Player))44:40
 No.
 Ogre (Chet)44:44
 That should be going backwards.
-Varis (Vincent)44:50
+[[VARIS]]:44:50
 What should I be going backwards?
 Ogre (Chet)44:58
 Well, we gotta get your face with the breath weapon facing the right way. I don't know how easy it would be to turn around.
@@ -943,7 +943,7 @@ Rin (Rachel)45:09
 Yep.
 Sanis (Gabe)45:13
 Did we have somebody pushing him from behind too, or.
-Varis (Vincent)45:15
+[[VARIS]]:45:15
 No, I don't think we would need to.
 Sanis (Gabe)45:20
 I hope not. Well, don't get stuck.
@@ -953,7 +953,7 @@ I was ritual casting my, uh, helping hands, the. I can't remember what it's call
 So that's.
 Ogre (Chet)45:41
 That's gonna walk behind you, pushing you. Um, it's got two mage hands back there.
-Varis (Vincent)45:54
+[[VARIS]]:45:54
 Hey, man, watch those hands there. Um, so, I mean, yeah, this one, I. I can. I can take the reduced mushroom and then I should be able to go to get through.
 [[DM]]46:52
 Okay, sure. You take the reduced mushroom and go to large size. Now your mini dragon berries, you fit through. All right, cool. So, um, you guys walk through the entrance, make it through the tunnels, and, uh, after some time after descending, uh, you know, you guys start to see, like, the purple fluorescent mushrooms on the walls. Um, start to see some, uh, corpses that have mushrooms, uh, growing off of them. Uh, but notably, you do also see some etern dead Eternals strewn about, uh, alongside the other corpses that have shrooms growing on, um. Um.
@@ -971,7 +971,7 @@ Chandra (Bree(Guest Player))47:16
 Dice jail, you failed me. It rolled the two.
 Rin (Rachel)47:22
 Thank God. I'm rolling atrociously tonight.
-Varis (Vincent)47:23
+[[VARIS]]:47:23
 We got a 15.
 Orphie (Taylor(Me))47:29
 I rolled a nine. Or if he tried. Even though she has no magic ability.
@@ -1087,11 +1087,11 @@ Rin (Rachel)55:28
 Yes.
 Orphie (Taylor(Me))55:35
 So we can only assume that Selena was also immersed.
-Varis (Vincent)55:37
+[[VARIS]]:55:37
 No, that was my idea backfiring.
 Ogre (Chet)55:42
 You teleported him into the vat, thinking.
-Varis (Vincent)55:44
+[[VARIS]]:55:44
 That that would be bad, and then.
 Rin (Rachel)55:44
 It ended up, um.
@@ -1135,23 +1135,23 @@ Suck the blood out.
 Uh, Zek just goes, um, Well, I haven't dealt with both. All this is corruption before, but I'm sure if you. You go to the Source, that could probably help.
 Sanis (Gabe)57:47
 All right. Um. I mean, damn it. See, I can't. I can't do that whole, like, movie thing where I pick her up and she's a limp noodle because I have no strength, right? So, like.
-Varis (Vincent)57:50
+[[VARIS]]:57:50
 I. I do.
 Rin (Rachel)57:52
 Go ahead.
-Varis (Vincent)57:55
+[[VARIS]]:57:55
 I say I do have a crazy thought.
 Rin (Rachel)57:59
 I have a crazy thought.
-Varis (Vincent)58:37
+[[VARIS]]:58:37
 And. And this is totally, like, outside of the bounds of game mechanics. Um, so. So, currently, as a dragon, I don't, like, have any magic right now, but would I be able to, like, somehow pull out very small amount, like, a strand of Ugin's, like, essence, and sort of, like, push it into Rin, and then she performs a healing spell and that, like, empowers it to try and, like, burn away, um, Bolas's, ah.
 [[DM]]58:39
 You could try. You can certainly try.
-Varis (Vincent)58:47
+[[VARIS]]:58:47
 So, I mean, yeah, if. If I'm able to do that, I'll, like, try and pull out, like, just a slight.
 [[DM]]58:58
 Sure. You. So you get. You give, uh, some of Ugin's spirit energy over to Rin. You kind of, like, manifest it, pull it out, and then hand it over.
-Varis (Vincent)59:11
+[[VARIS]]:59:11
 Yeah, I was. I was hoping one of her healing spells had components. Um, but they don't. So I couldn't, like. I was hoping to, like, replace one of her components, but, uh.
 [[DM]]59:17
 But no, but if you want to, um, do this as a part of, ah, Rin's healing ritual, I'm gonna. I'll allow it.
@@ -1169,7 +1169,7 @@ We remember correctly, this syringe has essentially, I think, Bolas's essence in
 Uh, wait, other than Bolas's essence, that black liquid. Wait, did you do anything to it?
 Rin (Rachel)60:35
 So if I remember correctly, this thing, my channel divinity hit it. I can't remember if it was because due of combat or what, but my channel.
-Varis (Vincent)60:36
+[[VARIS]]:60:36
 Yes.
 Rin (Rachel)60:47
 And there's a swirl of bolas's essence and radiance, like celestial power inside of it. And it's now a swirl of like black and white.
@@ -1177,33 +1177,33 @@ And there's a swirl of bolas's essence and radiance, like celestial power inside
 Yes, I do remember that. I do remember that. That.
 Rin (Rachel)60:55
 Okay, I, I think I failed the check on it, so I have no clue what it does.
-Varis (Vincent)61:01
+[[VARIS]]:61:01
 So, so how do you want to use that right now?
 Rin (Rachel)61:19
 So what I was thinking I could do one more check on it, see what happens if we don't know, we could potentially infuse Ugin's essence into this as well. And potentially it becomes, becomes an anti vax, A, uh, vaccine essentially.
 [[DM]]61:19
 Ah.
-Varis (Vincent)61:25
+[[VARIS]]:61:25
 Uh, okay. So instead of putting like the energy into, directly into her, we put it into the vial.
 Rin (Rachel)61:26
 Correct.
-Varis (Vincent)61:28
+[[VARIS]]:61:28
 Okay, cool.
 [[DM]]61:47
 Okay. All right. All right, you take Ugins, uh, you take a strand of Ugin spirit energy from you virus in your dragon form. You're a little bit closer to him so it's easier for you. Um, give me, give me an arcana check.
 Rin (Rachel)61:51
 Cast guidance on you.
-Varis (Vincent)61:56
+[[VARIS]]:61:56
 Okay. I don't know if it's gonna matter.
 Rin (Rachel)62:03
 I'm gonna be very happy. This is a cantrip because I'm gonna be using it on all of the rolls right now. That is a 12.
 Chandra (Bree(Guest Player))62:04
 Hell yeah.
-Varis (Vincent)62:04
+[[VARIS]]:62:04
 Yeah.
 [[DM]]62:07
 69. With the guidance.
-Varis (Vincent)62:10
+[[VARIS]]:62:10
 Yes, you with the guns, with the guidance.
 [[DM]]62:28
 Okay. Um, you do manage to pull out, um, a strand, but, uh, it's not as powerful, it's not as dense with his energy as you, uh, wanted it to be. But you still do manage to pull some energy out.
@@ -1213,17 +1213,17 @@ Can I give the help action for advantage on that? By using a mage hand to pull t
 Help pull it out. You're gonna firmly grasp it.
 Rin (Rachel)62:40
 Yeah, I'M gonna firmly grasp.
-Varis (Vincent)62:43
+[[VARIS]]:62:43
 You're gonna try and, like, pull more out.
 [[DM]]62:47
 Yeah. Give the help action.
-Varis (Vincent)62:48
+[[VARIS]]:62:48
 All right, one more, one more roll.
 [[DM]]62:57
 What is. What does Ogre say? What does Ogre say as he's helping to pull this strand from Varis?
 Ogre (Chet)63:06
 Know what to do? I'm just gonna grab it. And judging by the result of this advantage, I did know what to do.
-Varis (Vincent)63:09
+[[VARIS]]:63:09
 Yeah. So that. That turned into a 29.
 [[DM]]63:10
 Oh.
@@ -1233,7 +1233,7 @@ Oh, my God.
 Oh, to the.
 Rin (Rachel)63:21
 Yeah, there we go. And the plus three makes it a 29, I think.
-Varis (Vincent)63:24
+[[VARIS]]:63:24
 Yeah, yeah, that's what the. With 29.
 [[DM]]63:50
 Yeah. Yeah. Ogre, you. You see that Varis is, uh, struggling a little bit. Um, and you take no hesitation, and you just pull out some mage hands and yank the energy out of Varis. And now it is, uh, perfectly this opal, shining opal color, uh, semi translucent, dense energy strain.
@@ -1255,7 +1255,7 @@ Orphie (Taylor(Me))64:38
 Knowing that he's probably not gonna get harmed from it. At the same time, uh, the one.
 Chandra (Bree(Guest Player))64:40
 Kid in the class that can't die.
-Varis (Vincent)64:43
+[[VARIS]]:64:43
 A mushroom.
 Ogre (Chet)64:45
 Just from the side of the room.
@@ -1291,7 +1291,7 @@ Ogre (Chet)66:14
 Give it to Santa.
 [[DM]]66:25
 But ultimately, but ultimately, with the amount of, um, uh, good energy that that is there, ultimately would be positive.
-Varis (Vincent)66:36
+[[VARIS]]:66:36
 So we've already put the essence into the. The vial at this point, yes.
 Ogre (Chet)66:38
 Above it hesitating Right.
@@ -1303,7 +1303,7 @@ Oh, no, that and I once I had put them all together.
 Okay, so you put, um, Ugin's energy, uh, together with what is in the syringe. And now you see that the syringe, the outside, uh, the border of the liquid now is shining with an opal sparkly sheen. So now, uh, you understand this syringe to be infused with the energies of not only bolas, but also Dol. Ara. Ah. And Ugin. Okay, you swear in it that you can see that opal sheen almost kind of wrestling with that black liquid inside. It's like, um, it's like oil and water, right?
 Rin (Rachel)67:36
 Okay.
-Varis (Vincent)67:38
+[[VARIS]]:67:38
 Yeah, but it's. It's 2v1.
 Rin (Rachel)67:46
 So now it. Yeah, now it's 2v1. Yeah.
@@ -1473,7 +1473,7 @@ Orphie (Taylor(Me))74:45
 Is it.
 [[DM]]74:52
 Your dad was there when you died the first time. Okay.
-Varis (Vincent)74:53
+[[VARIS]]:74:53
 That's who I thought it was.
 [[DM]]74:53
 Uh.
@@ -1557,7 +1557,7 @@ Sanis (Gabe)78:30
 Let's go. I take my. I. I mean, I can't carry her ass, but I guess, you know, I do that one arm over my shoulder thing while she is weak, and we walk over to the Essence pit because she told me to.
 [[DM]]79:19
 Um, yeah, so. So the essence pits aren't, like, right. Right here. They're further down. So th goes the essence Pits. If you would like to go there and help us cleanse, uh, the influence that Tezzeret is currently pumping, um, it will be down these tunnels over here. And, uh, he gestures over, um, to a path. The other path leading out of the cave.
-Varis (Vincent)79:22
+[[VARIS]]:79:22
 Don't worry.
 Ogre (Chet)79:23
 We'll go pump some influence.
@@ -1577,11 +1577,11 @@ No, Chandra's going. She's not waiting. She's going.
 Okay.
 Chandra (Bree(Guest Player))79:50
 Her hair's on fire. She's ready to somebody up.
-Varis (Vincent)79:56
+[[VARIS]]:79:56
 My question is the. The way to the pools is that big enough for me?
 [[DM]]80:03
 Me? The. The path is enough. Is large enough for you as a large creature.
-Varis (Vincent)80:04
+[[VARIS]]:80:04
 Okay.
 Ogre (Chet)80:09
 Just let me know when we get there.
@@ -1597,11 +1597,11 @@ All.
 What the hell? What the hel. Okay.
 Rin (Rachel)80:28
 What the hel. Where does that come from?
-Varis (Vincent)80:30
+[[VARIS]]:80:30
 TikTok.
 Rin (Rachel)80:43
 Okay. Some streamers I follow. Started saying that and I was just like, I don't know where the it's coming from. And now I'm hearing it in like, non those streams instances. And I'm so confused.
-Varis (Vincent)80:49
+[[VARIS]]:80:49
 Yep. We all have the brain rot. It gets us eventually.
 [[DM]]80:50
 Yep.
@@ -1611,7 +1611,7 @@ I don't have tick tock. I don't watch tick tock.
 Me neither. Somehow it's in my vocabulary.
 Rin (Rachel)81:02
 Well, that's why tick tock, though. That's how it's getting to you.
-Varis (Vincent)81:06
+[[VARIS]]:81:06
 See, Rachel? That's why it's called rot. It doesn't matter. It'll get to you.
 Rin (Rachel)81:09
 It finds a way. It's contagious.
@@ -1703,7 +1703,7 @@ Chandra (Bree(Guest Player))83:58
 For the most part, it looks like bark in some areas.
 [[DM]]86:49
 You guys go down, um, the, uh, path to the ossuary pits. Would you guys recognize, uh, from before, your earlier stint in the bone mine, which is where they earn marrow pits. Marrow pits, um, which is where they took the marrow and the, um, ancient essences of corpses, uh, long gone and distilled them, their concentrated, uh, soul essences, just sitting in these open pits. Um, tasty. Very tasty, very juicy and rich. Um, but this time around, due to your previous events, uh, in the bone mine, you, uh, do see, uh, rubble around. As you enter the marrow pits, you do see, uh, the remnants of the etheric equipment that has been destroyed. There's rubble everywhere. Um, some parts of the marrow pits are collapsed, but for the part that is not, you see, um, a black and red figure, um, with a biomechanical right hand and red eyes, who you guys recognize as Tezzeret. And, um, in front of him, you see, uh, three black and purple huge myconids with bulbous recesses and, uh, black tendrils dripping off them. Um, and into the pits, you see a big pump that is leading to a small black portal that is behind Tezzerett and swirling around in the marrow pits. What once was, um, a kind of milky white color from before is now tainted with streaks of black. And you guys enter and you hear Tezra go, ah. Uh, we meet again. Seems the Breakfast Club has decided to crash this party today. In the end. In the end, Bolas will win through all. It's futile.
-Varis (Vincent)86:57
+[[VARIS]]:86:57
 We are the party, pal.
 Chandra (Bree(Guest Player))87:10
 Lol. She's miffed. She's like, nah, this. You don't get to talk to us. He's gonna set. Try to set his ass on fire.
@@ -1733,7 +1733,7 @@ Chandra (Bree(Guest Player))87:57
 It's okay. I didn't get that grade on initiative. I only got a 14.
 Rin (Rachel)88:02
 Oh, nat 20 for RIN. That's a 21.
-Varis (Vincent)88:11
+[[VARIS]]:88:11
 I guess I have no initiative bonus. That sucks.
 [[DM]]88:18
 So, um, that's a nat 20 plus. What? So for what?
@@ -1743,11 +1743,11 @@ One. So 21.
 Okay.
 Rin (Rachel)88:26
 Bars initiative does all.
-Varis (Vincent)88:29
+[[VARIS]]:88:29
 Yeah, I mean, it helps you go sooner.
 Orphie (Taylor(Me))88:35
 I have another DM that'll basically let you get an action surgeon for doing an at 20 on initiative.
-Varis (Vincent)88:38
+[[VARIS]]:88:38
 Uh, got a three big dragon's going last.
 [[DM]]88:39
 Yay.
@@ -1833,11 +1833,11 @@ Rin (Rachel)94:54
 I think I know what it is. I'm not looking forward to this.
 [[DM]]95:08
 Um, yeah, and, uh, I'll just say no. You know what, Varis, Give me a perception check.
-Varis (Vincent)95:22
+[[VARIS]]:95:22
 All right, so that's, uh, a natural. Uh, 20 for a 33 total.
 [[DM]]95:27
 A natural. Funny. Uh, you see Chandra, look directly at you.
-Varis (Vincent)95:29
+[[VARIS]]:95:29
 Yeah. Okay.
 [[DM]]95:43
 Um, all right, next up is. That's, that's it for Tezzeret. Next up is Orphea.
@@ -1999,11 +1999,11 @@ Ogre (Chet)103:21
 Oh, it's just not updated to the next level of rage.
 [[DM]]103:39
 I. I would just, um, the ones that you posted. Let me just double check here. And yes, those are the ones that I'm going with. The uh, ones that Visualize Vincent posted for their rules for exhaustion.
-Varis (Vincent)103:44
+[[VARIS]]:103:44
 But chat. Uh, it is adding the rage damage.
 Ogre (Chet)103:48
 Yeah, uh, still instead of a plus three.
-Varis (Vincent)103:53
+[[VARIS]]:103:53
 Yeah, so then an extra two more points, I guess.
 Orphie (Taylor(Me))103:58
 Okay, so not the six for Rage, just adding two more for Rage.
@@ -2265,13 +2265,13 @@ Chandra (Bree(Guest Player))119:40
 Uh, 17.
 [[DM]]119:46
 Okay, everybody roll, please.
-Varis (Vincent)119:49
+[[VARIS]]:119:49
 And I rolled a 17.
 Chandra (Bree(Guest Player))119:56
 Damn. I'm gonna start rolling for damage.
 Sanis (Gabe)120:00
 Wonderful. I rolled a nine.
-Varis (Vincent)120:05
+[[VARIS]]:120:05
 I mean, even if I didn't make that, it's only a scratch.
 Orphie (Taylor(Me))120:08
 I rolled an 18.
@@ -2317,7 +2317,7 @@ A lot worse.
 All right, but noticeably. You do see that the, um, two Micah nids took the full damage, and one of them took half. There we go.
 Chandra (Bree(Guest Player))122:24
 This is. This is Chandra right now, just Angie, but, like, her eyes are locked on Varys. Like, it's on site.
-Varis (Vincent)122:28
+[[VARIS]]:122:28
 I think she needs a Snickers right now.
 [[DM]]122:32
 You're not you when you're hungry, Chandra.
@@ -2329,11 +2329,11 @@ Chandra (Bree(Guest Player))123:04
 I m. Think no. I think I only get one action. Um, yeah, she's gonna scoot away from the group more just to get like a better angle of attack, but also not being close enough to be slapped by anybody.
 [[DM]]123:06
 Okay.
-Varis (Vincent)123:14
+[[VARIS]]:123:14
 You're so lucky you moved away. I was about to legendary action you.
 Chandra (Bree(Guest Player))123:19
 Oh, no, not today.
-Varis (Vincent)123:25
+[[VARIS]]:123:25
 I'm pretty sure I don't get to move during that. So he got away.
 Chandra (Bree(Guest Player))123:28
 Yeah. Can't touch this game.
@@ -2351,7 +2351,7 @@ Rin (Rachel)124:09
 20.
 [[DM]]124:23
 Okay, you guys each just take five points of the chronic damage. Sanis, 17. Two. Uh, okay, so that's just five points up in the crot damage. Cool. So no ill effects, just damage.
-Varis (Vincent)124:41
+[[VARIS]]:124:41
 I also. I also do want to say with Chandra Varis completely knowing that she. I mean, aside from being fireballed, uh, I know that she's hostile right now. Oh, yeah, her moving away would trigger opportunity attack, right?
 Chandra (Bree(Guest Player))124:42
 Oh, no.
@@ -2365,15 +2365,15 @@ What's my Dex?
 Well, I mean, it would be your ac, right?
 Chandra (Bree(Guest Player))124:58
 Yeah, that's true.
-Varis (Vincent)125:06
+[[VARIS]]:125:06
 I don't think. Unless I roll low, I don't think you're getting away. Uh, so I will be, uh, tail attacking.
 [[DM]]125:10
 Okay. Two, but you don't have sentinel, so she's still gonna move away.
-Varis (Vincent)125:14
+[[VARIS]]:125:14
 Yeah, yeah, you still get to move away. But.
 Chandra (Bree(Guest Player))125:16
 But you're gonna slap me on the way.
-Varis (Vincent)125:19
+[[VARIS]]:125:19
 By the 29 is definitely slapping you.
 Chandra (Bree(Guest Player))125:21
 Oh, okay.
@@ -2381,7 +2381,7 @@ Oh, okay.
 Okay, so roll for damage. Uh.
 Chandra (Bree(Guest Player))125:27
 Tail attack. Tail attack.
-Varis (Vincent)125:34
+[[VARIS]]:125:34
 Where to go? Uh, 8, 18. Bludgeoning damage.
 [[DM]]125:43
 Okay, Chandra, uh, can you make me another, um, with some saving throw, please?
@@ -2395,7 +2395,7 @@ That'Ll be a. Which was, uh, 17.
 Wait.
 Chandra (Bree(Guest Player))126:06
 Waiting, waiting.
-Varis (Vincent)126:16
+[[VARIS]]:126:16
 I sadly don't have Jeopardy on my soundboard.
 [[DM]]126:29
 Um, okay, you. You do save. So you do snap out of it.
@@ -2417,11 +2417,11 @@ Sanis (Gabe)128:15
 One level of exhaustion. Oh, why do you hate me? So.
 [[DM]]128:25
 What are my roles today? Holy. Uh, yeah, the other Micah also swings twice at Varis and misses.
-Varis (Vincent)128:37
+[[VARIS]]:128:37
 I, I, I say I would like to legendary action. Any one of those. Uh, sure, just, just get a tail attack on one of those myconids.
 [[DM]]128:39
 Okay. You want it to be number two, number three.
-Varis (Vincent)128:47
+[[VARIS]]:128:47
 Um, whichever one just hit us with the necrotic.
 [[DM]]128:49
 Okay, sure.
@@ -2429,7 +2429,7 @@ Chandra (Bree(Guest Player))128:52
 That'd be number two, I think.
 [[DM]]128:54
 Yep. So roll to hit.
-Varis (Vincent)129:07
+[[VARIS]]:129:07
 Keeps closing the window when I roll things. 18 hits and, and 15. Budgeting damage.
 [[DM]]129:49
 All right, great. Sure has been hit. And last but not least, we've got. Oh, no, sorry. The mic. Number one has to go. And actually, it'll hit actually at the start of its turn. No, no, at the start of its turn. Uh, Ogre, make me a constitution saving throw.
@@ -2437,57 +2437,57 @@ Ogre (Chet)129:56
 24.
 [[DM]]130:14
 All right, you make it. You just take five points, necrotic, all right? And then it is going to attack you and absolutely do. Jack, Boris, it's your turn.
-Varis (Vincent)130:18
+[[VARIS]]:130:18
 All right, um.
 [[DM]]130:29
 I. Yeah, Two giant corrupted Micanids staring you down.
-Varis (Vincent)130:32
+[[VARIS]]:130:32
 Yeah. And then one over by Ogre.
 [[DM]]130:33
 Yeah.
-Varis (Vincent)130:58
+[[VARIS]]:130:58
 Um, I will multi attack and, and just focus on the ones right in front of us. Um, so first, my frightful presence. Ah, wisdom. DC19 wisdom. Save for all the enemies. And luckily, uh, Chandra is not one of them anymore.
 [[DM]]131:04
 Um, the Myconids fail. But Tessie.
-Varis (Vincent)131:13
+[[VARIS]]:131:13
 Okay, uh, okay. And then. Okay, bite.
 Chandra (Bree(Guest Player))131:14
 Wait.
-Varis (Vincent)131:21
+[[VARIS]]:131:21
 One bite, two claw. Okay, um, I will be focusing on making a two again.
 [[DM]]131:22
 Okay.
-Varis (Vincent)131:29
+[[VARIS]]:131:29
 Since I already hit him m to once. So first a bite, which is a crit. That's great.
 [[DM]]131:37
 Uh, I. There we go.
-Varis (Vincent)131:42
+[[VARIS]]:131:42
 Crit damage. Uh, what is that?
 [[DM]]131:43
 30?
-Varis (Vincent)131:47
+[[VARIS]]:131:47
 Uh, one piercing, plus that mic into.
 [[DM]]131:48
 Two is, is gone.
-Varis (Vincent)131:55
+[[VARIS]]:131:55
 Okay. I just want to roll the extra damage just because I want to see it. Plus another fourth from that bite. So that was just one bite.
 [[DM]]131:57
 All right. Gone.
-Varis (Vincent)132:13
+[[VARIS]]:132:13
 And then, and then I take my two claw attacks on the other one then for, uh, that is a natural one. So second. Second claw attack.32.
 [[DM]]132:15
 Yep.
-Varis (Vincent)132:19
+[[VARIS]]:132:19
 And then 18 slashing.
 [[DM]]132:30
 Okay, cool.
-Varis (Vincent)132:44
+[[VARIS]]:132:44
 Um, how, um, tall is this room?
 [[DM]]132:50
 Uh, I'd say that it's 30ft tall.
 Orphie (Taylor(Me))132:55
 M.
-Varis (Vincent)132:57
+[[VARIS]]:132:57
 Stay where I am.
 [[DM]]133:55
 Okay, um, at the top of the order, at the top of the order, I'm just gonna have Tessera fire off a spell here at Orphe. That's gonna be. That's going to be one hit, and then that's a nat 20.
@@ -2683,7 +2683,7 @@ SANIS (GABE)
 I mean, I don't know about 28 out of 94. Yeah, I'm rough. It's. And I have a level of exhaustion. It's rough over here.
 OPRHIE (TAYLOR(ME))
 Oh, yeah. I have a level of exhaustion too.
-VARIS (VINCENT)
+[[VARIS]]:
 Yeah, Sanis, I feel ya. I'm down to 235.
 CHANDRA (BREE(GUEST PLAYER))
 Out of what? What the is your max?
@@ -2731,7 +2731,7 @@ RIN (RACHEL)
 That's okay.
 CHANDRA (BREE(GUEST PLAYER))
 Again, I. I don't deserve anything anyway.
-VARIS (VINCENT)
+[[VARIS]]:
 It's not your fault.
 OPRHIE (TAYLOR(ME))
 That's not really how.
@@ -2749,13 +2749,13 @@ CHANDRA (BREE(GUEST PLAYER))
 No, I don't want to roll anything. We love it. Hey, it helps.
 RIN (RACHEL)
 I here for the energy.
-VARIS (VINCENT)
+[[VARIS]]:
 I mean, the Mikids would have been standing in front of me and I'm too big for Rin to be close.
 CHANDRA (BREE(GUEST PLAYER))
 So I thought I got.
 RIN (RACHEL)
 They were close enough to do damage to me, but. Yeah.
-VARIS (VINCENT)
+[[VARIS]]:
 Well, just in terms of tax of opportunity, they wouldn't be close enough to Rin, I don't think.
 CHANDRA (BREE(GUEST PLAYER))
 No, I meant.
@@ -2781,7 +2781,7 @@ OGRE (CHET)
 You don't have to.
 RIN (RACHEL)
 That's specifically why we chose this was because of the darkness jar. Or at least I did.
-VARIS (VINCENT)
+[[VARIS]]:
 So you brought me back to my256.
 OPRHIE (TAYLOR(ME))
 You're welcome. Does this do anything for exhaustion? Just curious.
@@ -2795,7 +2795,7 @@ SANIS (GABE)
 Cube in a sock.
 CHANDRA (BREE(GUEST PLAYER))
 I'm sorry.
-VARIS (VINCENT)
+[[VARIS]]:
 I mean, in fairness though, as long as I'm alive, like. Like that. That's a big health pool.
 SANIS (GABE)
 Right? Right, right, right, right. But like, I really do. Like I. I said, I hope he steps on an ice cube in a sock.
@@ -2853,7 +2853,7 @@ Okay, which one looks the worst?
 The one that's by ogre.
 SANIS (GABE)
 You mean ogre that we can't see?
-VARIS (VINCENT)
+[[VARIS]]:
 You can only see one of them.
 [[DM]]
 You see. You see the cloud of darkness.
@@ -2975,7 +2975,7 @@ CHANDRA (BREE(GUEST PLAYER))
 And she'll just Scream, you bastard. You made me hurt them. I'm going to kill you.
 [[DM]]
 You hear him?
-VARIS (VINCENT)
+[[VARIS]]:
 Go.
 [[DM]]
 You snapped out of it. Interesting.
@@ -3037,43 +3037,43 @@ OGRE (CHET)
 I pass on my con concentration saves, by the way, for darkness.
 [[DM]]
 Okay.
-VARIS (VINCENT)
+[[VARIS]]:
 I don't know why I still have roll 20 open. I haven't used it I. Since I have blind sight. How is the the marketed by ogre looking?
 [[DM]]
 It's half dead.
-VARIS (VINCENT)
+[[VARIS]]:
 And I'm sorry, is there still one stand in front of us?
 [[DM]]
 Nope, it's dead.
-VARIS (VINCENT)
+[[VARIS]]:
 Okay, that's what I thought. I will go over, you know what with Tessera there is with him and Orphie, are they just simply, like, standing next to each other or does he, like, have her in any kind of.
 OPRHIE (TAYLOR(ME))
 He doesn't have me, like, hold.
 [[DM]]
 I mean, they're engaged in combat, but they're not like, grappled or anything.
-VARIS (VINCENT)
+[[VARIS]]:
 Okay, I know Tesla goes before Orphea, I mean, because I can. I can do this with the cone I want to.
 [[DM]]
 I'll.
-VARIS (VINCENT)
+[[VARIS]]:
 I'll fly up to Tezzeret and get right in his face and then force breath him.
 [[DM]]
 Okay.
-VARIS (VINCENT)
+[[VARIS]]:
 Just point blank.
 [[DM]]
 All right, that's saving. Throw.
-VARIS (VINCENT)
+[[VARIS]]:
 DC21 decks save.
 [[DM]]
 He makes it.
-VARIS (VINCENT)
+[[VARIS]]:
 Okay, so it still takes half damage, so total is 60. So he takes 30 force damage.
 [[DM]]
 Jesus. Okay.
 OPRHIE (TAYLOR(ME))
 Yep.
-VARIS (VINCENT)
+[[VARIS]]:
 Then that's my turn.
 [[DM]]
 Yeah. So the two Mikanids that were attacking you guys are dead. One of them is still standing. And Tez by the black corrupted pumps connected to the small makeshift portal taking all these hits. He just glares at you guys and he goes, you guys might take me down, but Bolas will succeed in the end. His corruption knows no end. His power is absolute. And your sparks will be harvested. Of that you can be sure.
@@ -3203,7 +3203,7 @@ OPRHIE (TAYLOR(ME))
 And I have my bonus action, so I can. Great weapon master.
 [[DM]]
 Yes.
-VARIS (VINCENT)
+[[VARIS]]:
 That also doubles your tattoo force damage.
 OPRHIE (TAYLOR(ME))
 Beautiful. Okay, first, 24 damage.
@@ -3323,7 +3323,7 @@ RIN (RACHEL)
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That's 101 damage that she just did in one turn.
 CHANDRA (BREE(GUEST PLAYER))
 Jeez.
-VARIS (VINCENT)
+[[VARIS]]:
 Just barbarian things.
 RIN (RACHEL)
 But not just barbarian things, Crit. Barbarian things.
@@ -3343,13 +3343,13 @@ OGRE (CHET)
 Do you have brutal critical yet?
 OPRHIE (TAYLOR(ME))
 No.
-VARIS (VINCENT)
+[[VARIS]]:
 Yeah, it's level nine, isn't it?
 RIN (RACHEL)
 Wait, what does that do?
 OPRHIE (TAYLOR(ME))
 Hold on.
-VARIS (VINCENT)
+[[VARIS]]:
 You roll an extra damage?
 [[DM]]
 Yeah, Yeah, I do have critical.
@@ -3363,7 +3363,7 @@ So is that. Is that two more details?
 Yeah, roll it.
 CHANDRA (BREE(GUEST PLAYER))
 Jesus.
-VARIS (VINCENT)
+[[VARIS]]:
 Chris has been just subtracting numbers for, like, 10 minutes now.
 OPRHIE (TAYLOR(ME))
 That's an additional 13.
@@ -3659,7 +3659,7 @@ RIN (RACHEL)
 She's got all our juice.
 OGRE (CHET)
 Yeah, I'll just throw the Game Boy in too.
-VARIS (VINCENT)
+[[VARIS]]:
 No, no, no, no.
 RIN (RACHEL)
 Don't do that.
@@ -3679,11 +3679,11 @@ RIN (RACHEL)
 All that is left that exists is Teferi and he's just like, what the.
 OPRHIE (TAYLOR(ME))
 Fuck happened to everything?
-VARIS (VINCENT)
+[[VARIS]]:
 He tries to time travel and it's like, oh, the universe is gone.
 RIN (RACHEL)
 The universe literally doesn't exist anymore.
-VARIS (VINCENT)
+[[VARIS]]:
 It's like, oh, this timeline vanished. What happened?
 OPRHIE (TAYLOR(ME))
 Hello?
@@ -3707,7 +3707,7 @@ RIN (RACHEL)
 Into the V. Like, oh, my God.
 OGRE (CHET)
 She was born of this.
-VARIS (VINCENT)
+[[VARIS]]:
 What she wants.
 SANIS (GABE)
 She is old enough to make her own decisions.
@@ -3775,13 +3775,13 @@ So is anything else happening in this pit right now besides the bubbles? Ogre, d
 For. For. For now. That's all you see are. Are bubbles. As you're having this conversation, as Isaiah is just commenting on what's going on here.
 RIN (RACHEL)
 Ogre, do not touch it. Please.
-VARIS (VINCENT)
+[[VARIS]]:
 Varys do not need any other person.
 RIN (RACHEL)
 Going into the vat.
 CHANDRA (BREE(GUEST PLAYER))
 Rin.
-VARIS (VINCENT)
+[[VARIS]]:
 It's okay. For the record, Varis has wrapped Ogre in his wing and pulled him away from the pool.
 OPRHIE (TAYLOR(ME))
 I was thinking about pushing him in.
@@ -3819,7 +3819,7 @@ RIN (RACHEL)
 You have. Do you still have that? Have it, like, cut in half?
 OGRE (CHET)
 No, I. I don't have resistance.
-VARIS (VINCENT)
+[[VARIS]]:
 He's also not even raging, I don't think.
 OGRE (CHET)
 Right. Yeah, no, I'm just normal. I haven't used a rage in a long time. That whole level is mostly wasted.
@@ -3885,11 +3885,11 @@ Selena can like, you need. We need to get out of here.
 There's no response.
 OPRHIE (TAYLOR(ME))
 Okay, so eating this stuff gives you. Does you a lot of damage. What would happen if I stick stuck my arm in and grabbed her?
-VARIS (VINCENT)
+[[VARIS]]:
 Would you rather have me do that? If it's gonna somebody up.
 CHANDRA (BREE(GUEST PLAYER))
 Oh, yeah. The dragon with like 200 something plus hit points reaching in there, you wouldn't recommend.
-VARIS (VINCENT)
+[[VARIS]]:
 Yeah, and it's also damage that, like.
 OPRHIE (TAYLOR(ME))
 Right now, she doesn't care.
@@ -3901,13 +3901,13 @@ OPRHIE (TAYLOR(ME))
 Oh, that was almost 21. 21. Dex.
 CHANDRA (BREE(GUEST PLAYER))
 Save.
-VARIS (VINCENT)
+[[VARIS]]:
 Could I forfeit my own health and just cover everybody and just take the brunt of the.
 OPRHIE (TAYLOR(ME))
 I don't need your help, Varys.
 RIN (RACHEL)
 I definitely need it.
-VARIS (VINCENT)
+[[VARIS]]:
 Everybody does right now.
 RIN (RACHEL)
 Definitely need it.
@@ -3961,7 +3961,7 @@ CHANDRA (BREE(GUEST PLAYER))
 11.
 OGRE (CHET)
 I technically passed out while he was holding me because I use my mage hand to bring it to me. I was being obstinate.
-VARIS (VINCENT)
+[[VARIS]]:
 What's the DC on it?
 [[DM]]
 This one's gonna be 18. Oh, okay.
@@ -4019,7 +4019,7 @@ OPRHIE (TAYLOR(ME))
 That's a 12.
 [[DM]]
 Okay. This time. This time it's going to be a 20. You need to make a 20.
-VARIS (VINCENT)
+[[VARIS]]:
 I got a 20.
 [[DM]]
 22, 26.
@@ -4033,7 +4033,7 @@ RIN (RACHEL)
 The ceiling does not have good decks, by the way. Who doesn't have good decks?
 OPRHIE (TAYLOR(ME))
 I have advantage on deck saves, but my Dex is only plus 2.
-VARIS (VINCENT)
+[[VARIS]]:
 Sounds like you need to cast blast on yourself.
 RIN (RACHEL)
 That is exactly what I'm doing, but I'm trying to decide if I want to use a level four slot, even though I don't need it, because I technically need five and I don't have any more level three.
@@ -4043,7 +4043,7 @@ Is the pit still bubbling?
 The pit is still bubbling, and you actually see that the rubble from the ceiling is actually kind of hitting the air above the pits and bouncing off.
 OGRE (CHET)
 Oh, I think she's probably good to leave.
-VARIS (VINCENT)
+[[VARIS]]:
 Yeah, I think she's fine with my blind sight. Can I, like, is her body. Is she still there in the pit?
 OPRHIE (TAYLOR(ME))
 Yeah.
@@ -4057,17 +4057,17 @@ CHANDRA (BREE(GUEST PLAYER))
 To see.
 [[DM]]
 Cool.
-VARIS (VINCENT)
+[[VARIS]]:
 Let me make sure she didn't, like, dissolve or something.
 RIN (RACHEL)
 Yeah.
-VARIS (VINCENT)
+[[VARIS]]:
 Like, we're just here for no reason. Like, she's already dead.
 [[DM]]
 No, she said her entire body is completely.
 OPRHIE (TAYLOR(ME))
 Chris is terrible. I don't know if he's that terrible.
-VARIS (VINCENT)
+[[VARIS]]:
 Well, that just means her body is still there. That's all that means.
 RIN (RACHEL)
 Okay, Are we staying or are we going?
@@ -4101,13 +4101,13 @@ RIN (RACHEL)
 No, I actually do not.
 OPRHIE (TAYLOR(ME))
 Just a little extra slip in her way.
-VARIS (VINCENT)
+[[VARIS]]:
 I say you can take it off me and put it on Selena if you want to.
 OPRHIE (TAYLOR(ME))
 Okay.
 RIN (RACHEL)
 Yeah. I'm giving bless to Selena, but it only lasts for, like, a minute while she's in 30ft of me. I don't know.
-VARIS (VINCENT)
+[[VARIS]]:
 I think once you cast it, you. You have it.
 RIN (RACHEL)
 Oh, okay. Yeah.
@@ -4133,7 +4133,7 @@ SANIS (GABE)
 He really is trying to kill us.
 OPRHIE (TAYLOR(ME))
 Failing.
-VARIS (VINCENT)
+[[VARIS]]:
 Nice.
 RIN (RACHEL)
 I fail.
@@ -4157,7 +4157,7 @@ SANIS (GABE)
 Oh, sweet. I got a 25. That's awesome.
 [[DM]]
 Nice. So if you did not make it, that's 20 points of bludgeoning.
-VARIS (VINCENT)
+[[VARIS]]:
 Is everybody still conscious?
 OPRHIE (TAYLOR(ME))
 Yep, I'm doing fine. Okay.
@@ -4175,7 +4175,7 @@ CHANDRA (BREE(GUEST PLAYER))
 Yeah, I'm still conscious.
 [[DM]]
 Okay, nice.
-VARIS (VINCENT)
+[[VARIS]]:
 I'm just ready to scoop anyone up.
 OPRHIE (TAYLOR(ME))
 I'm kind of okay with it because if it keeps hitting me, then I get to stay raging.
@@ -4189,7 +4189,7 @@ CHANDRA (BREE(GUEST PLAYER))
 I mean, can you hit yourself and still rage?
 OPRHIE (TAYLOR(ME))
 Yes.
-VARIS (VINCENT)
+[[VARIS]]:
 I mean, technically, yeah, you can also just. You can also just make an attack. So you could just be punching the air.
 OPRHIE (TAYLOR(ME))
 Yeah, I can hit other things. I can get other people to hit me. We've tried a little bit of everything in every situation.
@@ -4241,7 +4241,7 @@ OPRHIE (TAYLOR(ME))
 Is she evil or is she good? I feel like this is.
 [[DM]]
 This is so energy.
-VARIS (VINCENT)
+[[VARIS]]:
 Did she.
 OGRE (CHET)
 Did tasting it fix witch's corruption? Is she back to Dawn?

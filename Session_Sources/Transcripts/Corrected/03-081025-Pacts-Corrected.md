@@ -28,7 +28,7 @@ You're welcome. I am recording.
 Awesome. So you guys.
 00:00:14 Rin (Rachel)
 We.
-00:00:16 Varis (Vincent)
+00:00:16 [[VARIS]]:
 Say that.
 00:00:17 Sanis (Gabe)
 Comment.
@@ -170,11 +170,11 @@ OK, I see.
 Yeah.
 00:07:26 Sanis (Gabe)
 Gotcha. Gotcha. Cool. Cool. Cool. Cool, cool, cool.
-00:07:28 Varis (Vincent)
+00:07:28 [[VARIS]]:
 Cool.
 00:07:30 Sanis (Gabe)
 Fun.
-00:07:30 Varis (Vincent)
+00:07:30 [[VARIS]]:
 So then me and ogre like in Sunhome area then.
 00:07:36 [[DM]]
 You're just north of that border, but like you're you are currently engaged with.
@@ -226,7 +226,7 @@ You can't see it over, but you can definitely see Varis.
 In his dragon form right now.
 00:09:11 Rin (Rachel)
 Oh, no, I don't care about Ogre and virus. I'm talking about me orphie insanity.
-00:09:15 Varis (Vincent)
+00:09:15 [[VARIS]]:
 OK.
 00:09:19 Sanis (Gabe)
 I am towel so showing.
@@ -356,9 +356,9 @@ I'm trying to decide if mass healing were.
 Just worth it right now or not.
 00:12:45 Rin (Rachel)
 Probably just for just more health.
-00:12:48 Varis (Vincent)
+00:12:48 [[VARIS]]:
 So chat do you want to do that plan we talked about?
-00:12:53 Varis (Vincent)
+00:12:53 [[VARIS]]:
 Or you got a new idea.
 00:12:54 Ogre (Chet)
 I'm going to be asked. I I don't remember. I was just gonna go full Steve train at this God.
@@ -380,7 +380,7 @@ He's huge.
 He is. He is the master of all, of all the underground.
 00:13:34 Rin (Rachel)
 If we get the chance, we should make him into a God. Yeah, we should.
-00:13:39 Varis (Vincent)
+00:13:39 [[VARIS]]:
 I mean, he might be already, you know.
 00:13:40 Rin (Rachel)
 True. And we just don't know. And we just casually like have.
@@ -412,15 +412,15 @@ Versus doing on HP.
 Impeccable.
 00:14:22 Orphie (Taylor)
 OK. I just wanted to make sure that we shouldn't wait until we got to them. But if you guys are doing good.
-00:14:23 Varis (Vincent)
+00:14:23 [[VARIS]]:
 Like right?
 00:14:28 Orphie (Taylor)
 Then that's fine. No you guys.
-00:14:29 Varis (Vincent)
+00:14:29 [[VARIS]]:
 Worry about you.
 00:14:31 Ogre (Chet)
 Yeah, doing good as of now, yeah.
-00:14:33 Varis (Vincent)
+00:14:33 [[VARIS]]:
 OK. Yeah.
 00:14:34 Rin (Rachel)
 Yeah, if we were, if we were able to sit for like 10 minutes, I could do prayer of healing, which is much more HP potential. But if we're booking it, then we're booking it.
@@ -518,43 +518,43 @@ What do you do?
 Heading towards the the Godzo, Steve can eat them I think. Well, just destroying as many things as possible.
 00:17:34 Speaker 6
 OK.
-00:17:36 Varis (Vincent)
+00:17:36 [[VARIS]]:
 So you said that we were on the other side of the party, so another 100 and.
 00:17:42 [[DM]]
 You guys on the north, you guys are in the?
-00:17:42 Varis (Vincent)
+00:17:42 [[VARIS]]:
 20.
-00:17:44 Varis (Vincent)
+00:17:44 [[VARIS]]:
 Yeah. So, so I mean, just going by the numbers you stated, we're 240 away from the God then.
 00:17:50 [[DM]]
 Yeah, I would say, you know what, to make things easier, yes, you guys are 240 feet from from the God.
-00:18:12 Varis (Vincent)
+00:18:12 [[VARIS]]:
 That.
-00:18:25 Varis (Vincent)
+00:18:25 [[VARIS]]:
 I guess I'm just gonna.
-00:18:32 Varis (Vincent)
+00:18:32 [[VARIS]]:
 I don't know chat what? What would be your opinion? Should I dash or should I dodge?
 00:18:39 Orphie (Taylor)
 Charge what?
 00:18:39 Ogre (Chet)
 Dodge, if you can't get.
-00:18:43 Varis (Vincent)
+00:18:43 [[VARIS]]:
 Yeah, I can't get to him in one turn.
-00:18:44 Varis (Vincent)
+00:18:44 [[VARIS]]:
 Either way so.
 00:18:45 [[DM]]
 Yeah.
-00:18:47 Varis (Vincent)
+00:18:47 [[VARIS]]:
 But so I will take my normal 80 feet fly and fly towards towards the God and then take the Dodge action.
-00:18:59 Varis (Vincent)
+00:18:59 [[VARIS]]:
 We gotta we gotta take this guy down.
 00:19:04 [[DM]]
 Alright, so you're going to move.
-00:19:06 Varis (Vincent)
+00:19:06 [[VARIS]]:
 Yeah.
 00:19:08 [[DM]]
 Alright, you're going to move. How much?
-00:19:11 Varis (Vincent)
+00:19:11 [[VARIS]]:
 I can fly 80 feet.
 00:19:13 Rin (Rachel)
 Yeah.
@@ -584,13 +584,13 @@ Ogre and Steve.
 Plow and meat tube anyway.
 00:19:54 Ogre (Chet)
 They can't something on him.
-00:19:56 Varis (Vincent)
+00:19:56 [[VARIS]]:
 Would would would I be able to see the rest of the team on Scrappy coming our way?
 00:20:04 [[DM]]
 Yes, yes. You guys do see.
 00:20:07 [[DM]]
 Them coming towards you guys.
-00:20:10 Varis (Vincent)
+00:20:10 [[VARIS]]:
 I will, I would yell out. We're going to fight the God.
 00:20:18 Orphie (Taylor)
 Bye, baby.
@@ -624,7 +624,7 @@ It's weird. It's telling us all of your secrets.
 Hold on.
 00:20:53 [[DM]]
 Hold on, this is awful.
-00:20:55 Varis (Vincent)
+00:20:55 [[VARIS]]:
 What?
 00:21:01 [[DM]]
 What is going on discord? What are you? Are you good? Are you good now?
@@ -650,29 +650,29 @@ You guys kind of skirt and go towards them.
 I mean, we just got absolutely obliterated by it. Do we wanna go back the same direction?
 00:21:53 Orphie (Taylor)
 Can I be made big? I have no reason to go toward a God unless I can be made big, like otherwise what the **** am I doing? I have to be this close to them to do anything.
-00:22:01 Varis (Vincent)
+00:22:01 [[VARIS]]:
 I mean.
-00:22:07 Varis (Vincent)
+00:22:07 [[VARIS]]:
 I mean, if we don't do something about it, it's just gonna be there to shooting the city.
-00:22:13 Varis (Vincent)
+00:22:13 [[VARIS]]:
 Shooting on all our all their.
 00:22:13 Orphie (Taylor)
 I know that's not what I'm.
 00:22:15 Orphie (Taylor)
 And.
-00:22:15 Varis (Vincent)
+00:22:15 [[VARIS]]:
 Cool.
 00:22:16 Orphie (Taylor)
 I'm not saying don't go after it. I'm saying I have no reason to get close to it because I can only do up close attacks.
-00:22:18 Varis (Vincent)
+00:22:18 [[VARIS]]:
 Oh no, I.
 00:22:19 Speaker 6
 Don't.
 00:22:20 Speaker 6
 Yeah.
-00:22:24 Varis (Vincent)
+00:22:24 [[VARIS]]:
 Yeah, I just. I was answering Rachel's question.
-00:22:28 Varis (Vincent)
+00:22:28 [[VARIS]]:
 Like.
 00:22:29 Rin (Rachel)
 I mean, yeah, but it's like.
@@ -680,7 +680,7 @@ I mean, yeah, but it's like.
 We make ourselves larger. We are squishy AF and it's like go down weird like we are.
 00:22:32 Rin (Rachel)
 At least for us, who cannot.
-00:22:40 Varis (Vincent)
+00:22:40 [[VARIS]]:
 Yeah.
 00:22:44 Rin (Rachel)
 In Dev, but do we need a better plan?
@@ -726,7 +726,7 @@ Alright, I'm just gonna go home. **** this sheet.
 I.
 00:24:21 Rin (Rachel)
 I don't know if I was ready for this today.
-00:24:25 Varis (Vincent)
+00:24:25 [[VARIS]]:
 And yeah, the city is the city is doomed.
 00:24:27 Sanis (Gabe)
 Definitely going back to my parents house at that.
@@ -768,7 +768,7 @@ You like 80 feet tall, 8000 feet.
 How?
 00:26:02 Rin (Rachel)
 Tall. He's bigger than various in dragon form I'd imagine. Right? Who are our allies nearby?
-00:26:09 Varis (Vincent)
+00:26:09 [[VARIS]]:
 Well, I'm currently in large so I don't.
 00:26:11 Rin (Rachel)
 Know. Ohh well, you might be the same size now.
@@ -776,7 +776,7 @@ Know. Ohh well, you might be the same size now.
 Kaiju fight Kaiju fight Kaiju fight.
 00:26:19 Rin (Rachel)
 Guide you.
-00:26:21 Varis (Vincent)
+00:26:21 [[VARIS]]:
 I mean, that's what was already gonna happen with with Petra. So, I mean, we'll **** me up, Nicol Bolas.
 00:26:29 [[DM]]
 I did forget to mention that.
@@ -980,7 +980,7 @@ There. I mean, there's tons of undead Eternals.
 OK, I'm gonna shoot at.
 00:34:44 Sanis (Gabe)
 Whichever one is, hold on.
-00:34:48 Varis (Vincent)
+00:34:48 [[VARIS]]:
 These days.
 00:34:51 [[DM]]
 There are. Yeah. You know what? There are also some, like manticores undead metal plated manticores and jackals as well.
@@ -988,7 +988,7 @@ There are. Yeah. You know what? There are also some, like manticores undead meta
 And there are also undead sorcerers that look to be casting magic.
 00:35:08 [[DM]]
 From behind, they're kind of like, you know, behind the front of the front lines.
-00:35:14 Varis (Vincent)
+00:35:14 [[VARIS]]:
 Oh.
 00:35:15 Sanis (Gabe)
 Would you say they're within 150 feet?
@@ -1094,11 +1094,11 @@ Hell yeah.
 11:00 nice.
 00:38:09 [[DM]]
 Yeah, you. Your arrow connects and you managed to severely damage one of the undead sorcerers.
-00:38:21 Varis (Vincent)
+00:38:21 [[VARIS]]:
 Don't forget the fire.
 00:38:26 [[DM]]
 The fire.
-00:38:28 Varis (Vincent)
+00:38:28 [[VARIS]]:
 Yeah, the fire arrows.
 00:38:31 Rin (Rachel)
 Ohh did you didn't require didn't you?
@@ -1106,21 +1106,21 @@ Ohh did you didn't require didn't you?
 Damage.
 00:38:34 [[DM]]
 Ohh yes.
-00:38:35 Varis (Vincent)
+00:38:35 [[VARIS]]:
 Is that D6? Pretty sure it was.
 00:38:40 Sanis (Gabe)
 Do I have?
 00:38:40 Sanis (Gabe)
 Those in here.
-00:38:44 Varis (Vincent)
+00:38:44 [[VARIS]]:
 Well, I.
-00:38:45 Varis (Vincent)
+00:38:45 [[VARIS]]:
 That spell that I cast it on your arrows.
 00:38:47 Sanis (Gabe)
 Ohh **** yeah, I forgot about that. You're right.
 00:38:50 Sanis (Gabe)
 So another D6, right?
-00:38:55 Varis (Vincent)
+00:38:55 [[VARIS]]:
 D6 yeah.
 00:39:01 Sanis (Gabe)
 5.
@@ -1200,7 +1200,7 @@ On to and so we'll add 3D6.
 Right. So that's a total of 27.
 00:41:52 Speaker 6
 Alright.
-00:41:57 Varis (Vincent)
+00:41:57 [[VARIS]]:
 What else? What else?
 00:41:59 [[DM]]
 Alright, so I'll say that you Cleave 3 Eternals with a single swing of Blaze ringer.
@@ -1236,61 +1236,61 @@ Pussycat.
 Thank you.
 00:43:28 Ogre (Chet)
 Alright, let's take out this. God, let's go.
-00:43:33 Varis (Vincent)
+00:43:33 [[VARIS]]:
 So we're now 160 feet away.
-00:43:39 Varis (Vincent)
+00:43:39 [[VARIS]]:
 I mean, I get dash and then make it up to him, but then I can't do anything.
-00:43:48 Varis (Vincent)
+00:43:48 [[VARIS]]:
 Now.
 00:43:50 Ogre (Chet)
 Just keep the Dodge dashing in this loose initiative.
 00:43:55 Ogre (Chet)
 I will be providing the Dodge for Steve.
-00:43:59 Varis (Vincent)
+00:43:59 [[VARIS]]:
 With.
 00:43:59 [[DM]]
 OK.
-00:43:59 Varis (Vincent)
+00:43:59 [[VARIS]]:
 My new ones.
 00:44:00 [[DM]]
 OK.
-00:44:02 Varis (Vincent)
+00:44:02 [[VARIS]]:
 Would ogre like to get on me and then I could dash, get to him, and then you could do whatever you wanna do? Yeah, sure.
-00:44:15 Varis (Vincent)
+00:44:15 [[VARIS]]:
 So yeah, I can in US traveling towards I can like get closer to Steve.
-00:44:22 Varis (Vincent)
+00:44:22 [[VARIS]]:
 Prayer and have chat hop on.
 00:44:24 [[DM]]
 All right.
-00:44:24 Varis (Vincent)
+00:44:24 [[VARIS]]:
 Or have logger happen.
 00:44:27 [[DM]]
 Cool.
 00:44:29 [[DM]]
 So Ogre, you're currently on top of virus and you guys move another 80 feet.
-00:44:37 Varis (Vincent)
+00:44:37 [[VARIS]]:
 Well, I mean.
-00:44:40 Varis (Vincent)
+00:44:40 [[VARIS]]:
 Would would over be casting a spells or does he wanna be right up close?
 00:44:46 Ogre (Chet)
 I mean, I misty stepped onto this guy.
 00:44:49 Ogre (Chet)
 I'm I'm playing shadow of the Colossus with this ******. Let's go. I'm I'm little.
-00:44:56 Varis (Vincent)
+00:44:56 [[VARIS]]:
 OK.
-00:44:56 Varis (Vincent)
+00:44:56 [[VARIS]]:
 OK. I'll, I'll.
 00:44:56 Ogre (Chet)
 He said this thing was.
 00:44:57 Ogre (Chet)
 This 60 foot tall? Yeah. Hell yeah.
-00:44:59 Varis (Vincent)
+00:44:59 [[VARIS]]:
 Yeah, I I will. I will dash. So that's my action. So I can get right up on.
 00:45:07 Speaker 6
 OK.
-00:45:08 Varis (Vincent)
+00:45:08 [[VARIS]]:
 Like literally right now still.
-00:45:09 Varis (Vincent)
+00:45:09 [[VARIS]]:
 And then Ogre can do what Ogre does.
 00:45:13 Ogre (Chet)
 We got armor that I can get inside.
@@ -1302,7 +1302,7 @@ I'm sure you could.
 I'm sure you could find a little crevasse in the armor between the guided turtles body and when it's wearing.
 00:45:30 Ogre (Chet)
 Oh yeah, I'm gonna Ant-Man this.
-00:45:31 Varis (Vincent)
+00:45:31 [[VARIS]]:
 ******. Iron Man pulling wires.
 00:45:32 Orphie (Taylor)
 Oh my God.
@@ -1320,17 +1320,17 @@ To be a little bit.
 Taller than I am now to get in there, no.
 00:45:53 [[DM]]
 No, just a crack in the.
-00:45:54 Varis (Vincent)
+00:45:54 [[VARIS]]:
 Wow.
-00:45:54 Varis (Vincent)
+00:45:54 [[VARIS]]:
 Armor. I mean, hey, that would be the sandos plan.
-00:46:00 Varis (Vincent)
+00:46:00 [[VARIS]]:
 He's doing that.
 00:46:01 Ogre (Chet)
 We're doing the planet that failed last time. I'm getting inside there. I'm gonna suck the energy out of this thing's heart.
-00:46:02 Varis (Vincent)
+00:46:02 [[VARIS]]:
 That's different.
-00:46:09 Varis (Vincent)
+00:46:09 [[VARIS]]:
 Let's do it.
 00:46:11 [[DM]]
 All right.
@@ -1358,21 +1358,21 @@ There's no damage, but you do lower its AC by two.
 Awesome.
 00:47:00 Rin (Rachel)
 Interesting.
-00:47:03 Varis (Vincent)
+00:47:03 [[VARIS]]:
 I'm imagining, you know, I'm just flying in high speed and then slamming on the brakes and then over just flies.
 00:47:11 [[DM]]
 Off like a missile shoots into a little crevasse on God eternal ketchup.
 00:47:12 Ogre (Chet)
 Back.
-00:47:16 Varis (Vincent)
+00:47:16 [[VARIS]]:
 Shrink says he's going.
 00:47:18 Ogre (Chet)
 You are arrow.
 00:47:19 [[DM]]
 Pop the mushroom and then you go. You go large and you pop solar pauldron off of God to turtle.
-00:47:26 Varis (Vincent)
+00:47:26 [[VARIS]]:
 Yes.
-00:47:27 Varis (Vincent)
+00:47:27 [[VARIS]]:
 Yeah, I'm the arrow that a man was writing. Exactly.
 00:47:31 Rin (Rachel)
 Love that.
@@ -1388,7 +1388,7 @@ Yeah. Awesome. Awesome.
 And now Ogre is what size?
 00:47:54 Rin (Rachel)
 Honey.
-00:47:56 Varis (Vincent)
+00:47:56 [[VARIS]]:
 I am just never getting my breath weapon back, am I?
 00:47:59 Ogre (Chet)
 I am about 6 inches tall currently.
@@ -1434,19 +1434,19 @@ Your time.
 Virus at this.
 00:49:00 [[DM]]
 Point, can you give me a perception check?
-00:49:03 Varis (Vincent)
+00:49:03 [[VARIS]]:
 Yes, please.
-00:49:08 Varis (Vincent)
+00:49:08 [[VARIS]]:
 Hey.
-00:49:11 Varis (Vincent)
+00:49:11 [[VARIS]]:
 That is a A. Well, my my bonus would make it 14, but I did roll 1. I don't know if that matters.
 00:49:22 [[DM]]
 You got a one.
-00:49:24 Varis (Vincent)
+00:49:24 [[VARIS]]:
 Yeah, my bonus would is high. I just, I don't know.
 00:49:28 [[DM]]
 OK.
-00:49:28 Varis (Vincent)
+00:49:28 [[VARIS]]:
 How you care?
 00:49:28 Orphie (Taylor)
 That's not how it works.
@@ -1456,13 +1456,13 @@ About ones that that'll be that'll be failure, but I'll say that you looked out 
 But you can't exactly make out.
 00:49:50 [[DM]]
 Who is?
-00:49:50 Varis (Vincent)
+00:49:50 [[VARIS]]:
 I bet I I bet.
-00:49:51 Varis (Vincent)
+00:49:51 [[VARIS]]:
 I know who it is.
 00:49:54 Rin (Rachel)
 I think you've got 2 good options.
-00:49:56 Varis (Vincent)
+00:49:56 [[VARIS]]:
 The one what is what?
 00:50:01 Ogre (Chet)
 Now it's going to make Taylor angry.
@@ -1472,9 +1472,9 @@ Oh my gosh.
 Oh, God no.
 00:50:08 Speaker 6
 OK. No, I'm free.
-00:50:09 Varis (Vincent)
+00:50:09 [[VARIS]]:
 OK, OK. I guess it's not.
-00:50:14 Varis (Vincent)
+00:50:14 [[VARIS]]:
 I was thinking.
 00:50:15 Speaker 6
 No, it wasn't what I was thinking either.
@@ -1518,13 +1518,13 @@ There's a giant firewall and a rockworm somewhere.
 OK. Yeah.
 00:51:57 [[DM]]
 Oh yeah, and then there there's also a giant long ancient golgari rot worm that it has just slithered right up to God eternal etcetera as well looks to be friendly.
-00:52:09 Varis (Vincent)
+00:52:09 [[VARIS]]:
 Think, think, think you're.
-00:52:12 Varis (Vincent)
+00:52:12 [[VARIS]]:
 Mean gander from God of War.
 00:52:14 Speaker 6
 OK.
-00:52:14 Varis (Vincent)
+00:52:14 [[VARIS]]:
 That's basically who just came.
 00:52:16 Chandra (Bri)
 Up big asss, Serpentine creature.
@@ -1584,7 +1584,7 @@ God.
 So how much damage?
 00:54:13 Chandra (Bri)
 So 11.
-00:54:15 Varis (Vincent)
+00:54:15 [[VARIS]]:
 OK.
 00:54:17 Chandra (Bri)
 Yeah, it's half of 22.
@@ -1644,7 +1644,7 @@ Oh, what?
 The armor, like the the fabric part it it looks confusing.
 00:56:26 Rin (Rachel)
 Ohh, the shoulder section. Yeah, it was a little weird. We love AI art.
-00:56:27 Varis (Vincent)
+00:56:27 [[VARIS]]:
 When when I.
 00:56:31 [[DM]]
 You know a IR.
@@ -1660,7 +1660,7 @@ Yes. Yeah.
 That's what I'm seeing as I thought you talking about shoulder.
 00:56:46 Ogre (Chet)
 Ohh painting makes sense.
-00:56:49 Varis (Vincent)
+00:56:49 [[VARIS]]:
 I mean it kind of looks like fabric, but it could just be like across it for decoration. Yeah, yeah, it definitely looks like that's on top, obviously what?
 00:56:52 Rin (Rachel)
 Yeah.
@@ -1674,7 +1674,7 @@ It's bloody sanitary work.
 We stand for it. It's not real arts. No one can be be shamed for it.
 00:57:03 Rin (Rachel)
 True.
-00:57:05 Varis (Vincent)
+00:57:05 [[VARIS]]:
 Now we shame AI.
 00:57:06 Ogre (Chet)
 Yeah you can.
@@ -1850,7 +1850,7 @@ The jackals, yeah.
 So.
 01:02:46 Sanis (Gabe)
 I'll just do both my attacks. Oh, that's funny.
-01:02:51 Varis (Vincent)
+01:02:51 [[VARIS]]:
 Oh.
 01:02:53 Rin (Rachel)
 Damn.
@@ -1878,9 +1878,9 @@ And a regular 135 piercing damage. Oh, plus the the D6 is for the fire. How long
 How many arrows? Sparse.
 01:03:36 Sanis (Gabe)
 Was it like?
-01:03:36 Varis (Vincent)
+01:03:36 [[VARIS]]:
 12 for 12 yeah. And I think you've done maybe like.
-01:03:40 Varis (Vincent)
+01:03:40 [[VARIS]]:
 4 or so now.
 01:03:42 Sanis (Gabe)
 So let's so now these next two is.
@@ -1888,7 +1888,7 @@ So let's so now these next two is.
 4/6 So then I'll leave.
 01:03:47 Sanis (Gabe)
 Me at six one.
-01:03:49 Varis (Vincent)
+01:03:49 [[VARIS]]:
 So.
 01:03:55 Sanis (Gabe)
 My first hit was 5.
@@ -1908,7 +1908,7 @@ So yeah.
 Cool.
 01:04:16 [[DM]]
 Alright so.
-01:04:18 Varis (Vincent)
+01:04:18 [[VARIS]]:
 12.
 01:04:19 [[DM]]
 17.
@@ -1962,7 +1962,7 @@ Yeah, I'll be essentially like flying with the with Molly and her group.
 Oh, can I say something snarky about Molly to Sanis?
 01:06:05 Orphie (Taylor)
 Yes. So I don't even know what it is, just.
-01:06:06 Varis (Vincent)
+01:06:06 [[VARIS]]:
 Always.
 01:06:08 Sanis (Gabe)
 Why would you even ask just?
@@ -2018,7 +2018,7 @@ Plugs are you are you removing the bug plug from the God eternal Taylor? No, he 
 That's, that's just what?
 01:07:45 Ogre (Chet)
 My current modus operandi is inside the machine.
-01:07:59 Varis (Vincent)
+01:07:59 [[VARIS]]:
 I don't.
 01:07:59 Orphie (Taylor)
 In a body.
@@ -2036,9 +2036,9 @@ Yeah, so, so, so he, you're in between the armor and basically what you could de
 Metal underneath the armor.
 01:08:27 [[DM]]
 Oh my God.
-01:08:30 Varis (Vincent)
+01:08:30 [[VARIS]]:
 Alright, what happened?
-01:08:32 Varis (Vincent)
+01:08:32 [[VARIS]]:
 Can you just see what the AI does with that?
 01:08:35 Rin (Rachel)
 Yes, me too.
@@ -2050,7 +2050,7 @@ Can I stab?
 Stab which into this.
 01:08:46 [[DM]]
 Yeah, as you're as you're running across the armor or the skin. Yeah, sure. Roll ahead.
-01:08:48 Varis (Vincent)
+01:08:48 [[VARIS]]:
 Farmer.
 01:08:52 Ogre (Chet)
 So.
@@ -2122,63 +2122,63 @@ Oh man.
 Alright, Varis and Chandra, what you guys doing?
 01:10:58 Chandra (Bri)
 We love that.
-01:11:02 Varis (Vincent)
+01:11:02 [[VARIS]]:
 I unfortunately have yet to.
 01:11:03 Chandra (Bri)
 My flight far away.
-01:11:07 Varis (Vincent)
+01:11:07 [[VARIS]]:
 Thank you for.
 01:11:08 [[DM]]
 Mari can go first.
 01:11:10 Chandra (Bri)
 Yeah.
-01:11:11 Varis (Vincent)
+01:11:11 [[VARIS]]:
 I've yet to recharge my breath weapon, so I'm just gonna multi attack it.
-01:11:18 Varis (Vincent)
+01:11:18 [[VARIS]]:
 Bite and two claws.
-01:11:23 Varis (Vincent)
+01:11:23 [[VARIS]]:
 So for a bite.
-01:11:25 Varis (Vincent)
+01:11:25 [[VARIS]]:
 Hey.
-01:11:27 Varis (Vincent)
+01:11:27 [[VARIS]]:
 What's my?
-01:11:32 Varis (Vincent)
+01:11:32 [[VARIS]]:
 18 to hit.
 01:11:34 [[DM]]
 That's not it.
-01:11:36 Varis (Vincent)
+01:11:36 [[VARIS]]:
 Damn. OK.
-01:11:38 Varis (Vincent)
+01:11:38 [[VARIS]]:
 Ohh and then.
-01:11:39 Varis (Vincent)
+01:11:39 [[VARIS]]:
 Go for two slashes with the claws.
-01:11:46 Varis (Vincent)
+01:11:46 [[VARIS]]:
 Let's go.
-01:11:47 Varis (Vincent)
+01:11:47 [[VARIS]]:
 8.
-01:11:49 Varis (Vincent)
+01:11:49 [[VARIS]]:
 So the so 18, that's 20.
-01:11:53 Varis (Vincent)
+01:11:53 [[VARIS]]:
 No 32. I assume that's it and then?
 01:11:57 [[DM]]
 Yep.
-01:11:58 Varis (Vincent)
+01:11:58 [[VARIS]]:
 I hate mental math. There's a 22 hit.
 01:12:02 [[DM]]
 Yeah, that hits.
-01:12:03 Varis (Vincent)
+01:12:03 [[VARIS]]:
 Alright, cool. SO2 claw attacks.
-01:12:08 Varis (Vincent)
+01:12:08 [[VARIS]]:
 With.
-01:12:10 Varis (Vincent)
+01:12:10 [[VARIS]]:
 I'll just go at the average because I don't like math today, so 30 slashing damage.
 01:12:17 [[DM]]
 OK.
-01:12:18 Varis (Vincent)
+01:12:18 [[VARIS]]:
 And I'll use my frightful presence. I don't know if it'll work on them, but a wisdom saving thrill.
-01:12:27 Varis (Vincent)
+01:12:27 [[VARIS]]:
 If there's any other enemies that happen to be in the area, you know that will hit them as well.
-01:12:34 Varis (Vincent)
+01:12:34 [[VARIS]]:
 It's 120 feet out, so.
 01:12:50 [[DM]]
 OK.
@@ -2188,7 +2188,7 @@ Yeah, you.
 What does it look like as far as in his dragon form?
 01:13:02 [[DM]]
 Shrieks and manifests, A frightful presence.
-01:13:07 Varis (Vincent)
+01:13:07 [[VARIS]]:
 Just just a loud dragon roar.
 01:13:13 [[DM]]
 Awesome. And you see that like on the ground, all of the Eternals begin to move away from you.
@@ -2196,7 +2196,7 @@ Awesome. And you see that like on the ground, all of the Eternals begin to move 
 But you see that God eternal, etcetera, is unfazed.
 01:13:28 [[DM]]
 Yeah, I figured.
-01:13:33 Varis (Vincent)
+01:13:33 [[VARIS]]:
 That'll be my turn.
 01:13:34 [[DM]]
 OK.
@@ -2204,15 +2204,15 @@ OK.
 Just check here.
 01:13:39 [[DM]]
 How much damage was that on your tax again?
-01:13:42 Varis (Vincent)
+01:13:42 [[VARIS]]:
 UH-30 slashing.
-01:13:47 Varis (Vincent)
+01:13:47 [[VARIS]]:
 OK.
-01:13:48 Varis (Vincent)
+01:13:48 [[VARIS]]:
 Racking across its armor.
 01:13:50 [[DM]]
 Yeah, you see.
-01:13:51 Varis (Vincent)
+01:13:51 [[VARIS]]:
 Process test.
 01:13:53 [[DM]]
 You see that as the God eternal winds up to shoot another couple of arrows, you rush up and you start clawing the crap out of it and you see that it just.
@@ -2222,7 +2222,7 @@ Like.
 Starts.
 01:14:06 [[DM]]
 Taking some damage, but it's not moving at all and seems kind of unfazed by your.
-01:14:13 Varis (Vincent)
+01:14:13 [[VARIS]]:
 Yeah.
 01:14:18 [[DM]]
 I'm trying to.
@@ -2396,7 +2396,7 @@ Flower of wish, yeah.
 Yeah, I'm not.
 01:19:32 [[DM]]
 Well, it's a black Lotus.
-01:19:33 Varis (Vincent)
+01:19:33 [[VARIS]]:
 Strong with cheese.
 01:19:34 Ogre (Chet)
 I tried.
@@ -2480,7 +2480,7 @@ You see, there is.
 Yeah, not to see. You don't see this ****** coming back. Cry. She'd be so happy.
 01:21:59 Speaker 6
 No.
-01:22:07 Varis (Vincent)
+01:22:07 [[VARIS]]:
 Would you say that DC, would you say that DC was on that?
 01:22:11 [[DM]]
 12.
@@ -2520,7 +2520,7 @@ That, or if he's gonna rat on Rahul so.
 Fast when she gets the chance.
 01:23:17 Rin (Rachel)
 I mean, if you don't do it rings going.
-01:23:19 Varis (Vincent)
+01:23:19 [[VARIS]]:
 To yeah, we we all will.
 01:23:22 Speaker 6
 What's?
@@ -2532,7 +2532,7 @@ Thank you.
 I mean, he's the one that trapped all of the Planeswalkers here right into Nicol Bolas is planned. So if anything, he does need to be punished cuz he's an idiot.
 01:23:43 Orphie (Taylor)
 He needs to be unmade.
-01:23:46 Varis (Vincent)
+01:23:46 [[VARIS]]:
 I mean.
 01:23:47 Ogre (Chet)
 Wasn't that just never message machine that he was turning on and off every day?
@@ -2554,7 +2554,7 @@ Oh God, this. Honestly, this is the best thing you could have done today.
 Thank you so much.
 01:24:11 Rin (Rachel)
 Match the night.
-01:24:14 Varis (Vincent)
+01:24:14 [[VARIS]]:
 Just the slightest glimmer of hope has been cleared.
 01:24:17 Rin (Rachel)
 I don't even need hope. I just.
@@ -2620,13 +2620,13 @@ The God as well.
 Yes.
 01:26:24 Rin (Rachel)
 Suite. We're also throwing a fireball at the God.
-01:26:25 Varis (Vincent)
+01:26:25 [[VARIS]]:
 Yeah, yeah.
 01:26:28 Chandra (Bri)
 Everyone just get him.
 01:26:28 Rin (Rachel)
 Joining in the Fireball party.
-01:26:30 Varis (Vincent)
+01:26:30 [[VARIS]]:
 If only it wasn't a dragon right now, I'd be far.
 01:26:32 Orphie (Taylor)
 Willing to dogpile?
@@ -2636,9 +2636,9 @@ You'd be joining in, yes.
 We love a good fireball party.
 01:26:38 Orphie (Taylor)
 Hey, polymorph me into a T Rex.
-01:26:39 Varis (Vincent)
+01:26:39 [[VARIS]]:
 If only you can get my breath clapping back.
-01:26:42 Varis (Vincent)
+01:26:42 [[VARIS]]:
 It's the same thing.
 01:26:44 Chandra (Bri)
 Honestly, I had some fun as a T Rex. I ate a bunch of people as my teeth 1 cleric.
@@ -2698,19 +2698,19 @@ Third level.
 All right. Anything else?
 01:28:22 Rin (Rachel)
 That was my.
-01:28:24 Varis (Vincent)
+01:28:24 [[VARIS]]:
 Main.
 01:28:25 Rin (Rachel)
 Options. I don't think I have any good bone infections.
 01:28:32 Rin (Rachel)
 Oh, I deal an extra 4 radiant damage to A to etcetera.
-01:28:38 Varis (Vincent)
+01:28:38 [[VARIS]]:
 Alright.
 01:28:40 Rin (Rachel)
 While transformed in my ideal and extra 4 radiant damage to 1 target that when I deal damage to it.
 01:28:49 Rin (Rachel)
 UMI think that's it cause that is all I can do.
-01:28:53 Varis (Vincent)
+01:28:53 [[VARIS]]:
 OK, cool.
 01:28:57 [[DM]]
 Alright, so it now.
@@ -2756,7 +2756,7 @@ OK, one of them.
 Was a 20.
 01:30:32 Ogre (Chet)
 I'm going to.
-01:30:33 Varis (Vincent)
+01:30:33 [[VARIS]]:
 Slip your pods that one.
 01:30:33 Rin (Rachel)
 Oh, it is with it I am.
@@ -2802,13 +2802,13 @@ UM.
 I keep driving and hacking it people as we go by with Blazebringer until we get to.
 01:32:06 Orphie (Taylor)
 The feet of the God eternal.
-01:32:10 Varis (Vincent)
+01:32:10 [[VARIS]]:
 OK.
 01:32:12 Sanis (Gabe)
 How far is that exactly?
 01:32:13 Rin (Rachel)
 Do I?
-01:32:13 Varis (Vincent)
+01:32:13 [[VARIS]]:
 Need to.
 01:32:16 [[DM]]
 Since you're on top of Scrappy, say that you use the action and the movement to go.
@@ -2852,11 +2852,11 @@ Look, it's not like I'm using my.
 Fingers.
 01:33:34 Sanis (Gabe)
 OK. Ah feet.
-01:33:35 Varis (Vincent)
+01:33:35 [[VARIS]]:
 Off.
 01:33:37 Orphie (Taylor)
 Yeah, I'll get in touch with my aunt.
-01:33:37 Varis (Vincent)
+01:33:37 [[VARIS]]:
 I mean, you got 15 feet of extra.
 01:33:41 Ogre (Chet)
 Extra range on you.
@@ -2950,7 +2950,7 @@ OK, 25.
 Will beat it.
 01:35:59 Ogre (Chet)
 Alright, so half damage. 13 down to 6.
-01:36:03 Varis (Vincent)
+01:36:03 [[VARIS]]:
 OK.
 01:36:08 Ogre (Chet)
 I will still try to move up like the neck if I can get inside the head.
@@ -2962,7 +2962,7 @@ Alright then. I'll stay inside the chest.
 OK, ought to.
 01:36:30 Ogre (Chet)
 Get deeper. Burrow into the chest.
-01:36:32 Varis (Vincent)
+01:36:32 [[VARIS]]:
 Alright.
 01:36:35 Chandra (Bri)
 It's gonna be like a chestburster from ******* alien.
@@ -2980,7 +2980,7 @@ At least we're aiming at their head, not their chest.
 I'll say next turn. You'll get to the center of this chest.
 01:36:53 Ogre (Chet)
 Oh yeah.
-01:36:56 Varis (Vincent)
+01:36:56 [[VARIS]]:
 If I were, if I were two breath weapon center mass. Is Ogre protected being inside of its armor?
 01:36:56 [[DM]]
 Morrison.
@@ -2998,7 +2998,7 @@ It favor or not?
 I I you know, I would say I would.
 01:37:26 [[DM]]
 Say it would hit.
-01:37:31 Varis (Vincent)
+01:37:31 [[VARIS]]:
 Are you?
 01:37:32 Ogre (Chet)
 That's fine. I got 93 HP.
@@ -3010,43 +3010,43 @@ My God.
 Sorry 97, I got 4 temp.
 01:37:41 Orphie (Taylor)
 Oh ****, I forgot I had.
-01:37:42 Varis (Vincent)
+01:37:42 [[VARIS]]:
 So I I.
-01:37:43 Varis (Vincent)
+01:37:43 [[VARIS]]:
 I don't know what spell slides you have, but I wouldn't mind his silvery barbs if he ends.
-01:37:47 Varis (Vincent)
+01:37:47 [[VARIS]]:
 Up passing the same.
-01:37:50 Varis (Vincent)
+01:37:50 [[VARIS]]:
 So I will.
-01:37:52 Varis (Vincent)
+01:37:52 [[VARIS]]:
 Just, yeah, shoot it with a breath weapon. So you need the deck save.
-01:37:57 Varis (Vincent)
+01:37:57 [[VARIS]]:
 DC-21.
 01:38:03 [[DM]]
 That fills it.
-01:38:04 Varis (Vincent)
+01:38:04 [[VARIS]]:
 Hell yeah.
-01:38:12 Varis (Vincent)
+01:38:12 [[VARIS]]:
 64 points of force damage.
-01:38:16 Varis (Vincent)
+01:38:16 [[VARIS]]:
 OK, so ogre, I hope you have fun.
 01:38:18 [[DM]]
 Right.
-01:38:21 Varis (Vincent)
+01:38:21 [[VARIS]]:
 I see, yeah.
-01:38:23 Varis (Vincent)
+01:38:23 [[VARIS]]:
 So Ogre would need to make for we'll need a.
-01:38:26 Varis (Vincent)
+01:38:26 [[VARIS]]:
 Roll as well.
 01:38:26 [[DM]]
 Then what was the save?
 01:38:29 [[DM]]
 21, OK. Yeah, I take it. Let's go. Ohh God.
-01:38:44 Varis (Vincent)
+01:38:44 [[VARIS]]:
 I mean, you could silver reverbs yourself technically.
 01:38:48 Ogre (Chet)
 That would have to be a pass.
-01:38:50 Varis (Vincent)
+01:38:50 [[VARIS]]:
 It has to be a pass, OK?
 01:38:52 Ogre (Chet)
 You have to succeed on the check.
@@ -3054,9 +3054,9 @@ You have to succeed on the check.
 Or saving throw whatever.
 01:38:57 Ogre (Chet)
 Oh, I do have advantage. Yeah.
-01:38:57 Varis (Vincent)
+01:38:57 [[VARIS]]:
 You.
-01:38:58 Varis (Vincent)
+01:38:58 [[VARIS]]:
 I was. I was gonna say you could have given yourself advantage because you didn't.
 01:39:03 Ogre (Chet)
 Worse, way worse, OK.
@@ -3064,21 +3064,21 @@ Worse, way worse, OK.
 Let's go. I'm not a 33. I'm fine.
 01:39:19 [[DM]]
 But yeah, I mean to to that virus. Oh, catcher.
-01:39:19 Varis (Vincent)
+01:39:19 [[VARIS]]:
 OK.
 01:39:23 Ogre (Chet)
 Takes a full.
 01:39:24 [[DM]]
 Hit of that breath weapon staggers, and now you have the gotta turn.
-01:39:31 Varis (Vincent)
+01:39:31 [[VARIS]]:
 Now I have what?
 01:39:33 [[DM]]
 It's attention. You notice that the God of Cheryl is.
 01:39:37 [[DM]]
 Their attention is on you now.
-01:39:40 Varis (Vincent)
+01:39:40 [[VARIS]]:
 OK, is is so Petra like?
-01:39:44 Varis (Vincent)
+01:39:44 [[VARIS]]:
 Looking relatively hurt at all.
 01:39:49 Orphie (Taylor)
 Not removed.
@@ -3086,9 +3086,9 @@ Not removed.
 There's some damage, but.
 01:39:53 [[DM]]
 You don't. It doesn't look like alcatra is wavering looking like she's gonna go down anytime soon.
-01:39:59 Varis (Vincent)
+01:39:59 [[VARIS]]:
 OK.
-01:40:00 Varis (Vincent)
+01:40:00 [[VARIS]]:
 OK.
 01:40:06 [[DM]]
 Kendra.
@@ -3120,7 +3120,7 @@ No, not really.
 I might be doing the same thing so.
 01:41:03 Chandra (Bri)
 I feel like it's funny everyone that hits, hits the God eternal. It's just like, **** you. **** you like it's like.
-01:41:09 Varis (Vincent)
+01:41:09 [[VARIS]]:
 Yeah.
 01:41:13 Orphie (Taylor)
 And it doesn't seem to be taking.
@@ -3146,7 +3146,7 @@ I love it.
 27 points of damage.
 01:42:09 Rin (Rachel)
 Yes.
-01:42:10 Varis (Vincent)
+01:42:10 [[VARIS]]:
 OK.
 01:42:14 [[DM]]
 Yeah, takes.
@@ -3172,7 +3172,7 @@ And like feel.
 Can we just leave this for like the actual planes, walkers who can come and go and?
 01:43:03 Orphie (Taylor)
 Hey, we're almost plains walkers.
-01:43:03 Varis (Vincent)
+01:43:03 [[VARIS]]:
 Yes.
 01:43:06 Sanis (Gabe)
 I can't leave, can you?
@@ -3220,7 +3220,7 @@ One of my favorite scenes. It's one of my favorite scenes.
 Because it's so real after a fight like that to just be like sitting in almost silence. Just.
 01:44:34 Orphie (Taylor)
 Eating shawarma.
-01:44:38 Varis (Vincent)
+01:44:38 [[VARIS]]:
 Like.
 01:44:38 Sanis (Gabe)
 Right. Or like at your mom's house would make eating whatever she made us because you know your mom would feed us.
@@ -3278,19 +3278,19 @@ OK.
 Is going to be.
 01:46:21 [[DM]]
 70 points of piercing damage.
-01:46:25 Varis (Vincent)
+01:46:25 [[VARIS]]:
 Need.
 01:46:26 Speaker 6
 Yikes.
 01:46:34 [[DM]]
 And then she can. Uh, go ahead.
-01:46:34 Varis (Vincent)
+01:46:34 [[VARIS]]:
 I would.
-01:46:37 Varis (Vincent)
+01:46:37 [[VARIS]]:
 I just say it. I would like to legendary action at the end of her.
 01:46:40 [[DM]]
 Turn OK. And the second one is only a 17.
-01:46:46 Varis (Vincent)
+01:46:46 [[VARIS]]:
 What's your list?
 01:46:48 [[DM]]
 Yep.
@@ -3326,7 +3326,7 @@ Just brown dragon fight.
 Gross. Gross. You wanna those are gonna be very interesting.
 01:48:21 Orphie (Taylor)
 That was ragged 3 wing.
-01:48:24 Varis (Vincent)
+01:48:24 [[VARIS]]:
 No.
 01:48:25 Sanis (Gabe)
 Stay with your chest.
@@ -3374,13 +3374,13 @@ Their mark and some of them are just, quite frankly bouncing right off.
 But yeah, all of you guys are in the same place, so if you guys want to go 1st and discuss what y'all wanna do to coordinate.
 01:49:54 [[DM]]
 Do you guys?
-01:49:55 Varis (Vincent)
+01:49:55 [[VARIS]]:
 I'm doing my legendary.
 01:49:55 Rin (Rachel)
 So they stay on the banishment. We don't think that it'll work.
-01:49:59 Varis (Vincent)
+01:49:59 [[VARIS]]:
 Oh, probably not.
-01:50:01 Varis (Vincent)
+01:50:01 [[VARIS]]:
 Umm.
 01:50:01 Sanis (Gabe)
 And it's like, raises hands like all in favor of running.
@@ -3408,7 +3408,7 @@ I'm just saying, like, you almost just died and.
 My main question is always trying to.
 01:50:37 Orphie (Taylor)
 Over here again. Whose fault was that?
-01:50:39 Varis (Vincent)
+01:50:39 [[VARIS]]:
 Run.
 01:50:40 Sanis (Gabe)
 I didn't.
@@ -3442,7 +3442,7 @@ Go attack. Damn it, use your app.
 Attack what?
 01:51:26 Orphie (Taylor)
 Attack OK.
-01:51:29 Varis (Vincent)
+01:51:29 [[VARIS]]:
 Poke.
 01:51:29 Ogre (Chet)
 Attack the big ******* monster.
@@ -3472,7 +3472,7 @@ Jammer between two walls of fire for all the damage.
 Or two layers of fire. Does that work?
 01:52:14 Orphie (Taylor)
 I like this idea.
-01:52:14 Varis (Vincent)
+01:52:14 [[VARIS]]:
 Yeah.
 01:52:15 Chandra (Bri)
 Well, as long as she's in between the damage sides, it it should, right. Yeah. The way I think.
@@ -3490,43 +3490,43 @@ I think I feel like while the fire ends, guardians of the example they use.
 Of fire, yeah.
 01:52:29 Chandra (Bri)
 It's like you're do it making a hallway. They're stuck in the hallway taking the heat.
-01:52:30 Varis (Vincent)
+01:52:30 [[VARIS]]:
 I mean, you can't.
-01:52:32 Varis (Vincent)
+01:52:32 [[VARIS]]:
 Yeah, that's true.
 01:52:35 Orphie (Taylor)
 You just gotta make sure it's really narrow.
 01:52:39 Orphie (Taylor)
 So that she can't just, you know, walk down the hallway.
-01:52:39 Varis (Vincent)
+01:52:39 [[VARIS]]:
 Yeah.
 01:52:45 Chandra (Bri)
 Yeah.
-01:52:46 Varis (Vincent)
+01:52:46 [[VARIS]]:
 So one thing that might help the game plan I do want to wing attack it. Chris for my legendary action.
-01:52:52 Varis (Vincent)
+01:52:52 [[VARIS]]:
 But how? Yeah, yeah. How close are all like the writers to etcetera.
 01:52:53 Rin (Rachel)
 Oh, yeah. Weren't you gonna do that after?
 01:53:02 [[DM]]
 Also say that they're 30 feet away. They're they're a little bit aways from, OK.
-01:53:08 Varis (Vincent)
+01:53:08 [[VARIS]]:
 Cool.
-01:53:10 Varis (Vincent)
+01:53:10 [[VARIS]]:
 So using my wing attack, she needs a deck save.
-01:53:18 Varis (Vincent)
+01:53:18 [[VARIS]]:
 I think it's.
 01:53:21 [[DM]]
 That's going to be a 22.
-01:53:23 Varis (Vincent)
+01:53:23 [[VARIS]]:
 Damn, that's exactly the DC, OK?
 01:53:29 Ogre (Chet)
 Uh, so you're saying is I should still rebars.
 01:53:34 Rin (Rachel)
 Yes.
-01:53:35 Varis (Vincent)
+01:53:35 [[VARIS]]:
 If you want.
-01:53:35 Varis (Vincent)
+01:53:35 [[VARIS]]:
 So.
 01:53:37 Ogre (Chet)
 Sorry boss, I'm. I'm lusting stuff up. Where?
@@ -3536,17 +3536,17 @@ I can't even see with my mage anymore.
 OK.
 01:53:44 [[DM]]
 It's 19.
-01:53:46 Varis (Vincent)
+01:53:46 [[VARIS]]:
 Alright fails so.
 01:53:47 Rin (Rachel)
 Perfect.
-01:53:49 Varis (Vincent)
+01:53:49 [[VARIS]]:
 15 so yeah, like me, I'm just beating my wings like.
-01:53:55 Varis (Vincent)
+01:53:55 [[VARIS]]:
 Trying to like knock them down. 15, bludgeon damage and they're not prone.
 01:54:02 Chandra (Bri)
 Oh.
-01:54:03 Varis (Vincent)
+01:54:03 [[VARIS]]:
 And I get I get movement out of that too, but I don't need to go anywhere so.
 01:54:03 Speaker 6
 OK.
@@ -3556,11 +3556,11 @@ Alright. Yeah, with with that O'Hara is not to the group.
 Can we make sure she falls not on top of us?
 01:54:23 [[DM]]
 Yeah. No, she, like falls back. You guys are in front.
-01:54:26 Varis (Vincent)
+01:54:26 [[VARIS]]:
 Yeah.
 01:54:28 Speaker 6
 Sorry, we.
-01:54:32 Varis (Vincent)
+01:54:32 [[VARIS]]:
 Yeah, we're just like, what's going on?
 01:54:32 Orphie (Taylor)
 It's more like Tim.
@@ -3588,13 +3588,13 @@ Back up.
 It's usually sanity.
 01:54:57 Chandra (Bri)
 I got command but I don't think I don't think I can have the saving thread to work for that.
-01:55:00 Varis (Vincent)
+01:55:00 [[VARIS]]:
 No.
-01:55:02 Varis (Vincent)
+01:55:02 [[VARIS]]:
 So.
 01:55:02 Sanis (Gabe)
 Like cap teeter.
-01:55:05 Varis (Vincent)
+01:55:05 [[VARIS]]:
 So are we now like on our turn and we can like do actions?
 01:55:09 [[DM]]
 Yeah, yeah, you guys. Yeah. You guys are doing whatever you want and you guys can.
@@ -3602,11 +3602,11 @@ Yeah, yeah, you guys. Yeah. You guys are doing whatever you want and you guys ca
 We are we can coordinate.
 01:55:14 [[DM]]
 Coordinate what you wanna do.
-01:55:15 Varis (Vincent)
+01:55:15 [[VARIS]]:
 I could just land on her and grapple.
-01:55:20 Varis (Vincent)
+01:55:20 [[VARIS]]:
 Oh well, I mean, well, that's something, Chris. I guess I don't have grapples. One of my actions.
-01:55:25 Varis (Vincent)
+01:55:25 [[VARIS]]:
 No.
 01:55:25 Orphie (Taylor)
 Everybody has grapple as an action. Everybody has grapple.
@@ -3616,73 +3616,73 @@ You, I mean you can, you can grapple you.
 Can grapple, yeah.
 01:55:31 Rin (Rachel)
 If a dragon can't grapple, what's the point?
-01:55:33 Varis (Vincent)
+01:55:33 [[VARIS]]:
 Yeah, I just, I don't know that blocks or specific so.
 01:55:35 Ogre (Chet)
 Dragons and Naples.
 01:55:38 Orphie (Taylor)
 It's not on your stat block, it's just.
-01:55:42 Varis (Vincent)
+01:55:42 [[VARIS]]:
 Yeah, it's a general action, yeah.
 01:55:42 Orphie (Taylor)
 A thing that you can read.
 01:55:44 Sanis (Gabe)
 Yeah, it's like an athletics role, but depending on the DM.
-01:55:45 Varis (Vincent)
+01:55:45 [[VARIS]]:
 True.
-01:55:51 Varis (Vincent)
+01:55:51 [[VARIS]]:
 Is that what we would want?
-01:55:52 Varis (Vincent)
+01:55:52 [[VARIS]]:
 To do, yeah.
 01:55:53 [[DM]]
 Give me give me athletics hold. And if you beat her.
-01:55:54 Varis (Vincent)
+01:55:54 [[VARIS]]:
 Keep her down.
 01:55:56 Chandra (Bri)
 Question OK.
 01:55:58 [[DM]]
 You got.
-01:56:00 Varis (Vincent)
+01:56:00 [[VARIS]]:
 I don't have any bonuses so.
-01:56:02 Varis (Vincent)
+01:56:02 [[VARIS]]:
 Just the flat string.
 01:56:04 Rin (Rachel)
 I'm going to lift. No, I'm not gonna do that. I'll still keep that up.
-01:56:12 Varis (Vincent)
+01:56:12 [[VARIS]]:
 Nice.
-01:56:17 Varis (Vincent)
+01:56:17 [[VARIS]]:
 That's a 25.
 01:56:20 [[DM]]
 A 25 keys alright. Yeah. That beats a 21.
 01:56:23 Rin (Rachel)
 Let's go.
-01:56:26 Varis (Vincent)
+01:56:26 [[VARIS]]:
 So I'm basically just landing and just like.
-01:56:29 Varis (Vincent)
+01:56:29 [[VARIS]]:
 And I mean just pinning.
-01:56:32 Varis (Vincent)
+01:56:32 [[VARIS]]:
 Her shoulders down.
 01:56:38 [[DM]]
 All right. Yeah, she's currently grappled.
 01:56:38 Orphie (Taylor)
 Did you hear it work? You go really sexual.
-01:56:43 Varis (Vincent)
+01:56:43 [[VARIS]]:
 Yeah.
-01:56:46 Varis (Vincent)
+01:56:46 [[VARIS]]:
 And what are you going to do?
 01:56:49 [[DM]]
 Alright, well, she's, she's grappled, and she's currently prone, so.
-01:56:53 Varis (Vincent)
+01:56:53 [[VARIS]]:
 0 speed to stand up.
 01:56:55 Rin (Rachel)
 Yep. And what else do you get with being prone? Remind me nothing automatic.
 01:57:02 [[DM]]
 Advantage disadvantage on.
-01:57:04 Varis (Vincent)
+01:57:04 [[VARIS]]:
 Yeah.
 01:57:05 [[DM]]
 Attack rolls.
-01:57:07 Varis (Vincent)
+01:57:07 [[VARIS]]:
 Yeah.
 01:57:08 [[DM]]
 No, sorry.
@@ -3706,7 +3706,7 @@ Yeah, if you're not within 5 feet of the taffrail is disadvantage.
 If you're not within 5 feet of her.
 01:57:41 [[DM]]
 Hmm.
-01:57:42 Varis (Vincent)
+01:57:42 [[VARIS]]:
 Yeah. If you shoot like a range.
 01:57:44 Chandra (Bri)
 So everybody stand 10 feet away.
@@ -3714,7 +3714,7 @@ So everybody stand 10 feet away.
 It's it's either or.
 01:57:47 [[DM]]
 Yeah. So.
-01:57:50 Varis (Vincent)
+01:57:50 [[VARIS]]:
 Get around her and start pumping.
 01:57:50 Orphie (Taylor)
 You're right there, Santos.
@@ -3744,17 +3744,17 @@ It's just advantage is advantage.
 I want the excuse to use this super advantage button.
 01:58:30 Orphie (Taylor)
 What is the point of this thing?
-01:58:34 Varis (Vincent)
+01:58:34 [[VARIS]]:
 Super advantage. It's weird that they include that, but that would only be, yeah.
 01:58:38 Sanis (Gabe)
 It's.
 01:58:38 Sanis (Gabe)
 A role.
-01:58:43 Varis (Vincent)
+01:58:43 [[VARIS]]:
 That would basically be if you have Elven accuracy.
 01:58:46 Orphie (Taylor)
 Yeah, I roll it just to see what happens, but I have a feeling like I'd unnecessarily do well and it would be a waste of like, uh, now 20 or something, but.
-01:58:46 Varis (Vincent)
+01:58:46 [[VARIS]]:
 You were. You were all three days.
 01:58:56 Ogre (Chet)
 Just wastes three 20s in a row.
@@ -3764,7 +3764,7 @@ Yeah, exactly. That's what it would be.
 So I'll just roll some attacks, I guess.
 01:59:07 [[DM]]
 Hmm.
-01:59:08 Varis (Vincent)
+01:59:08 [[VARIS]]:
 Yeah, fish for them crits.
 01:59:13 Orphie (Taylor)
 20 not now.
@@ -3812,7 +3812,7 @@ So close to Max.
 So it's total of 32.
 02:00:36 Speaker 6
 Yes.
-02:00:38 Varis (Vincent)
+02:00:38 [[VARIS]]:
 Cheese.
 02:00:40 [[DM]]
 Alright.
@@ -3842,7 +3842,7 @@ I will say how many people can say they've done that. You've carved carved your 
 Leg of a God.
 02:01:29 Orphie (Taylor)
 My grandmother is probably gonna.
-02:01:30 Varis (Vincent)
+02:01:30 [[VARIS]]:
 It's like.
 02:01:32 Ogre (Chet)
 Spend the whole the whole time.
@@ -3862,7 +3862,7 @@ Like.
 Various turned me into a T.
 02:01:53 Orphie (Taylor)
 Rex 1 so now he doesn't wanna do anything.
-02:01:57 Varis (Vincent)
+02:01:57 [[VARIS]]:
 I'm a dragon, so I can.
 02:02:00 Orphie (Taylor)
 You should have thought about that before you went drag it.
@@ -3902,17 +3902,17 @@ It's gonna hit on the face.
 No fire fire bell is a spell, so it's not an attack.
 02:02:53 Ogre (Chet)
 Save.
-02:02:59 Varis (Vincent)
+02:02:59 [[VARIS]]:
 OK.
-02:03:01 Varis (Vincent)
+02:03:01 [[VARIS]]:
 UM, Sanis and I don't think you've attacked yet this round, so the this I forgot it to concentrate. I'm concentrating on that spell. The DC is higher than my Max. Potential to roll, so that drops.
-02:03:17 Varis (Vincent)
+02:03:17 [[VARIS]]:
 For your fire arrows.
 02:03:19 Sanis (Gabe)
 Well, I wasn't gonna do arrows up because.
 02:03:23 Sanis (Gabe)
 There are disadvantage.
-02:03:26 Varis (Vincent)
+02:03:26 [[VARIS]]:
 True.
 02:03:26 Orphie (Taylor)
 Too.
@@ -3930,7 +3930,7 @@ No, but I wanna because I get a bonus section this turn.
 Do magic weapon on it. You get a plus.
 02:03:48 Sanis (Gabe)
 One to my roles.
-02:03:49 Varis (Vincent)
+02:03:49 [[VARIS]]:
 OK.
 02:03:52 Chandra (Bri)
 Oh.
@@ -3972,7 +3972,7 @@ OK.
 All.
 02:04:39 Orphie (Taylor)
 You got the.
-02:04:43 Varis (Vincent)
+02:04:43 [[VARIS]]:
 Wow.
 02:04:44 Sanis (Gabe)
 ******* wow.
@@ -3988,7 +3988,7 @@ Either way, it doesn't do anything.
 Not a damn thing.
 02:05:03 Orphie (Taylor)
 Hey, it's OK. My first shot didn't hit.
-02:05:04 Varis (Vincent)
+02:05:04 [[VARIS]]:
 Well.
 02:05:07 Sanis (Gabe)
 I'm assuming I like cut my web like the web of my hand in between my thumb and my ******* index on accident because I.
@@ -4010,7 +4010,7 @@ Like a ******* dagger.
 And radiant damage.
 02:05:38 Speaker 6
 Take this bit.
-02:05:38 Varis (Vincent)
+02:05:38 [[VARIS]]:
 I mean, sure. Well, you could also do a saving throw spell, and that won't matter what it be.
 02:05:45 Rin (Rachel)
 That'll be fine, because like I was going to do fireball, that's a saving throw. And then.
@@ -4026,11 +4026,11 @@ No, you could still do it. I was just reminding you that it it was down on the f
 Well, but you can still aim it in a certain spot so it doesn't hit everyone. Yeah, yeah.
 02:05:57 Ogre (Chet)
 60 feet above it, right? Yeah, yeah.
-02:06:01 Varis (Vincent)
+02:06:01 [[VARIS]]:
 Yeah, we're. I mean, we're like around its legs right now. You just blast your.
 02:06:05 Orphie (Taylor)
 Head. Yeah, I don't know. We're ogre is right now, but you can aim toward.
-02:06:10 Varis (Vincent)
+02:06:10 [[VARIS]]:
 You've been in the fans.
 02:06:12 Chandra (Bri)
 60 foot we can probably on the distance.
@@ -4052,7 +4052,7 @@ Well, it's it's disadvantage for like farther than 5.
 Rain protect, no matter what.
 02:06:44 [[DM]]
 Yeah.
-02:06:46 Varis (Vincent)
+02:06:46 [[VARIS]]:
 You know, just manage no matter what.
 02:06:46 Rin (Rachel)
 Well, if I'm within 5 feet and I still throw it, does that still count or is it specifically for anything that is classified as a ranged attack?
@@ -4064,11 +4064,11 @@ They they can't fall out.
 They cancel out, so just be normal.
 02:06:59 Orphie (Taylor)
 OK, just back up.
-02:07:02 Varis (Vincent)
+02:07:02 [[VARIS]]:
 Oh yeah, it should be.
 02:07:03 Rin (Rachel)
 Normal then that would be that disadvantage.
-02:07:06 Varis (Vincent)
+02:07:06 [[VARIS]]:
 Yeah.
 02:07:08 [[DM]]
 Right. So like you have advantage because you're within 5 feet, but also disadvantage because you're within 5 feet, so you.
@@ -4098,13 +4098,13 @@ Yeah, we're doing, we're doing a fireball, OK?
 What would it take for me to disarm her?
 02:08:04 Rin (Rachel)
 Well, she's prone.
-02:08:07 Varis (Vincent)
+02:08:07 [[VARIS]]:
 Can Steve eat the bow?
 02:08:09 Orphie (Taylor)
 Yeah, we're Steve. Yeah. Yeah, Steve.
 02:08:11 [[DM]]
 Ohh.
-02:08:12 Varis (Vincent)
+02:08:12 [[VARIS]]:
 Hasn't done anything multiple rounds now.
 02:08:12 [[DM]]
 Is here too.
@@ -4116,29 +4116,29 @@ Oh, no. You you know what? Also, I'll say that Steve is helping you. Varis Ty O 
 Helpful.
 02:08:26 [[DM]]
 Just using the sheer weight of his body to keep okra on the ground.
-02:08:27 Varis (Vincent)
+02:08:27 [[VARIS]]:
 Yeah.
 02:08:32 [[DM]]
 Nice wrapping around her legs.
 02:08:34 Orphie (Taylor)
 Have you met Steve? He's our friend.
-02:08:38 Varis (Vincent)
+02:08:38 [[VARIS]]:
 So when?
 02:08:38 Rin (Rachel)
 He's your rockworm God.
-02:08:43 Varis (Vincent)
+02:08:43 [[VARIS]]:
 With both of us doing, keeping her on the ground, is she now? Would that now upgrade to restrained and not just grab?
-02:08:47 Varis (Vincent)
+02:08:47 [[VARIS]]:
 Oh.
-02:08:52 Varis (Vincent)
+02:08:52 [[VARIS]]:
 What did say?
 02:08:52 [[DM]]
 Yeah, you know what? You know what? I'll give it to you. Yeah. Yeah, they're restrained.
-02:08:57 Varis (Vincent)
+02:08:57 [[VARIS]]:
 If that necessary does anything, although with that it'll have disadvantage on Dex saves so.
 02:09:03 Rin (Rachel)
 Perfect. She'll take the full 33 fire damage.
-02:09:10 Varis (Vincent)
+02:09:10 [[VARIS]]:
 Hey.
 02:09:12 [[DM]]
 For.
@@ -4330,7 +4330,7 @@ I'll say, yeah, I did say last turn that you made it to it's chest.
 So like you're you're still like, you're in between the armor and the skin, and you're currently at its chest where you think the heart.
 02:15:11 [[DM]]
 Might Oh yeah.
-02:15:11 Varis (Vincent)
+02:15:11 [[VARIS]]:
 So.
 02:15:13 Ogre (Chet)
 Stabbing, stabbing within.
@@ -4378,7 +4378,7 @@ I feel confident that one.
 Yep.
 02:16:52 Ogre (Chet)
 That is another 15.
-02:16:55 Varis (Vincent)
+02:16:55 [[VARIS]]:
 Psychic damage.
 02:17:02 [[DM]]
 OK. Yeah, you you know what, with that I will say from the damage coming from everyone, the Spears from the skynight Legionnaires, viruses, breath weapon and attacks.
@@ -4454,7 +4454,7 @@ Disturbed.
 I'm done. I'm done.
 02:19:39 Orphie (Taylor)
 You're like shell shock.
-02:19:40 Varis (Vincent)
+02:19:40 [[VARIS]]:
 But.
 02:19:42 [[DM]]
 Everyone else, they got a 15 and above you sense alcatraz's energies begin to fade away and travel somewhere.
@@ -4506,7 +4506,7 @@ I would make ******* Molly take over.
 I have a question, does Revivify work on Dragons?
 02:22:05 Orphie (Taylor)
 It better.
-02:22:07 Varis (Vincent)
+02:22:07 [[VARIS]]:
 I don't see why not.
 02:22:08 Chandra (Bri)
 I'll say, is it a creature?
@@ -4534,7 +4534,7 @@ OK.
 Minutes.
 02:22:31 [[DM]]
 Alright.
-02:23:17 Varis (Vincent)
+02:23:17 [[VARIS]]:
 Good.
 
 [[DM]]
@@ -4546,7 +4546,7 @@ I'm not any kind of map, so I'm lost. I'm just like, yeah.
 [[DM]]
 I'll put it in the board, though. Here, oh, that's not it. How long have we been fighting?
 
-Varis (Vincent)
+[[VARIS]]:
 This, since the god showed up, probably, like, point number, not even a minute, probably.
 
 Rin (Rachel)
@@ -4572,13 +4572,13 @@ Did you just fly us over there?
 [[DM]]
 I'd say it would take you at least ten minutes to get over.
 
-Varis (Vincent)
+[[VARIS]]:
 Okay, so, for Ogre's Mushroom, that's effectively just the enlarge spell, right?
 
 Ogre (Chet)
 Yeah, for an hour.
 
-Varis (Vincent)
+[[VARIS]]:
 Okay, so how long is it? That's what I was just asking.
 
 Rin (Rachel)
@@ -4593,7 +4593,7 @@ You still have 41, 49 minutes left.
 [[DM]]
 There's also no way to end it earlier.
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, well, I mean, until I drop out of dragon form. Okay, wait. If I drop out of dragon form, is Varis enlarged?
 
 Or is it just on the dragon form?
@@ -4610,31 +4610,31 @@ I feel like that gets into the argument, is your dragon form still you, and do y
 Rin (Rachel)
 Yes, they do.
 
-Varis (Vincent)
+[[VARIS]]:
 Ah, good question.
 
 [[DM]]
 I will rule that you will still be enlarged.
 
-Varis (Vincent)
+[[VARIS]]:
 Okay, cool. It doesn't help me in any way, but that's still cool.
 
 [[DM]]
 Awesome. Enlarge does not make you more durable.
 
-Varis (Vincent)
+[[VARIS]]:
 No, and I'm not a marshal, so it doesn't- I'm not using weapons. Actually makes you an easier target.
 
 Rin (Rachel)
 Actually decreases dexterity. Okay, we're all getting on giant Varis in dragon form and going towards the other dragons, right? Yeah.
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, absolutely.
 
 Rin (Rachel)
 Okay, we are all heading over there then.
 
-Varis (Vincent)
+[[VARIS]]:
 Okay.
 
 Orphie (Taylor)
@@ -4658,7 +4658,7 @@ Yeah, so it's an electric horse, essentially. Like a cyborg horse.
 Ogre (Chet)
 Have you seen me on Big Mountain Dog? Robot Dog?
 
-Varis (Vincent)
+[[VARIS]]:
 Working on that right now.
 
 Ogre (Chet)
@@ -4667,7 +4667,7 @@ Robot Dog.
 Chandra (Brie)
 I'm just looking up images from that. Okay.
 
-Varis (Vincent)
+[[VARIS]]:
 I think- Okay, let's see. Robot Dog.
 
 Rin (Rachel)
@@ -4679,13 +4679,13 @@ Yeah, more horse-like, and it's colored in like red and blue.
 Sanis (Gabe)
 Because it's- Is it?
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, that's the one I was just about to send. That's, yeah, that's effectively a horse in the game.
 
 Rin (Rachel)
 Yep, you can actually ride it.
 
-Varis (Vincent)
+[[VARIS]]:
 That's what that animal is.
 
 [[DM]]
@@ -4694,13 +4694,13 @@ Yep. Yeah. But it'd been pulling their traveling tag.
 Rin (Rachel)
 Which just got obliterated before you- like the session before you joined us.
 
-Varis (Vincent)
+[[VARIS]]:
 We do have to make sure to go back to that, and get our drawer of holding.
 
 Sanis (Gabe)
 True.
 
-Varis (Vincent)
+[[VARIS]]:
 So we can at least have all our furniture.
 
 Sanis (Gabe)
@@ -4752,13 +4752,13 @@ I can't. What will happen after that will break me.
 Rin (Rachel)
 We cannot have Rall leading the Izzet.
 
-Varis (Vincent)
+[[VARIS]]:
 I mean, to her, Molly is going to take over if Nimizit's not around. So I think we need to be worried about Rall.
 
 Rin (Rachel)
 That's what I'm concerned about.
 
-Varis (Vincent)
+[[VARIS]]:
 I mean, or we could just be like, oh no, he died in the battle. I don't know what happened.
 
 Orphie (Taylor)
@@ -4767,7 +4767,7 @@ Well, then we need to go find him and kill him.
 Rin (Rachel)
 I mean, what are we supposed to do? We can't just leave Nimizit to die.
 
-Varis (Vincent)
+[[VARIS]]:
 Uh, I mean, aside from Molly, is any one of us opposed to doing that?
 
 Rin (Rachel)
@@ -4782,7 +4782,7 @@ Chris just can't dangle one of our actual favorite, like, guild leaders about to
 Orphie (Taylor)
 Nicol Bolas cannot be stronger than a god.
 
-Varis (Vincent)
+[[VARIS]]:
 We need to preserve the guild leaders. We need to stop having them die.
 
 [[DM]]
@@ -4817,19 +4817,19 @@ That's why no one will remember your name. Or no one will remember their names. 
 
 Um, Boris, you- You receive a message.
 
-Varis (Vincent)
+[[VARIS]]:
 Why- Why is, like, every dragon apparently have future knowledge and not want us involved? Like, what the fuck is going on?
 
 Orphie (Taylor)
 God damn it.
 
-Varis (Vincent)
+[[VARIS]]:
 Um.
 
 Orphie (Taylor)
 Anarchy.
 
-Varis (Vincent)
+[[VARIS]]:
 So. Like, telepathy, right? Mm-hmm, yep.
 
 Okay, um.
@@ -4840,13 +4840,13 @@ Um, you- So, Boris, you receive this as you look over, and it's at this point th
 Orphie (Taylor)
 Did we decide that, um, Revivify works on dragons?
 
-Varis (Vincent)
+[[VARIS]]:
 It should. We can't get there in a minute, though. Yeah.
 
 Chandra (Brie)
 I thought it was- Well, who says- Who says they're actually dead? Maybe they were sent somewhere.
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, I mean, is that true?
 
 Chandra (Brie)
@@ -4858,7 +4858,7 @@ That's fine. Anytime a dragon dies, Varis gets more powerful.
 [[DM]]
 Molly goes, is that true?
 
-Varis (Vincent)
+[[VARIS]]:
 I mean, no. Not the way that Ogre thinks it does. Um.
 
 Well, do we know it won't happen again? Well, I mean, now you got me thinking. No, it probably- I probably wouldn't be able to do that with Niv-Mizzet.
@@ -4871,7 +4871,7 @@ Niv-Mizzet's not my dad either, so let's fucking go. And you know what? I don't 
 Chandra (Brie)
 Fuck my parents. How do we know it's them and not just Nicol? Nicol.
 
-Varis (Vincent)
+[[VARIS]]:
 Well, I mean, Chris, I mean, I would know. Yeah, you would know. Yeah, it's telepathy, so.
 
 Um.
@@ -4879,7 +4879,7 @@ Um.
 Orphie (Taylor)
 This seems like anti-Niv-Mizzet propaganda, and I will not be listening.
 
-Varis (Vincent)
+[[VARIS]]:
 Because, I mean, it's not the first time that a dragon who apparently knows what's about to happen is telling, like, hey, like, don't get involved.
 
 Orphie (Taylor)
@@ -4894,19 +4894,19 @@ I mean, it did work for us last time, no matter how hard it was. In the end, we 
 Orphie (Taylor)
 I cared a lot less when it was Ugin.
 
-Varis (Vincent)
+[[VARIS]]:
 Oh, thanks. I mean, the let it happen thing just did happen.
 
 Rin (Rachel)
 True.
 
-Varis (Vincent)
+[[VARIS]]:
 Well, kind of, so.
 
 Rin (Rachel)
 Yeah, we didn't really do anything about it at this point.
 
-Varis (Vincent)
+[[VARIS]]:
 I mean, even if we did start going, it wouldn't have mattered.
 
 Ogre (Chet)
@@ -4947,7 +4947,7 @@ He's a god, so probably.
 Rin (Rachel)
 I feel like gods can just do that. Essentially.
 
-Varis (Vincent)
+[[VARIS]]:
 What exactly were they again?
 
 Rin (Rachel)
@@ -4956,7 +4956,7 @@ A god.
 Ogre (Chet)
 A water god.
 
-Varis (Vincent)
+[[VARIS]]:
 Maybe a sea serpent or something?
 
 Rin (Rachel)
@@ -4982,13 +4982,13 @@ It was a lot. So we just called him Pattycake. He do my grandma.
 [[DM]]
 Affectionately known as Pattycake. Unconfirmed. Unconfirmed.
 
-Varis (Vincent)
+[[VARIS]]:
 So Niv said that I'll know what to do, so I don't know whatever's gonna happen next, but I guess we just go back with Molly then? Or I don't know. I'm so fucking tired of the dragons.
 
 Ogre (Chet)
 Do you feel like you know what we're supposed to do?
 
-Varis (Vincent)
+[[VARIS]]:
 Just show them Molly. Well, I mean, I don't know what's happening next, but I mean.
 
 Ogre (Chet)
@@ -5005,7 +5005,7 @@ Yeah, what do they mean when they say we'll know what?
 [[DM]]
 And Varys, you relayed Niv's exact words to the group?
 
-Varis (Vincent)
+[[VARIS]]:
 I mean, at least that last part I did. They said, you'll know what to do. I think referring to me specifically, so I don't, you know.
 
 [[DM]]
@@ -5095,7 +5095,7 @@ I was trying to see if I could get my mic to catch up with my audio. It seems a 
 Rin (Rachel)
 I'm wondering what it like not to turn completely turn your video off or anything, but I'm wondering if the connection might be better if the video is turned off. I know sometimes like the video can cause issues with bandwidth.
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, I was going to say it helped.
 
 Chandra (Brie)
@@ -5116,7 +5116,7 @@ No, it's at this point that the conversation and everything has gone online. You
 Rin (Rachel)
 I don't think I can revivify that.
 
-Varis (Vincent)
+[[VARIS]]:
 I mean, yeah, no, I don't think it goes that far.
 
 Chandra (Brie)
@@ -5133,7 +5133,7 @@ And you look over. Huh. So do we just go find our ghost now?
 Rin (Rachel)
 Not right now.
 
-Varis (Vincent)
+[[VARIS]]:
 What? What did Nicol Bolas do? Is he just, where'd he go?
 
 [[DM]]
@@ -5193,7 +5193,7 @@ Yeah, I just going back to Ixalan if we wanted to.
 Rin (Rachel)
 Yeah. Oh, we're not going there.
 
-Varis (Vincent)
+[[VARIS]]:
 I don't think Bolas is stopping at Ravnica, so.
 
 Rin (Rachel)
@@ -5252,7 +5252,7 @@ Not anymore. Oh, God. They don't say anything identifying.
 
 So I cannot figure out who it is.
 
-Varis (Vincent)
+[[VARIS]]:
 What is it? What did it say?
 
 Orphie (Taylor)
@@ -5365,7 +5365,7 @@ Do we still need to kill her? I mean, if I'm seeing her, there is going to be a 
 Ogre (Chet)
 It is the least of our problems at the moment. I hate her so much.
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, not our top priority right now.
 
 Rin (Rachel)
@@ -5437,7 +5437,7 @@ Yeah, we need to go to the Selesnian Conclave ASAP. Nessa is gonna be very happy
 
 Is- We still have Scrappy, right? Yeah.
 
-Varis (Vincent)
+[[VARIS]]:
 You still have me. Like, I'm not dropping until I'm forcibly pushed out of it.
 
 Rin (Rachel)
@@ -5515,7 +5515,7 @@ Chandra, shut up, you are going to get- She will test that. She will take you to
 Orphie (Taylor)
 I'm a tiefling and a fucking barbarian type that I am. You're not gonna hurt me.
 
-Varis (Vincent)
+[[VARIS]]:
 I mean, unless you can stop a gargantuan dragon from just gripping you, you're going to the Conclave.
 
 Chandra (Brie)
@@ -5555,13 +5555,13 @@ Are you? I mean, if- Let's just say, I don't regret it, if we don't unrage Twitc
 Chandra (Brie)
 I've learned not to.
 
-Varis (Vincent)
+[[VARIS]]:
 Also, I just want to make sure everyone has the right image in their head. Chet is still eight inches tall with him doing all this nonsense.
 
 Orphie (Taylor)
 Oh my god, that's even funnier. Or if he always thinks he's eight inches tall.
 
-Varis (Vincent)
+[[VARIS]]:
 So it's literally this, like, little thing just, like, bouncing around, smacking her.
 
 [[DM]]
@@ -5585,7 +5585,7 @@ Yeah, she's got all the fun, dangerous stuff.
 Orphie (Taylor)
 Yep, and she'll be the only one left if I have anything to do with it.
 
-Varis (Vincent)
+[[VARIS]]:
 And she isn't stupid.
 
 Chandra (Brie)
@@ -5594,13 +5594,13 @@ So what have you guys been into since I last saw you? A little bit of everything
 Orphie (Taylor)
 Pirates, dinosaurs, mermaids. Time travel. Yeah.
 
-Varis (Vincent)
+[[VARIS]]:
 Rewriting time. We died once.
 
 Rin (Rachel)
 Well, only one of us died.
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 
 Rin (Rachel)
@@ -5713,19 +5713,19 @@ All right, you're coming with me. And she takes your hand and leads you into Vit
 Rin (Rachel)
 I don't know about anyone else, but Rin is following, if anyone else is following her. Sure.
 
-Varis (Vincent)
+[[VARIS]]:
 I will patiently wait outside.
 
 Rin (Rachel)
 Still in your dragon form?
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, I'm basically going to be, like, our taxi for the near future.
 
 Sanis (Gabe)
 I'm good with that.
 
-Varis (Vincent)
+[[VARIS]]:
 Because we need to get around.
 
 [[DM]]
@@ -5793,7 +5793,7 @@ Some sort of armor or some sort of force field or something that can essentially
 Chandra (Brie)
 Gotcha. So this is above table, obviously. I don't know how he's doing it, but I know at least he's looking for them.
 
-Varis (Vincent)
+[[VARIS]]:
 This is above table, obviously. Oh, sorry.
 
 Chandra (Brie)
@@ -5808,7 +5808,7 @@ He's a temporary spark on this plane because as soon as I get my hands on him.
 Rin (Rachel)
 Not if I don't get to him first, right? He could be the cause of all of these deaths. We can kill him together.
 
-Varis (Vincent)
+[[VARIS]]:
 I think it'll be a collective pummeling. But Rachel, what I was going to say, I think Chris clarified earlier, I think them taking the sparks, they have to die first and then they take the sparks out. I don't think there's anything we can do about it.
 
 Rin (Rachel)
@@ -5998,7 +5998,7 @@ Yes. So let me adjust the message I sent you.
 Rin (Rachel)
 When the players remember more information than the DM. And this is why Rachel's the one who normally takes the notes.
 
-Varis (Vincent)
+[[VARIS]]:
 Also, is Onyx- Not that our characters would know. But is Onyx a name? Like, is that a person that we would know?
 
 Chandra (Brie)
@@ -6012,7 +6012,7 @@ If you get a 20, I will tell you. Because this is something that is linked to th
 Rin (Rachel)
 So close!
 
-Varis (Vincent)
+[[VARIS]]:
 God, I got a 16. 19.
 
 [[DM]]
@@ -6074,7 +6074,7 @@ Nobody remembers.
 [[DM]]
 Yeah, so, I mean, again, it's like an alternate timeline, fuzzy-wuzzy, reality-manipulating stuff, so, no. She mentions Onyx, and you guys don't recognize her. Familiar with it.
 
-Varis (Vincent)
+[[VARIS]]:
 I was just curious as a player, like, if that was somebody we ran into.
 
 [[DM]]
@@ -6327,7 +6327,7 @@ I should have known we weren't going to get a good night's rest tonight.
 [[DM]]
 But that's where... Okay, so that is where I'm going to end it. But before I do end it, Varis, give me an Arcana check.
 
-Varis (Vincent)
+[[VARIS]]:
 17.
 
 [[DM]]
@@ -6338,7 +6338,7 @@ They're somewhere. And you feel a part of it get a little warm.
 Orphie (Taylor)
 It's the box!
 
-Varis (Vincent)
+[[VARIS]]:
 Yeah, probably.
 
 [[DM]]

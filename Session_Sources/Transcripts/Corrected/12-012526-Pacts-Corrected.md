@@ -18,21 +18,21 @@ corrections_applied: 477
 
 Rin
 Does.
-Orphea
+[[ORPHIE]]:
 So this gets deleted. Okay, now.
 [[DM]]
 Awesome. All right, so with everyone's position in the theater set and Krenko hitting the gavel as the Airstream is sold to Varis as the Highest bidder for 41K. Cranko throws open his arms and says, all right, so we have the next item on auction for today. The shreds of the first Guildpact. And a goblin on stage, stage left, begins to wheel out a little cart and a little see through box with the tattered remains of a tome. And Krenko goes on. With this precious foam, these shreds of paper you could forge quite a mighty spell book with. Or like, I guess you could like, you know, reform, help reforge the guild back or something like that. If that's sort of the kind of thing that's important to you. So the starting bid for these, this old pieces of paper, which I might add, are thousands of years old. Value. Value right here. I'm starting the bid at 10k. I hear 10k here, three 10ks there. I hear 30k. 30k from the max mast.
-Orphea
+[[ORPHIE]]:
 Somebody get your hands on him right now.
 Ogre
 None of you can reach me.
 Sanis
 We have to get it.
-Orphea
+[[ORPHIE]]:
 No, we don't.
 Rin
 Yes, we do. Don't we need that to create the new Guildpact?
-Orphea
+[[ORPHIE]]:
 We don't have three. We don't have 30k.
 Rin
 Yeah, we did.
@@ -40,17 +40,17 @@ Varis
 I don't think that was in the plans.
 Rin
 Was this in the plan?
-Orphea
+[[ORPHIE]]:
 I thought we were just gonna fight. We were gonna play a B.
 [[DM]]
 You guys see the two black dressed people in one of the box seats on the right side of the theater? One of them stands up and holds up a sign with 31k.
-Orphea
+[[ORPHIE]]:
 Is anybody else bidding at this point? Point.
 Ogre
 Three more.
 [[DM]]
 I hear 34k.
-Orphea
+[[ORPHIE]]:
 Hey, you can't make us bid against ourselves. That's against general auction rules. Sir.
 [[DM]]
 I hear 34k over here. From the halfling on the chandelier.
@@ -64,13 +64,13 @@ Rin
 Yes, we do want this. What are you talking about?
 Varis
 I can't.
-Orphea
+[[ORPHIE]]:
 Okay, okay. Is that what we're doing though? Like, because the last thing I remember was, oh, we're not gonna do this. So plan B is fight. I thought we were gonna fight for the Immortal Sun. Yeah, but we need the chandelier. Okay, keep bidding. We're gonna Be in debt forever.
 Varis
 I mean, here's the thing. Whoever wins this, we could just steal it from them during the. The commotion.
 Ogre
 So yeah, we can also just not pay for it.
-Orphea
+[[ORPHIE]]:
 Corey says plan A should have been to fight and plan B should have been to fight dirty.
 Sanis
 I don't disagree with him. Yeah, I, I don't disagree with him at all.
@@ -80,7 +80,7 @@ Rin
 Fight dirty and then just fight.
 Ogre
 Start fighting dirty. Why are you waiting to get hurt?
-Orphea
+[[ORPHIE]]:
 And then later you could just. You start fighting dirty and then you can come down to fighting later.
 Ogre
 Having a plan B is planning to fail.
@@ -90,11 +90,11 @@ Ogre
 And I'm gonna keep raising my paddle.
 Sanis
 Which ones? Because you have so many.
-Orphea
+[[ORPHIE]]:
 Ogre stolen paddles from other people's bidding with other people's money. That would be the best.
 Ogre
 You just see a train of mage hands bringing them up to me.
-Orphea
+[[ORPHIE]]:
 Oh, no.
 [[DM]]
 Ogre, can you give me a perception check as your 10 taking some of the paddles from the crowd and. And raising your paddle to increase the bid?
@@ -110,7 +110,7 @@ Ogre
 Well, I guess to go back to just trying to get this paper for Rin.
 [[DM]]
 All right, the.
-Orphea
+[[ORPHIE]]:
 My brain's gonna take a level in rogue and go find this guy.
 [[DM]]
 One of the black dressed individuals raises another paddle and says, 36.
@@ -190,15 +190,15 @@ Oh, okay. I don't like this. That is a net one. Oh.
 That. That is rough. Okay, so. But first. Okay, you know what? Also give me a perception check for sound.
 Rin
 Oh, my girls are so bad.
-Orphea
+[[ORPHIE]]:
 Can I help her out with any of these somehow?
 [[DM]]
 Oh, Rachel.
-Orphea
+[[ORPHIE]]:
 Is she dead?
 [[DM]]
 Oh, no.
-Orphea
+[[ORPHIE]]:
 Are you liking therapy now? Cheat.
 Rin
 Hey, he brought it into the campaign. He had to expect someone was gonna roll shitty for is it is only.
@@ -216,7 +216,7 @@ Varis
 You.
 [[DM]]
 Okay. So don't kill her.
-Orphea
+[[ORPHIE]]:
 [[DM]], you can make this work.
 [[DM]]
 A 12 insight and a NAT one on your constitution save. Here's what happens. You Rin look at the two black dressed individuals sitting up in their box seats and clock them as being suspicious. Why are they bidding on the, you know, tattered remains of the Guild pack? Why are they here? They're sus. You stand up, you begin to walk over to where they are so that you can cast hold person on them to stop them so that you and Ogre can finish bidding on the remains of the Guildpact. It's essential for you guys to put it back together to save Ravnica Castle person. It fails. The two black dressed, I'll say now ladies stand up and they immediately clock you. And one of them, you see, wearing black masks, you look directly at one of them and one of their. One and the one, their hair begins to move. And you see in the strands of hair are snake like figures and yeah, thank you, Gorgon.
@@ -224,17 +224,17 @@ Rin
 I was like, what the fuck are they called?
 [[DM]]
 And clock you and look directly into you and you feel Rin yourself slowly begin to turn to stone.
-Orphea
+[[ORPHIE]]:
 Okay.
 Rin
 Literally. Now there's the step. Hold on. Question was I, did I fully make it out into the middle of the aisle or am I still like in front of people with the.
 [[DM]]
 Yeah, you're still in front of people with a NAT one you like. All they see is you walking up, throw a hand, and then begin to freeze up. And you actually with the NAT one fall over into their laps. So you're currently prone on top of.
-Orphea
+[[ORPHIE]]:
 Some Santa and I would see this happen.
 Rin
 Oh, a hundred percent, yes. Rick may be short, but she ain't that short. Oh my God, this is so funny.
-Orphea
+[[ORPHIE]]:
 Santa and I would see this happen, right?
 [[DM]]
 And, and you see that one of the auction goers go, my word, this, this is absurd. And you see them like just start to carry you and are about to like toss you out on into the space in front of them.
@@ -244,7 +244,7 @@ Rin
 True.
 Sanis
 If you're petrified. And that's just legacy definition.
-Orphea
+[[ORPHIE]]:
 Santa and I can see this happen though, right?
 [[DM]]
 Yeah, you all see this happen. I'd say Ogre, give me a perception check. See, see if you're, you can see it through being distracted here.
@@ -252,21 +252,21 @@ Ogre
 A 13.
 [[DM]]
 13. I, I say that the, the numbers go up, numbers are Going up right now.
-Orphea
+[[ORPHIE]]:
 Number go up.
 [[DM]]
 Numbers are going up. But, Rin, you're currently restrained.
 Rin
 Yep. Makes sense.
-Orphea
+[[ORPHIE]]:
 Orpheus, immediate heart drops. That's. You know, this is bad. And then she's gonna give a brief look to say this, like, you saw that, right? Because we have to go right now.
 Sanis
 Yeah. I just nod, and I'm just like, okay, I know.
-Orphea
+[[ORPHIE]]:
 And then she's off. It's rage and running.
 Varis
 Could we tell, like, who did that to her?
-Orphea
+[[ORPHIE]]:
 Yeah, they're staying.
 [[DM]]
 Oh, yeah.
@@ -274,12 +274,12 @@ Varis
 You.
 [[DM]]
 You saw this entire thing unfold. Rin running over, trying to cast a spell. It fizzling, and then going sideways into the. Into the seats.
-Orphea
+[[ORPHIE]]:
 Oh, wait, did I go back to the back with Santa's, or am I still over there near Rin?
 [[DM]]
 I think you're on the left side. You're on the left side of the theater. Varis, you're still sitting down, like, so you're the closest one to Rin right now.
-Orphea
-For Orphea, it's rage and running. We're done.
+[[ORPHIE]]:
+For [[ORPHIE]]:, it's rage and running. We're done.
 Sanis
 Like, it's.
 [[DM]]
@@ -308,41 +308,41 @@ Sanis
 I think it's too big. I think Fireball is too big for that, right? No, 40.
 Varis
 Well, total, like, diameter.
-Orphea
+[[ORPHIE]]:
 How far up is it to the box?
 [[DM]]
 It's, like, 30ft.
-Orphea
+[[ORPHIE]]:
 How do you calculate jump?
 Varis
 You need a running start. Yeah.
 Ogre
 And you're gonna be disappointed when you learn the numbers.
-Orphea
+[[ORPHIE]]:
 I know.
 Sanis
 Yeah.
 Varis
 Like. Like a high jump is. What you're trying to do is, like, real. It's like. It's like three feet plus your modifier. I think it's awful.
-Orphea
+[[ORPHIE]]:
 Yeah, well, I mean, it's accurate. Okay. I can jump seven feet into there, so.
 Varis
 Yeah. Varis. Will.
-Orphea
+[[ORPHIE]]:
 Can Varis help me get up there?
 Varis
 I could teleport you, but I'd probably want to fireball them first.
 Rin
 I don't think.
-Orphea
+[[ORPHIE]]:
 Fireball, like. And is it too big for this, like Santa said?
 Varis
 No, he. [[DM]] just said. I have. There's, like, 30ft between is there anybody.
-Orphea
+[[ORPHIE]]:
 Else up there other than these ladies?
 [[DM]]
 It's just the two ladies in that box seat.
-Orphea
+[[ORPHIE]]:
 Just fuck them up and then transport me up there.
 Rin
 Be honest, I didn't like this establishment anyway. I'm kind of here for it. Just burning to the ground.
@@ -359,10 +359,10 @@ Varis
 [[DM]]
 Okay. They do both save. If you want to roll me the damage, please.
 Varis
-So I rolled 22. So do we have to. 11. And then if we're not, like, following, you know, action economy. Right now, I would love to teleport Orphea up into their box as well.
+So I rolled 22. So do we have to. 11. And then if we're not, like, following, you know, action economy. Right now, I would love to teleport [[ORPHIE]]: up into their box as well.
 [[DM]]
 Okay.
-Orphea
+[[ORPHIE]]:
 Narrative flavor. Or if he's gonna jump up, like, there's probably, like, a. I'm. There's, like, an empty seat there. So maybe she's gonna jump up on, like, the back of it and realize that Varys is that they've passed their. Their saves, and so Orphe's gonna see that they've passed their saves, jump up on the seat, and go, get me up there.
 [[DM]]
 All right, Vars, give me a perception check.
@@ -374,115 +374,115 @@ Varis
 Okay.
 [[DM]]
 So Orphie, you teleport right next to the two people dressed in black, and actually, as the fireball hits them, and. Or if you teleport and you're face to face with the. The one with the Gorgon hair, you see that the fireball has actually burnt the mask off. And you see clearly who it is. It's Frasca. Oh, she's the current Guild Leader of the Golgari.
-Orphea
+[[ORPHIE]]:
 Yes. Do we like them?
 [[DM]]
 And also the one that killed Jace. No.
-Orphea
+[[ORPHIE]]:
 Oh, okay. Oh, it's hard. How do I protect myself from a Gorgon?
 Rin
 You have to blind yourself.
-Orphea
+[[ORPHIE]]:
 I would have known that she had done that to you, so it would have been. But I can't. Oh, God.
 [[DM]]
 You can close your eyes.
-Orphea
+[[ORPHIE]]:
 I mean, yeah, I guess.
 [[DM]]
 Reckless attack.
 Ogre
 You still get your regular attack.
-Orphea
+[[ORPHIE]]:
 Oh, yeah.
 Ogre
 And the reckless part doesn't matter for them, because you'd already. They already have it for you being blind, so there's no penalty.
-Orphea
+[[ORPHIE]]:
 Okay.
 [[DM]]
-Orphea, are you. You gonna just start swinging?
+[[ORPHIE]]:, are you. You gonna just start swinging?
 Rin
 Yeah.
 [[DM]]
 All right, before you make your rolls, I'm just gonna describe the scene here. Okay. Okay. So don't I.
-Orphea
+[[ORPHIE]]:
 My Eyes are closed.
 [[DM]]
 Well played.
-Orphea
+[[ORPHIE]]:
 All I know is what I saw from the ground.
 Sanis
 What you smell and what you hear is.
 [[DM]]
-Ogre on the chandelier with that halfling girl just holding up numbers. Bigger and bigger numbers. Oh, sometimes even they're lower numbers because Ogre doesn't exactly know how to count, but the numbers just keep going up for the bid. Rin, in an effort to try and stop the suspicious two ladies in black stands up, walks across the aisle, tries to hold person. The two of them fails and gets hit with petrification from one of them, who is revealed to be not only a Gorgon, but Vraska, the Golgari guild leader, and promptly falls over, prone, restrained, over the laps of the auction goers, not skipping a beat. Orphea and Varis stand up. Varis throwing a fireball, Orie raging. And then Varis teleporting her over to the box seat in front, face to face with Vraska.
-Orphea
+Ogre on the chandelier with that halfling girl just holding up numbers. Bigger and bigger numbers. Oh, sometimes even they're lower numbers because Ogre doesn't exactly know how to count, but the numbers just keep going up for the bid. Rin, in an effort to try and stop the suspicious two ladies in black stands up, walks across the aisle, tries to hold person. The two of them fails and gets hit with petrification from one of them, who is revealed to be not only a Gorgon, but Vraska, the Golgari guild leader, and promptly falls over, prone, restrained, over the laps of the auction goers, not skipping a beat. [[ORPHIE]]: and Varis stand up. Varis throwing a fireball, Orie raging. And then Varis teleporting her over to the box seat in front, face to face with Vraska.
+[[ORPHIE]]:
 And when we started this game. Yes, interesting.
 [[DM]]
-And you hear from the stage, Krenko going, oh, what a show. And you see that the. From the fireball, the tapestry behind the box seat that Orphea just teleported to begins to lick with flames. And you guys actually hear a loud boom behind the stage. And Krika goes, what was that? Guards. Guards. And you. You begin to see the doors to the amphitheater open up, and some guards begin to pour in. Some of the goblin guards that are next to him, you see, run backstage as there's now shouting, fire in the box seat. Allowed explosion behind the stage, Rin slumped over, restrained, half petrified, in the middle of the amphitheater. Orphea about to take a couple of swings at the at Vraska now. And the auction goers now all standing up and start to flee the the amphitheater, running for their lives. What are you doing? Again.
+And you hear from the stage, Krenko going, oh, what a show. And you see that the. From the fireball, the tapestry behind the box seat that [[ORPHIE]]: just teleported to begins to lick with flames. And you guys actually hear a loud boom behind the stage. And Krika goes, what was that? Guards. Guards. And you. You begin to see the doors to the amphitheater open up, and some guards begin to pour in. Some of the goblin guards that are next to him, you see, run backstage as there's now shouting, fire in the box seat. Allowed explosion behind the stage, Rin slumped over, restrained, half petrified, in the middle of the amphitheater. [[ORPHIE]]: about to take a couple of swings at the at Vraska now. And the auction goers now all standing up and start to flee the the amphitheater, running for their lives. What are you doing? Again.
 Sanis
 As all this is happening, I'm trying to get the best angle on Rosca. And like, I'm. I'm knocking an arrow in my bow at the same time. And then I hold my action because I see Orphe on her way up there.
-Orphea
+[[ORPHIE]]:
 If you hit her, I'd be able to hear it.
 Sanis
 Oh, true. Oh. Do you trust my roles to be that good?
-Orphea
+[[ORPHIE]]:
 I don't think you're gonna hurt me bad enough for it to stop me from doing so. But if. If there's a chance that you can help me, help notify me of where she is with my eyes closed.
 Sanis
 Oh.
-Orphea
+[[ORPHIE]]:
 Maybe so.
 [[DM]]
 You're just. I know I need to take Some pot shots here.
-Orphea
+[[ORPHIE]]:
 I'm right face to face with her.
 Rin
 Wait.
-Orphea
+[[ORPHIE]]:
 Okay, until she starts to move.
 Rin
 And.
-Orphea
+[[ORPHIE]]:
 Then, okay, me updated on where she is, however you need to do that.
 [[DM]]
 Okay. So. So Santa's. You're just waiting to take a call. Couple of good pot shots here. Is that.
 Sanis
-Yes. So as soon as there's any, like, space or, like, she's just the, like, bigger target. When she's, like, fighting with Orphea, that's when I want to try to take a shot.
+Yes. So as soon as there's any, like, space or, like, she's just the, like, bigger target. When she's, like, fighting with [[ORPHIE]]:, that's when I want to try to take a shot.
 [[DM]]
 Okay. All right, can everyone open up roll 20 for me and also roll Initiative.
 Rin
 Wow.
-Orphea
+[[ORPHIE]]:
 It's been a hot second since we did roll 20.
 Ogre
 But before rolling Initiative, I'm going to push off the little girl that's up here and Mage hand her down safely. We don't have to worry about a child being in the vicinity during this.
-Orphea
+[[ORPHIE]]:
 Who brings a kid to an auction in anyway?
 Rin
 Yeah, parents who couldn't find a babysitter. That's who.
-Orphea
+[[ORPHIE]]:
 That's. That's absolutely fair. Yep.
 Sanis
 Must be a single parent.
-Orphea
+[[ORPHIE]]:
 Yeah, or the babysitter got sick, you know, at the last minute. I guess we just have to bring her with us. It can't be that bad. It's just an auction, right? Yeah.
 Ogre
 They let her stay up there.
 Rin
 They.
-Orphea
+[[ORPHIE]]:
 I'm having their whole conversation in my head right now. Oh, bam.
 [[DM]]
 Okay.
-Orphea
+[[ORPHIE]]:
 Yeah, but, you know, like, the Breakfast Club might be there, and they up all the time. Like, people get hurt. They do up.
 Rin
 But there's.
 Sanis
 And save the day.
-Orphea
+[[ORPHIE]]:
 They really save the day, you know, sometimes a little collateral damage is necessary. I heard they fought a God the other day. One of them shot an arrow at a God.
 Rin
 Just on the bottom.
-Orphea
+[[ORPHIE]]:
 Oh, I fully forgot to roll Initiative. I was just pulling up roll 20, and they just did nothing. Why is it every time I log into roll 20, they're like, hey, can we tell you how to use this tool you've been using for years like you've never seen it before?
 Ogre
 I hadn't scrolled high enough. I was like, wait, where am I? Where's the chandelier in this place? There's actually a chandelier up there.
@@ -490,11 +490,11 @@ I hadn't scrolled high enough. I was like, wait, where am I? Where's the chandel
 Perfect. All right, let's see. What did everyone roll?
 Rin
 Oh, I haven't rolled mine yet.
-Orphea
+[[ORPHIE]]:
 Me neither. Hold on. Rolling now.
 Sanis
 I put mine in the initiative tracker already.
-Orphea
+[[ORPHIE]]:
 3020.
 Varis
 See?
@@ -504,7 +504,7 @@ Varis
 I see [[DM]] has prepared my extra tokens just in case I wanted to pop off.
 Rin
 Just in case.
-Orphea
+[[ORPHIE]]:
 Yeah, I was wondering where Isaiah was. What the are you was Mr. Useless doing right now?
 Rin
 If you by chance can cleanse petrification. That'd be great.
@@ -518,7 +518,7 @@ Rin
 Red might be dying this game. Let's go.
 [[DM]]
 Yeah.
-Orphea
+[[ORPHIE]]:
 Turn the zone doesn't kill you. We can reverse it.
 Rin
 Can you.
@@ -530,7 +530,7 @@ Varis
 Well, I think she just. She can't take actions and stuff.
 [[DM]]
 So. I mean right now you're restrained. So like you can't move, I believe. But that. That's it.
-Orphea
+[[ORPHIE]]:
 I do.
 Varis
 I think it's more than that.
@@ -550,7 +550,7 @@ Rin
 I think it only has a specific list though, right?
 Varis
 No, it uses your class's spell list. Oh, so like since you hand wave the attunement, anyone can use it. But I. Because we never talk about this before.
-Orphea
+[[ORPHIE]]:
 Yes. Break the game. Vince.
 Varis
 Would you allow that?
@@ -624,7 +624,7 @@ Rin
 Power friendship.
 Varis
 I mean, hey, we could probably build an attachment for like a. Like a second glove or something. Like it's a sidecar.
-Orphea
+[[ORPHIE]]:
 I feel like. I feel like [[DM]] is not gonna let that happen. I think one broken moment is gonna ruin this for the rest of it. But we need it now, and that's fine.
 Ogre
 The dick move with that is multiclassing into Druid to get to a Stars Druid. And then you can never fail your checks.
@@ -632,11 +632,11 @@ Varis
 Yeah.
 [[DM]]
 DND beyond is not cooperating right now. I don't know what's going on.
-Orphea
+[[ORPHIE]]:
 Sounds like D and D Beyond. Yep.
 [[DM]]
 It's being extremely slow right now.
-Orphea
+[[ORPHIE]]:
 Let me try something and see. I mean, like, I'm gonna. No, I'm not gonna roll anything. I'm just gonna reload the page, see if it's slow for me too.
 Ogre
 I don't actually remember. Greater Resto is the only way to get rid of petrification other than stage right.
@@ -650,7 +650,7 @@ Ogre
 I was shocked to hear it. Wasn't prepared. It seems like one would know what to prepare.
 Rin
 Man.
-Orphea
+[[ORPHIE]]:
 Like, we go through a lot of different. You guys.
 Rin
 Yeah. It's like there's only so much and like I want to be able. Like I have banishment prepared because you never know. But I don't know what to use on.
@@ -668,7 +668,7 @@ Varis
 50.
 [[DM]]
 Okay, well, that. That being said, this is gonna be. You are going before Virus. But how, you know, we've been playing it is that since you guys are all sharing initiative, I will allow all of you guys to discuss and like, take actions however you may. Please. All right, so what. What that means is that Varis, you could act first if. If. If you want to give Rin the apparatus and use your turn for that. But first off is Rosca.
-Orphea
+[[ORPHIE]]:
 What did she roll?
 Rin
 22.
@@ -677,8 +677,8 @@ You are raging though, right now, right? Okay, cool. All right, so with your eye
 Sanis
 You.
 [[DM]]
-Rosca. It's Vraska's turn. As the auction house is burning, Krenko is freaking out. Guards are running to behind the stage, to the back rooms. Guards are flooding in. You guys see Kalamar running into the auction house from outside, and it's. It's chaos in here right now. And just. It was chaos before with lots of shouting and numbers and the bidding going on, Isaiah getting beaten up. But now the amphitheater is partially on fire. Rin restrained, starting to turn to stone in the middle of the. The room, and all the auction goers are fleeing the area. Vraska is going to take her turn and she is going to just look at you Orphea, not even say anything, and just start slashing. You see that? She takes a dagger out. And. What, doesn't 18 hit you?
-Orphea
+Rosca. It's Vraska's turn. As the auction house is burning, Krenko is freaking out. Guards are running to behind the stage, to the back rooms. Guards are flooding in. You guys see Kalamar running into the auction house from outside, and it's. It's chaos in here right now. And just. It was chaos before with lots of shouting and numbers and the bidding going on, Isaiah getting beaten up. But now the amphitheater is partially on fire. Rin restrained, starting to turn to stone in the middle of the. The room, and all the auction goers are fleeing the area. Vraska is going to take her turn and she is going to just look at you [[ORPHIE]]:, not even say anything, and just start slashing. You see that? She takes a dagger out. And. What, doesn't 18 hit you?
+[[ORPHIE]]:
 Yes.
 [[DM]]
 Okay.
@@ -686,55 +686,55 @@ Varis
 Okay.
 [[DM]]
 Dude, where's my phone?
-Orphea
+[[ORPHIE]]:
 Dude, where's my car?
 Rin
 What?
-Orphea
+[[ORPHIE]]:
 He said, dude, where's my phone? And I said, dude, where's my car?
 [[DM]]
 Six times.
 Rin
 I feel like that's supposed to be a reference I'm supposed to get, but I do not.
-Orphea
+[[ORPHIE]]:
 There's a movie called dude, where's My Car? That came out in the early 2000s with Ashton Kutcher and that other guy from American Pie. That is the guy who plays. Yes, yes. And it's a really bad movie, but.
 Ogre
 How dare you?
-Orphea
+[[ORPHIE]]:
 But it was iconic.
 Varis
 No, but it was a bad movie, though.
-Orphea
+[[ORPHIE]]:
 But it was a bad movie.
 Varis
 It was. It was a good bet so far.
 [[DM]]
 All right. Or if you get hit three times, as you see, Vraska quickly takes two daggers out from her sides, she throws her her dress out wide, takes two daggers, licks both of them, and then stabs you three times for a total of. That's. That's true. You don't see any of that.
-Orphea
+[[ORPHIE]]:
 I don't see any of that.
 [[DM]]
 27 points of slashing damage. And 19 points of poison damage.
-Orphea
+[[ORPHIE]]:
 I'm sorry, say those numbers again.
 [[DM]]
 27 points of slashing damage.
-Orphea
+[[ORPHIE]]:
 Okay.
 [[DM]]
 And 19 points of poison damage.
-Orphea
+[[ORPHIE]]:
 Okay. How do I want to do this?
 [[DM]]
 Yeah, it is your turn.
-Orphea
+[[ORPHIE]]:
 Yeah, it is your turn.
 Rin
 I know.
-Orphea
+[[ORPHIE]]:
 Well, I'm assuming she didn't have anything else she needed to do.
 [[DM]]
 Nope.
-Orphea
+[[ORPHIE]]:
 If she stabs me with a dagger, What are the chances I could grab onto her arm while the knife is still in me to keep her close and then hit her with Blazebringer?
 [[DM]]
 Do you. I mean, I would consider that grappling. So she wouldn't be able to move. Right. If you want to like, try and grab her.
@@ -742,55 +742,55 @@ Ogre
 You also wouldn't be able to use Blazebringer while grappling because it's two handed. Although I'm trying to picture it and it looks funny. Like really choked up on it.
 [[DM]]
 Like. Yeah, you wouldn't. You wouldn't be able to get too much leverage.
-Orphea
+[[ORPHIE]]:
 I wouldn't be able to use it. What if I grabbed the sword by the blade?
 [[DM]]
 Okay.
-Orphea
+[[ORPHIE]]:
 Like, so it's a two handed weapon, so like holding it by the hilt would be problematic. But if I'm willing to do damage to myself and grab Blazebringer by the blade in a manageable spot, could I then also stab her with it?
 [[DM]]
 Okay. I'd say since you're. It's a lot since you're blinding yourself, like you're closing your eyes, right?
-Orphea
+[[ORPHIE]]:
 Oh, yeah.
 Ogre
 It sounds like you're arguing for more ways to get disadvantaged.
 [[DM]]
 So you're already at disadvantage right now.
-Orphea
+[[ORPHIE]]:
 Scrap it. Scrap it. Scrap it. Scrap it. I Bonus action. Activate tattoo.
 Ogre
 Okay.
-Orphea
+[[ORPHIE]]:
 And then I attack.
 [[DM]]
 Okay.
-Orphea
+[[ORPHIE]]:
 Recklessly.
 [[DM]]
 Okay. So it's just going to be normal.
-Orphea
+[[ORPHIE]]:
 Yes. I'm so glad you said that because I was actively checking the advantage thing at the moment.
 [[DM]]
 All right, so roll to hit. Frasca.
-Orphea
+[[ORPHIE]]:
 22.
 Rin
 That.
 [[DM]]
 Why do you keep doing this to me?
-Orphea
+[[ORPHIE]]:
 D Beyond is trying to keep the suspension. Yep.
 [[DM]]
 Yeah, that's hip. That's it.
-Orphea
+[[ORPHIE]]:
 Beautiful. Of course, it's the lowest you could get. It's nine plus. I should move this thing into my equipment and not just. I mean, this is on my body, so I don't know why it's there, but let's move it to equipment so it's easier to find. I forgot I had that armor. There it is. So plus six. Does that include everything? Is this my special Blazebringer with all the stuff? Yes, I think it is. Okay. Because it's 1d12 8 plus 1d4 plus 3 plus 1.
 Sanis
 Okay.
-Orphea
+[[ORPHIE]]:
 All right, so that was one hit, and then we'll do it again. And it's nat 1 for an 11.
 [[DM]]
 Nope. No, not a hit.
-Orphea
+[[ORPHIE]]:
 This. This turn.
 [[DM]]
 Okay, Orie, eyes closed. You swing out, manage to get one hit on Vraska. And then it's not so much that like. Like, you swing. You kind of sense where Vraska is, but Frasca is just a little bit. A little bit too fast, and she just spins out of the way, out of your second swing. And then Sanis, that's you.
@@ -830,11 +830,11 @@ That was a nat one on my.
 First roll to hit because of all that going on. Give it to me with advantage so.
 Sanis
 You can roll again.
-Orphea
+[[ORPHIE]]:
 I'm gonna tell you something. If. Are we assuming I could get out of the way, or does he have.
 Varis
 Oh, yeah, yeah.
-Orphea
+[[ORPHIE]]:
 Okay. I was gonna say if you. If that arrow has to go through me to get to her. Then that's fine.
 Sanis
 Does a 17 hit?
@@ -866,7 +866,7 @@ Sanis
 And that is my turn as you.
 [[DM]]
 You miss with the first shot, but you shoot again. And the second one finds its mark and hits Vraska through the chest as Orpheus just kind of like ducks out of the way. Just hearing the arrow whizzing by, you hear a voice. Santa, that is not zaddy. Daddy's go. Yes. Fulfill it.
-Orphea
+[[ORPHIE]]:
 Huh?
 Sanis
 How many people do I recognize the voice. Okay, so I've got. Did your point?
@@ -876,11 +876,11 @@ I think I know who this is. And I ain't saying nothing.
 Give me. Give me insight. Check.
 Sanis
 Why are you doing this to me? Not one.
-Orphea
+[[ORPHIE]]:
 God damn it. Today I'm changing my dice.
 [[DM]]
 Weird Santa's. Because you could have sworn that you killed your dad. What is going on?
-Orphea
+[[ORPHIE]]:
 Is it my dad?
 Rin
 Dad? Are you my dad?
@@ -892,7 +892,7 @@ Rin
 So much going on right now.
 Ogre
 I know. Because I want to join that fight on the right. Even it out by casting darkness.
-Orphea
+[[ORPHIE]]:
 But paper for Rin.
 Ogre
 Yeah. And I can just. I can jump on this immortal sun. Can I? Where to me is. Sorry, I accidentally did a Nazi thing. That's all right, what level immediately is it compared to me?
@@ -902,11 +902,11 @@ Ogre
 All right, Can I. Can I jump down to the moral song then?
 [[DM]]
 Yeah, yeah, you can jump on top of it. It's currently in a cage.
-Orphea
+[[ORPHIE]]:
 Whenever I imagine this is a TV show, and whenever the camera pans to Ogre, I'm gonna swing from the chandeliers playing in the background. Every. Every but for Ogre. It's the chandelier.
 Rin
 I just want to know how we afforded to get the rights for that.
-Orphea
+[[ORPHIE]]:
 It's a hit show.
 Varis
 Can.
@@ -926,7 +926,7 @@ And.
 Give me a dexterity saving throw, please.
 Rin
 That was beautiful.
-Orphea
+[[ORPHIE]]:
 Eight amazing.
 [[DM]]
 You take 16 points of lightning damage, as when you try to reach into the. The cage, you see that there is actually a magical grid on the cage, and it shocks you as you try and reach in.
@@ -936,7 +936,7 @@ Oh, okay. The mage hand.
 Okay, okay. You, you, you mage hand, what are you trying to do with it?
 Ogre
 Touch it.
-Orphea
+[[ORPHIE]]:
 I just want to touch it.
 Ogre
 I'm put. My mag hand's gonna go in. What does it feel like? I wanna.
@@ -954,7 +954,7 @@ I think it shot rays at us. I don't think we were close enough to touch it.
 Yeah, I don't think.
 Ogre
 I think I wanted to.
-Orphea
+[[ORPHIE]]:
 Of course you wanted to. I'll tell you right now. I don't need to be back there to know or have my notes recorded. You absolutely wanted to.
 [[DM]]
 Did we touch it or did it.
@@ -964,7 +964,7 @@ Shoot beams at us?
 Yeah, I don't think. I don't think you guys touched it. No, I don't think you guys ever got a chance to touch it. It was like, kind of powering or like in stasis in the core of Ixalan. Like up in the the sky, levitating. And then it was stolen by Tezzaret, so. Yeah, but I don't think that you guys ever.
 Rin
 It was what bestowed the powers, like our plus 10 that we got while we were fighting what's his face? Yes, yes, But I don't believe we touched it. I think you're right on that one. How do you spell.
-Orphea
+[[ORPHIE]]:
 Yeah.
 [[DM]]
 I X, A, L, A, N. Okay, but. Okay, so with a 15 arcana and your ability to feel whatever your mage hand is feeling, you reach out with it, and you touch this item. Powerful item. And ogre, you feel the same warmth that you did before. Before on Ixalan, when you guys were first imbued with the power. But then your mage hand fizzles under the energy and the power that the immortal sun has, so your mage hand disintegrates.
@@ -990,17 +990,17 @@ Ogre
 Oh, this?
 [[DM]]
 And you drop it. And Krenko looks up and he goes, what? And it clocks him square on the forehead, and he goes prone on the ground.
-Orphea
+[[ORPHIE]]:
 Wait, who.
 [[DM]]
 He takes 10 points of bludgeoning damage.
 Rin
 Cranko.
-Orphea
+[[ORPHIE]]:
 Okay, good. Beautiful.
 Rin
 Yeah.
-Orphea
+[[ORPHIE]]:
 Okay, where the. Is Isaiah?
 Ogre
 I did something good this round. Don't worry, I'm gonna get us all that plus 10 again.
@@ -1040,29 +1040,29 @@ Hell yeah.
 Okay.
 Rin
 I need as much help as I can get today.
-Orphea
+[[ORPHIE]]:
 Desperate times.
 Rin
 Yes.
-Orphea
+[[ORPHIE]]:
 This is all way better than me grabbing my own sword by the hilt to stab somebody.
 Rin
 I mean, by the.
-Orphea
+[[ORPHIE]]:
 By the blade to stab somebody.
 Rin
 Varis, you. You like at like you. He definitely hear, like, Rin, like, whisper in. God damn it, Dolarra. Please help me now. Nat 20.
-Orphea
+[[ORPHIE]]:
 Yes.
 Varis
 Oh, didn't even need the bonuses.
 Rin
 I also rolled a pl. I also rolled a 4 on the. On the whatchamacallit.
-Orphea
+[[ORPHIE]]:
 Guidance.
 Rin
 The guidance. I literally got a 34.
-Orphea
+[[ORPHIE]]:
 Oh, thanks.
 [[DM]]
 I assume you're casting greater restoration on yourself, Correct?
@@ -1090,17 +1090,17 @@ Rin
 Okay. And guidance. Do I still have my bonus action?
 [[DM]]
 Yeah, I'd say you don't have movement, but you still have your bonus action.
-Orphea
+[[ORPHIE]]:
 Sweet.
 Rin
 In all of that, like, awesome light, her.
 [[DM]]
 Actually, you see in front of the halfling child, both of her parents just like, passed out.
-Orphea
+[[ORPHIE]]:
 Okay.
 Rin
 So we have determined it was.
-Orphea
+[[ORPHIE]]:
 She's actually not responsible parenting.
 Rin
 She does not have responsible parents. Okay. So, yeah, Rin is going to sprout wings and be done for the turn.
@@ -1120,7 +1120,7 @@ Varis
 Because after seeing Rin is now like, fine. She's healing. She's gonna be like, oh, thank. Thank God. And then he's just gonna look up back at the. Back at Vrasa. And then just breathe out five scorching rays as he does that at fourth level.
 [[DM]]
 All right, roll me those hits, please. Oh, what?
-Orphea
+[[ORPHIE]]:
 Okay, does everybody know that Veros is the one who killed Jace?
 [[DM]]
 Oh, yeah.
@@ -1134,7 +1134,7 @@ Rin
 Yeah, yeah.
 [[DM]]
 So that's.
-Orphea
+[[ORPHIE]]:
 Oh my God.
 Varis
 15. No, 19 points of fire damage.
@@ -1166,11 +1166,11 @@ All right, I. I'm actually gonna use another point for. Where is it? Seeking spe
 Okay.
 Varis
 All right.
-Orphea
+[[ORPHIE]]:
 How many sorcery points?
 Varis
 Okay, I have like seven more.
-Orphea
+[[ORPHIE]]:
 Oh, damn.
 Varis
 So re rolling that one. That was a 20.
@@ -1178,7 +1178,7 @@ So re rolling that one. That was a 20.
 [[DM]]t.
 Varis
 Crit damage.
-Orphea
+[[ORPHIE]]:
 Well, I'm glad some people today.
 Varis
 Nice. Another 14 points of fire. And then my fifth last ray is. Ignore that second roll. I don't know why they rolled twice. 15 to hit. So that one.
@@ -1194,15 +1194,15 @@ Varis
 But.
 [[DM]]
 Cool. Yeah. So very great turnover there. Varis, you run over, give Rin the gauntlet. Rin you greater restoration yourself and sprout wings. Varis, you then, without hesitation, throw some scorching rays at Frasca and you. They each hit her, and you see some of the gorgon hair that she has gets singed and burns off. I'm gonna go to this figure dressed in black over here. Or if you give me a perception check with disadvantage, since you're blinding your.
-Orphea
+[[ORPHIE]]:
 Disadvantage perception. It's a six.
 [[DM]]
 Ten. Six. It's two plus four plus four. No, it's. It's. You're just taking the lower. Okay, six. That's weird. I don't know why that works that way. That's weird. Okay, anyways. Okay, yeah, true.
-Orphea
+[[ORPHIE]]:
 Oh, three plus two plus four.
 [[DM]]
 Yeah.
-Orphea
+[[ORPHIE]]:
 I don't know why it says that. I. Yeah, it's just weird.
 [[DM]]
 That's fine. All right. Yeah, you. You know, eyes shut.
@@ -1226,7 +1226,7 @@ Sanis
 Okay, I'm gonna perception check with disadvantage or.
 [[DM]]
 No, no, regular because. Or if you made it a disadvantage because she was. She blinded herself.
-Orphea
+[[ORPHIE]]:
 Yeah, because my eyes are closed.
 [[DM]]
 But you. Her. Her eyes are closed, but you. You don't.
@@ -1250,7 +1250,7 @@ Ogre
 Do you want to play on the swing?
 [[DM]]
 And she goes, I would like, love to play on the swing with you, Ogre. And you see that she takes out an izzet apparatus and she shoves it into the cage. And Ogre, you hear a beep, beep.
-Orphea
+[[ORPHIE]]:
 Beep, beep, beep, beep, beep.
 [[DM]]
 And she. She goes, all right, Ogre, do you want to play a game? The game is hot potato. We gotta hop off of this cage right, right now.
@@ -1276,7 +1276,7 @@ I think, shoot that up in the stands.
 I don't do this shooting thing. I only do the smashing thing. But I think I have something for you. And. He. And he hands you a potion of haste.
 Rin
 Oh.
-Orphea
+[[ORPHIE]]:
 Can'T throw that at me. And put it in my mouth immediately for where he is.
 Sanis
 And then.
@@ -1286,19 +1286,19 @@ Rin
 And I think a free action to say y', all. I think I know what the booming is. I think our. I think Ava's having some fun in the back.
 [[DM]]
 And then you guys notably also see that Isaiah is no longer in the box seat.
-Orphea
+[[ORPHIE]]:
 I was wondering where that was.
 [[DM]]
 Yep, yep, not there. Eagle.
 Rin
 He, in fact, is actually the Bbeg.
-Orphea
+[[ORPHIE]]:
 Actually, Isaiah is the bbg. We're trying to defeat him. We just don't know it yet.
 Sanis
 Nope.
 [[DM]]
 Let's see. All right, Narset looks over at you, Ogre. She touches your shoulder and says, well, you know, maybe you need this, maybe you don't, but definitely help you get around today. And casts jump on you. And then promptly jumps off of the cage. So you, Ogre, currently have jump. She hops off onto the stage. It's Vraska's turn. And then Vraska is not even gonna say anything, Orphe. She's dead silent and just gonna continue to strike at you.
-Orphea
+[[ORPHIE]]:
 What's your AC15.
 [[DM]]
 Okay. All three hit you. And let me look at the damage here. Okay? It's gonna be that plus that plus.
@@ -1306,65 +1306,65 @@ Sanis
 That.
 [[DM]]
 This. That's gonna be a total of 34 points of slashing damage and 20 points of poison damage.
-Orphea
+[[ORPHIE]]:
 I'm so sorry.
 [[DM]]
 How's Orphie feeling?
-Orphea
+[[ORPHIE]]:
 She's getting. She's get. It's bad, but she's fine. I'm laughing because, like, I was doing the math and I was sitting. Sitting here like, oh, which tab is my. My browser is my Is Orpheus character sheet on? And I was on it at the time.
 Rin
 Nice. I do be like that sometimes.
-Orphea
+[[ORPHIE]]:
 Yeah, it do be like that sometimes. Yeah, I could definitely use some heels sometime soon. Just from anybody who's willing or able. But that being said, is that her turn?
 [[DM]]
 Yeah. You hear her mutter under her breath, barbarians.
-Orphea
+[[ORPHIE]]:
 What'd she say? What?
 [[DM]]
 Barbarians.
-Orphea
+[[ORPHIE]]:
 I know, right? That's. And you know, that's probably what Orpheus is gonna say out loud is just. I know, right?
 [[DM]]
 But it is your turn now.
-Orphea
+[[ORPHIE]]:
 Okay, that's a nat. 20 for a 30.
 [[DM]]
 What the.
 Rin
 Okay, classic.
-Orphea
+[[ORPHIE]]:
 Oh, yes. And I have great weapon master. Okay, That's 26 damage.
 [[DM]]
 Okay.
-Orphea
+[[ORPHIE]]:
 And I'm not even rolling with advantage. It's beautiful. Second one is a 16 to hit, which I know does not hit, but. Oh, wait, where's my brutal critical role?
 Ogre
 Yeah, you're moot. You're missing a D12 on that critical it, as well as the two D4 plus three and the two D6 from your tattoo.
-Orphea
+[[ORPHIE]]:
 Okay, a D12, two D4 and what?
 Ogre
 Two D6.
 Sanis
 Yeah.
-Orphea
+[[ORPHIE]]:
 That's another 22 damage plus 3 plus 3. I think that is.
 Ogre
 The fire damage is a plus 3 onto the D4s.
-Orphea
+[[ORPHIE]]:
 Oh, okay. And then so with great weapon master, I get to roll more time. It's a 13. Doesn't hit.
 [[DM]]
 All right, eyes. Eyes closed. Couple more swings. 51 damage on Vraska. Anything else, Orphe?
-Orphea
+[[ORPHIE]]:
 Oh, she said barbarians. Right? So I think Orphie will. She'll do. Do the 50 something damage first and then go barbarians. I know, right? And then that'll be her turn.
 [[DM]]
 Amazing, Sanis.
 Sanis
 All right, so let's see. Where'd that Gon person go? Back here?
-Orphea
+[[ORPHIE]]:
 I'm fighting her.
 Sanis
 The one back. The one that was back here.
-Orphea
+[[ORPHIE]]:
 Oh, were they both Gorgons?
 [[DM]]
 Wait, what?
@@ -1396,11 +1396,11 @@ Sanis
 And I just yell. Or if you to your right.
 [[DM]]
 Yep. And then. Or if you kind of duck out of the way as two more arrows find themselves lodged in Vraska's chest.
-Orphea
+[[ORPHIE]]:
 And how much this looks. This probably looks like a dance. You don't really realized. I mean, like, it's probably obvious what's going on, but, like, if somebody who didn't know what was happening just walked in, like, I'm wondering how much this looks like me and Rasa dancing.
 [[DM]]
 I mean. Yeah, you guys are dressed to the nines in Ory. You're currently in a power suit, so.
-Orphea
+[[ORPHIE]]:
 Yes.
 [[DM]]
 But yet Santa's. As you make your mark on two of those hits, again, you hear whisper into your. Into your brain. Yes. Continue. Fulfill the path.
@@ -1458,7 +1458,7 @@ And then I'm going to Eldrick blast the other caster.
 Okay.
 Ogre
 They're gonna put dark.
-Orphea
+[[ORPHIE]]:
 He's gonna hear Ogre arrive because I'm sure that he's giggling and. And still eyes closed. Just, like, face to face with Braska. She's gonna be like, oh, you're in trouble now. That kid's a God.
 Ogre
 She watched me walk through some, like, impenetrable barrier, didn't she? When they were going to kill Jays, I just walked through with some, like, nat20. Hey, what's going on?
@@ -1492,13 +1492,13 @@ Ogre
 Okay, then. Yeah, I'm gonna push her 20ft and deal 10 damage. It's just two hands are just gonna.
 [[DM]]
 Grab shoulders and throw her.
-Orphea
+[[ORPHIE]]:
 I thought you were gonna push her off the balcony.
 Varis
 I think I did. Didn't.
 Sanis
 I.
-Orphea
+[[ORPHIE]]:
 Don'T know. You just didn't explicitly say that, so I wasn't sure.
 [[DM]]
 Yeah. Yeah, it makes it clear.
@@ -1507,12 +1507,12 @@ No, not Vera.
 [[DM]]
 Yeah, you're pushing. Yeah. The other person you're pushing off. Right? Yeah. All right. Give me a break.
 Ogre
-I'm not taking away your target. Orphea. You're having fun.
-Orphea
+I'm not taking away your target. [[ORPHIE]]:. You're having fun.
+[[ORPHIE]]:
 No, I wasn't talking about Vreska either. I just wasn't. I don't know, I maybe missed the part where you had said that you were pushing her out of the balcony.
 Rin
 I was just like.
-Orphea
+[[ORPHIE]]:
 I just heard you were pushing, and I was like, this is a whole ass balcony. Like, shove her off the edge.
 [[DM]]
 Yeah. Give me a perception check, Ogre.
@@ -1522,7 +1522,7 @@ Four.
 Amazing.
 Sanis
 All right.
-Orphea
+[[ORPHIE]]:
 Oh, I would like to push off the edge. I'm not going to survive another hit from Vrasa. Just so y' all know.
 Rin
 You're good.
@@ -1532,7 +1532,7 @@ Rin
 I do.
 Sanis
 Okay.
-Orphea
+[[ORPHIE]]:
 And you got wings.
 Rin
 And I got wings.
@@ -1540,7 +1540,7 @@ And I got wings.
 You guys are on the fort Sanis, Rin and Varis. You see the figure gets pushed off and take some damage from Ogre's eldritch. Blast. Blast hit the floor. Have a. You know what? I'll just give it to you guys. You guys see the figure, like, look around and then look like they're attempting to duck behind some seats.
 Rin
 Interesting. I'm going to make a note of this, but my priority currently is my poor friend, who is literally getting absolutely shredded right now.
-Orphea
+[[ORPHIE]]:
 I have no idea that you're better, by the way.
 Rin
 Yeah. No clue. So I think I'm gonna fly to about right here. I think I need to. So slightly up in the air. Yeah. 10ft. So that puts me within. Actually, hold on. We're going to move this direction. I think I should be good. I should have mapped this out before doing this, but that is fine. Good enough. Okay. Yeah. So I'm going to use healing word on her for eight. D4 plus four.
@@ -1548,19 +1548,19 @@ Yeah. No clue. So I think I'm gonna fly to about right here. I think I need to. 
 Hell yeah.
 Rin
 You know what? We're just gonna have. Damn, that was loud.
-Orphea
+[[ORPHIE]]:
 What was loud?
 Rin
 The dice. I have some, like, magma dice. Could not tell you where they came from, but they're very loud when they roll.
-Orphea
+[[ORPHIE]]:
 That was probably Vincent snuck them into your backpack or some it packs because that's what he did to me. I just found some random d sixes when I unpack my.
 Rin
 Oh, no, no, no, no, no, no. This isn't in. This is in DND beyond. Oh.
-Orphea
+[[ORPHIE]]:
 Oh, yeah. I dice just appear.
 Rin
 Yeah. So it's 26. You get 26 health back.
-Orphea
+[[ORPHIE]]:
 Hell yeah.
 Rin
 Okay, so I've used 10ft of my movements, And I'm gonna fly another 20ft. This direct towards the book.
@@ -1571,12 +1571,12 @@ And I can't cast another spell. What do I have for actions?
 Varis
 You could do a can trip.
 Rin
-Oh, yeah, I can do a can trip. Am I within 60ft? Just enough. Let's go. I'm gonna see that Orphea is attacking Vraska, and I'm going to use holy word on her, which is a roll to hit. Let me find. That is a 23.
+Oh, yeah, I can do a can trip. Am I within 60ft? Just enough. Let's go. I'm gonna see that [[ORPHIE]]: is attacking Vraska, and I'm going to use holy word on her, which is a roll to hit. Let me find. That is a 23.
 [[DM]]
 Yep.
 Rin
 And that's two D8. I knew I grabbed the D8s for a reason. I'm just gonna roll damage from here. 11 points of radiant damage on her, plus plus one, I believe. Radiant damage because I am currently in my. In my flying state, if I remember correctly.
-Orphea
+[[ORPHIE]]:
 Yes, just one.
 Ogre
 I thought it was, like, proficient bonus.
@@ -1616,7 +1616,7 @@ Sanis
 I know. That's a big.
 Varis
 Yeah, that's a big. Huge, actually, I think. Yeah.
-Orphea
+[[ORPHIE]]:
 Wings. Like, what? What?
 Varis
 So then I now have. So that would have been, I don't know, by 10ft to, like, start running out of. So I think using different versions of walking speeds is weird. So as Varis, I would have hasted I would have had 60, but now I have up to 160 flying because Dragon. So do I just simply subtract 10ft and then I would then have 150 left?
@@ -1632,17 +1632,17 @@ I'm gonna fly. Sort of about here for 55ft. Did. Has anything happened with what
 You see that? It's beeping and it's beeping. The intensity, the frequency is increasing as time passes.
 Varis
 Okay. But it's okay. So I will leave that for a second. I'm going to turn towards, like, Orphe and Vraska. I'm going to. I will ask Orfie if she needs any help with Vraska.
-Orphea
+[[ORPHIE]]:
 Yeah. I mean, yeah.
 [[DM]]
 Okay. Yeah.
 Varis
 See, I'll like, zip over here.
-Orphea
+[[ORPHIE]]:
 I want you to feel that pause too, because Orvy's like, eyes closed. Like, I mean, yeah, I can't find. Can you shave her head?
 Varis
 I'll stick my face right up to her, you know, so that way my cone doesn't hit anyone else and just blaster right in the face.
-Orphea
+[[ORPHIE]]:
 You can get Froze. You can get Gorgons, too, you know. Face to face with her. Maybe stand behind her.
 Ogre
 To be fair, we don't actually know if.
@@ -1650,7 +1650,7 @@ To be fair, we don't actually know if.
 You need to.
 Ogre
 Keep your eyes closed. Nothing just happened to Ogre. Yet.
-Orphea
+[[ORPHIE]]:
 But you're behind.
 Ogre
 I was using him.
@@ -1670,7 +1670,7 @@ Varis
 And that's my turn.
 [[DM]]
 Okay, It is this person's turn, and they duck behind some seats. Oh, yeah. And then after they duck behind the seats, you don't see them anymore, But, yeah. Okay. End of the round, couple things happen. You see that the device that Narsa put into the cage that the Immortal Sun is in explodes. And would anyone be looking at it right now?
-Orphea
+[[ORPHIE]]:
 Not me.
 Varis
 I'd be keeping an eye on it.
@@ -1682,7 +1682,7 @@ Rin
 Yep.
 [[DM]]
 Okay. Give me a constitution. Saving throw, please.
-Orphea
+[[ORPHIE]]:
 Hasn't Rin been through the window?
 Rin
 Yep. Okay, that's a 21.
@@ -1709,24 +1709,24 @@ All right.
 Rin
 Yes. That sounds like something I would say.
 [[DM]]
-Okay. It's vraska's. Turn. This is going to be the last turn before we take a break, but it's going to be a pretty crucial turn because Vraska is going to look at you, Ogre, Dragon Virus and Orphea. And she says, you hear her say, enough's enough. No more games. And you see, she raises a hand. Black energy. Black, yes, black energy begins to form in it. And Ogre, I don't. I won't make you even roll for this. You see that? This is the very same type of energy that you got when you stuck dawn now witch as the sword into that roiling black sea of energy. This is the very same Ogre, Varis and Orphea, please give me a dexterity saving throw.
+Okay. It's vraska's. Turn. This is going to be the last turn before we take a break, but it's going to be a pretty crucial turn because Vraska is going to look at you, Ogre, Dragon Virus and [[ORPHIE]]:. And she says, you hear her say, enough's enough. No more games. And you see, she raises a hand. Black energy. Black, yes, black energy begins to form in it. And Ogre, I don't. I won't make you even roll for this. You see that? This is the very same type of energy that you got when you stuck dawn now witch as the sword into that roiling black sea of energy. This is the very same Ogre, Varis and [[ORPHIE]]:, please give me a dexterity saving throw.
 Varis
 Oh, cool. Let me pull this up again.
 [[DM]]
 I forget it.
 Ogre
 That's a six, baby.
-Orphea
+[[ORPHIE]]:
 Oh, okay.
 [[DM]]
 Okay, this is gonna be. This gonna be a lot.
-Orphea
+[[ORPHIE]]:
 19.
 [[DM]]
 Oh, that saves. Oh, Orphe. Oh, oh, that's that saves.
 Varis
 So 8.
-Orphea
+[[ORPHIE]]:
 They got good decks.
 Ogre
 Plus just keep it under 100.
@@ -1738,7 +1738,7 @@ Ogre
 How easy.
 Rin
 Good thing I healed you.
-Orphea
+[[ORPHIE]]:
 That. I would have. Mine would have been halved anyway. Yeah, yeah. So it's double half. So I took like 17 damage. Perfect.
 Rin
 I'm okay with this.
@@ -1756,47 +1756,47 @@ Ogre
 I had four tempit points from something bars.
 Varis
 I am down to 222, but I'm looking okay.
-Orphea
+[[ORPHIE]]:
 Oh God. No, no, not 222 HP and it.
 Ogre
 Pushes us all back 10ft, right?
 Rin
 I mean it is force damage does.
-Orphea
+[[ORPHIE]]:
 What does she think when she hits us with this and we're all like, okay.
 [[DM]]
 You. You see the biggest face of disappointment on her face?
-Orphea
+[[ORPHIE]]:
 No, I don't see it.
 [[DM]]
 Yeah, you Orphe, you don't see it. You don't see it. What the was that?
-Orphea
+[[ORPHIE]]:
 I want to open my eyes so bad.
 [[DM]]
 You hear? You hear? Say what the is wrong with these people? As after she hits you all with this disgusting dirty black energy, Varis, you save or for you save. You're also raging. But Ogre, you take the full brunt of it. Are still standing. And you just hear Rasky go, what the is wrong with these people?
 Sanis
 People?
-Orphea
+[[ORPHIE]]:
 I'm thinking Jace was a little if that's what she hit him with and pretty strong. And I'm wondering, was that her turn?
 [[DM]]
 That was her turn.
 Rin
 Does. Does.
-Orphea
+[[ORPHIE]]:
 Do I feel. Do I get the feeling because we're talking about not being able to see her? Do I get, like, the vibe that she's hurt?
 [[DM]]
 Give me a perception check with disadvantage.
-Orphea
+[[ORPHIE]]:
 Okay.
 [[DM]]
 Or insight check with disadvantage. It's up to you.
-Orphea
+[[ORPHIE]]:
 Okay. Insight's a little bit better.
 Sanis
 11.
 [[DM]]
 How. How is this lady still standing after you've wailed on her like this? And after everyone's will.
-Orphea
+[[ORPHIE]]:
 Jesus on her like this?
 [[DM]]
 Crazy.
@@ -1804,7 +1804,7 @@ Rin
 Jesus.
 [[DM]]
 Jesus.
-Orphea
+[[ORPHIE]]:
 Jesus isn't real.
 [[DM]]
 But with that, let's take a quick break. He killed Jesus. Come back at 8:30. 8, 30.
@@ -1812,11 +1812,11 @@ Rin
 8, 35.
 [[DM]]
 8:35.
-Orphea
+[[ORPHIE]]:
 8:35.
 Rin
 Yep. Works for me.
-Orphea
+[[ORPHIE]]:
 Cool. Gives me time to feed the dogs. Oh, we're not stopping the recording because then I'll forget to start it back up again.
 [[DM]]
 All right. All right, guys. We all back?
@@ -1826,11 +1826,11 @@ Rin
 Physically? Yes. Mentally questionable. Well, we'll go with what we got here.
 [[DM]]
 Exactly. All right, Orphe it. We're going back to combat. It's your turn.
-Orphea
+[[ORPHIE]]:
 My turn?
 [[DM]]
 Yep.
-Orphea
+[[ORPHIE]]:
 Okay. Go lay down. Get out of my face. Go lay down. All I can see is your tongue anyway. Ah, no, no, not there.
 Varis
 Yeah, brasa get.
@@ -1838,23 +1838,23 @@ Ogre
 She's obviously talking to Corey in your place.
 Rin
 Obviously.
-Orphea
+[[ORPHIE]]:
 Sit down.
 Ogre
 And we need to talk to H.R.
-Orphea
+[[ORPHIE]]:
 Okay, so sorry. All I can see is his tongue. It's so dark in this house right now, but so it's just like I look down at my computer, and then it's like the light from the computer shines and I see his tongue and I'm like, no, no, we're not doing that.
 Rin
 Okay.
-Orphea
+[[ORPHIE]]:
 E. That is a disgusting sound dog. Okay, so my first roll is a fail. Do I think that. Can I open my eyes? Do I think I can open my eyes? No, probably not. Can I ask? Hey, guys, can I open my eyes?
 Rin
 Are you.
-Orphea
+[[ORPHIE]]:
 Are yalls eyes?
 Rin
 Open my eyes?
-Orphea
+[[ORPHIE]]:
 Be open.
 Ogre
 Why would I close my eyes?
@@ -1862,21 +1862,21 @@ Rin
 I'm not there.
 Ogre
 The worst person to answer did not help at all.
-Orphea
+[[ORPHIE]]:
 That's okay then. I'm keeping my eyes closed.
 Rin
 Yes.
 Sanis
 All right.
-Orphea
+[[ORPHIE]]:
 Okay. 27.
 [[DM]]
 All right.
-Orphea
+[[ORPHIE]]:
 Seventeen.
 Rin
 Plus 38.
-Orphea
+[[ORPHIE]]:
 Five.
 [[DM]]
 22.
@@ -1884,43 +1884,43 @@ Rin
 Yep. That is yes. Math.
 [[DM]]
 Okay.
-Orphea
+[[ORPHIE]]:
 Yeah, I think that's it. I don't think I have any bonus actions.
 [[DM]]
 Okay. Wow. All right. Eyes still closed. Hey, can I open my eyes? Ogre? Why would I. Why would I close my eyes? Four feet. Keeping your eyes closed. Swing at Nebraska. Get a pretty solid hit on her across her chest. You can't see it, but Ogre and Baris certainly can. There is blood all over her body. And you see that there are strands of hair, snake hair that are. Have turned to ash from fire. And you see some of it begin to turn to stone as she is looking rough. And with that we go to sanis.
 Sanis
 Well, I mean. Or she. What's your. Your HP looking like?
-Orphea
+[[ORPHIE]]:
 I'm at 21 out of 63.
 Sanis
 Okay. I wanna take. I want to take the regular potion of healing I have, strap it to an arrow and shoot it near Orphe.
-Orphea
+[[ORPHIE]]:
 You shoot it into my body. I'll take the damage, but then also get the healing because it'll slip it into my bloodstream.
 Sanis
 I wanna. I wanna try to wedge it in the. In like the banister area.
 [[DM]]
 Yeah, yeah. Well, here I'm. I'm going to again clarify that that entire box seat is on fire.
-Orphea
+[[ORPHIE]]:
 It's on fire.
 Sanis
 Oh, yeah.
 [[DM]]
 The initial fireball.
-Orphea
+[[ORPHIE]]:
 Oh, okay.
 Rin
 Well, I'm.
-Orphea
+[[ORPHIE]]:
 I mean, that's. That's not gonna. I have like double immunity for that.
 [[DM]]
 Yep. But I will also add now Santa's. You do start to see flames unrelated to the box seat. Flames licking the curtains on the stage on the left side, like from another unrelated source. It seems like the stage is catching on fire as well.
-Orphea
+[[ORPHIE]]:
 Oh, can I static effect. Ask Roscoe. Hey, my eyes are closed. I can't tell. Do you have immunity to fire?
 Sanis
 I guess.
 [[DM]]
 You hear the voice in your head, Santa, as you are looking at Vraska, say, do it. Do it.
-Orphea
+[[ORPHIE]]:
 Listen, man, this has to be above table because obviously it's metagaming. I don't like this. Whatever it is, I think we're okay.
 Rin
 Just gonna say I think so.
@@ -1934,7 +1934,7 @@ Insight's better. 11.
 With an 11. I'll. I'll say that you. You sense that it's coming from behind the stage, but not much more than that.
 Sanis
 Okay.
-Orphea
+[[ORPHIE]]:
 Isaiah on fire.
 Rin
 I think another. Certain entities set it on fire.
@@ -1962,21 +1962,21 @@ Sanis
 I don't like being told what to do.
 [[DM]]
 Yeah, don't kill her. You would never. Yeah, yeah, that's fair. That's fair. Yeah.
-Orphea
+[[ORPHIE]]:
 So I just slash better at the same time. Is that I feel like Santa has never not had his father's voice in his head telling him that he's wrong. And doing this. This probably doesn't really phase him all that much because this is every day valid.
 Rin
 Remember, he failed the insight check on what exactly this voice is.
-Orphea
+[[ORPHIE]]:
 Oh, that's right.
 Rin
 Yup. So it may not be his body. No, he's. He said it was his. He thinks it's. It's his father. Yeah, he feels that doesn't necessarily mean that he thinks it's his father.
-Orphea
+[[ORPHIE]]:
 So not his father.
 Ogre
 But we know where his father's ghost is.
 Rin
 We know exactly where his father is.
-Orphea
+[[ORPHIE]]:
 Yes.
 Ogre
 There's another parrot.
@@ -1984,7 +1984,7 @@ Rin
 It's. I'm saying nothing. I know exactly who it is, but I'm saying nothing because it is not Lance.
 Sanis
 I miss it so much. Okay.
-Orphea
+[[ORPHIE]]:
 She doesn't know who Lance is. And we mention all the time now.
 Rin
 It'S like, who the is this random person that they keep mentioning?
@@ -1998,11 +1998,11 @@ Varis
 Yeah, I'd like to. Legendary action after that. Okay, Hit. And brass. It was tail. Tail attack. Yeah, with a tail attack.
 [[DM]]
 Just. Just give me. Give me the one.
-Orphea
+[[ORPHIE]]:
 One roll.
 [[DM]]
 Just give me the one roll.
-Orphea
+[[ORPHIE]]:
 What he's saying is it's only going.
 Varis
 To take 1:29 to hit.
@@ -2016,35 +2016,35 @@ Varis
 Nice. Just kind of like, tail kind of comes around the back and just slams down on top of her.
 [[DM]]
 All right, you, Varis, turn around. Tail Slang lays into her, and she actually gets pushed back and hits the wall behind the box seed and kind of crumples to the ground.
-Orphea
+[[ORPHIE]]:
 Or he feels her fall from her arms. It is just like, what happened? Can I open my eyes now?
 Varis
 Why are you.
 [[DM]]
 Open your eyes, Orphe? And you see Vraska slumped.
-Orphea
+[[ORPHIE]]:
 Oh, thank God.
 [[DM]]
 Dead. Yep. Well, before she slumps dead, you hear her mutter, you won't. This isn't the last of it, Bolas. I thought that the power that he granted me was going to be enough, but it was not. In the end, it's all up to Lily. And then she. She slumps and dies.
-Orphea
+[[ORPHIE]]:
 Can I say tell them that in hell? Because he's joining you there. Okay, guys, we don't have any time to warn this. Well, not mourn, but, like, deal with this. I think there's something else going on right now. Can I take Blazebringer and scalp her? And take some of it with me. Souvenir.
 [[DM]]
 You're gonna scalp her?
 Rin
 Yes.
-Orphea
+[[ORPHIE]]:
 She's a gore holy.
 Rin
 Right?
-Orphea
+[[ORPHIE]]:
 I want.
 Ogre
 It did take me a second to realize that there was an actual train of thought that was. Oh, okay, yeah, that could be useful.
-Orphea
+[[ORPHIE]]:
 That, too.
 Rin
 I mean, you could also just take her whole head and stuff.
-Orphea
+[[ORPHIE]]:
 I'll take her head, then.
 Varis
 Yeah.
@@ -2054,21 +2054,21 @@ Rin
 Yes.
 [[DM]]
 All right, yeah, I'll say. No. No technique. You just. You decapitate Froska.
-Orphea
+[[ORPHIE]]:
 I want to step up on the edge of the balcony and look at Varis and be like, get us down there. We got to figure out what's going on.
 Rin
 And.
-Orphea
+[[ORPHIE]]:
 Santa's is already on his way back there.
 [[DM]]
 Who do you think Lily is?
-Orphea
+[[ORPHIE]]:
 Who's Lily?
 Ogre
 Oh, she said something about Lily. Do you think she meant the tree?
 Rin
 What tree?
-Orphea
+[[ORPHIE]]:
 What, you mean flowers?
 Ogre
 The lily tree.
@@ -2078,7 +2078,7 @@ Rin
 All right, we'll figure it out later.
 [[DM]]
 Whatever. Whatever it is. Yeah. Orphie, you've decapitated Fraska. Ogre, you hop on Varis's back. You tell the party that she mentioned something about Lily. Narset at this point, is gone with the Immortal Sun saying, as you're trying to go back and investigate what the source of the fire is, the halfling girl is still there watching. She actually, like, stands up and she starts clapping. Nice job, heroes.
-Orphea
+[[ORPHIE]]:
 Okay, pause.
 [[DM]]
 You see, Krenko has finally Managed to break the glass case the. That the shreds of the first Guildpact are in. And you see that he's starting to run backstage.
@@ -2100,7 +2100,7 @@ Rin
 Oh, yeah, the entire display case. I'm just gonna look at him and be like, was this actually yours to sell in the first place? So we're gonna take this back and give it to its rightful owner. I'm also going to be going to the police about this. You really should not be selling. Ray's gonna just go on a rant for a little bit about like.
 [[DM]]
 Yeah, you're standing there and ranting. He's hell.
-Orphea
+[[ORPHIE]]:
 And he's.
 Sanis
 He can't move.
@@ -2108,7 +2108,7 @@ He can't move.
 The flames are starting to, you know, crawl across the stage. The curtains are burning.
 Rin
 Can he take some psychic damage, please?
-Orphea
+[[ORPHIE]]:
 He's on his way out of.
 [[DM]]
 You know what, you know what for, for the treatment that he's undergoing. Sure. He takes 11 points of psychic damage.
@@ -2116,7 +2116,7 @@ Rin
 Hell yes.
 Varis
 Listen, seeing that that's not stopping the little halfling, could I just like scoop up Rin as she's continuing to talk?
-Orphea
+[[ORPHIE]]:
 Yes.
 [[DM]]
 And another thing.
@@ -2136,17 +2136,17 @@ Where are her parents? Are they on the ground as well?
 No, you. You actually see at, at this point that some other auctioneers have like dragged the parents out, but the half. The child, the halfling girl has managed to slip away. You see that she's very wily and. And slippery. She just like you. Actually, you know what? You see a couple of guards chasing this halfling girl, but they're not able to catch her.
 Ogre
 She's gonna go to the hotel to check in with Dunstan later campaign.
-Orphea
+[[ORPHIE]]:
 And if. If we started another one, it should be the next generation and she should be one of the characters.
 Rin
 Oh, yeah.
-Orphea
+[[ORPHIE]]:
 Hell yes.
 Varis
 Or that.
 Rin
 Yeah, she's not the actual like PC party.
-Orphea
+[[ORPHIE]]:
 She is the BBEG that was actually Vraska's daughter.
 [[DM]]
 Yeah.
@@ -2170,11 +2170,11 @@ Varis
 Okay, that's where we're going.
 [[DM]]
 Yeah, yeah, yeah. So you go backstage and Santa's. You finally see what the. The source of the fire was. And you see Ava standing next to the Airstream with the keys in her hand. And she looks at you guys and goes, took you long enough.
-Orphea
+[[ORPHIE]]:
 Yeah, well, we were trying to kill a fucking Gorgon, okay? What were you doing.
 [[DM]]
 Setting fire to the entire back half of this mansion?
-Orphea
+[[ORPHIE]]:
 That took you, obviously.
 [[DM]]
 Hey, listen, these walls are thick, okay?
@@ -2182,15 +2182,15 @@ Rin
 I mean, in her defense, it's a large building as well. You did great, Ava. We appreciate your help.
 [[DM]]
 Thank you. At least someone appreciates my work.
-Orphea
+[[ORPHIE]]:
 Dude, have I. I wasn't there when they met Ava, right?
 Rin
 No, no.
-Orphea
+[[ORPHIE]]:
 Like, I don't even know you.
 Rin
 I don't even know you.
-Orphea
+[[ORPHIE]]:
 She doesn't even know I don't even know you.
 Rin
 Y' all should get to know each other. She's very nice. A little bit mischievous, but nice.
@@ -2204,7 +2204,7 @@ Ogre
 I should say the thing that made it fly before was scrappy.
 Varis
 Yes, well, there's. There is a horse already with it, right?
-Orphea
+[[ORPHIE]]:
 No, I don't want a new horse. We scrap or is there a horse?
 [[DM]]
 There was a horse with. With it, but it's not here, scribe.
@@ -2212,13 +2212,13 @@ Sanis
 And Bingo was his name. Oh, B I N G.
 Varis
 So, yeah, yeah, I will. On to the. The. Your stream then.
-Orphea
+[[ORPHIE]]:
 Did you say Clarissa.
 Ogre
 To harness up?
 [[DM]]
 Oh, harness up. All right. You Varys, grab the crew. The halfling girl go to backstage and pick up the Airstream. And you see that there has been enough fire in which there. A hole has opened up in the ceiling. And you rush out of there into the wider area of the underbelly. And you see as you're flapping your wings and floating above the auction house that the entire back half of the building is engulfed in flames. And in fact, you see that the flames are already out in one corner of the building that it. There's nothing left to be burned there. It's. It's been burning so hot and with such an intensity.
-Orphea
+[[ORPHIE]]:
 Well, the good news is, when they rebuild it, they'll have to have better fire protection.
 Rin
 Britain is very content with this.
@@ -2244,19 +2244,19 @@ Force. Okay, so 40, 44 points.
 Okay, you force breath. Flapping your wings. Force. Above the airship. Force. Breath into Krenko's airship, which is. Is, you know, the shape of his head. And you begin to tear holes and basically rip the blimp to shreds as you see it begin to deflate.
 Varis
 Cool.
-Orphea
+[[ORPHIE]]:
 Could we just. Good with me had an airship.
 Rin
 Yes. But also we have a dragon, so that's fair.
 Varis
 And a tavern once we get that hooked up again.
-Orphea
+[[ORPHIE]]:
 Yep.
 Varis
 So then, yeah, I guess I'll just fly out. Is. Is that open, or do we need to figure out how to do that?
 [[DM]]
 No, no, it. It's open. The hole in the ground that the airship uses to enter the underbelly. It's. It's open. But anyone that wants to give me a perception check.
-Orphea
+[[ORPHIE]]:
 16.
 Varis
 17.
@@ -2278,7 +2278,7 @@ You?
 So everyone but Ogre see a. A carriage pull out from the auction house, and you see on the side it just says Ravnica Trading Incorporated and pulls out from the auction house.
 Rin
 Interesting.
-Orphea
+[[ORPHIE]]:
 Okay. Okay.
 Sanis
 Do I notice any of the passengers?
@@ -2296,7 +2296,7 @@ Sanis
 Oh, still me.
 Rin
 Do y' all really want to duke it out on who's higher?
-Orphea
+[[ORPHIE]]:
 Right.
 Sanis
 Who's more toasted? Yeah, totally.
@@ -2304,7 +2304,7 @@ Who's more toasted? Yeah, totally.
 You notice that the driver has red hair? Make out the face from here. But you notice that the driver has red hair.
 Sanis
 I can tell you One thing about the person over there, they're soulless.
-Orphea
+[[ORPHIE]]:
 Okay.
 Ogre
 Oh, no, I can't do anything about that.
@@ -2340,7 +2340,7 @@ Rin
 Do we know where they would be going, [[DM]]? Like, do we know where the Ravnican Trading Co is?
 [[DM]]
 Give me an. Give me an investigation check.
-Orphea
+[[ORPHIE]]:
 Okay.
 [[DM]]
 And actually, wait, specifically, who was there when they met Kalmar and friends? Was it Rin, Ogre, and who else? Bars? Yeah.
@@ -2349,8 +2349,8 @@ I mean, I've never not been here, so I assume who's counter again?
 Rin
 Yeah, I was about to say Rin was not there.
 [[DM]]
-You weren't there. Was Sanis or Orphea there?
-Orphea
+You weren't there. Was Sanis or [[ORPHIE]]: there?
+[[ORPHIE]]:
 I don't know. I honestly couldn't tell you who Calmore is to be.
 Ogre
 Look, the girls weren't there because that's when Ogre hung Dong.
@@ -2360,7 +2360,7 @@ Ogre
 Okay.
 [[DM]]
 Yeah. You know what? Rin and Orphe not roll for me. Ogre, Sanis and Varis, please roll for me.
-Orphea
+[[ORPHIE]]:
 Oh, God. This is. This sounds terrible.
 Varis
 Yeah, he disrod for some reason.
@@ -2375,7 +2375,7 @@ Dirty.
 Sanis
 Yeah, I share this with. I share this with the group.
 [[DM]]
-Yep. That while Rin and Orphea were taking A nap. Ogre, Sanis and Varis met a lovely crew of adventurers that on Tarkir on the side of the road that were just having a campfire. And after talking with them and getting to know them better, found out that the barbarian of their group, Kalmar, was not in fact Kalmar. He's a doppelganger. But the party was okay with it and had actually locked the original Calmar in a chest on the cart.
+Yep. That while Rin and [[ORPHIE]]: were taking A nap. Ogre, Sanis and Varis met a lovely crew of adventurers that on Tarkir on the side of the road that were just having a campfire. And after talking with them and getting to know them better, found out that the barbarian of their group, Kalmar, was not in fact Kalmar. He's a doppelganger. But the party was okay with it and had actually locked the original Calmar in a chest on the cart.
 Sanis
 And like, I remember him.
 [[DM]]
@@ -2386,7 +2386,7 @@ Because he's an.
 Yep.
 Sanis
 This Calmar was an. And they were like, well, the new Calamar is much better than the old Calamar. He's so much nicer, that guy. So they preferred the doppelganger. I remember that.
-Orphea
+[[ORPHIE]]:
 This is the plot. Star Struck Space odyssey on Division 20.
 Varis
 And for clarification, Kalmar was already in the chest before we showed up. That was them. Yeah.
@@ -2412,7 +2412,7 @@ Rin
 Some people are claustrophobic, but if he was not a great person, then maybe he deserved it.
 Ogre
 It's not [[DM]]tmas.
-Orphea
+[[ORPHIE]]:
 Claustrophobic.
 [[DM]]
 That was way too big of a word for ogre.
@@ -2420,11 +2420,11 @@ Ogre
 What's wrong with you?
 Rin
 No, Britain is making that face. I'm just like, wait, what the. Hold on. I don't know if R knows how to respond to that, just from the fact that it was a very large word for him, but also just like, wait, how do you connect claustrophobic to [[DM]]tmas?
-Orphea
+[[ORPHIE]]:
 I got you there, don't worry. Claustrophobic.
 Rin
 Like Santa Claus?
-Orphea
+[[ORPHIE]]:
 Yes.
 Rin
 Okay.
@@ -2440,7 +2440,7 @@ Yep.
 Okay, cool. No, that's it.
 Ogre
 I love that Owen went through her pockets. But we took the head.
-Orphea
+[[ORPHIE]]:
 Oh, yeah. We really should have gone through her pockets.
 Rin
 The building was kind of on fire.
@@ -2450,7 +2450,7 @@ Ogre
 That's why taking the head's funny to me.
 [[DM]]
 You hear the halfling girl in the back? Go. You guys roll.
-Orphea
+[[ORPHIE]]:
 Oh, we still have a.
 Rin
 Where do you live, little girl, by chance?
@@ -2470,11 +2470,11 @@ Yeah.
 She reaches out for a high five with you, Ogre.
 Ogre
 Yeah, absolutely.
-Orphea
+[[ORPHIE]]:
 This is how you get charged with kidnapping.
 Rin
 Yes.
-Orphea
+[[ORPHIE]]:
 Oh, 100.
 [[DM]]
 My name is Jenna, by the way. I don't know if I told you guys. My name is Jenna.
@@ -2488,7 +2488,7 @@ Guys, let's drop her off at the Celestian concert.
 No, no, I don't want to. No, I want to go adventuring you.
 Rin
 Listen, we all had watching you guys.
-Orphea
+[[ORPHIE]]:
 We became adventurers. And now you have to do that too.
 Sanis
 You're not old enough.
@@ -2496,23 +2496,23 @@ You're not old enough.
 Wait, what school?
 Rin
 You don't know?
-Orphea
+[[ORPHIE]]:
 We're not. We do not need ignorant adventurers.
 Rin
 Actually, the Celesian conclave would be perfect.
 [[DM]]
 For you as she's looking at Ogre.
-Orphea
+[[ORPHIE]]:
 Never mind. You're right.
 Rin
 School is fun. School is where you get to learn things. And school is how you potentially could become an adventurer.
-Orphea
+[[ORPHIE]]:
 That's how we learned to become.
 [[DM]]
 But what if I. What if I'm like Ogre and I hit things? Good.
 Rin
 He went to event.
-Orphea
+[[ORPHIE]]:
 He went to school. Toor does.
 Sanis
 I don't.
@@ -2520,13 +2520,13 @@ Ogre
 I don't remember what school is.
 Rin
 That's okay, Ogre.
-Orphea
+[[ORPHIE]]:
 Special circumstance. Okay, you have to go to school.
 [[DM]]
 But what about me? I'm also a special circumstance.
 Rin
 No, you're not even special circumstances have to go to school.
-Orphea
+[[ORPHIE]]:
 Yeah, Ogre did go to school, to be fair.
 Rin
 So yes, he did go to school. He just doesn't remember.
@@ -2570,7 +2570,7 @@ Sanis
 We know a lot of sketchy people, man.
 [[DM]]
 I guess that's. That's true. But he would have reason to, like, stand in corners and, like, alleyways and be kind of sketchy about it.
-Orphea
+[[ORPHIE]]:
 Benji.
 Sanis
 Benji.
@@ -2580,7 +2580,7 @@ Sanis
 Anything.
 [[DM]]
 Janet goes, yo, I think he, like, sells to some people. Yeah.
-Orphea
+[[ORPHIE]]:
 Wait, is this actually Lance Sanis?
 [[DM]]
 You clock it. It's Lance. It's Lance.
@@ -2590,11 +2590,11 @@ Varis
 I was gonna say because he's Air Genesque scene.
 Sanis
 Yeah.
-Orphea
+[[ORPHIE]]:
 You know, it's really. Sometimes when I'm thinking about our characters, I just picture us. So, like, as far as Taylor is concerned, Lance just looks like Stephen.
 Sanis
 Ditto. I feel the same way. I'm like, amazing. You guys are, like, putting these pictures up of your characters. I'm like, that's not what your fucking character looks like.
-Orphea
+[[ORPHIE]]:
 It looks like.
 Sanis
 Yeah, yeah.
@@ -2604,7 +2604,7 @@ Rin
 We're gonna drop you off at the Selesnya Conclave. They can actually start. They can start your schooling there. They can teach you a lot of stuff. Do you want to know how to heal wounds? That's a really big. You have to learn how to.
 [[DM]]
 And she points to you, Orvy.
-Orphea
+[[ORPHIE]]:
 Of course she does.
 Rin
 You should learn how to heal wounds before you inflict them.
@@ -2612,17 +2612,17 @@ Varis
 Yeah.
 [[DM]]
 Close your eyes.
-Orphea
+[[ORPHIE]]:
 Fix things. Sometimes when they get smashed. There's a lot.
 Rin
 Yeah, because you may accidentally smash something you don't mean to, and you want to make sure you can fix it if you accidentally smash it something you don't mean to. I had to learn how to heal.
 [[DM]]
 Things after you smash them.
-Orphea
+[[ORPHIE]]:
 Yes.
 Rin
 Yes.
-Orphea
+[[ORPHIE]]:
 Sometimes we have to.
 [[DM]]
 Like what?
@@ -2630,19 +2630,19 @@ Rin
 People.
 [[DM]]
 But I just saw you smash a bunch of people and you didn't fix them.
-Orphea
+[[ORPHIE]]:
 Not today. You don't know. I'm telling you that sometimes we have to fix things. Today wasn't that day where some things get fixed. You have to believe us. Sometimes we have to fix things that we smash. And sometimes when you break things that you're not supposed to break that can't be fixed, you get in a lot of trouble.
 [[DM]]
 Oh, that's what my parents tell me. But I still want to smash. Anyway.
-Orphea
+[[ORPHIE]]:
 I wouldn't say they're smart, because where the hell are they right now?
 Rin
 But also, they got themselves paralyzed on paralysis drinks. I would say they're not the best.
-Orphea
+[[ORPHIE]]:
 I'm pretty sure Janet did that.
 [[DM]]
 So are we gonna play tag or what?
-Orphea
+[[ORPHIE]]:
 No, we're not. We're taking you somewhere.
 Varis
 Can I. I'm. Can I, like, turn?
@@ -2666,7 +2666,7 @@ Varis
 I can't count 11.
 [[DM]]
 Okay, she. She has a minus two, and she rolled a 1715.
-Orphea
+[[ORPHIE]]:
 What the.
 [[DM]]
 Speak in Draconic to her. Silence, child. And she looks at you, Varis, and she goes. What does that mean? I've never been spoken to by a dragon before.
@@ -2674,7 +2674,7 @@ Varis
 All right, can I follow that up with my frightful presence? Because this kid.
 [[DM]]
 You're gonna use your frightful.
-Orphea
+[[ORPHIE]]:
 Stop, stop, stop. For [[DM]]t's sake.
 Ogre
 No, please, please. Do it. Make her run off of you.
@@ -2690,7 +2690,7 @@ Rin
 Oh, my God. No.
 Varis
 Just coincidentally, we're flying right over a Vat of acid, and she's just slowly falling into it.
-Orphea
+[[ORPHIE]]:
 That's how you get somebody.
 [[DM]]
 Villains, where are you? Where are you guys flying, by the way, as. As you guys are having this conversation with Jenna, you guys are going to the Selesnya Conclave. Okay. Yeah. Ogre, she. She starts playing tag with you.
@@ -2732,7 +2732,7 @@ Ogre
 You.
 [[DM]]
 You need Frasca's head. You have. You have to get Frasca's head.
-Orphea
+[[ORPHIE]]:
 What?
 Sanis
 I don't want it. You can't make me, can you really make me.
@@ -2744,23 +2744,23 @@ I. I'm just kind of, like, on autopilot. I'm just, like, not even there mentally
 Okay.
 Sanis
 I try to grab it.
-Orphea
+[[ORPHIE]]:
 No.
 [[DM]]
 Okay. Sandras, give me a slight of hand Check. And Orpheus as well.
 Sanis
 You win 22.
 [[DM]]
-Saying you successfully take Vraska's head away from Orphea.
-Orphea
+Saying you successfully take Vraska's head away from [[ORPHIE]]:.
+[[ORPHIE]]:
 Can I do perception check?
 [[DM]]
 You know what's happening? You know what's happening.
-Orphea
+[[ORPHIE]]:
 Oh, okay. Then I'm gonna grab him.
 [[DM]]
 Okay, you. Are you gonna grapple? You're gonna try and grapple him?
-Orphea
+[[ORPHIE]]:
 Grapple.
 [[DM]]
 Okay, give me athletics check. Both of you guys.
@@ -2772,11 +2772,11 @@ Rin
 Hey, what's.
 Sanis
 That's how that happened.
-Orphea
+[[ORPHIE]]:
 What the Are you doing?
 Rin
 Do I see this happening?
-Orphea
+[[ORPHIE]]:
 It's got to be obvious.
 Rin
 Sanis, what the f are you doing?
@@ -2788,7 +2788,7 @@ What do you mean you had to have the head?
 What do you mean?
 Ogre
 He says it all the time.
-Orphea
+[[ORPHIE]]:
 Oh, God.
 Sanis
 Oh, Jesus [[DM]]t. Not that ogre. Something else. I just. I don't know. It's kind of like when you're. You ever been so hungry? You're just like, I just gotta eat. It's kind of was. It was like that. It was just like, I have to have the head.
@@ -2800,7 +2800,7 @@ I mean, it could be. There's a lot of weird going on in my head already, so. I w
 As you're grappled down by Orphie and Rin is trying to talk some sense into you. Sanus, you snap back to reality, no longer feeling yourself compelled, but still holding Vraska's decapitated head in your hands. You feel once again the feeling tighten around your heart, but then begin to loosen as you hear the voice in your head go packed, fulfilled. And Roscoe's head begins to disintegrate.
 Rin
 What?
-Orphea
+[[ORPHIE]]:
 Hey, man. Oh, I was gonna keep that.
 Sanis
 I'm sorry. I. I'm sorry. I'm sorry.
@@ -2810,11 +2810,11 @@ Rin
 What is going on?
 Sanis
 I had to have the head, and.
-Orphea
+[[ORPHIE]]:
 Then you disintegrated it. Do you even have.
 Sanis
 I didn't do that on purpose.
-Orphea
+[[ORPHIE]]:
 You. You don't have to disintegrate.
 Rin
 How did that happen?
@@ -2824,13 +2824,13 @@ Ogre
 I see why you always want this.
 [[DM]]
 And s. You feel within yourself, the final shred of Zaddy Daddy that was independent merges into your being, and he is no longer there.
-Orphea
+[[ORPHIE]]:
 But who is?
 Rin
 Sanis.
 [[DM]]
 Just Sanis.
-Orphea
+[[ORPHIE]]:
 Yeah, but was there. Wasn't there another person?
 Rin
 Yeah. So if y' all don't. Can I say who it is now or.
@@ -2838,7 +2838,7 @@ Yeah. So if y' all don't. Can I say who it is now or.
 Sure, sure. If. If you. Yeah, if you think you've got it.
 Rin
 If you remember whenever Sanis died and when he became a drow, who was it that he had to talk to or he had to make the determination of what his path is going to be?
-Orphea
+[[ORPHIE]]:
 I don't know.
 [[DM]]
 The Golgari Lich.
@@ -2850,7 +2850,7 @@ Rin
 That's who was in your head. You had to make a pack with him.
 [[DM]]
 Now been fulfilled as the one stipulation that he had for bringing you back in light back to life and infusing the spirit of the long dead, the mere Guild master Zadik, into you, making you a dampier. His stipulation was that you kill Vraska, the current Golgari Guild leader. And with her dead and her head as tribute to Yarad Vod Sabo, the first Golgari Guild leader and Lich, your pact has been fulfilled.
-Orphea
+[[ORPHIE]]:
 So what does that mean?
 Sanis
 But I'm still damp here, right?
@@ -2866,51 +2866,51 @@ Ogre
 Absolutely horrible.
 Sanis
 I've been watching tvd. Sorry.
-Orphea
+[[ORPHIE]]:
 Why? Skip it. Go to the Originals.
 Sanis
 Because I'm. I'm getting my girlfriend into it, and I have to start her from the beginning.
-Orphea
+[[ORPHIE]]:
 Okay, but you. Okay, so here's what you do. You get started with tvd, and then you move into the Originals. You don't finish tvd because why?
 Sanis
 Because she has to know what happens with Bonnie. Bonnie's story, to me is very important. I always follow Bonnie and. And Matt, too, because he's just a genuine guy.
-Orphea
+[[ORPHIE]]:
 He's just a little guy.
 Sanis
 He's just. He's just a little guy. Yeah, he's just some dude. Yeah. But I want to get her into that. And then the legacies.
-Orphea
+[[ORPHIE]]:
 Legacies?
 Rin
 What is this? Oh, this is the Vampire Diaries.
-Orphea
+[[ORPHIE]]:
 What are y' all talking about?
 Rin
 Vampire Diaries.
-Orphea
+[[ORPHIE]]:
 Legacies is so many letters. I mean, I watched the whole thing, but it's so ass.
 Sanis
 It's campy. It is campy compared to their, like, counterparts. I totally agree. But I mean, it's good for what it's meant to be.
-Orphea
+[[ORPHIE]]:
 I still. Yeah, I still watched every episode.
 Sanis
 Yep.
-Orphea
+[[ORPHIE]]:
 They did not have the same budget.
 Sanis
 I love me some Klaus. Anything to do with clouds?
-Orphea
+[[ORPHIE]]:
 Oh, yes. When I tell you. No. Everybody in that show is a idiot. Because all you have to do is be loyal to Klaus. And done. That's it. All you gotta be loyal to Klaus.
 Sanis
 Like, respect him. That's it.
 [[DM]]
-Status. I put something in the chat for you as. Orphea. You have Santa's grappled down. Rin, you're trying to talk some sense at the Santa. Santa. You come to. You hear the voice in your head saying that the pact is complete as you're holding Vraska's decapitated. Head, it begins to disintegrate and you feel yourself getting stronger.
+Status. I put something in the chat for you as. [[ORPHIE]]:. You have Santa's grappled down. Rin, you're trying to talk some sense at the Santa. Santa. You come to. You hear the voice in your head saying that the pact is complete as you're holding Vraska's decapitated. Head, it begins to disintegrate and you feel yourself getting stronger.
 Sanis
 [[DM]], question about what you sent. When you say your move speed is increased by 10ft, is that overall or with that feature?
 [[DM]]
 No, it's overall.
 Sanis
 Overall. So now I'm at 45.
-Orphea
+[[ORPHIE]]:
 Oh yeah.
 Rin
 Nice.
@@ -2928,23 +2928,23 @@ Okay, so 40.
 As you now feel your realize your full potential as a Dampier Gang.
 Sanis
 Gang. That's what's up.
-Orphea
+[[ORPHIE]]:
 Hell yeah. Feel my full potential.
 [[DM]]
 Yes. So you guys. You guys make it to the Selesnya Conclave. Ogre and Jenna still playing tag. All the while falling off of Varis and then having to be caught quickly thereafter. And you let Jenna off. Well, you guys all are let off. Forest putting down Ogre's Tavern 2.0 and the shreds of the Guildpact in hand.
-Orphea
+[[ORPHIE]]:
 The world is all right again. We have Ogre's Tavern, new and improved.
 Rin
 Yep.
 Varis
 And I think was the name Sparky? I don't remember. Oh, is he here? Scrappy.
-Orphea
+[[ORPHIE]]:
 He's at.
 [[DM]]
 They're with Clarissa, I believe. Right? Or was.
 Rin
 Oh no, we left. We left Scrappy and at the Izzet Guild.
-Orphea
+[[ORPHIE]]:
 You have to get fixed up.
 Varis
 Okay. I couldn't remember who brought him where.
@@ -2968,7 +2968,7 @@ Varis
 New. New tagline.
 Rin
 Not gruel.
-Orphea
+[[ORPHIE]]:
 Jewels.
 Rin
 Ra.
@@ -2978,15 +2978,15 @@ Rin
 Yes, sure.
 [[DM]]
 Cool.
-Orphea
+[[ORPHIE]]:
 Left Scrappy with Brula to take to. Is it for being fixed.
 Rin
 Thank you for some solid notes.
-Orphea
+[[ORPHIE]]:
 You could thank Google.
 Rin
 I'm okay with that. Google.
-Orphea
+[[ORPHIE]]:
 Ellen.
 [[DM]]
 Jenna, and Ogre or Jen is still trying to play tag with you. Ogre.
@@ -3032,7 +3032,7 @@ You.
 You go to the back rooms of the tree where you know that they're doing like, you know, leave smashing to. To, you know, process them into like paste and stuff like that. And you see that there's a Celestian priest there. Priestess is there she goes. Oh, how can I help you?
 Rin
 I think I may have a friend here who might be able to assist y'. All. Just give me one second.
-Orphea
+[[ORPHIE]]:
 For her parents.
 Rin
 Oh, yes, she's looking for her parents special delivery. Very much for separate, but so she needs watched until her parents get here.
@@ -3082,7 +3082,7 @@ Yeah, I'm here for this. Okay.
 The priestess just pinches her. Her brown.
 Rin
 Rin, coming up with the solid solutions that helps everyone. We're here for this. So her parents might come. We're not really sure. We didn't really get a chance to actually tell her parents where we were taking her. Yeah. So her name is Jana. She promised that she would listen. She likes to smash Things just give.
-Orphea
+[[ORPHIE]]:
 Her material to Smash tell you.
 Rin
 Yeah.
@@ -3090,7 +3090,7 @@ Yeah.
 As you walk away, you hear Janet say to the worker, oh, I forgot. Hi, I'm Jenna.
 Rin
 So cute.
-Orphea
+[[ORPHIE]]:
 She may have taken a little bit from all of us and that could be a problem.
 Rin
 Hell yeah. Also chat. Yes. Jenna. Jenna Smashwell. I love it.
@@ -3110,13 +3110,13 @@ Ogre
 So we gotta go report back.
 Rin
 Yes.
-Orphea
+[[ORPHIE]]:
 Where are we reporting to?
 Rin
 Because I think this information was while I was gone.
 Ogre
 The tree people, right? People in the tree. Nissa and everyone.
-Orphea
+[[ORPHIE]]:
 Yeah, sure.
 [[DM]]
 Okay, so you did not send them to the Gruel clans, then the. The Red Wastes, you want them to stay here? Is that because before I believe you? Oh, that's right.
@@ -3158,7 +3158,7 @@ Once you mentioned scrap Scrappy, I was like, ah, yeah, we should have brought h
 But I guess we needed to bring.
 Ogre
 The child here first.
-Orphea
+[[ORPHIE]]:
 Yep.
 Varis
 Yeah, that was like get rid of the baggage.
@@ -3166,11 +3166,11 @@ Ogre
 I was willing to just feather fall.
 [[DM]]
 Her at any time, you know, we.
-Orphea
+[[ORPHIE]]:
 Know.
 Ogre
 She'D have been fine.
-Orphea
+[[ORPHIE]]:
 Halflings are tough, you know, you're not wrong.
 Varis
 But yeah, I guess from like outside. I'll like, call them to come out.
@@ -3196,7 +3196,7 @@ Sanis
 That's.
 [[DM]]
 Wow. I'm so proud of you.
-Orphea
+[[ORPHIE]]:
 Oh, thanks. We.
 Varis
 We did plan on having someone else be in charge though, so I, I don't. I don't think it'll be like this forever.
@@ -3230,7 +3230,7 @@ Varis
 There was about a. Was it 140,100 K? Yeah. Was it. Was it 100? I thought it was 100 K. Okay, 100.
 Rin
 And we never paid for any of the auction items, so.
-Orphea
+[[ORPHIE]]:
 Yes, nobody did, to be fair.
 Varis
 Freebies.
@@ -3240,7 +3240,7 @@ Varis
 Your.
 [[DM]]
 Your. Your father goes. Well, then we can. It's not much, but out of. You know what they say, you need money to make money. So with the hundred thousand that are still left in the Orzhov's coffers, we can give loans, make money off interest, begin to enlist help from specters and lost souls by with the prospect of gold. And we can, I think with your blessing, son, start the guild back up.
-Orphea
+[[ORPHIE]]:
 Yeah.
 Varis
 And I. I have no idea if this does anything, but he'll sort of do like with you know, the giant dragon claw. Do like a little hand waving thing in front of his. His dad, like, I don't know, like he's blessing him or some and be like, I officially make you the bank manager. I guess, you know, if that does anything.
@@ -3310,13 +3310,13 @@ Rin
 Do I trust Ogre to actually scream it properly, though? It'll be ogre fight. It's fine. They'll get the.
 Varis
 I mean, I think we would definitely add our own comments to whatever Ogre says.
-Orphea
+[[ORPHIE]]:
 True.
 [[DM]]
 All right, well, you guys decide to go to the Izzet Guild and then afterwards to the Ravnica Trading Incorporated hq, Wherever that may be. No. You guys don't know where that is. But as you guys begin to climb back onto Varis's back, See grasps the tavern. And you guys head over to the Izzet Guild. Can everyone give me a arcana check?
 Ogre
 11.
-Orphea
+[[ORPHIE]]:
 11.
 Varis
 Nineteen.
@@ -3332,7 +3332,7 @@ Rin
 I. That's what's concerning me. I'm a bit concerned as to the reason why all of a sudden we are able to. They got with my 26.
 [[DM]]
 Do I get any more information with the 26? You sense that the presence of the immortal sun is no longer on Ravnica.
-Orphea
+[[ORPHIE]]:
 Oh.
 Rin
 Is that a good thing?
@@ -3364,7 +3364,7 @@ Yep.
 Yep.
 Ogre
 That's what the first three good seasons of Weeds were like.
-Orphea
+[[ORPHIE]]:
 The first three seasons of what? Weeds.
 Ogre
 Weeds.
@@ -3372,13 +3372,13 @@ Sanis
 Yeah.
 Ogre
 Where it was like, oh, finally something good happened. Ah, God damn it. Way worse than before.
-Orphea
+[[ORPHIE]]:
 I was just thinking about that show the other day. I was singing the theme song.
 Ogre
 Ticky Tacky.
 [[DM]]
 Yeah. Good session.
-Orphea
+[[ORPHIE]]:
 Great session.
 Ogre
 Gotta make more head jokes. Love it.
@@ -3386,19 +3386,19 @@ Rin
 Yes.
 Ogre
 In conversation was great.
-Orphea
+[[ORPHIE]]:
 I feel like Orpheus is regretting skipping that class in college where she could have learned blind fighting from a fighter.
 Ogre
 Yeah, it's. It's the best. When it comes in handy, it really comes in handy.
-Orphea
+[[ORPHIE]]:
 Oh, yeah.
 Rin
 Oh. Oh, you know what?
-Orphea
+[[ORPHIE]]:
 I guess maybe.
 [[DM]]
 Oh, yeah.
-Orphea
+[[ORPHIE]]:
 If I ever take it that if. If I get a fee, I could always do, like, fighting initially and do blindfighting. But it's so specific. Like, it's so specific.
 Ogre
 Honestly, it would be cool because I could use darkness more.
@@ -3406,11 +3406,11 @@ Rin
 That's true.
 Ogre
 We'd be a better tag team if you did it.
-Orphea
+[[ORPHIE]]:
 Yeah.
 Ogre
 Although at that point, you also have a spell, so you could take Eldrick vocation or whatever and your Eldrick adept to get an Eldrick invocation to pick up Devil's sight, too. I just also have the same as me. Just everyone takes it.
-Orphea
+[[ORPHIE]]:
 That would be.
 Rin
 We all get an invitation.
@@ -3424,7 +3424,7 @@ Sanis
 It does feel like a milestone, doesn't it, huh, guys?
 [[DM]]
 You guys do level up.
-Orphea
+[[ORPHIE]]:
 Oh, hell yes. We did. Just beat, like. I feel like that's been such a long time coming. I mean, like, day one.
 Rin
 True.
@@ -3456,13 +3456,13 @@ Varis
 Okay.
 [[DM]]
 No.
-Orphea
+[[ORPHIE]]:
 And then the way I'm absolutely looking at taking a level in fighter right.
 Sanis
 Now.
 Varis
 I mean, it wouldn't be a terrible idea. Don't get that fighting style.
-Orphea
+[[ORPHIE]]:
 Yeah, I wouldn't. I don't think again, I don't think blind fighting is worse worth taking as a fighting style.
 Ogre
 Second Wind is garbage if you're not doing a lot of fighters.
@@ -3474,7 +3474,7 @@ Ogre
 So a lot of those abilities that.
 [[DM]]
 Use your class level and then Taylor, you can. Yeah. For the Spirit Walker thing. Oh, yeah, yeah. You can definitely. Yeah, you could definitely use Athena instead. I don't know if it's possible. I would love it if. No, no. Just like you can. You can use it, but the name changed the path of the ancestor.
-Orphea
+[[ORPHIE]]:
 Okay. I'm cool with that.
 [[DM]]
 That's it.
@@ -3482,25 +3482,25 @@ Ogre
 That's.
 [[DM]]
 That's literally it.
-Orphea
+[[ORPHIE]]:
 Yeah, yeah, yeah, that makes sense. I was just.
 [[DM]]
 Because you're basically using your ancestors, like past knowledge to help you out.
-Orphea
+[[ORPHIE]]:
 Yeah, that would make a lot of sense too. I was scrolling through all of my stuff when. When in between my turns in combat, just tried to make sure that I was looking at every option I had. I really wanted to get Resa and I was like, I have spells.
 Varis
 That.
-Orphea
+[[ORPHIE]]:
 I'm never going to touch unless something crazy happens. But I do reserve the right for the crazy. You know, like maybe one day something insane happens and I have to use a spell. And like, I could see that being a fun thing one day, but like Spirit Walker, like, I'm like, we're in cities all the time. I don't see that really ever coming.
 [[DM]]
 Yeah, I mean, I would. I would say that you'd be able to use that in the city.
 Sanis
 Yeah.
-Orphea
+[[ORPHIE]]:
 Hell yeah.
 [[DM]]
 Yeah.
-Orphea
+[[ORPHIE]]:
 Cool, cool, cool. Gracias. I will say though, level 11 at Barbarian gives me relentless rage, which is kind of helpful sometimes I think in my situation, especially when.
 Sanis
 Yeah, yeah.
@@ -3512,21 +3512,21 @@ Yes.
 That's better.
 Ogre
 Take that. I forgot what you got at level 11.
-Orphea
+[[ORPHIE]]:
 100 fighter's cool with everything. But the chance to not die if I need to. If I need it feels like it would come in handy, especially after a day like today when I got down to 14 hit points. I was like, I'm just gonna say this out loud, but I don't think I could take another hit from this lady. But she was hitting pretty hard. But I couldn't let her get away. And I was like, well, I guess if Santa needs to shoot an arrow through me to hit her, we could do that.
 Rin
 We get our first level six spell. Let's go. And my destroyer undead is now CR2 instead of CR1.
 Varis
 Oh, yeah. I don't know why I was saying we're going to level 12. I was like, why am I getting a new spell at an even level? That makes more sense.
-Orphea
+[[ORPHIE]]:
 Oh, yay. Ability score. Improvement. Then I get another brutal. Brutal critical.
 Rin
 Nice.
-Orphea
+[[ORPHIE]]:
 Oh, yeah, it's another D12. Add it on to Crits.
 [[DM]]
 Powerful D and D, But. All right, guys, I'm gonna hop off. Great session.
-Orphea
+[[ORPHIE]]:
 Great session.
 [[DM]]
 Level.
@@ -3542,7 +3542,7 @@ Sanis
 Good night.
 Rin
 Good.
-Orphea
+[[ORPHIE]]:
 It.
 AssemblyAI | Playground
 

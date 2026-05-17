@@ -41,7 +41,7 @@ I would grab at least one of you and put you on my shoulders.
 Rin's probably fine.
 00:01:20 Rin (Rachel)
 So just Ogre would be good.
-00:01:25 Varis (Vincent)
+00:01:25 [[VARIS]]:
 All right, I think Rin wouldn't be that deep in the water.
 00:01:29 Rin (Rachel)
 Maybe up to her shoulders then.
@@ -51,7 +51,7 @@ All right, cool.
 So everyone's like above water breathing.
 00:01:44 [[DM]]
 Anyone that, actually, anyone that's currently wading in the water, please give me a perception check.
-00:01:56 Varis (Vincent)
+00:01:56 [[VARIS]]:
 Would Ogre like to be on Varis's shoulders?
 00:02:00 Rin (Rachel)
 He is the tallest.
@@ -117,41 +117,41 @@ We have one.
 We did not come prepared.
 00:04:06 Rin (Rachel)
 Unless a certain someone wants to cast water breathing.
-00:04:09 Varis (Vincent)
+00:04:09 [[VARIS]]:
 I have already offered.
 00:04:12 Rin (Rachel)
 Can you do that, please?
-00:04:14 Varis (Vincent)
+00:04:14 [[VARIS]]:
 Yeah.
 00:04:14 Rin (Rachel)
 Sorry, I'm watching down on this popcorn because it's really good.
-00:04:17 Varis (Vincent)
+00:04:17 [[VARIS]]:
 Let's see.
-00:04:21 Varis (Vincent)
+00:04:21 [[VARIS]]:
 If you wouldn't mind casting guidance.
 00:04:26 Rin (Rachel)
 Yes, bring cast guidance.
-00:04:29 Varis (Vincent)
+00:04:29 [[VARIS]]:
 And then Ogre, since you're on my head, can you help me out magically?
 00:04:34 Ogre (Chet)
 Yeah, you can do it.
-00:04:38 Varis (Vincent)
+00:04:38 [[VARIS]]:
 Thanks for.
-00:04:40 Varis (Vincent)
+00:04:40 [[VARIS]]:
 Oh, I mean, I was just saying advantage, but, or, you know, help.
-00:04:44 Varis (Vincent)
+00:04:44 [[VARIS]]:
 But sure.
 00:04:45 Ogre (Chet)
 Hey, if there's something I can use mage hands on, sure.
-00:04:52 Varis (Vincent)
+00:04:52 [[VARIS]]:
 Okay, well, my modus got me there at a minimum, but that's good.
-00:04:59 Varis (Vincent)
+00:04:59 [[VARIS]]:
 But I'm going to roll everything anyway.
-00:05:06 Varis (Vincent)
+00:05:06 [[VARIS]]:
 That's a cool 24.
-00:05:07 Varis (Vincent)
+00:05:07 [[VARIS]]:
 I just want to see what the number was.
-00:05:09 Varis (Vincent)
+00:05:09 [[VARIS]]:
 All right, so we have water breathing for the next 24 hours.
 00:05:14 Rin (Rachel)
 Let's go.
@@ -161,7 +161,7 @@ Solid.
 And it's not concentration.
 00:05:18 [[DM]]
 Is that for all of us?
-00:05:21 Varis (Vincent)
+00:05:21 [[VARIS]]:
 Up to 10 willing creatures.
 00:05:24 Rin (Rachel)
 Hell yeah.
@@ -169,11 +169,11 @@ Hell yeah.
 Where are you?
 00:05:26 [[DM]]
 I will just, correct me if I'm wrong, but you know, in water or like swimming, your movement speed is halved.
-00:05:34 Varis (Vincent)
+00:05:34 [[VARIS]]:
 Yeah, unless you have swim speed.
 00:05:38 Rin (Rachel)
 Yeah, unless you're like, unless you specifically have a swim, swim speed.
-00:05:43 Varis (Vincent)
+00:05:43 [[VARIS]]:
 This is just water breathing.
 00:05:46 [[DM]]
 Yep.
@@ -695,7 +695,7 @@ I mean, my parents really didn't pay much attention to me anyways.
 So like, probably you guys would come over and hang out, but like also,
 00:24:15 Sanis (Gabe)
 The fact that whether they would recognize you or not, probably not.
-00:24:20 Varis (Vincent)
+00:24:20 [[VARIS]]:
 I say, didn't we meet one or both of them on like the night that we were there?
 00:24:26 Ogre (Chet)
 So they've at least met Ogre.
@@ -707,11 +707,11 @@ We saw the butler.
 Right, but like the night that the night that Selena died when the guild pack broke, we had seen them on the way to the Selesnian Conclave, remember?
 00:24:42 Orphie (Taylor (Me))
 No, I truly do not.
-00:24:47 Varis (Vincent)
+00:24:47 [[VARIS]]:
 Yeah, I don't think they would.
 00:24:48 Orphie (Taylor (Me))
 And I think it's been a really long time.
-00:24:57 Varis (Vincent)
+00:24:57 [[VARIS]]:
 That too.
 00:24:59 Rin (Rachel)
 It has been seven years.
@@ -1007,7 +1007,7 @@ Bet.
 As Ogre runs by, I cast guidance on him.
 00:34:31 Ogre (Chet)
 That's not gonna happen.
-00:34:31 Varis (Vincent)
+00:34:31 [[VARIS]]:
 That won't be stealthy at all.
 00:34:34 Sanis (Gabe)
 18.
@@ -1065,9 +1065,9 @@ Like, that's the...
 So let's let's stop.
 00:36:27 Orphie (Taylor (Me))
 I think I'm just stopping.
-00:36:35 Varis (Vincent)
+00:36:35 [[VARIS]]:
 I'm fine for another thirty-five minutes.
-00:36:37 Varis (Vincent)
+00:36:37 [[VARIS]]:
 I support that decision.
 00:36:41 Rin (Rachel)
 I'm not looking forward to this fight because water did not do well with fire.
@@ -1321,25 +1321,25 @@ I get 2 level 5 spells now.
 Let's fucking go.
 00:45:06 Orphie (Taylor (Me))
 I forgot we leveled up weeks ago.
-00:45:08 Varis (Vincent)
+00:45:08 [[VARIS]]:
 I did I did I even pick a new fifth level?
 00:45:13 Rin (Rachel)
 You may want to do that before next time, because that might come in handy.
-00:45:15 Varis (Vincent)
+00:45:15 [[VARIS]]:
 Because my spells are maxed out, so I must have picked something else.
-00:45:22 Varis (Vincent)
+00:45:22 [[VARIS]]:
 I think I picked the mention door.
-00:45:23 Varis (Vincent)
+00:45:23 [[VARIS]]:
 That's what I did.
 00:45:25 Rin (Rachel)
 That is a good one.
 00:45:28 Ogre (Chet)
 When you definitely don't want to have to roll for it, when you have to use it.
-00:45:34 Varis (Vincent)
+00:45:34 [[VARIS]]:
 Yeah.
-00:45:34 Varis (Vincent)
+00:45:34 [[VARIS]]:
 I mean, I don't know if I ever thought about using it prior, but yeah, if I ever want to, I definitely want to know it.
-00:45:42 Varis (Vincent)
+00:45:42 [[VARIS]]:
 Like spells that I will potentially be using on NPCs, I don't want to have to roll for.
 00:45:52 [[DM]]
 All right, cool.
@@ -1407,17 +1407,17 @@ Yeah, I'll also put down our packs.
 I assume that we're doing a packs unplugged session.
 00:47:32 Rin (Rachel)
 Yes.
-00:47:33 Varis (Vincent)
+00:47:33 [[VARIS]]:
 Okay.
-00:47:33 Varis (Vincent)
+00:47:33 [[VARIS]]:
 Yeah, like a one shot or something.
 00:47:35 [[DM]]
 Yep.
-00:47:37 Varis (Vincent)
+00:47:37 [[VARIS]]:
 Now.
-00:47:38 Varis (Vincent)
+00:47:38 [[VARIS]]:
 I was thinking about this because I have no idea where you could possibly fit in a spot that we could do some sort of like thing.
-00:47:49 Varis (Vincent)
+00:47:49 [[VARIS]]:
 Do we want to just do something totally unrelated instead?
 00:47:54 [[DM]]
 Yeah, we could do something else.

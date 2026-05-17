@@ -20,11 +20,11 @@ Orphie (Taylor)
 I am good to go.
 [[DM]]
 Okay, great. All right. So last session you guys had just popped into the simic lab after getting a tour with Carl. And in that final lab room, you guys saw Santa's parents sitting on on a die. And after a little bit of talking fought you guys.
-Varis (Vincent)
+[[VARIS]]:
 And.
 [[DM]]
-In the tubes that were there, after a little bit, some where zombie simic experiments popped up. And notably one of them was Vuthala. And after some convincing, Orphie (Taylor) managed to convince the transformed Futhala to fight with you guys instead of against you. After going through a little bit of trauma from his past, Sanis (Gabe) fought with the help of you guys, his parents, and you guys managed to kill his mom. While his dad also transformed into one of the were zombies. As the lab filled with water, and right before the water reached the top, you managed to defeat him with Ogre (Chet) capturing his soul. And on the back of Varis transformed as a dragon, you swam out of the flooded lab, after which point it had exploded. And you guys found yourselves by the end of the session above the water, looking at the exploded laboratory with Santa's dad, Inspector form hanging out with you guys. Notably, Carl did not make it out. At least he didn't pop out on the drag on on Varis (Vincent) with you guys. So yeah, Carl. I will add though that as you guys are out, how I picture it is Varis (Vincent) is kind of floating above the water with all of you guys on his back, kind of looking at the destroyed laboratory underwater, you can kind of see debris floating up to the top. In the distance you see a giant blimp in the shape of a goblin's face flying away.
-Varis (Vincent)
+In the tubes that were there, after a little bit, some where zombie simic experiments popped up. And notably one of them was Vuthala. And after some convincing, Orphie (Taylor) managed to convince the transformed Futhala to fight with you guys instead of against you. After going through a little bit of trauma from his past, Sanis fought with the help of you guys, his parents, and you guys managed to kill his mom. While his dad also transformed into one of the were zombies. As the lab filled with water, and right before the water reached the top, you managed to defeat him with Ogre capturing his soul. And on the back of Varis transformed as a dragon, you swam out of the flooded lab, after which point it had exploded. And you guys found yourselves by the end of the session above the water, looking at the exploded laboratory with Santa's dad, Inspector form hanging out with you guys. Notably, Carl did not make it out. At least he didn't pop out on the drag on on VARIS with you guys. So yeah, Carl. I will add though that as you guys are out, how I picture it is VARIS is kind of floating above the water with all of you guys on his back, kind of looking at the destroyed laboratory underwater, you can kind of see debris floating up to the top. In the distance you see a giant blimp in the shape of a goblin's face flying away.
+[[VARIS]]:
 Do we know any like goblin?
 Sanis (Gabe)
 Is that the mothership?
@@ -45,16 +45,16 @@ Oh, fantastic. You guys all see.
 Orphie (Taylor)
 It was fantastic.
 [[DM]]
-You guys all see. As this giant goblin blimp flies away, I will say Varis (Vincent) on that 14, you look a little bit closer at the blimp and you do notice that there are cannons mounted to the bottom of it. And as it floats away towards the Izzet Guild in that direction, it. This face looks so familiar to you guys, but you can't quite put your finger on it.
+You guys all see. As this giant goblin blimp flies away, I will say [[VARIS]]: on that 14, you look a little bit closer at the blimp and you do notice that there are cannons mounted to the bottom of it. And as it floats away towards the Izzet Guild in that direction, it. This face looks so familiar to you guys, but you can't quite put your finger on it.
 Orphie (Taylor)
 Who's a goblin? That one, you know.
-Varis (Vincent)
+[[VARIS]]:
 You said it's going back towards the is it guild.
 [[DM]]
 Yeah. I will just give you also that the high school that you went to, 10th Street High, is also in that direction. As well, as 10th street, the main marketplace district in Ravnica.
 Ogre (Chet)
 Yeah, that's just the one place we met a goblin.
-Varis (Vincent)
+[[VARIS]]:
 I mean, is. Is the guy is a goblin, like the mascot for the school or something?
 [[DM]]
 I mean, it is a mascot for the school. Okay, you don't. You don't recognize it as.
@@ -70,7 +70,7 @@ Sanis (Gabe)
 Oh, there's a thread for it? Yeah, there is. Holy. Oh, sweet.
 [[DM]]
 So you guys are in Zonet 7, and you see that the blimp, the goblin blimp is floating its way over towards Tit Street.
-Varis (Vincent)
+[[VARIS]]:
 Where are we at? Did you say? Oh, zone out seven. Okay.
 [[DM]]
 M. Okay.
@@ -88,7 +88,7 @@ Ogre (Chet)
 I thought I wrote his body up.
 [[DM]]
 I thought you wrote.
-Varis (Vincent)
+[[VARIS]]:
 You were standing on it before we left. But yeah, I did.
 Ogre (Chet)
 A hole in the ceiling.
@@ -148,7 +148,7 @@ Orphie (Taylor)
 Did I win?
 [[DM]]
 No, not quite.
-Varis (Vincent)
+[[VARIS]]:
 Not yet.
 Sanis (Gabe)
 Winning DND is like winning therapy. You can't do it.
@@ -226,7 +226,7 @@ I love that for you.
 Thank you. I love big balls. I love big balls.
 Orphie (Taylor)
 And I cannot lie, is actively concerned that he's gonna sit on himself one day.
-Varis (Vincent)
+[[VARIS]]:
 I mean, don't we all?
 Sanis (Gabe)
 I wouldn't know. The beauty of it. I don't even get caught in my zipper. Haha.
@@ -244,15 +244,15 @@ I wish I have. I mean I haven't smoked weed in like over a year.
 Oh.
 Orphie (Taylor)
 Oh, I take that back. I smoked at packs. But no, not here. Not like. Not on the reg like I used to.
-Varis (Vincent)
+[[VARIS]]:
 Is that at the cabana?
 Orphie (Taylor)
 Yeah, me and Curtis were smoking at the cabana the whole weekend.
-Varis (Vincent)
+[[VARIS]]:
 Nice.
 [[DM]]
-I'll say. You know, Varis (Vincent), you and Ogre (Chet) Lord Raylana's corpse eventually float over to the docks on which you met Carl. And yeah you Varys actually see a shadow kind of form in front of you and then out of the shadow you see Benji.
-Varis (Vincent)
+I'll say. You know, [[VARIS]]:, you and Ogre (Chet) Lord Raylana's corpse eventually float over to the docks on which you met Carl. And yeah you Varys actually see a shadow kind of form in front of you and then out of the shadow you see Benji.
+[[VARIS]]:
 So where the hell have you been?
 [[DM]]
 He goes. It has been crazy. First off, good to see you again. The Dimir Guild, I don't know if you. If you caught before I left has been in complete chaos since y' all crashed our information network. And so we have gone through a leadership change and now we don't actually have a leader. We have a bunch of people that are governing the day to day operations. But now without our information network. So that has been a lot of fun. You know, you Would you Would? Yes, kind of. But an information spy assassination at work network is not run great through a democracy. So we've been running into some issues. However, I am letting you guys know that I have become part of the Inner Circle. That is. That's what we're calling it, by the way, the Inner Circle. It very not my decision. I guess my dissenting vote didn't count much towards it. But it's called the Inner Circle, so. Yep.
@@ -264,7 +264,7 @@ Orphie (Taylor)
 I'll get back to you on that.
 [[DM]]
 Great. So I just came by to let you guys know that we are still working things out in the Dimir Guild. And if you were hoping for any kind of information or clandestine operations, it might be a little bit tough.
-Varis (Vincent)
+[[VARIS]]:
 I mean. So. Okay, so this is kind of Vincent asking a question. What are we. Why did we go here again? I don't remember.
 [[DM]]
 Two things. You went because a Phonexa sensed that there was some experiments going on being done to her were zombie brethren and sisters over in the Simic Guild. 2. You were supposed to find the Immortal Sun in the laboratory. You did not find the Immortal Sun in the laboratory. During the encounter last session, you also. The lab exploded. You guys didn't cause the explosion.
@@ -272,15 +272,15 @@ Orphie (Taylor)
 Oh, that's right, we didn't.
 [[DM]]
 Yep.
-Varis (Vincent)
+[[VARIS]]:
 So. I mean, at least we didn't like fail to do our job. Some stitches kind of went down, So I'll ask benji. Even so, with your network down with that, have you been able to get any word on the immortal Sun? Do you have any idea what's going on there?
 [[DM]]
 Oh, last I saw you guys, you guys were looking for it, right?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, still are.
 [[DM]]
 The last intel that I had was that. And he points over to the now destroyed lab. It was there.
-Varis (Vincent)
+[[VARIS]]:
 So we weren't able to look.
 Orphie (Taylor)
 Either destroyed or it's not there anymore.
@@ -292,7 +292,7 @@ Sanis (Gabe)
 Right, but is it a reputable source? Can we trust this person?
 [[DM]]
 Oh, it's not a person. It's people. And well, you know, and. And the Dimir Guild doesn't discriminate. Humanoids. Humanoids as well. The undead Inspectors. Am I missing anyone? Anyways, we have our sources. And that was the intel that we had before the network went down. Well, so you guys were there and you didn't see the Immortal Sun?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, we got into a bit of a Conflict with Santa's parents. And then the whole place came down.
 [[DM]]
 Oh, I assume. And he points at the spectre. That is your dad.
@@ -310,7 +310,7 @@ Ogre (Chet)
 I unpacked it.
 [[DM]]
 He looks off into the distance, and he actually takes, like, a pair of binoculars and he goes, That. Is that Cranko's blimp?
-Varis (Vincent)
+[[VARIS]]:
 Franco.
 [[DM]]
 Yeah, you get actually when he mentions Krenko. You guys do know who Krenko is? Preco is the goblin mob boss that sent you on the quest to go find the Sword of Feast and Famine five years ago.
@@ -318,7 +318,7 @@ Sanis (Gabe)
 Is that the head that we saw as a.
 [[DM]]
 Now that he. Now that. Benji says. So you guys instantly recognize that that blimpse goblin visage is Krenko's face?
-Varis (Vincent)
+[[VARIS]]:
 Oh, I mean, yeah, I guess. So what's. What's he up to?
 [[DM]]
 Benji? Benji Face palms. And he looks over, and he sees that Rin is currently passed out, and he goes, I see your brains have fallen asleep today. Do I have to sleep right now? Exactly the. Never mind.
@@ -330,11 +330,11 @@ Orphie (Taylor)
 Yeah.
 [[DM]]
 Oh, dear. I see cannons on that blimp. He. By he, I mean Krenko. Probably came over and was the one that exploded the laboratory.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, that's what I kind of figured.
 [[DM]]
 The immortal Sun. After seeing that, it's probably on that blimp.
-Varis (Vincent)
+[[VARIS]]:
 Oh, you think they had their own mission down there?
 [[DM]]
 If I was a bed man, which I'm not, I would bet that that artifact is on that blimp right now.
@@ -354,43 +354,43 @@ Orphie (Taylor)
 A guy looking at a guy, asking.
 [[DM]]
 Him to love him, who is now part of the inner circle of the Dimir Guild. So I'll let you guys sit with that. And I'm gonna go and try and calm. Further calm things down over at the Guild. So I will see you guys later. Oh, weird flex, but okay.
-Varis (Vincent)
+[[VARIS]]:
 You're so. You're Whatever magic you use to, like, move around. Are you able to take someone with you?
 [[DM]]
 Oh, yeah. Don't you remember? We went from the Rakdos Guild and. Oh, yeah.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, that's right.
 [[DM]]
 Yeah.
-Varis (Vincent)
+[[VARIS]]:
 All right.
 [[DM]]
 So I guess you guys want to ride?
-Varis (Vincent)
+[[VARIS]]:
 Well, I mean, I. I can take us for any. To go. I got. I got this. This buddy. Our buddy here and Vufala. You said once he, like, passed out, he's, like, back to normal, right?
 [[DM]]
 Yeah. We.
-Varis (Vincent)
+[[VARIS]]:
 We should probably take him somewhere, right? Guys? We can't just babysit him.
 Sanis (Gabe)
 We can send him. We. We can send him to Selesnya Conclave.
-Varis (Vincent)
+[[VARIS]]:
 That's. That's what I was thinking.
 Sanis (Gabe)
 Yeah. Let's do that. I think that's a good idea.
-Varis (Vincent)
+[[VARIS]]:
 You think you can take him to Sleznia for us?
 [[DM]]
 That's your thing. Yeah. Who is this guy, by the way?
-Varis (Vincent)
+[[VARIS]]:
 His name is. He's actually from Ixalan. Don't know how he got here, but. Well, we know him. He's currently one of the, like, the Were zombie things.
 [[DM]]
 I see. Like that. And he. He points at Sanders's dad's corpse.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. So I see.
 [[DM]]
 Well, if I had to say something, I. I would think that what we. This guy here, if he's from Ixalan, is probably a planeswalker.
-Varis (Vincent)
+[[VARIS]]:
 Well, he is now. I don't think it was before.
 [[DM]]
 Well, if he is. If he planeswalked to this plane. Yeah. Since, as I understand it, all planeswalkers were called to this plane and immediately planeswalked here.
@@ -418,7 +418,7 @@ Ogre (Chet)
 Same.
 [[DM]]
 Nice one, Ogre (Chet).
-Varis (Vincent)
+[[VARIS]]:
 Thank you. Well, I. I think for right now, the best place for Methala is the Conclave. They can take care of them.
 [[DM]]
 All right. All right. I'm only going to ask this one more time. Do you need anything else from me?
@@ -428,7 +428,7 @@ Sanis (Gabe)
 I mean, do you have any healing potions?
 [[DM]]
 You don't. Don't you guys have money?
-Varis (Vincent)
+[[VARIS]]:
 No.
 [[DM]]
 Can't You.
@@ -486,13 +486,13 @@ That was in and out of character.
 Okay, bye. And you see, he takes another couple steps back and darkness surrounds him. And Vala. And he's gone.
 Orphie (Taylor)
 You know what's really funny is that he's probably still standing there, because he's actually an. Who just kind of hides in the shadows and avoids having to do Do I see. And I hope you heard me say that.
-Varis (Vincent)
+[[VARIS]]:
 I have. I have blind sense. So, like, is he there?
 [[DM]]
 Blind. Whatever. Yeah, you, Horace, you. You see that he's there. And. But before he actually leaves, he goes, is Orphe always like this? And then he's gone.
 Orphie (Taylor)
 He's literally known me just as long as everybody else.
-Varis (Vincent)
+[[VARIS]]:
 So I know we should probably go after that blimp, but Santa's is almost dead, and I think we're pretty wiped otherwise.
 Ogre (Chet)
 Yeah, I think we're all pretty. Almost dead. Except for Orpheus.
@@ -502,21 +502,21 @@ Sanis (Gabe)
 Actually, can we, like, take a nap or something?
 [[DM]]
 I mean, take a short rest.
-Varis (Vincent)
+[[VARIS]]:
 Well, you Guys could theoretically take a short rest while I fly.
 Ogre (Chet)
 How long would it take us?
-Varis (Vincent)
+[[VARIS]]:
 Well, I mean, an hour.
 Sanis (Gabe)
 No, I mean like how long is it going to take us to go where we. Where we need to go?
-Varis (Vincent)
+[[VARIS]]:
 Where.
 Sanis (Gabe)
 Where are we going?
 [[DM]]
 Like half hour.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. So I was gonna say like, we could just simply follow the blimp maybe from a distance and see where they go.
 [[DM]]
 I will just add, you do know where Krenko's hideout is. At least you know where it it was five years ago. Give me anyone that would like to give me an insight check.
@@ -546,17 +546,17 @@ Ogre (Chet)
 You might need a long rest. I don't think.
 [[DM]]
 Spell slots.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, I was. Well, yeah, so I was gonna say if we could find out where the blimp goes and then when we know that, then we can just go away and long rest because. Yeah, we can't do anything today. Okay. I. I've blown most of my spells too. Yeah.
 Orphie (Taylor)
 Yeah, me too.
 [[DM]]
-Okay, so. So you guys gonna hop on Varis (Vincent) and fly over and try and chase the blimp?
-Varis (Vincent)
+Okay, so. So you guys gonna hop on [[VARIS]]: and fly over and try and chase the blimp?
+[[VARIS]]:
 Yeah, so I'm gonna go like higher in the sky than them and say at a very safe distance away.
 [[DM]]
-I mean, really at this point. You guys have been talking for a while. The blimp is like more than three quarters of its way to its destination. So you go up and. And try and follow and you can see where it's going from a distance. All right, so Varis (Vincent), you take up. Take to the skies. The four of you guys, the Specter of Sinus's dad Rin. And you, like I had said before, see that the blimp was headed towards the izzet guild and 10 street. And you see that the blimp goes to a large landing pad area on Tin Street. The ground kind of unfolds up. The blimp slowly descends into this hole that just opened up and then closes above it. The.
-Varis (Vincent)
+I mean, really at this point. You guys have been talking for a while. The blimp is like more than three quarters of its way to its destination. So you go up and. And try and follow and you can see where it's going from a distance. All right, so [[VARIS]]:, you take up. Take to the skies. The four of you guys, the Specter of Sinus's dad Rin. And you, like I had said before, see that the blimp was headed towards the izzet guild and 10 street. And you see that the blimp goes to a large landing pad area on Tin Street. The ground kind of unfolds up. The blimp slowly descends into this hole that just opened up and then closes above it. The.
+[[VARIS]]:
 The.
 [[DM]]
 The kind of floor that. That pulled out, closes back over once the blimp has descended below the ground. And you see that it's part of Tin street that is a little bit more built up. You see that there are more, instead of two story and three story buildings around. This area is filled with like five, six story buildings, kind of more fancy architecture on this part of Tin Street.
@@ -564,23 +564,23 @@ Sanis (Gabe)
 But.
 [[DM]]
 Weirdly, there is enough space for an entire blimp kind of. You know, I'd say maybe it's more of like an oversized hot air balloon. Enough space for it to descend into the ground through a hole.
-Varis (Vincent)
+[[VARIS]]:
 Is there any. Any of the buildings around that spot? Was there anything.
 [[DM]]
 You see that one of the buildings has Krenko's face on it. It's kind of like set back, like the base of the building. It's like maybe, I would say 15, 20 stories. Pretty big. Stands out way above the other buildings around it and kind of has a setback architecture design with big base and then, you know, multiple setbacks. And then at the very top is Krenko's face, Goblin visage, smiling a crazy smile out at everyone below him.
-Varis (Vincent)
+[[VARIS]]:
 I apologize. I didn't catch any of that because my headset's being stupid tonight. Can I get a recap?
 [[DM]]
 That's. That's fine. It's a big building with his face on top of it.
-Varis (Vincent)
+[[VARIS]]:
 Gotcha. Okay, that's probably going to keep happening. That's like the fourth or fifth time my headset just completely disconnects from my computer.
 Orphie (Taylor)
 Is it old? Do you need a new one?
-Varis (Vincent)
+[[VARIS]]:
 It is fairly new. That's the only part. So I guess I'm have to contact Logitech.
 Sanis (Gabe)
 I was say, it's like, do you have. If you have the warranty, you can get him replaced?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, I have to look up. I got on Amazon, so.
 [[DM]]
 But yeah, that's what you see. You see where the blimp ascended below ground and you see that one of the very tall buildings that's in front of it has Krenko's face on it.
@@ -593,16 +593,16 @@ Mm, maybe. Maybe there's a reference here. Who knows?
 Sanis (Gabe)
 Is there a. Is there a set of buildings or somewhere nearby that we can kind of, like, touch down inconspicuously and, like, hide and rest?
 [[DM]]
-Yeah, you don't even have to roll for that. I'll say that. Yeah, there. There are. There's a. There's a couple of buildings that has a big enough roof. Flat roof for Varis (Vincent) to just kind of perch on. What do you guys do?
+Yeah, you don't even have to roll for that. I'll say that. Yeah, there. There are. There's a. There's a couple of buildings that has a big enough roof. Flat roof for [[VARIS]]: to just kind of perch on. What do you guys do?
 Sanis (Gabe)
 I say. I. I tell viruses, like, hey, we should touch down over in that direction. And I, like, point towards a building that's maybe a quarter mile away, just so we can still see but not be too close to draw attention.
-Varis (Vincent)
+[[VARIS]]:
 Sure. Do we want to, like, just. I mean, I think we need to finish our short rest, but, like, do we want to just actually rest up on this rooftop or, like.
 Sanis (Gabe)
 Yeah, I think we should take turns resting. I only need four hours of meditation, so.
 [[DM]]
 I mean, you guys. Oh, you guys are gonna long rest here.
-Varis (Vincent)
+[[VARIS]]:
 All right. That's what I'm asking.
 Sanis (Gabe)
 I. I think we should. But, I mean, we can put it up to a vote for the group.
@@ -612,21 +612,21 @@ Sanis (Gabe)
 Out in the open.
 Orphie (Taylor)
 Get destroyed in the war.
-Varis (Vincent)
+[[VARIS]]:
 That'S in the middle of the war zone. Plus, didn't it also explode after we left?
 Ogre (Chet)
 I forgot about that.
 [[DM]]
 Yeah. Clarissa did flee with what was left of Ogre (Chet)'s Tavern to this listener. Yeah.
-Varis (Vincent)
+[[VARIS]]:
 Now on this rooftop, like, I can land there, but, like, I'm blatantly visible, right?
 [[DM]]
 Oh, yeah. Oh, yeah. You see that people are on the streets, and they're, like, all pointing at you. You see a crowd gathering beneath the building that you're perched on, and everyone is just, like, pointing. And you see everyone's, like, sending stones, like, out, and people are speaking into them. Okay, change back.
-Varis (Vincent)
+[[VARIS]]:
 I power down.
 [[DM]]
 You power down.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Sanis (Gabe)
 I'm, like, tapping his back while I'm on it. Right before he powers on. Change.
@@ -636,7 +636,7 @@ Sanis (Gabe)
 Too much attention.
 [[DM]]
 All right, you power down, and now you are a little bit less conspicuous. But people still spotted you up there. Yeah.
-Varis (Vincent)
+[[VARIS]]:
 So, I mean, Orphie (Taylor) and Ogre (Chet), any objections to just camping out here?
 Orphie (Taylor)
 No.
@@ -644,7 +644,7 @@ Ogre (Chet)
 Let's do it.
 Sanis (Gabe)
 All right, so who's taking first watch? I mean, I don't mind doing it, but.
-Varis (Vincent)
+[[VARIS]]:
 But you're. You're dead. So you should probably take your. Take your nap.
 Sanis (Gabe)
 All right. Four hours. Tall end.
@@ -652,11 +652,11 @@ All right. Four hours. Tall end.
 Me.
 Ogre (Chet)
 Cool.
-Varis (Vincent)
+[[VARIS]]:
 If you can hear me, Headset's going again, so that's great.
 [[DM]]
 Yep.
-Varis (Vincent)
+[[VARIS]]:
 Hold on.
 Ogre (Chet)
 By the way, ghost dad is following us around. We have him for 24 hours or until he dies again.
@@ -668,7 +668,7 @@ Orphie (Taylor)
 Can you hear me?
 [[DM]]
 Yes. All right, cool.
-Varis (Vincent)
+[[VARIS]]:
 I'm just using no headphones today. All right.
 [[DM]]
 Sinus. What'd you say?
@@ -698,7 +698,7 @@ Who's asking?
 Just a messenger. Just here to give you a letter.
 Orphie (Taylor)
 Drop it.
-Varis (Vincent)
+[[VARIS]]:
 Go.
 [[DM]]
 Oh, okay. And you see that she takes the letter from under. Under her arm and she just. Okay, do you. Do you want me to just drop it here? You want me to give it like. It's pretty windy up here. It's. It's. It's gonna. It's gonna fly away. It's pretty windy up here.
@@ -788,7 +788,7 @@ Sanis (Gabe)
 It's giving uglier Lord Farquaad, honestly.
 [[DM]]
 Hey guys. He's a goblin. Yeah, I don't know what you guys are expecting. He's a goblin. He's a underhanded goblin that just possibly took something that you guys wanted.
-Varis (Vincent)
+[[VARIS]]:
 Hot NPCs all the time.
 [[DM]]
 But. All right, Orphie, you pass the shift on to Sanus and Sennis. It is your time to look after your comrades. There anything specifically that Sennis would be looking out for? For as you are on top of this, I say it's like 10 story building.
@@ -802,7 +802,7 @@ Okay, cool, cool, cool, cool.
 And your father is also just. Where. Where would Santa start out his shift?
 Sanis (Gabe)
 I wake up, stretch, take the letter from Morphe, read it, kind of just nod my head and then I walk over towards like maybe a foot and a half from the edge of the building. Building and just kind of look over down and then kind of just look over across the skyline, I guess. And. And then just walk back to like where everybody's resting and kind of just find like a spot to just perch up on and just keep my. My wits about me. I. I mean I. I want to keep an eye out, but I want to do. I mostly want to keep an ear out before I see anything.
-Varis (Vincent)
+[[VARIS]]:
 Okay.
 Ogre (Chet)
 You're.
@@ -834,7 +834,7 @@ Sanis (Gabe)
 I. I kind of just like try to ignore him. But if he stands there for more than like two minutes, I like, like, what do you want?
 [[DM]]
 I desire nothing from you, son.
-Varis (Vincent)
+[[VARIS]]:
 I.
 [[DM]]
 Have just been summoned here to be nice and protect you. So that is what I am here to do.
@@ -886,7 +886,7 @@ Seventeen.
 Okay. Seventeen is good, but not quite good enough. So your. Your dad's kind of creeping you out a little bit. So you take some steps closer to the edge of the building to see if looking out at something might help you ignore the fact that your dad is being very creepy right now. And you see, like, you know, other than the regular activity That I explained before going on on Tin street like people shopping and whatnot. You see a figure dart into Krenko hq. You see a figure moving with the shadows, move past some of the guards that are there, and skulk through the doors. The. The back doors to Krenko hq. You don't make out who it is?
 Sanis (Gabe)
 Can I make out the size of them? Like their stature?
-Varis (Vincent)
+[[VARIS]]:
 Like.
 [[DM]]
 Yeah, I would say. What are the sizes?
@@ -925,7 +925,7 @@ Galavanting. Whoa, that's some interesting there. I passed that on.
 [[DM]]
 Yeah. And yeah, so your shift ends and I'd say it's like pretty early morning. Like, like 6:30 in the morning at this point. And you guys all wake up, long, rested.
 Sanis (Gabe)
-I. I immediately hand the letter that Orphe handed me at the beginning of shift to Varis (Vincent). And then I, as I'm doing so, I kind of just recap, like what I saw last night outside of Krakos.
+I. I immediately hand the letter that Orphe handed me at the beginning of shift to [[VARIS]]:. And then I, as I'm doing so, I kind of just recap, like what I saw last night outside of Krakos.
 [[DM]]
 You want to post the. You know what? I'll post it if you're going to share it with everyone. Yes.
 Sanis (Gabe)
@@ -934,11 +934,11 @@ It's good guys. It's real good.
 All right.
 Sanis (Gabe)
 I can't think of what we've taken from him.
-Varis (Vincent)
+[[VARIS]]:
 He wants the sword, which is now no longer a thing.
 Orphie (Taylor)
 Yeah, breakfast people.
-Varis (Vincent)
+[[VARIS]]:
 So I don't know how we're gonna deal with that. That'd be interesting.
 Orphie (Taylor)
 Do we have a problem giving him the sword? Don't we Hate it.
@@ -952,7 +952,7 @@ Isn't. Isn't the hilt part of which.
 That's what we use.
 Ogre (Chet)
 We don't really need to.
-Varis (Vincent)
+[[VARIS]]:
 Oh, you don't actually, like, need that?
 Ogre (Chet)
 Well, it just summons to my hand anyway.
@@ -968,33 +968,33 @@ Sanis (Gabe)
 It was fun while it lasted.
 Orphie (Taylor)
 It really was.
-Varis (Vincent)
+[[VARIS]]:
 Trying to see if there's any way through magic that I can, like, I don't know, like, bullshit our way through this. I don't. I don't think it can do anything.
 Sanis (Gabe)
 Well, can't you make with prestidigitation. Can't you do, like, a. An image?
-Varis (Vincent)
+[[VARIS]]:
 I can make, like, a trinket or something.
 Sanis (Gabe)
 Not the blade to go off of the hilt that we already have.
 Ogre (Chet)
 Even minor illusion would require that to be stationary.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, I would say, like. And, like, we would have to hand it to him, so I don't. I don't think anything is gonna work like that.
 Ogre (Chet)
 It's fine.
 Sanis (Gabe)
 I'm out of ideas.
-Varis (Vincent)
+[[VARIS]]:
 So. And I guess not to be like, metagamy. Talk about table. I'll just ask Ogre (Chet). So, like, do you need that to, like, make your sword thing work? With which.
 Ogre (Chet)
 I don't know. We can give it to him if he. What he wants.
-Varis (Vincent)
+[[VARIS]]:
 You sure?
 Orphie (Taylor)
 I think he'd probably be better off asking, which directly.
 Ogre (Chet)
 You'd be much better off not putting in his head the thought that he might have to lie about later.
-Varis (Vincent)
+[[VARIS]]:
 Okay, I guess. Do we just go in there and give it to him then?
 Ogre (Chet)
 Sure.
@@ -1006,7 +1006,7 @@ While they're doing it straight on, I want to stay on the roof and do it stealth
 So the roof that you guys long rested on is, like, 10 stories. Krenko HQ is like, 20, 25 stories.
 Sanis (Gabe)
 Son of a beast. Okay.
-Varis (Vincent)
+[[VARIS]]:
 Damn.
 [[DM]]
 Yeah.
@@ -1020,7 +1020,7 @@ Sanis (Gabe)
 Might as well.
 [[DM]]
 Okay, so with the intent of delivering the Sword Hilt of the Sword and Feast of Pammon to Krenko. You guys approach, approach the front door of Krenko HQ and you're greeted by a familiar face at the front door.
-Varis (Vincent)
+[[VARIS]]:
 A.
 [[DM]]
 Red headed guard with a vest on. And she goes, oh, I see some familiar faces. What brings you here today?
@@ -1052,19 +1052,19 @@ Ogre (Chet)
 Yeah, big business.
 [[DM]]
 Vars.
-Varis (Vincent)
+[[VARIS]]:
 I'm not used to doing that. We're here to see Cranko.
 [[DM]]
 Oh, you're here to see the big boss. Yeah. You guys have a. Some kind of letter, something like that?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, yeah, we were given a letter. He is expecting us.
 [[DM]]
 Okay then. Well, do you mind if I see it?
-Varis (Vincent)
+[[VARIS]]:
 Sure, I'll hand it to her.
 [[DM]]
 All right. She takes it and she goes. Okay. All right then. Looks like we're square here then just go inside and take the elevator down to. To the ninth floor. Well, ninth down under, that is. Okay.
-Varis (Vincent)
+[[VARIS]]:
 Okay.
 Orphie (Taylor)
 How are you Australian in Ravnica?
@@ -1102,25 +1102,25 @@ Ogre (Chet)
 Yeah, it's right here.
 [[DM]]
 All right, you show the sword hilt and she says yes. Okay, can you please place it on the. On the table over there? And you see that next to her massive desk that she is towering over you guys with. It's kind of quite comical as she's a very tiny goblin. Massive desk and a teeny tiny small table that's at the bottom of it. Yeah, that'd be easy.
-Varis (Vincent)
+[[VARIS]]:
 Well, hold on, Ogre (Chet). We were here.
 Ogre (Chet)
 Question.
-Varis (Vincent)
+[[VARIS]]:
 We're here to perform a trade, something that we're looking for.
 [[DM]]
 I. I'm not really sure what you're referring to.
 Orphie (Taylor)
 He does though, so. That's fine. Just ask him.
-Varis (Vincent)
+[[VARIS]]:
 We can give that directly to Cranko himself.
 [[DM]]
 Oh, no.
-Varis (Vincent)
+[[VARIS]]:
 Well.
 [[DM]]
 Oh, Cranko is a very, very busy man, you see. As the CEO of Krenko Incorporated, he doesn't really have time to take meetings like this. So that. That's why I'm here. So if you could please kindly submit the hilt here and we can move on to. Move on. Move on with our business here.
-Varis (Vincent)
+[[VARIS]]:
 Well, I mean, if you don't know the thing that he has that we're looking for and how.
 [[DM]]
 Well, you're gonna have to be more specific on what you're looking for. You See, Krenko deals in many things, wants many things, sells many things.
@@ -1130,11 +1130,11 @@ Listen, he's about to deal with these hands if you don't give up the thing we're
 And you see that she has her button or her hand, her finger over a big red button, and she goes. I. I wouldn't do that if I were you.
 Orphie (Taylor)
 We're not gonna hurt you. We're just saying he knows. He. He asked us to come here. So Cranko is impeccable for payment.
-Varis (Vincent)
+[[VARIS]]:
 He's in recent possession of a important artifact that we want.
 [[DM]]
 Krinko is in recent possession of many artifacts. Recently.
-Varis (Vincent)
+[[VARIS]]:
 I mean, recent as in like the last 12 hours.
 [[DM]]
 Okay, are we. Are we. Are we talking about the Temporal Spear? Are we talking about the grandfather clock of time? Are we talking about the Hell Spear? Are we talking about the Immortal Sun? Are we talking about the. Is it signet? What are we talking about here? Oh, you're talking about. Okay, well, let. Let me. Let me check my records here. And then you see that she turns, hits another button. And you see that a little. Is it. Ethereal projection screen comes up and she types a couple of things into it. She's just. Okay, I see here that. Oh yes, the Immortal sun will be auctioned tonight to the highest bidder.
@@ -1214,7 +1214,7 @@ Sanis (Gabe)
 Just heavily sigh and like turn on my heel and walk. Like start to walk towards the door.
 [[DM]]
 Okay, you guys all head out. I think so I guess I know.
-Varis (Vincent)
+[[VARIS]]:
 We'Re in business here.
 Ogre (Chet)
 All right. Planning a heist for later though.
@@ -1264,7 +1264,7 @@ Yeah. So remember I kept suspecting that they were actually the evil ones the wh
 And we were tricked.
 Orphie (Taylor)
 Okay.
-Varis (Vincent)
+[[VARIS]]:
 All right.
 Ogre (Chet)
 Time to plan a heist.
@@ -1272,7 +1272,7 @@ Time to plan a heist.
 All right, you guys make it to the ground level once again. And before as you guys leave, you make eye contact with Rekka and she. She winks at you guys before you guys leave.
 Sanis (Gabe)
 She wants it. She wants him so convinced.
-Varis (Vincent)
+[[VARIS]]:
 I. I forget which one was which was she the one that I took the book from that had like her little office there?
 [[DM]]
 No, that was Saskia. Okay, yeah, like, yeah, she, Sasuke was the one that had like the little office, the little couch in which she was reading smut. You stole the book?
@@ -1286,7 +1286,7 @@ I'm back by the way.
 Everyone good to go?
 Orphie (Taylor)
 Yes.
-Varis (Vincent)
+[[VARIS]]:
 All right.
 [[DM]]
 Very cool. Very cool. All right, so we are back at the ground level of Krenko hq. Before you guys had the doors closed, the elevator up, you guys had at least Santa's had seen. A surreptitious stealthy narset in the rafters on the negative ninth floor. Peering into the elevator right before the doors closed and you guys went up and as you guys exited Krenko hq, you notice that Rekha made eye contact with you guys and just gave you a wink as you. You left.
@@ -1312,7 +1312,7 @@ Orphie (Taylor)
 I only know that because I have a channel that's on the Samsung tv. That's like not cable. It's just free that goes between random animes and sometimes it's Hunter X Hunter and sometimes it's JoJo's.
 Ogre (Chet)
 JoJo's is great. Anyway, well, should we go talk to our. Our friend who lives in the sewers to see if they know anything about stuff going on underground?
-Varis (Vincent)
+[[VARIS]]:
 Mean Steve.
 Sanis (Gabe)
 Let's just ask Steve.
@@ -1326,7 +1326,7 @@ Ogre (Chet)
 I remember that. Right, I lost my notes.
 [[DM]]
 Let me. Let me double check that that is her name.
-Varis (Vincent)
+[[VARIS]]:
 Not a bad idea, I guess.
 Ogre (Chet)
 Hold on. Gertie's being annoying.
@@ -1334,7 +1334,7 @@ Hold on. Gertie's being annoying.
 Ava. It was Ava. Her name was Ava.
 Orphie (Taylor)
 Yeah, well, it's Anya now.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Ogre (Chet)
 How dare you?
@@ -1348,7 +1348,7 @@ Orphie (Taylor)
 Missed this session and.
 [[DM]]
 And the party was not phased at all. So she got fed. Ava got fed up and finally was like, okay, it. I'm. You guys are not annoyed now I'm annoyed. I'm a dragon. I will leave you to my horde and I will explain the whole situation.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 [[DM]]
 And then we.
@@ -1364,7 +1364,7 @@ Ogre (Chet)
 And then I'm pretty sure Ava was mad at us and said that what we were doing was grosser than anything that she had ever done to anyone.
 [[DM]]
 Yep. Yep, yep. Yeah. That is correct. Yep.
-Varis (Vincent)
+[[VARIS]]:
 We got. We got magic though. It's all good. No one will know. Yeah.
 [[DM]]
 The gold eggs come from this is the encounter that happened like five years ago before the time travel shenanigans on Tarkir. So you know, you know and you remember where he was leading to her horde is, but you don't know if it's the same or not.
@@ -1372,7 +1372,7 @@ Ogre (Chet)
 It could be a gold dragon by now. Let's stop over and say hi. We're in the same neighborhood, right?
 [[DM]]
 Sure are.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, under 10th Street.
 Orphie (Taylor)
 Wait, so did this end with her liking us?
@@ -1382,25 +1382,25 @@ Yeah.
 Yes, we.
 Ogre (Chet)
 That's who gave us the goose that lays the golden eggs.
-Varis (Vincent)
+[[VARIS]]:
 Like the fake gold eggs.
 Ogre (Chet)
 Gold Goo eggs?
 [[DM]]
 Yep.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Ogre (Chet)
 All good eggs are full of Gold Goo.
-Varis (Vincent)
+[[VARIS]]:
 But I mean, yeah, that's. That's not a bad idea. I wouldn't really know what to do right now, so.
 Sanis (Gabe)
-Yeah, I think that's gonna be our best bet. I don't know if. I mean, we can try to talk to other contacts. You want to try to reach out to Benji Varis (Vincent). And while we wait for his response, we can go.
+Yeah, I think that's gonna be our best bet. I don't know if. I mean, we can try to talk to other contacts. You want to try to reach out to Benji [[VARIS]]:. And while we wait for his response, we can go.
 Orphie (Taylor)
 Let me wait for his response. He's right there.
 [[DM]]
 That guy.
-Varis (Vincent)
+[[VARIS]]:
 So reaching out. So like, that was an idea that I had. So, like, maybe we don't even need to worry about heisting. Like, who could we talk to to that could help us just buy it. Like, just go to the auction and buy it.
 Orphie (Taylor)
 Make Benji get it with this stealthy rogue ass.
@@ -1418,11 +1418,11 @@ Sanis (Gabe)
 Yeah, I want to know if I get my inheritance because, like, if so, it'd be extremely helpful in this moment.
 Orphie (Taylor)
 Oh, honey, you're not giving.
-Varis (Vincent)
+[[VARIS]]:
 Is Santa's gonna be the party sugar daddy?
 [[DM]]
 Let me roll some dice here.
-Varis (Vincent)
+[[VARIS]]:
 Did they maybe still love their son just a little bit?
 Ogre (Chet)
 I'm just. I'm keeping a log of the questions you have not asked. I'll tell you once he's gone.
@@ -1446,7 +1446,7 @@ I see. I see it. That makes sense. I mean, I wouldn't want to deprive her of som
 No, there is no hidden stash. I call once, once the lawyers are received information of my passing, then. Well, the estate itself, of course, is going to Nebraska. The physical property. But the, shall we say, savings are going to both you and your sister, Right?
 Sanis (Gabe)
 So, like, damn, I keep forgetting this has all been the same week, man. It's only yesterday.
-Varis (Vincent)
+[[VARIS]]:
 Like, the same day, basically.
 Orphie (Taylor)
 Your parents actually still love you or something?
@@ -1456,7 +1456,7 @@ Orphie (Taylor)
 Ah.
 Sanis (Gabe)
 So they just want to be set up for when that time comes.
-Varis (Vincent)
+[[VARIS]]:
 So that's probably not a today thing for your inheritance.
 Sanis (Gabe)
 Highly unlikely. But I mean, it was worth a shot, so there's that.
@@ -1476,23 +1476,23 @@ Ogre (Chet)
 Well, don't we want to defeat them anyway? Why don't we go beat them up, get the house, and then we trade the house for the sun, and then we can train the sun for the moon. And then I'm just going to start going off on a long. Absolutely unhelpful.
 Orphie (Taylor)
 Well, that was. So my thought was very well done.
-Varis (Vincent)
+[[VARIS]]:
 So my thought was, if we contact our allies, I imagine people would want the immortal sun to. Would not want the Immortal Sun to fall into someone else's hands. So, like, they. We could probably collect some money.
 Sanis (Gabe)
 You mean like crowdfund?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, like, you know, we go talk to the Izzard. Talk to.
 Ogre (Chet)
 I thought the Ghost had all the conclave.
-Varis (Vincent)
+[[VARIS]]:
 I mean, in the Orzhov, yeah, they. They would have money. But it.
 [[DM]]
 You know that the auction is happening tonight?
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Sanis (Gabe)
 It would be happening tonight.
-Varis (Vincent)
+[[VARIS]]:
 Like, do we want to. Look, do you want to try and do that? Con. Contact some people?
 Sanis (Gabe)
 I mean, I'm not opposed to it. We can. I'm not.
@@ -1500,7 +1500,7 @@ I mean, I'm not opposed to it. We can. I'm not.
 If.
 Ogre (Chet)
 Listen, we have said we gotta try.
-Varis (Vincent)
+[[VARIS]]:
 What? Chad.
 Ogre (Chet)
 We've said Benji three times.
@@ -1514,11 +1514,11 @@ Each time does it have to be consecutive?
 You don't. You don't. You don't see or feel another presence here.
 Orphie (Taylor)
 Okay, I just want to make it known, like in canon, in my head at least. Orphie (Taylor) refers to Benji like he's there all the time. Even if he's not.
-Varis (Vincent)
+[[VARIS]]:
 Do we want to summon him? And then maybe he can be our messenger for this while we go talk.
 Ogre (Chet)
 To the Dragon Or a taxi.
-Varis (Vincent)
+[[VARIS]]:
 Either way.
 Ogre (Chet)
 Rin says always to pay your taxis.
@@ -1536,19 +1536,19 @@ Ogre (Chet)
 I don't see the shadow or the darkness, so I just see him stand up. Oh, hi. It worked.
 [[DM]]
 Hi. Ogre (Chet) turns around and faces the rest of you guys. You guys. He looks at his watch in less than a day.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. So while we learned that the Immortal sun is in the possession of Krenko.
 [[DM]]
 Right?
-Varis (Vincent)
+[[VARIS]]:
 So it says Cranko, that.
 [[DM]]
 Yes, I believe that is what I said yesterday.
-Varis (Vincent)
+[[VARIS]]:
 Well, I. I was more so asking that directly. Oh, to you it's Cranko, right?
 [[DM]]
 Oh, yeah. Krenko is Cranko.
-Varis (Vincent)
+[[VARIS]]:
 And it's gonna be auctioned off tonight. So we were thinking maybe if we talk to, like, our different allies, we can maybe get some money put together to just buy it. That way we don't have to, like, mess around stealing it.
 Ogre (Chet)
 Oh, yeah. I just wanted to see if you wanted to meet Sis.
@@ -1560,7 +1560,7 @@ No, her name's Sis. And I'm gonna pray out my Game Boy that has his entire compu
 Yeah. You just see him? Mouth. What the.
 Ogre (Chet)
 No, Sis.
-Varis (Vincent)
+[[VARIS]]:
 You.
 [[DM]]
 You. You. Can. I. That should be ours. Why do you have that? What is. What? Huh?
@@ -1578,15 +1578,15 @@ Yeah, that's what I thought. This is Benji.
 Yeah. And Benji. Yeah. Then Benji goes, okay, I'm gonna. I'm gonna need that at some point. I know that. It's yours, Ogre (Chet), but I'm gonna need that at some point.
 Ogre (Chet)
 No, it's not. She just said she not anyone's.
-Varis (Vincent)
+[[VARIS]]:
 No.
 [[DM]]
 I don't know what you did to this, but definitely part of it is owned or belongs to the Dimir Guild. We'll talk about that later, Ogre (Chet). That's fine. Anyways, yeah, you. You put it away. And Benji's eyes linger on it. On Sis. As you put Sis away, put her.
 Ogre (Chet)
 Back in my bag, right next to the Black Lotus.
 [[DM]]
-Okay? Yeah. Benji turns to you, Varis (Vincent), and he says, yeah. So about the auction. I'm not sure if the Dimir Guild can really. At least I don't think I can help you too much with the auction or providing money.
-Varis (Vincent)
+Okay? Yeah. Benji turns to you, [[VARIS]]:, and he says, yeah. So about the auction. I'm not sure if the Dimir Guild can really. At least I don't think I can help you too much with the auction or providing money.
+[[VARIS]]:
 Well, I was thinking at least you could maybe be sort of a messenger for us and talk to, like, Izzet, Send home and, like, see if we can gather funds for it.
 [[DM]]
 He scratches his head and he goes.
@@ -1594,21 +1594,21 @@ Ogre (Chet)
 Well, you see, the kind of.
 [[DM]]
 The thing is right now is that the Dimir Guild is not really aligned with anyone. We're kind of figuring our own out right now, so.
-Varis (Vincent)
+[[VARIS]]:
 Sure. I mean, you also don't have to. First, you don't have to, like, show up as a Dimir agent. You can just show up as Benji.
 Ogre (Chet)
 If you like SIS so much, you align yourself with sis.
 [[DM]]
 You're asking me as a favor as Benji and not part of the.
-Varis (Vincent)
+[[VARIS]]:
 I mean, if you want to try and talk to your Guild for help, you can do that. But, yeah, like, I'm. We're just. I was just thinking, like, just go talk to people for us. So we're not. Okay, so all over the place.
 [[DM]]
 So what do you want me to do? Just tell them, like, oh, hey, the Breakfast Club is trying to fundraise for a little small artifact so that people can leave the plane?
-Varis (Vincent)
+[[VARIS]]:
 Well, yeah, I mean, you can cut, like, talk to people, like, on my behalf and, you know, they can see you as my friend, you know, and they'll believe that and. All right, so I'm gonna give you my amulet. This will show that you know me.
 [[DM]]
 All right? Benji takes it and he says, okay, so I am to go to the guild leaders of the Izzet Guild, the Selesnya Conclave, what's left of the Orzhov and possibly the. Well, actually, the Gruul don't have any money. They just smash. So I'm asking the Izzet Guild and the Selesnya Conclave and what's left of the Orzhov Guild to see if they can pull funds to give. Just give to you guys?
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 [[DM]]
 Save the world. Come together.
@@ -1616,7 +1616,7 @@ Sanis (Gabe)
 Our world.
 [[DM]]
 Yeah.
-Varis (Vincent)
+[[VARIS]]:
 I don't know how that would then come together. Where the money would need to go or whatever.
 Orphie (Taylor)
 But, yeah, truly, I don't know how many times we have to save this plane before they just listen to us when we ask for.
@@ -1632,19 +1632,19 @@ Orphie (Taylor)
 Hard relate.
 [[DM]]
 The only people that are left of the Orzhov Guild are currently in the Selesnya Conclave in order to set up some kind of banking system that needs to be solved. So if you guys want to go over and rally what's left of the Orzhov Guild, Ben or Virus, maybe you talk to your parents and see if they can go to the first church and set something up so that everyone can send their funds over to there so that then for the auction, you all have funds to work with. Just a thought.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 [[DM]]
 Yeah, let's work with funds and otherwise, like you asked me to. I can go over to the Is it Guild, the Selesnya Conclave, and other folks in the Orzhov Guild. If you guys want to go and set up a functioning bank again.
-Varis (Vincent)
+[[VARIS]]:
 Is. Rakdos, I think, is an ally.
 [[DM]]
 Oh, yes. I'll. I'll talk to Hikaru.
-Varis (Vincent)
+[[VARIS]]:
 So, yeah, talk to. Look out. Look out for Dahlia at the. Is it okay? And then I don't. I don't remember who's at Sleznia.
 [[DM]]
 Amara. Emmara Tandris. Yeah.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. Look for Amara.
 [[DM]]
 Yep. And he. You see that Benji types into his, like, Risk Risk wrist watch, and he goes, oh, you mentioned Dahlia. Looks like she is. Oh, she's, you know, the Guild leader.
@@ -1652,11 +1652,11 @@ Orphie (Taylor)
 Yeah, we. We kind of set that up. I feel like.
 [[DM]]
 Oh, you know what? I'll go through the files later, and I will figure that out myself, but. Cool. So, Dalia. Amara. I'll talk to my. My partner in the Rakdos Guild. And you'll figure things out with your parents?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, we'll see if we can get. Get the banking system back. Back online.
 [[DM]]
 All right, great. Well, I will go off and do that. Do you need anything else from me again before I leave?
-Varis (Vincent)
+[[VARIS]]:
 Guess that's kind of it.
 Ogre (Chet)
 If you want to help us steal it. If we can't buy it, that'd be fun too. But either way, just have fun.
@@ -1664,25 +1664,25 @@ If you want to help us steal it. If we can't buy it, that'd be fun too. But eith
 I will do. Ogre (Chet). You have fun too. And again, he takes a couple steps back and disappears.
 Sanis (Gabe)
 I have a plan B to propose. Guys. Just in case plan A fails, we should have the gruel on standby to create a distraction while we steal it. If we can't buy it but it.
-Varis (Vincent)
+[[VARIS]]:
 Have them like attack the place or something.
 Sanis (Gabe)
 Yeah, attack. Or like just cause a ruckus outside so people can like, be distracted and then we can, you know, just take the. We could take the. The stuff we need. We take. Take the damn sun. We need it.
 Ogre (Chet)
 Good Sharp Dog down here to smoke him out.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 [[DM]]
 Does Ogre (Chet) actually say that?
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Ogre (Chet)
 Things he's ever said.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, they'll be. They'll be so chill. They. They just won't even care if we take it.
 Ogre (Chet)
 Yeah, we can sell so much food. I forgot about the greater plan already.
-Varis (Vincent)
+[[VARIS]]:
 So do we want to like, contact somebody for that or worry about that later?
 Sanis (Gabe)
 Who is our contact in that guild again? Borborygmos.
@@ -1692,7 +1692,7 @@ Ogre (Chet)
 Have we heard the. The find out through the grapevine? That was my dream sequence where I interacted with them and then punched the guy in the. In the gruel jewels.
 [[DM]]
 Yep.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Ogre (Chet)
 Okay.
@@ -1708,11 +1708,11 @@ That was my take on it.
 We.
 Ogre (Chet)
 We can talk to them too. We got a lot to do in 24 hours.
-Varis (Vincent)
+[[VARIS]]:
 Well, I mean, less than 24 hours, right?
 [[DM]]
 That's true.
-Varis (Vincent)
+[[VARIS]]:
 Tonight we're. We're on a very short leash. Pretty short timer. And. And it's what, like kind of. It's like real early morning about now. Okay. How would we contact them? Would have been nice like a minute ago when Benji was still here.
 Sanis (Gabe)
 I'm gonna. I'm gonna send them Benji.
@@ -1720,7 +1720,7 @@ Ogre (Chet)
 No.
 [[DM]]
 Benji shows up again and he goes, what now? Okay, we yell at him.
-Varis (Vincent)
+[[VARIS]]:
 Ogre (Chet) did that on his own volition. We didn't ask for that.
 Ogre (Chet)
 No, but. Well, Var said he.
@@ -1728,7 +1728,7 @@ No, but. Well, Var said he.
 He.
 Ogre (Chet)
 He should have asked something for.
-Varis (Vincent)
+[[VARIS]]:
 Okay, well, now that you're here.
 [[DM]]
 Okay, you cried wolf one more time and I'm not coming.
@@ -1738,11 +1738,11 @@ Ogre (Chet)
 No, we need you.
 [[DM]]
 I'm gonna pretend I didn't hear that.
-Varis (Vincent)
+[[VARIS]]:
 Okay, so we won't call again unless it's actually necessary, but since you're here now, Santa said the idea of maybe using gruel if, like, the auction fails, that we just, I guess, up and use the gruel as a distraction.
 [[DM]]
 Got it. I will talk to or Brickmose and Sharp Dog and see what. What they have.
-Varis (Vincent)
+[[VARIS]]:
 Yes, again, apologies, Ogre (Chet). Do not do that again.
 Ogre (Chet)
 Wait, can you take us somewhere?
@@ -1750,7 +1750,7 @@ Wait, can you take us somewhere?
 Sure, yeah. Where? Where do you want to go? Oh, I don't know.
 Ogre (Chet)
 I just thought I'd ask before we start talking about it.
-Varis (Vincent)
+[[VARIS]]:
 I mean, I guess we do need to get over to, so Conclave. So that would give us a shortcut if you helped us there.
 [[DM]]
 Okay. Yeah, you got it. He snaps his fingers. And you see that shadows appear behind, or actually from each of your shadows, a kind of circular circle. Circular circle.
@@ -1758,13 +1758,13 @@ Sanis (Gabe)
 Almost.
 [[DM]]
 My gosh, words. A circle of darkness starts to form. From your shadows and specter, A black, dark specter appears. And Benji goes. Okay, to the Cesia Conclave, we go.
-Varis (Vincent)
+[[VARIS]]:
 Yep.
 [[DM]]
 And then he snaps his fingers, and the shadow figures pop up and then envelop you in darkness. And after a few seconds, before you know it, you pop up at the Silesnia Conclave.
 Ogre (Chet)
 I'm not picturing s dad just going and starting to make his way over. Got like, a good hour or so before he catches up to us.
-Varis (Vincent)
+[[VARIS]]:
 Can you do. Can he not come with us?
 Ogre (Chet)
 I think it's funnier if it doesn't.
@@ -1772,7 +1772,7 @@ I think it's funnier if it doesn't.
 No, I think we're gonna make that canon that Benji makes, Specters for all of you guys. And Rin, who's just, like, passed out, or maybe he's. No, she's being carried by Orpheus. So it's Orphe and Rin and then Santa's. Your dad just kind of, like, levitates, floats all the way to the Selesnya Conclave.
 Ogre (Chet)
 Well, you can't make a specter for a specter.
-Varis (Vincent)
+[[VARIS]]:
 That's too much.
 Ogre (Chet)
 That's a.
@@ -1782,17 +1782,17 @@ Ogre (Chet)
 But in an unfunny way.
 [[DM]]
 Yeah, that's true. So, yeah, you guys pop up in the Selesnya Conclave, and you see that the whole. The whole Conclave, what used to be, like, an open field for, like, meditation and peace and serenity, it's just basically this whole open area for, like, grass and full of grass and whatnot, now is filled with refugee tents and makeshift homes and beds and cots and whatnot. Just sprawling as there were many Grill refugees, Orzhov refugees, and even some from the Simic Guild and the fringes of the Orzhov district that were escaping the violence and the. The fighting going on between the Second Sun and the Allies. So completely filled. But you guys know where the Orozov quarter is of the refugee camp, so you guys make your way there. And, Vars, I think it's been, like, maybe a week, a couple of weeks since you've seen your parents, since all the events went down at the Orzhov Guild, and.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, Yeah, I think we've been here since. But we didn't. I don't think we reached out to them.
 [[DM]]
 Yep.
 Ogre (Chet)
 Say it's maybe been four days.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. I mean, who knows?
 Ogre (Chet)
 I almost want to say three long rests.
-Varis (Vincent)
+[[VARIS]]:
 I mean, like, in real time, it's probably been, like, four months. So, like, I have no idea.
 Ogre (Chet)
 Yeah.
@@ -1805,32 +1805,32 @@ Like, three, four days. Okay, fine. However long it's been, it. It feels like it
 Ogre (Chet)
 So I. I also thought that at first, and I was like, oh, wait, no, because I started counting the long rests.
 [[DM]]
-It feels like it's been forever. But now you guys are back and visiting Varis (Vincent)'s parents, and. Yeah, Vars, you. The party approaches their tent, and it's pretty humble, you know, it's just a white tent with the Orzhov insignia hanging over the tent flaps. And inside are, like, our pair of beds. And there is a small praying altar embossed in black and white. And your parents sitting on their respective cots and think of. Oh, Varis (Vincent). It's. Son. It's been a while. A while. A couple of days.
+It feels like it's been forever. But now you guys are back and visiting [[VARIS]]:'s parents, and. Yeah, Vars, you. The party approaches their tent, and it's pretty humble, you know, it's just a white tent with the Orzhov insignia hanging over the tent flaps. And inside are, like, our pair of beds. And there is a small praying altar embossed in black and white. And your parents sitting on their respective cots and think of. Oh, [[VARIS]]:. It's. Son. It's been a while. A while. A couple of days.
 Orphie (Taylor)
 Yeah.
-Varis (Vincent)
+[[VARIS]]:
 I'm. I mean, yeah, we've been a little bit busy. Kind of lost track of time, too. We are actually looking for your help. We are hoping that we can get the OR off, like, banking system back up and running. Because we're trying to collect some funds from the different guilds for a mission of ours.
 [[DM]]
 Your father goes. Oh, yeah. The thing is, we haven't heard, like, a nary a peep out of anyone that was left behind in the center of the Tenth. Like, I find that very weird. Like, out of the 10th district. Plaza. Plaza East, Plaza West. Like the main street where the. The first bank of Orozov is. We haven't heard of people. The only Orozov Guild members that we have been in contact with are the ones that fled to here on the Selesnya Conclave. It's just been radio silence from anyone over there, so I don't even know what kind of state the. The church is in, any of the buildings. Have you. Have you heard of anything of that's going. Of what's going on over there?
-Varis (Vincent)
+[[VARIS]]:
 I don't. I don't think we've heard anything, have we?
 [[DM]]
 So, above a table, I will tell you that when you went to spy on Vraska and Liliana, when you guys were at the Reylana Mansion, when Liliana and Vraska were having their little meeting, Vraska did say that Kaya, the one who took over the Orzhov Guild, had been dealt with.
-Varis (Vincent)
+[[VARIS]]:
 Oh yeah.
 Orphie (Taylor)
 It's not fair. I wanted to kill her. She was a ghost, so I couldn't touch her. I was hoping to get something weird.
 Ogre (Chet)
 Like dealt with can mean a lot of things.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Ogre (Chet)
 I still think she was a good guy.
-Varis (Vincent)
+[[VARIS]]:
 So we. We heard something about that Kaya had been dealt with, but we don't know much more than that.
 [[DM]]
 Oh, I. We haven't heard from or about Kaya since we. We fled. So I. We don't know anything about that.
-Varis (Vincent)
+[[VARIS]]:
 What would need to happen to get the system back working again?
 [[DM]]
 We. And he like kind of peeks out around the tent. There actually are some. Some leftover specters and ghosts that are around and hanging out with the Orzhov Guild refugees. Right. Like amongst the living, you see that some of the specters that were close family members or had a close association with some of the Orzhov Guild members that are here are still there. Right. Like when Kaya had released everyone from their debts and from their obligations.
@@ -1846,39 +1846,39 @@ Sanis (Gabe)
 Interesting. That's very intriguing.
 [[DM]]
 Your father continues. Yeah. So we have some members and some specters that are still here. All it would take to set up the bank would be to. To have some tellers back in the church to run some of those stations and manage the accounts. We would need to have liquidity back in the vaults. But that I think would not be an issue for some of the folks here to just pull their resources and have that activity, physical liquidity in the vault to start the bank back up. What are you proposing?
-Varis (Vincent)
+[[VARIS]]:
 I mean, at this point, I guess we would just go over there and see what's going on.
 [[DM]]
 Okay.
-Varis (Vincent)
+[[VARIS]]:
 What state the bank is in.
 [[DM]]
 Okay, how about this? You guys go on ahead. I will gather some willing members. Here is. You know, we've been keeping track of who's who fled the district and trying to have some semblance of regular life in the refugee camps. So I think that a lot of people would be willing to go back and get back to work. Anything to help the allies out and help everyone out for being so willing and accommodating. So we will do that. You guys go check out the state of the church. And here your dad gives you his sending stone contact information. And he says, just let me know if everything is okay and we'll head over to the first church and we can set things back up. All right, we'll do.
-Varis (Vincent)
+[[VARIS]]:
 Also, random question. Do you by chance, do you have a diamond worth like 50 gold?
 [[DM]]
 That is a very specific question to ask. It is. What do you need it for?
-Varis (Vincent)
+[[VARIS]]:
 For one of my spell components.
 Orphie (Taylor)
 He's looking at mirror sideways because she knows what needs a diamond.
-Varis (Vincent)
+[[VARIS]]:
 Oh, it's not that 50.
 Ogre (Chet)
 That's because I. I immediately heard diamond and was like, no, 300 is the lowest one. No, I didn't have access to that.
-Varis (Vincent)
+[[VARIS]]:
 It's for chromatic orb. It could be more than 50, but like that's. It needs to be at least that.
 Ogre (Chet)
 Does it have to be a diamond though? I thought it could be any gem.
-Varis (Vincent)
+[[VARIS]]:
 I mean, it's. I'm looking at. It says a diamond. Oh, so.
 [[DM]]
-Your father goes, no, unfortunately I. I just rolled for him. No, unfortunately, I. When we fled the district, I took what I could off the clothes off our backs and what bags we already had packed. So. I'm sorry, Varis (Vincent). Not even, you know, some of our treasured jewels. Perhaps if we were able to go back to the first church and things have not been ransacked, our stuff might still be there.
-Varis (Vincent)
+Your father goes, no, unfortunately I. I just rolled for him. No, unfortunately, I. When we fled the district, I took what I could off the clothes off our backs and what bags we already had packed. So. I'm sorry, [[VARIS]]:. Not even, you know, some of our treasured jewels. Perhaps if we were able to go back to the first church and things have not been ransacked, our stuff might still be there.
+[[VARIS]]:
 I mean, if I find something there, is it okay if I take it?
 [[DM]]
 Oh, by all means, all means.
-Varis (Vincent)
+[[VARIS]]:
 Okay, good.
 Ogre (Chet)
 So during this time, I never went in. I. I just ran around the rest of the Selesnya Conclave to any planeswalkers or planeswalker looking people.
@@ -1901,7 +1901,7 @@ Okay. Okay.
 Ogre (Chet)
 I feel like if a Johnny's around, he might be one of the only ones who'd be like, oh, I know what this thing is. If he is around, his number one priority to find. Even Ogre (Chet) knows that.
 [[DM]]
-All right. Yeah. So, Varis (Vincent), you finish the conversation with your parents, you get their ascending stone number. The promise that your parents will rally the troops and just go over. Once you send word, Ogre (Chet), you're running around the encampment just yelling out for planeswalker help. Morphe and Sanis (Gabe), what are you guys doing?
+All right. Yeah. So, [[VARIS]]:, you finish the conversation with your parents, you get their ascending stone number. The promise that your parents will rally the troops and just go over. Once you send word, Ogre (Chet), you're running around the encampment just yelling out for planeswalker help. Morphe and Sanis (Gabe), what are you guys doing?
 Sanis (Gabe)
 Well, I mean, I'm gonna just be going through my. My, my sending stone contacts to see if I have bubble rigmoses or. What's his name? Sky Dog.
 [[DM]]
@@ -1912,7 +1912,7 @@ Orphie (Taylor)
 His name's Up Dog.
 [[DM]]
 Yeah, you.
-Varis (Vincent)
+[[VARIS]]:
 You.
 [[DM]]
 You got boba rigmos can't read or write. So you. You have. You have Sharp Dog's number.
@@ -1954,14 +1954,14 @@ Orphie (Taylor)
 I had to explain to somebody the other day that male that all model millennials don't have printers in their houses. They were like, what if you need to print something I was like, I go somewhere. I do it at work. Now I have to get a library.
 Sanis (Gabe)
 Where I can print for free. What?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, it's so much money to have a printer anymore.
 Orphie (Taylor)
 I'm not doing that because you probably.
-Varis (Vincent)
+[[VARIS]]:
 Use it like every seven months and then it doesn't work. So you probably just buy another printer.
 Sanis (Gabe)
-Once I get that text done, I let Varis (Vincent) and Orphe know because, well, Ogre (Chet) decided to run amok.
+Once I get that text done, I let [[VARIS]]: and Orphe know because, well, Ogre (Chet) decided to run amok.
 Orphie (Taylor)
 I am not sure what Orphan needs to be doing right now, but she's doing it. Whatever it is. Whatever it is, it's happening.
 Sanis (Gabe)
@@ -2010,15 +2010,15 @@ Thanks. No cough.
 Yeah, there's no coughing at all. And Saskia just. She looks at you, Sanis (Gabe), and goes, how come we didn't. We didn't know Ogre (Chet) could, like, rip clouds like that. That's, like, sick.
 Orphie (Taylor)
 You'd be surprised.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. Little man.
 Orphie (Taylor)
 That. That kid can do.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 [[DM]]
 Is he a kid? I mean, no, we didn't, like, totally just, like, give weed to, like, a minor, do we?
-Varis (Vincent)
+[[VARIS]]:
 Oh, no. Yeah, you totally did. You should. You're going to jail, not a child.
 Sanis (Gabe)
 Ogre (Chet)s, all of us.
@@ -2050,21 +2050,21 @@ It found it just close enough that it may have been a signal issue. Okay, cool.
 No, yeah. Saskia didn't say a number. She was just like. I thought, like, Ogre (Chet) was, like, old.
 Ogre (Chet)
 Okay. I don't know if you said, like, a really long number. It's like, that's funny. Can she tell that he's actually been just kind of alive for a long, nebulous amount of time?
-Varis (Vincent)
+[[VARIS]]:
 Also, side note, Gabe, did. Is it. Did you decide that it was canon, that you're actually the author of the book, that she reads the smut?
 Sanis (Gabe)
 Yeah.
-Varis (Vincent)
-Okay, so I definitely got your signature on that. Since you're actually the author. I Varis (Vincent) will hand her that book and just be like, hey, I got you this. Like, I actually was able to. I got to connect with the author. So, like, I got it signed for you.
+[[VARIS]]:
+Okay, so I definitely got your signature on that. Since you're actually the author. I [[VARIS]]: will hand her that book and just be like, hey, I got you this. Like, I actually was able to. I got to connect with the author. So, like, I got it signed for you.
 [[DM]]
 She. She takes it and flips it open. She's like, no way.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. Pretty cool.
 Sanis (Gabe)
 You.
 [[DM]]
-You got the author of the sultry Simic maiden. Yeah. That's like totally. So sick how you know Varis (Vincent). You don't strike me as a guy that would know the author of this great book.
-Varis (Vincent)
+You got the author of the sultry Simic maiden. Yeah. That's like totally. So sick how you know [[VARIS]]:. You don't strike me as a guy that would know the author of this great book.
+[[VARIS]]:
 I mean, we got connections.
 Sanis (Gabe)
 Than this has the most subtle smirk on his face at this moment.
@@ -2074,7 +2074,7 @@ Orphie (Taylor)
 I got friends in low places.
 [[DM]]
 And. And, and. And then you just see Myra give Saskia, like, a little fist bump for the high places.
-Varis (Vincent)
+[[VARIS]]:
 Oh, wow.
 [[DM]]
 And then Saskia goes like. So, like, anyways, thanks for the book. This is like a huge favor. What do you guys need?
@@ -2086,23 +2086,23 @@ Ogre (Chet)
 They were supposed to trade.
 [[DM]]
 Everyone knows that you can't just like, buy the sun. The sun is like, too big.
-Varis (Vincent)
+[[VARIS]]:
 No.
 Ogre (Chet)
 Okay, so I don't think so when I saw it.
-Varis (Vincent)
+[[VARIS]]:
 I'll relay our. Our plans to them. And then Johnny and Nissa are also there. So I'll relay, like, our plans what we're looking to do.
 [[DM]]
 Yeah. A Johnny and this are like, they're like, fully on board. They're like, all right. Johnny goes, I am not good at parlaying and conversating, so wherever you need me, I will go to feed the muscle. You say that you are going to enlist the help of the Gruul Guild?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, as like a backup. If the auction doesn't go well, then we will just take it by force. I guess.
 [[DM]]
 I will lay in wait with the Gruel Guild to pounce when the opportunity presents itself.
-Varis (Vincent)
+[[VARIS]]:
 Sounds good. Thank you. All right.
 [[DM]]
 And then actually Chandra is with Nissa and both of them are like, on board. They'll. They'll strike with a Johnny.
-Varis (Vincent)
+[[VARIS]]:
 Great.
 Ogre (Chet)
 And besides, the sun goes away every night and hides. And so it has to be takeable and hideable. So it's got to be smaller.
@@ -2110,15 +2110,15 @@ And besides, the sun goes away every night and hides. And so it has to be takeab
 No, but like Ogre (Chet), if, like, the sun goes into hiding, it obviously doesn't want to be found. Yeah, but those are the best consent.
 Ogre (Chet)
 Those are the funnest things to find. Have you found things that aren't meant to be found? Sometimes they're cursed. And that's fun.
-Varis (Vincent)
+[[VARIS]]:
 And.
 [[DM]]
 But that was. That's like non consent. That's like, not. Okay.
-Varis (Vincent)
+[[VARIS]]:
 So all that was going on while we were talking to Johnny.
 Ogre (Chet)
 This is just what's still going on in the background.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 [[DM]]
 Like, they're just talking nonsense.
@@ -2132,25 +2132,25 @@ They all have advantage to insight checks. Understanding me.
 Yes. Yes.
 Ogre (Chet)
 I'm gonna sneakily add in the whole plan to them. I don't realize how good I'm telling them.
-Varis (Vincent)
+[[VARIS]]:
 So can you two. Can you two fight? Is that something that you're good at?
 [[DM]]
 Like, I mean, like, casting spells? Like, yeah.
-Varis (Vincent)
+[[VARIS]]:
 Would you want to join Johnny and them with the Gruel Guild? Is it with. Is like, our backup plan, or what do you want to do?
 [[DM]]
 I mean, like, if we have to, isn't there, like, anything else, like, we can do? Like, you know, like, just, like, chill and, like, be, like, read some books?
-Varis (Vincent)
+[[VARIS]]:
 I mean, you can just stay here. That's. That works too.
 [[DM]]
 But, like, all you need is, like, some bodies to just, like, fight.
-Varis (Vincent)
+[[VARIS]]:
 I mean, unless you have some other skill to help.
 Ogre (Chet)
 We needed money to buy if we could.
 [[DM]]
 Oh, you need, like, gold. Like, why didn't you just, like, say so? Like, I don't really care. And you see, like, both of them, like, from out of their robes, they pull out just, like, 100 gold piece bags each and, like, give them to you. Like, we don't, like.
-Varis (Vincent)
+[[VARIS]]:
 Okay.
 [[DM]]
 Yeah. So it's like, 200 cool total.
@@ -2158,11 +2158,11 @@ Ogre (Chet)
 I'm gonna start juggling them.
 [[DM]]
 Incredible. And they're like, yeah, like, you know, we could get, like, so much Celesian spinach because it's, like, kind of cheap here, honestly.
-Varis (Vincent)
+[[VARIS]]:
 Well, yeah.
 [[DM]]
 Friends with Sharp dog. Oh, my gosh. Like, the Sharp dog lettuce actually is, like, too dank for us. Like, it's, like, too strong.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Ogre (Chet)
 I like it in Rin's salads.
@@ -2173,20 +2173,20 @@ Well, she put it in mine. She said it calmly down.
 [[DM]]
 Wow, there's, like, so many, like, things wrong here. But I don't really care because I'm. I'm just gonna. Whatever. Whatever. I'm not gonna worry about it. Not my problem.
 Ogre (Chet)
-By the way, I'm imagining that Varis (Vincent) told Ogre (Chet) that Rin was the one adding it to its salad while Oak or Varis (Vincent) was doing it.
-Varis (Vincent)
+By the way, I'm imagining that [[VARIS]]: told Ogre (Chet) that Rin was the one adding it to its salad while Oak or [[VARIS]]: was doing it.
+[[VARIS]]:
 Sure.
 Ogre (Chet)
 Sounds like a fun prank to pin something on Rim through. Pranking me as well.
-Varis (Vincent)
+[[VARIS]]:
 I mean, less of a prank and just like, Ogre (Chet) just wouldn't care, But.
 [[DM]]
 All right, so you got the money from the high gal pals, and you got Nissa Chandra and a Johnny's support for the rule Guild.
-Varis (Vincent)
+[[VARIS]]:
 Say. I mean, we're here. So I guess we talked to the Selesnyan Guild.
 [[DM]]
 All right, sure. You go get an audience with Amara.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Ogre (Chet)
 I got some berries from Nissa.
@@ -2196,43 +2196,43 @@ Ogre (Chet)
 Cool.
 [[DM]]
 Yeah. All right, so you go. You go over and talk with Amara. And you see Amara Tandris, Selesnian Guild Leader, is currently attending to some injured. And she looks over and she goes, oh, how can I help you? Namaste.
-Varis (Vincent)
+[[VARIS]]:
 Good to see you again. We are trying to get some support and some funds together. We. We're trying to get the Immortal sun and it's being put at auction tonight. We're going around and seeing who can support.
 [[DM]]
 Yes. You need funds? Yes. Oh, okay. Well, I think that having loose gold might perhaps be a little bit unsafe, seeing as how the Orzhov Guild is currently non functioning.
-Varis (Vincent)
+[[VARIS]]:
 Have you.
 [[DM]]
 Are you in the process of setting something up? Mayhaps that we can store our funds in a safe and reliable place.
-Varis (Vincent)
+[[VARIS]]:
 Yes. Yeah, that's what we're doing. After this, we're going to go over the Orzhov and see if we can figure out whatever is going on there.
 [[DM]]
 Wonderful. Well, let us know once that has been set up and we will send our support over so that we can assist in funding this Immortal sun auction venture.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. I will be contacting my parents when we're done. They're from the Warzov. They're over there with the refugees.
 [[DM]]
 Yes. Yes.
-Varis (Vincent)
+[[VARIS]]:
 They can let you know.
 [[DM]]
 Yes. The Lord and Lady Aesthra, definitely. Of course.
-Varis (Vincent)
+[[VARIS]]:
 Yes.
 [[DM]]
 Is there anything else you need to my services?
 Ogre (Chet)
 No.
-Varis (Vincent)
+[[VARIS]]:
 I guess. No. I mean, do we want to ask or anything?
 Sanis (Gabe)
 Do you have any extra healing potions that you can spare us?
-Varis (Vincent)
+[[VARIS]]:
 Yeah, I was gonna say, like, Santa's could use a healing, but we're good on that now.
 Sanis (Gabe)
 No, but I'm gonna ask myself.
 Ogre (Chet)
 I was like, you better hit the rule of threes this session.
-Varis (Vincent)
+[[VARIS]]:
 Yeah, it's like we're. We're at the. The doctor's place, so you might as well.
 Orphie (Taylor)
 That's so funny. I did this in high school, but I did it with money, not potions.
@@ -2318,19 +2318,19 @@ Ogre (Chet)
 You said over the counter?
 [[DM]]
 Yeah, they're OTC Superior Healing Potions. So it's 8D4 +8 because Sanis (Gabe) has the premium tier insurance.
-Varis (Vincent)
+[[VARIS]]:
 And then from Benji, we just got some like basic ones, right?
 Sanis (Gabe)
 Yeah, yeah, so one of each.
 [[DM]]
 So you each have one regular healing potion, which is 2d4 plus 2. And then from your stop at the Selesnya Conclave for some over the counter potions. 8D4 +8. All right. And with that, you guys head on your way over to the First Church of Orzhov.
-Varis (Vincent)
+[[VARIS]]:
 Yeah. About how long would it take to get over there?
 [[DM]]
 I would say that because you transported via Benji to the Selesnya Conclave and then you walk over. Yeah, I would say that it's like later in the afternoon at this point. Like 4.
 Ogre (Chet)
 4 o' clock before we head over there. I think right about now is a fantastic time for Sant's dad to show up.
-Varis (Vincent)
+[[VARIS]]:
 Why?
 Ogre (Chet)
 Think it would take him being able to move through literally any object in his way?
@@ -2338,7 +2338,7 @@ Think it would take him being able to move through literally any object in his w
 Oh, yeah, no, he's. He's. He's here with you guys? Yeah, he's here with you guys at this point.
 Ogre (Chet)
 Okay, cool. I'm just gonna say. Oh, hey, yeah, that's Santa d here. Hi, Mr. Sanis (Gabe). Do you guys have any questions for him? So like all the other people, planeswalkers around, that might occupy us time with questions while we go to our next place.
-Varis (Vincent)
+[[VARIS]]:
 So I was asking about the time because I. I can just summon Eugene again to like make that faster, you know, if, like, if it would take like two hours to walk there or something.
 [[DM]]
 Yep. How about this? Sanus, your dad. Your. Your dad as a spectre, makes it to the Si Conclave as you guys are about to leave to go to the First Church of Orzhov. And good. The 25 planeswalkers are starting to talk to your father, ask him questions before he disappears. And I actually think that that's. We're gonna. I'm gonna leave this session as I. I think that there might be some stuff that. What might want to be asked or done at this point before we move on with the story. So that is where I'm gonna leave this session. You guys are about to head over to the First Church of Orzhov and currently leaving Lord Raylana The Specter with a bunch of planeswalkers.
@@ -2366,7 +2366,7 @@ Orphie (Taylor)
 Rin normally fills in those gaps for us. And she's. She's. Man, she must have been really beat up because she's just been asleep this whole time.
 Ogre (Chet)
 God, so many times we needed her. Uncanny. Almost unbelievable. Nat. 20s on every history check ever made, right?
-Varis (Vincent)
+[[VARIS]]:
 Today was the day.
 Orphie (Taylor)
 You know what we could have done? I bet you anything we could get Rachel to download the. The DND beyond app on her phone. Just roll. We'll just text her and be like, hey, just do a D20 roll real quick.
@@ -2374,7 +2374,7 @@ Ogre (Chet)
 We can roll for her.
 Orphie (Taylor)
 Yeah, but it's pretty sure she does it. It's way funnier if we have to text her every time we need her to do stuff.
-Varis (Vincent)
+[[VARIS]]:
 We just, like, shake her awake. Be like, hey, what. What is this? What is this answer?
 Orphie (Taylor)
 We say something kind of cryptic and weird about what we need, so she's just curious.
@@ -2402,15 +2402,15 @@ Sanis (Gabe)
 Yes.
 Orphie (Taylor)
 Oh, my God, you guys, My niece is almost a year old.
-Varis (Vincent)
+[[VARIS]]:
 For a second.
 Orphie (Taylor)
 Yes. She was born in February.
-Varis (Vincent)
+[[VARIS]]:
 Chris, for a second, I thought you said December 25th. And I was gonna be like, you're forgetting something.
 Orphie (Taylor)
 Christmas session B.
-Varis (Vincent)
+[[VARIS]]:
 I mean, hey, I'm not doing anything, so I have.
 Orphie (Taylor)
 I have Two or three families I need to see on Christmas.
@@ -2452,13 +2452,13 @@ Ogre (Chet)
 Trips, island with the bring me back cursed gifts. I will go grab them while Vincent.
 [[DM]]
 You tell your story.
-Varis (Vincent)
+[[VARIS]]:
 I was just gonna ask. We're not doing December 28, then?
 [[DM]]
 No, we're not doing December 28.
 Orphie (Taylor)
 It's lazy, lazy, fat, fat day. We cannot do anything on that day. It is frowned upon.
-Varis (Vincent)
+[[VARIS]]:
 What. What is that?
 Orphie (Taylor)
 It is the. The holiday that me and my best friend made up. Like, it's been, like, 10 years where you are literally not allowed to do.
@@ -2478,7 +2478,7 @@ Ogre (Chet)
 Is that everyone just lives their life every day?
 Orphie (Taylor)
 There's no relax reason to bathe if you're gonna be in your PJs all day.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Orphie (Taylor)
 Don't do anything. Nothing.
@@ -2488,7 +2488,7 @@ Orphie (Taylor)
 It is one day. What the are you doing to get meat sweats?
 Ogre (Chet)
 And that just means that you need to bathe tomorrow.
-Varis (Vincent)
+[[VARIS]]:
 Yeah.
 Sanis (Gabe)
 Listen, I don't know about you guys, but I get itchy when I get sweaty.
@@ -2510,7 +2510,7 @@ You sit here and accept your. And you have your 13th slider.
 Yep.
 Orphie (Taylor)
 I'm sorry. That much food is too much work. It's too much work.
-Varis (Vincent)
+[[VARIS]]:
 No, I enjoy that. That's not work.
 [[DM]]
 Cannot enjoy this holiday.
