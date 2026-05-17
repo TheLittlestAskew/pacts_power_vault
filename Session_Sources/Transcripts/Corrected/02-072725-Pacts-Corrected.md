@@ -1,0 +1,7367 @@
+---
+source: 02-072725-Pacts.md (Raw)
+corrected: true
+correction_date: 2026-05-16
+corrections_applied: 70
+---
+
+# 02-072725-Pacts (Corrected)
+
+> Spelling normalized per campaign spelling dictionary.
+> Verbatim transcript text preserved except for proper noun corrections.
+> Total corrections: 70 (Artifacts: 11, Characters: 10, Factions: 5, Guilds: 12, Locations: 4, Organizations: 7, PC Names: 19, Planes: 1, Terms: 1)
+
+---
+
+02-072725-Pacts
+
+/DM (Chris)
+00:00
+So last time you guys were in the Ghost Mind and you went through a bunch of puzzles, you judged some souls in some urns and determined whether they were right or wrong, much to the chagrin of all of you guys, because who are you guys to judge. 
+O
+Orphie (Taylor)
+00:20
+There are wrong answers. 
+D
+DM (Chris)
+00:22
+You picked up, picked it right and moved on to the choir room, where you guys ordered the chronological events correctly amongst the cacophony of the chorus in the background. And then you guys went down the staircase of Truth and Lies, where you guys figured out what was truth and what was lies. As you descended down the staircase, there were a bunch of them. When you guys finally made it to the center, you guys had were in confusion on what to do. So in the meanwhile, Ogre jumped to and fro and captured all of the souls that were a part of the ghost mind, leaving only the single spirit figure that looked like it was a part of Zadok left in the center of the room to which Sinus went up, and with Szadek's help reabsorbed that figure back into himself. 
+D
+DM (Chris)
+01:35
+And then the ghost mind started to fall apart. So you guys booked it out of there. And right as you exited, you were met with both Benji and Hikara facing off with Kaya, looking like they were about to fight. But Kaya just thanked you guys for dismantling the ghost mind and left. You guys then felt suddenly that you were to be whisked away and before leaving told Selena to meet you guys at the apartment. And you guys went through the blind eternities and teleported to the Fortress of Nix to the top with the lightning rods and the interplaner beacon, which were all just flipped on as his daily routine every day at 3pm, calling himself a genius for it finally working. 
+D
+DM (Chris)
+02:41
+And so, after a bit of arguing with him and call him in a dumbass, you began to see the hundreds of planeswalkers planeswalking into Ravnica all over the 10th district, as Ogre found out trying to planeswalk away that he couldn't and felt the immortal sun stopping him from doing so. And that was the end of the session. And what you guys did not see was all the way on the other side of the 10th district in the South Plaza, an interplanar bridge opening. And through it, coffins opening that looked like they were big enough to house gods. So that's where we pick up today. You guys are still on the top of the building of the Fortress of Nivix with a very happy and very. 
+R
+Rin (Rachel)
+03:45
+Proud Rawls Eric not Rightly proud. 
+D
+DM (Chris)
+03:52
+What do you guys do? 
+O
+Ogre (Chet)
+03:56
+You said we didn't see that happening, right? 
+D
+DM (Chris)
+03:58
+Did not see that happening now. 
+O
+Ogre (Chet)
+04:08
+So what next? 
+R
+Rin (Rachel)
+04:13
+I mean, we have to figure out why Haya wanted the ghost mind disabled. We thought she was wanting it for the information, but she just wanted to destroy it. 
+O
+Ogre (Chet)
+04:25
+What if that was all the ghosts destroying her? 
+S
+Sanis (Gabe)
+04:29
+Because I think it was because she was overwhelmed and she wanted to get rid of that because of all the ghosts that were still on contract and around. 
+O
+Orphie (Taylor)
+04:38
+Ow. 
+O
+Ogre (Chet)
+04:40
+Maybe they were all contracts. 
+R
+Rin (Rachel)
+04:45
+Maybe. 
+O
+Orphie (Taylor)
+04:48
+Wasn't it something about her wanting to free people from their contracts with them? Maybe even a step further? There is a specific contract she really didn't want happening in regards to herself. 
+R
+Rin (Rachel)
+05:06
+If Rachel the player had been more coherent last week, I could have done a check on her to see if she was still having issues with the contracts. But no, I wasn't. Also, apologies for last week, by the way. I don't know where the heck that headache came from. And I'm sorry if, like, if I laughed out at anyone. 
+O
+Orphie (Taylor)
+05:21
+It was fine. 
+D
+DM (Chris)
+05:24
+Yeah. Oh, also Taylor, are you recording? 
+O
+Orphie (Taylor)
+05:26
+Yes. 
+D
+DM (Chris)
+05:27
+All right. Cool. Cool. Just want to make sure. 
+O
+Ogre (Chet)
+05:32
+But what if that the ghost mind was bad? And what if Kaya was good because she just killed some ghosts? And you guys didn't get mad at me when I just did that a lot. 
+O
+Orphie (Taylor)
+05:48
+We weren't paying attention to you. 
+R
+Rin (Rachel)
+05:50
+That was kind of the issue. See, this is why we can't leave Ogre to his own devices. But at the same time, Ogre. The souls aren't dead, right? They're stored in the sword. 
+D
+DM (Chris)
+06:07
+I don't think. No. 
+R
+Rin (Rachel)
+06:08
+Are they consumed in lost? 
+O
+Orphie (Taylor)
+06:10
+They're ghosts. They're already dead. 
+O
+Ogre (Chet)
+06:13
+They went to my ball. I'm gonna throw it to you. I think I did this last time too. 
+R
+Rin (Rachel)
+06:19
+I'm gonna. I will. I guess I will grab it and potentially get smacked in the face mentally again. 
+D
+DM (Chris)
+06:26
+It. Give me a wisdom saving throw. 
+R
+Rin (Rachel)
+06:30
+Thank God this is a plus 8. 
+V
+Varis (Vincent)
+06:33
+And just toss around the nuke ball. 
+R
+Rin (Rachel)
+06:36
+The mental nuke ball. Tbh. If we get somebody that's like low wisdom. That is a stupid rat to just throw up a leather daddy ball at them. 
+O
+Orphie (Taylor)
+06:46
+You mean me. 
+O
+Ogre (Chet)
+06:48
+But what if having why was high wisdom is the problem? 
+O
+Orphie (Taylor)
+06:53
+True, that could be the issue. 
+O
+Ogre (Chet)
+06:54
+The person with the lowest wisdom ever is currently doing fine with this. 
+R
+Rin (Rachel)
+06:59
+But you're also like connected to it though. 
+O
+Orphie (Taylor)
+07:01
+You're also like secretly not so secretly a God. 
+R
+Rin (Rachel)
+07:06
+Yes. 
+O
+Ogre (Chet)
+07:07
+This is just my daddy's leather ball. 
+R
+Rin (Rachel)
+07:14
+Oh, gosh. 
+O
+Orphie (Taylor)
+07:14
+Oh, also, I love that the Chad GPT picked up all the zaddy daddy stuff. That was hilarious. 
+R
+Rin (Rachel)
+07:24
+Phenomenal. Okay, that is a 19 for the save. 
+D
+DM (Chris)
+07:29
+Oh yeah. You make it. You grab it. And you know what? This time as the energy and the souls start to creep over you start to find yourself overwhelmed with actually this time tons of information and things that you did not know. Like different ways of tying a shoe. And. 
+O
+Orphie (Taylor)
+08:01
+There'S more than one. 
+D
+DM (Chris)
+08:02
+Some of the secrets that perhaps a middle school teacher that you had and that you never knew or wanted to know. And some of those secrets start to seep in. And with a 19 saving throw, you stem the flow. You don't see am I? You don't want to know. 
+R
+Rin (Rachel)
+08:24
+You see ran kind of like grab the ball, like stop for a second and then just kind of like shake. And she's like there really was some really useless information in that computer. No wonder it was overloaded. There's like for some reason they were for they had information on how to tie a shoe. Why is that useful? Leave it in a book and be done with it. Like I don't they really need for it being an is it made device. It should have been better made. And then Rosie Reynolds thoughts it back to. 
+O
+Orphie (Taylor)
+09:00
+I will say shoe tying is something I feel like we can keep as a verbal pass down from the generations. We don't even need to put that in a book. 
+R
+Rin (Rachel)
+09:11
+Rachel agrees. Rin thinks everything should be in a book. 
+V
+Varis (Vincent)
+09:14
+So I mean I don't know how to tie shoes, so. So I mean that would could be useful to me. Although not really. 
+D
+DM (Chris)
+09:22
+Morris only wears Crocs. I just don't wear shoes like you wear shoes. 
+V
+Varis (Vincent)
+09:27
+I got them dogs all the time. 
+O
+Orphie (Taylor)
+09:29
+Yeah but like you would learn how to tie shoes if you wore shoes, but you just don't need to. That's just information that isn't useful to you. 
+R
+Rin (Rachel)
+09:42
+But Chris, from me holding the leather daddy ball, can I tell with that information still existing in the ball that the souls that were flying around are contained within it. 
+D
+DM (Chris)
+09:54
+Yep. 
+O
+Orphie (Taylor)
+09:56
+And Kaya doesn't know that. She thinks that those spirits are gone. 
+R
+Rin (Rachel)
+10:04
+Right. 
+V
+Varis (Vincent)
+10:05
+She just knows that the like the ghost mind itself is like no longer there. 
+R
+Rin (Rachel)
+10:11
+Yeah. 
+V
+Varis (Vincent)
+10:11
+Not new. No longer as it was. 
+R
+Rin (Rachel)
+10:15
+Can I ask one more question about the ghost and the leather daddy ball? 
+D
+DM (Chris)
+10:21
+Who are you asking? 
+R
+Rin (Rachel)
+10:22
+Could I? Well, I already know from pre existing and just other interaction with a leather daddy ball that it is in a like bottomless pit of like energy, emptiness, magic, whatever. Did I feel like the leather daddy ball was at capacity in regards to how many souls it was that were in it? Nope. 
+D
+DM (Chris)
+10:41
+Nope. 
+R
+Rin (Rachel)
+10:41
+Sweet. Well, I think we potentially found a solution to their storage problem with the Leather Daddy ball. There's no issues with it holding that many capacity of souls. 
+D
+DM (Chris)
+10:53
+Yeah. 
+O
+Ogre (Chet)
+10:53
+I throw it to Orphe. 
+O
+Orphie (Taylor)
+10:56
+She steps. 
+R
+Rin (Rachel)
+10:57
+Out of the way. 
+D
+DM (Chris)
+11:01
+All right, we're playing catch now. 
+O
+Ogre (Chet)
+11:03
+That's. 
+O
+Orphie (Taylor)
+11:07
+Oh, God. Is that. Is that metagaming? Do I have to catch it? Because I think she would catch it if she. But, like, also, she knows that the. 
+D
+DM (Chris)
+11:19
+Leather Daddy knows what's in it and, like, from what people have been talking about. So it's up to you on whether or not. Or if he actually catches it or says that. 
+O
+Ogre (Chet)
+11:28
+Yeah, does. Or if you think she can handle it. 
+O
+Orphie (Taylor)
+11:31
+I don't. No, I don't think she does. I don't think she would. Even if she thought she could, she wouldn't want to. That's just. That's Arcana. It's not my. It's none of my business. Honestly. 
+R
+Rin (Rachel)
+11:48
+I did just roll to see if. 
+O
+Orphie (Taylor)
+11:49
+Rin turns her shoulder and moves out of the way of the Leather Daddy ball and lets it fall to the ground. And she looks at Ogre and she's like, no, thank you. 
+O
+Ogre (Chet)
+12:01
+you missed. 
+O
+Orphie (Taylor)
+12:03
+Sure. 
+O
+Ogre (Chet)
+12:05
+I'm just gonna grab it with a mage hand. 
+R
+Rin (Rachel)
+12:08
+Also, I'm abbreviating the Leather Daddy ball in my notes to the LDB now. 
+O
+Orphie (Taylor)
+12:12
+The ldb. Oh, Chad. GPT also. Oh, wait, no, never mind. I think you did that. You put the picture of the spiral staircase, and I just stole it from you. 
+R
+Rin (Rachel)
+12:39
+And just to confirm, from last time, were able to tell that the reason the tower was finally working was due to us shutting down the ghost mind, right? 
+D
+DM (Chris)
+12:55
+I don't know what you're talking about. I just flipped the switch and it worked. So it's all me, baby. 
+R
+Rin (Rachel)
+12:59
+Argument. This was not you in any way, shape or form. You've been doing the same thing. Why would anything change all of a sudden? Especially if you are inputting the same thing every day. 
+D
+DM (Chris)
+13:10
+You see him kiss his fingers. Magic touch, baby. 
+R
+Rin (Rachel)
+13:13
+This man considers himself a scientific mind. Oh, right. He can't even see right in front of him that he is not in any way, shape or form. 
+O
+Orphie (Taylor)
+13:21
+So didn't we laugh with him summoning everybody? All of the planeswalkers to Ravnica, be they good or evil. Correct. 
+R
+Rin (Rachel)
+13:32
+And we can't leave. 
+O
+Orphie (Taylor)
+13:34
+We can't leave. They're on their way and we don't know where they're gonna land. 
+O
+Ogre (Chet)
+13:42
+So. 
+D
+DM (Chris)
+13:45
+I'll add that you did see throughout the 10th district. Kind of like beams of light. As planeswalkers started to planeswalk to Ravnica. So they're spread out everywhere. It's just you guys. Because you guys were already on Rafnica that you guys teleported. Or planes walk directly to the beacon's catch. 
+O
+Orphie (Taylor)
+14:22
+Don't do it. 
+S
+Sanis (Gabe)
+14:26
+I'm gonna catch the ball. 
+O
+Orphie (Taylor)
+14:27
+Oh, God. 
+D
+DM (Chris)
+14:28
+You're gonna catch the ball. 
+S
+Sanis (Gabe)
+14:29
+I'm gonna try to catch the ball. What am I wrong? 
+O
+Orphie (Taylor)
+14:33
+Trying to kill. 
+R
+Rin (Rachel)
+14:34
+I have a request. Can I also roll to catch the ball before Santa's. 
+D
+DM (Chris)
+14:41
+What do we. 
+S
+Sanis (Gabe)
+14:41
+Wait. 
+O
+Orphie (Taylor)
+14:42
+What did that be? Dicks. 
+D
+DM (Chris)
+14:44
+Yeah. You know what? Actually, Romy, your initiative roles. 
+R
+Rin (Rachel)
+14:51
+Okay. 
+O
+Ogre (Chet)
+14:52
+Yes. 
+D
+DM (Chris)
+14:53
+Roll 2414. 
+R
+Rin (Rachel)
+15:01
+That is an 18. 
+D
+DM (Chris)
+15:02
+Oh. Rin catches it. Rin steps in front of you and just grabs the leather daddy ball exactly. 
+S
+Sanis (Gabe)
+15:09
+Before you just like, size rolls my eyes like I was gonna catch that ogre. 
+R
+Rin (Rachel)
+15:15
+Please stop throwing this. We do not need to cause any mental harm to anyone else in this group. 
+O
+Ogre (Chet)
+15:20
+But that's what it's for. 
+R
+Rin (Rachel)
+15:22
+This. This is not just an ordinary ball. 
+O
+Ogre (Chet)
+15:26
+I don't know. I've played with it a lot and that's usually the way we do. 
+R
+Rin (Rachel)
+15:31
+Kind of contains a lot more power now. And people who might not be as attuned to it or be able to handle the magical power may take damage from it. And you don't want to hurt your friends, right? 
+O
+Ogre (Chet)
+15:45
+I think you do it. 
+O
+Orphie (Taylor)
+15:47
+Hey, hold on to the fucking ball or somebody's going to take it away from you. How about that? 
+O
+Ogre (Chet)
+15:55
+Right? 
+R
+Rin (Rachel)
+15:55
+And we don't want to take it away from you. It's yours. 
+O
+Ogre (Chet)
+15:59
+I'm going to go. I'm going to put it into my backpack next to the Black Lotus. 
+D
+DM (Chris)
+16:06
+Nice. 
+O
+Ogre (Chet)
+16:07
+All right. Cool. That's still in there. I was just checking. I'm still suspicious you stole something from me a long time ago. 
+O
+Orphie (Taylor)
+16:13
+Oh, please. Remind me what the Black Lotus is. 
+R
+Rin (Rachel)
+16:15
+What does that thing do? That does something. I can't remember. Is it. It's. Is it a wish cast. 
+O
+Ogre (Chet)
+16:26
+Walker of considerable power can use it for a way. 
+R
+Rin (Rachel)
+16:30
+Okay, I was right. 
+O
+Ogre (Chet)
+16:32
+It is a wishcast Ogre does not count as. 
+O
+Orphie (Taylor)
+16:35
+Do we have considerable power. 
+D
+DM (Chris)
+16:37
+Yeah, I don't. 
+V
+Varis (Vincent)
+16:37
+I don't think we any of us count. 
+O
+Orphie (Taylor)
+16:39
+We're like, mediocre, I guess. 
+V
+Varis (Vincent)
+16:42
+But if we all try to use it together. 
+R
+Rin (Rachel)
+16:43
+Actually, no, we're slightly below mediocre. 
+V
+Varis (Vincent)
+16:48
+What if we all. What if we all hold it and try to use it together? 
+R
+Rin (Rachel)
+16:53
+That could work, but I don't think we need it right now. 
+O
+Orphie (Taylor)
+16:55
+Friendship. 
+D
+DM (Chris)
+16:56
+No. 
+R
+Rin (Rachel)
+16:57
+The power of Friendship compels you. Well, we got two issues here. Trying to figure out why Kaya wanted to destroy the Ghost Mind and if that's any relation to what's going on with the Dark Brotherhood. Not Dark Brotherhood. Oh, my God. Brain. Hello. I was thinking about Skyrim yesterday. The Second Sun. Close enough though, right? 
+O
+Orphie (Taylor)
+17:22
+Right. 
+D
+DM (Chris)
+17:22
+The Dark Brotherhood of the Second Sun. 
+O
+Orphie (Taylor)
+17:26
+I love it. Actually, that just must be their full name. But people just call him the Second Sun. 
+D
+DM (Chris)
+17:35
+Or. 
+R
+Rin (Rachel)
+17:36
+And. Or try to see if there's a way we could maybe unlock our issue with being here on the plane. Though there are potentially some planeswalkers we haven't seen in a while that we can check in with. 
+O
+Orphie (Taylor)
+17:51
+Yeah, I think that would be advantageous right now is for. For us to get in contact with some people that we haven't seen in a while. 
+R
+Rin (Rachel)
+17:59
+Right. Which I am forgetting. Lasso Lady. Lasso Lady's name off the top of my head right now. 
+O
+Orphie (Taylor)
+18:05
+Yeah, her name is. I'm sure it was important at one point. 
+D
+DM (Chris)
+18:09
+Something. 
+S
+Sanis (Gabe)
+18:10
+Sandra. I don't know. 
+R
+Rin (Rachel)
+18:11
+Chandra. Yeah, Chandra. And not a Johnny. Who is the other one? There was someone else. Excuse me. Who went after her to try and look for her. 
+S
+Sanis (Gabe)
+18:21
+Well, it wasn't Jace. 
+R
+Rin (Rachel)
+18:23
+Jason. 
+O
+Orphie (Taylor)
+18:24
+Somewhere else. Dude. Jace went to heaven. 
+R
+Rin (Rachel)
+18:28
+Jace doesn't exist anymore. He just bypassed it. 
+O
+Orphie (Taylor)
+18:33
+Wait, wait, wait. I'm also remembering something about. 
+R
+Rin (Rachel)
+18:40
+The Guild. 
+O
+Orphie (Taylor)
+18:40
+Pack not necessarily being. 
+D
+DM (Chris)
+18:43
+Oh. 
+R
+Rin (Rachel)
+18:47
+It was one of the questions from the steers. 
+O
+Orphie (Taylor)
+18:50
+Right. Which made me feel like it might be semi important. 
+R
+Rin (Rachel)
+19:00
+Selena, the Guildpact is dead. No law is holding the Guilds together. This was supposedly false. 
+V
+Varis (Vincent)
+19:07
+Well, that just means the statement was false. We don't know in which way part. 
+O
+Orphie (Taylor)
+19:12
+Yeah, yeah. 
+R
+Rin (Rachel)
+19:13
+It could have been any part of it. 
+O
+Orphie (Taylor)
+19:14
+But that. It could mean a couple of different things. But it could mean it could be important. 
+O
+Ogre (Chet)
+19:23
+Doesn't mean that only one of the things is true instead of both. 
+R
+Rin (Rachel)
+19:27
+I think I do agree. We can go see if we can find Chandra and the other dude. Again, that. I can't remember his name for the fucking life of me. 
+O
+Orphie (Taylor)
+19:36
+Not important. 
+R
+Rin (Rachel)
+19:38
+He's in the Discord somewhere. I know we saw him during the first few, like, sessions, but that was. 
+O
+Orphie (Taylor)
+19:43
+Like two years ago. 
+R
+Rin (Rachel)
+19:47
+It was two years ago. Oh, my God. Is there an easy way to scroll on Discord? That is a very good question. Oh, that is true. But I'd have to search and remember what his name is. 
+O
+Orphie (Taylor)
+19:59
+Yeah, to be able to find it, she'd need to know what his name was. 
+D
+DM (Chris)
+20:03
+What are you guys looking for? 
+R
+Rin (Rachel)
+20:07
+It was one of the two Guys, that helped us with fighting when the Guild pack broke. 
+D
+DM (Chris)
+20:11
+It was Gideon. Jura. 
+R
+Rin (Rachel)
+20:12
+Gideon. 
+O
+Orphie (Taylor)
+20:13
+Gideon. Was Gideon hot? 
+R
+Rin (Rachel)
+20:17
+Ish. 
+D
+DM (Chris)
+20:18
+You thought so. 
+O
+Orphie (Taylor)
+20:19
+Hell yeah. Listen, I also thought Isaiah was hot until he got weird. 
+R
+Rin (Rachel)
+20:24
+Until he got weird. 
+O
+Ogre (Chet)
+20:26
+It only got weird because he looked like he was pooping his pants. And happy about it in that one picture. 
+R
+Rin (Rachel)
+20:31
+Yes. 
+D
+DM (Chris)
+20:33
+Thanks. Midjourney. 
+R
+Rin (Rachel)
+20:36
+And now that's gonna be in the notes for this week. 
+O
+Orphie (Taylor)
+20:39
+Love it. Love it. Also, if you guys want to send me any information about your characters, it would help me round out the information that I have. Mm. 
+R
+Rin (Rachel)
+20:55
+Yeah, I think that's a good idea. I wonder. Based on what I remember, the Selesny and Conclave might be a good place to start because I know at least one of the Gatewatch stays there and maybe separated from them. Yeah, that was where were. 
+O
+Orphie (Taylor)
+21:16
+I do think that might be a good place to start. But also, I don't trust this guy. And she motions to ass who brought everybody back. 
+D
+DM (Chris)
+21:29
+You motion to him and you just see him with his arms splayed in front of the beacon, just cackling. Oh, look at this. 
+O
+Orphie (Taylor)
+21:37
+I think he might be special on something. That too. That. Honestly, I think that's giving him a little too much credit, actually. 
+R
+Rin (Rachel)
+21:49
+Can I do an insight check to see if he's on something right now? 
+O
+Orphie (Taylor)
+21:52
+Make sure he's not evil too? Because he. Or not evil. I don't know. Stupid evil. 
+R
+Rin (Rachel)
+21:59
+This potentially is leaning into, like, mad scientist level, but I'm just concerned that he might be on something. 
+D
+DM (Chris)
+22:05
+Sure, sure. Give me an insight check. 
+O
+Orphie (Taylor)
+22:07
+Okay. 
+R
+Rin (Rachel)
+22:12
+That is a nat one. Rin is just too pissed at this idiot to be able to read him right now. 
+D
+DM (Chris)
+22:18
+No, he's. He's definitely on something. And that something is, I guess, is life. 
+O
+Orphie (Taylor)
+22:22
+He's high on life. 
+R
+Rin (Rachel)
+22:23
+He is high on life. 
+O
+Ogre (Chet)
+22:27
+Is he enchanted? 
+R
+Rin (Rachel)
+22:30
+He could be charmed. That actually is a really good. Really good point. 
+D
+DM (Chris)
+22:33
+Enchanted or enchanting? 
+R
+Rin (Rachel)
+22:35
+Not enchanting in any way starts playing in the background. 
+O
+Ogre (Chet)
+22:39
+Oh, he's an artifact, right? They do enchanting because even detect magic if things on him respond as enchantment. That still tracks. 
+O
+Orphie (Taylor)
+22:56
+Also, who is he filling in for? 
+R
+Rin (Rachel)
+23:01
+Nimizzet. 
+O
+Orphie (Taylor)
+23:03
+Can we get her back? 
+D
+DM (Chris)
+23:04
+Niv Mizzard? Yes. 
+O
+Orphie (Taylor)
+23:05
+Yep. 
+R
+Rin (Rachel)
+23:06
+I agree. I really want Niv Mizzit back. They were so much better. Yeah, they were also high in human form too. 
+O
+Orphie (Taylor)
+23:15
+That's right. 
+R
+Rin (Rachel)
+23:17
+They're above being a planeswalker. They're a dragon. 
+O
+Orphie (Taylor)
+23:21
+Tell them to get their, like, dragon. His inner ar defibrillator last time. 
+O
+Ogre (Chet)
+23:29
+So did she get brought back too. 
+R
+Rin (Rachel)
+23:33
+Oh, yeah. 
+O
+Orphie (Taylor)
+23:38
+O. I feel like she can't be compelled to come back. Excuse me? 
+D
+DM (Chris)
+23:45
+I don't know. I don't know. 
+R
+Rin (Rachel)
+23:48
+There wasn't just extra large light that happened in the sky that was larger than most of the other ones. 
+O
+Ogre (Chet)
+23:57
+I mean, if I'm asking, what's his face. Should she have. 
+D
+DM (Chris)
+24:06
+Oh. 
+O
+Orphie (Taylor)
+24:09
+Yeah. 
+D
+DM (Chris)
+24:09
+No, they're not. They're not a planeswalker. 
+O
+Orphie (Taylor)
+24:11
+They're just. I say just like. It's not incredibly impressive. 
+D
+DM (Chris)
+24:17
+They're just a very powerful dragon who is not here right now. Look at this. I did. 
+O
+Orphie (Taylor)
+24:25
+Should we just. 
+R
+Rin (Rachel)
+24:26
+I really just want to destroy this thing. But we've got more important things to take care of while this guy goes insane. 
+O
+Orphie (Taylor)
+24:31
+Yeah, and it could come in handy afterwards, maybe sending everybody back to where they came from. But. 
+D
+DM (Chris)
+24:36
+Yeah, I want to know. Wait, what? 
+O
+Ogre (Chet)
+24:39
+What if we turn it upside down? 
+D
+DM (Chris)
+24:40
+Guys, this is great. This. We've got all of the planeswalkers here now, so now we can get everyone together and then fight the Second Sun. No, no. Not. Not each other. The Second Sun. 
+O
+Orphie (Taylor)
+24:57
+Didn't we have this conversation last time where we told you that not all planeswalkers are on the same side? 
+D
+DM (Chris)
+25:05
+I don't know what you're talking about. 
+R
+Rin (Rachel)
+25:07
+We definitely had that conversation already. 
+O
+Orphie (Taylor)
+25:09
+And by that, I mean five minutes ago. 
+D
+DM (Chris)
+25:14
+Yeah, but did you see the beacon? 
+O
+Orphie (Taylor)
+25:17
+Yes, of course we saw the beacon. 
+R
+Rin (Rachel)
+25:20
+It's hard to miss it. 
+O
+Orphie (Taylor)
+25:22
+Can we take him out or something? 
+O
+Ogre (Chet)
+25:26
+If they're all here and then we're all stuck here. What's happening? 
+D
+DM (Chris)
+25:33
+We're not stuck here. 
+O
+Orphie (Taylor)
+25:34
+Yes, we did go over that five minutes ago. 
+R
+Rin (Rachel)
+25:38
+That we can't leave stuck on the plane. 
+O
+Orphie (Taylor)
+25:40
+Yeah. 
+D
+DM (Chris)
+25:41
+You see Ral shift over. 
+O
+Orphie (Taylor)
+25:44
+Oh, my God. 
+D
+DM (Chris)
+25:45
+You see Ral shift over to, like, behind the interplaner beacon, like, a couple of seconds go by, and then he steps back out and he goes, oh. Oh, we are stuck. 
+O
+Orphie (Taylor)
+25:57
+Yeah, you fucking. 
+R
+Rin (Rachel)
+25:59
+No shit, Sherlock. 
+O
+Ogre (Chet)
+26:01
+Are planeswalkers important to be everywhere else? 
+D
+DM (Chris)
+26:06
+Well, I don't know how to answer that question. 
+O
+Orphie (Taylor)
+26:10
+Well, I feel like most of them, especially the ones that are from Ravnica, are elsewhere for a reason. So you've joined them back from whatever service they were handling at the time? 
+D
+DM (Chris)
+26:25
+Well, yeah. I mean, well, because, like, this is important. 
+O
+Orphie (Taylor)
+26:29
+Oh, that's right. We need to have a conversation about consent. 
+D
+DM (Chris)
+26:35
+About what? 
+O
+Orphie (Taylor)
+26:36
+Consent. Yeah, I know. You probably don't know that word, do you? 
+D
+DM (Chris)
+26:40
+I. I mean, it's when you ask someone for permission and then they give it to you. 
+O
+Orphie (Taylor)
+26:50
+Maybe. 
+D
+DM (Chris)
+26:52
+Maybe. 
+O
+Orphie (Taylor)
+26:52
+Well, I guess in this situation, getting consent would Be getting that. Okay, but they don't have to say yes. 
+D
+DM (Chris)
+27:00
+Well, like, I. I, like, turned on the beacon. I asked everyone to come here, and they came here. 
+O
+Orphie (Taylor)
+27:04
+That's not a question. That's okay. 
+R
+Rin (Rachel)
+27:08
+Watch this. 
+O
+Orphie (Taylor)
+27:09
+Can I punch you in the face? Can I hit him? 
+R
+Rin (Rachel)
+27:18
+Yes. 
+O
+Orphie (Taylor)
+27:18
+I love this. 
+R
+Rin (Rachel)
+27:19
+We love some good physical in person examples. 
+D
+DM (Chris)
+27:24
+Roll 20. 
+O
+Ogre (Chet)
+27:24
+Roll 20. 
+V
+Varis (Vincent)
+27:29
+I have a. I have a question. How tall is the. Is it building? Like, how high up is this roof? 
+R
+Rin (Rachel)
+27:35
+Pretty tall, right? 
+D
+DM (Chris)
+27:36
+Like 15, 20 stories, easy. 
+R
+Rin (Rachel)
+27:38
+It's one of the tallest buildings in the city. Right. 
+V
+Varis (Vincent)
+27:41
+So probably more than 150ft up easily. 
+R
+Rin (Rachel)
+27:45
+Yes. 
+D
+DM (Chris)
+27:45
+Okay. Yeah. 
+R
+Rin (Rachel)
+27:51
+What did you roll? It is contemplating. 
+O
+Ogre (Chet)
+27:57
+The 16. 
+O
+Orphie (Taylor)
+27:59
+Yeah, I have to go with the 16. 
+D
+DM (Chris)
+28:02
+16. Yeah. You. You deck him in the face. 
+O
+Orphie (Taylor)
+28:08
+See how that works? I asked and you said no, but I did it anyway. That's me not getting consent from you. 
+D
+DM (Chris)
+28:18
+Okay, yeah, I'm starting to get it. So if I ask to punch someone and I just do it anyways, that's consent? 
+R
+Rin (Rachel)
+28:28
+No, that's not getting consent, and that is very bad. 
+O
+Orphie (Taylor)
+28:31
+Is there somebody else that we can put in power? 
+R
+Rin (Rachel)
+28:35
+I kind of am okay with his husband now. More. 
+O
+Orphie (Taylor)
+28:38
+Yeah, but he's, like, in a different group. Like, I don't know if he would be able to be in charge here. 
+R
+Rin (Rachel)
+28:46
+But where is your husband anyway? Rin does ask her all this question. 
+D
+DM (Chris)
+28:50
+Oh. I mean, he's. He's, like, over at the Orza refugee camp taking care of things, you know, as a great husband would. 
+O
+Orphie (Taylor)
+29:01
+Who else do we know in this vicinity right now? 
+R
+Rin (Rachel)
+29:06
+Dalya. 
+O
+Ogre (Chet)
+29:07
+Yeah, let's just go check on Lands and his dad. 
+O
+Orphie (Taylor)
+29:13
+Stop reminding me about Lance. Should we talk to Dalya about how up this guy is? 
+R
+Rin (Rachel)
+29:26
+I love Dalya to pieces. However, I don't think she would not be on his side. 
+V
+Varis (Vincent)
+29:35
+I mean, she'd be more reasonable. 
+R
+Rin (Rachel)
+29:37
+True. I do agree with that. We could go. I mean, we have to go down, like, to leave. I mean, we're not jumping off this building, so we got to go downstairs at some point so we can stop by her. I mean, we also need to go pick up Pip anyway we could, because I'm interested to see what happens with the ghost mind being gone. If Pip actually still functions. 
+O
+Ogre (Chet)
+29:57
+Can we. 
+D
+DM (Chris)
+29:58
+Still jump off the building? 
+R
+Rin (Rachel)
+30:00
+I mean, you can if you want to. I know you've got feather fall, so you'll be fine, but I'm going to take the stairs. 
+O
+Orphie (Taylor)
+30:06
+Yeah. So on our way out, maybe we just talk to her real quick and be like, hey, this is what happened, and it's dangerous. And now we're all kind of fucked. 
+R
+Rin (Rachel)
+30:14
+Wait, Ogre, don't you want to go get Pip? 
+O
+Orphie (Taylor)
+30:16
+Yeah, he just wants to jump off the building. 
+O
+Ogre (Chet)
+30:18
+He told him he could jump off the building. He's gonna meet you there. 
+R
+Rin (Rachel)
+30:22
+Rin kind of looks dejected, and she's like, dang, I should have asked him about Pip first before he jumped off. 
+O
+Orphie (Taylor)
+30:27
+Well, he knows that's where we're going because that's what we just did. 
+R
+Rin (Rachel)
+30:30
+If he really wants to see her, he can run through the front office. 
+O
+Orphie (Taylor)
+30:33
+Yeah, he brought. Yeah, he'll meet us downstairs. 
+O
+Ogre (Chet)
+30:37
+This plan for sure. 
+D
+DM (Chris)
+30:39
+All right, as you guys all disperse, you see, we're all thinking, and you hear him say, I'm gonna have to. We're gonna have to have a meeting. We're gonna have to meet, and we'll have to discuss plans and. Oh, boy. 
+O
+Orphie (Taylor)
+30:56
+I can't wait till comes back and kicks your ass. I want to be there. 
+R
+Rin (Rachel)
+31:04
+I agree. The crazy dragon that zapped us is seeming significantly more coherent than this one. This is also just so unsafe. I guess we're going to start heading downstairs to Dalya's laboratory. 
+D
+DM (Chris)
+31:21
+All right, you head down to Dalya's laboratory. 
+O
+Orphie (Taylor)
+31:24
+Laboratory. 
+D
+DM (Chris)
+31:26
+And yeah, you see her at her disc desk tinkering with a cup. Some, like, apparatus. And yeah, you just see one of the EMLA copies in her workshop as well, and she's just, like, tinkering away. 
+R
+Rin (Rachel)
+31:48
+Hey, Dalia. Sorry to bother you. 
+D
+DM (Chris)
+31:53
+She, like, jumps as you walk up behind her. Oh, hey. I didn't see you there. What's going on? Oh, my gosh. I haven't seen you guys in so long. 
+O
+Orphie (Taylor)
+32:01
+It really hasn't been that long. 
+R
+Rin (Rachel)
+32:06
+Maybe like, two days. Yeah, maybe three. 
+D
+DM (Chris)
+32:10
+You see, your think for a bit. 26 hours, 30 minutes, and five seconds. 
+O
+Orphie (Taylor)
+32:15
+Sure. Yeah. 
+R
+Rin (Rachel)
+32:16
+It's a little over a day. 
+D
+DM (Chris)
+32:19
+Oh, yeah. That's a long time. 
+O
+Orphie (Taylor)
+32:22
+Okay. 
+R
+Rin (Rachel)
+32:23
+Yes. And a lot has happened. 
+O
+Orphie (Taylor)
+32:25
+New time is relative, I guess. So. True. 
+D
+DM (Chris)
+32:29
+Oh, yes. So. So I was able to copy Pippi, and then she, like, you see her with the cartridge. Game Boy cartridge in her hand? She, like, tosses it at you. Ogre, I managed to copy Pippi, and. 
+O
+Ogre (Chet)
+32:44
+I was there before you guys. 
+O
+Orphie (Taylor)
+32:47
+I'm sure he. 
+D
+DM (Chris)
+32:50
+Oh, yeah. You were, like, waving high and everything. And did not pay attention until Rin stepped up and said, hi. Yeah. 
+R
+Rin (Rachel)
+32:58
+Gotcha, gotcha. 
+O
+Ogre (Chet)
+32:59
+Oh, I'm gonna slam that thing into my Game Boy so fast, because it means he's off right now, and I have to turn him on. Sorry, I hated that sentence as it came out. 
+O
+Orphie (Taylor)
+33:14
+I was thinking about it. I wasn't gonna say anything, but I. 
+R
+Rin (Rachel)
+33:17
+Was like, he's got. 
+D
+DM (Chris)
+33:20
+Oh, boy. 
+O
+Orphie (Taylor)
+33:24
+Dalya. Buddy, pal. We have a little problem. 
+D
+DM (Chris)
+33:30
+How's it going? What's up? 
+O
+Orphie (Taylor)
+33:32
+Your boss kind of non consensually summoned all. All of the planeswalkers that exist to Ravnica. 
+D
+DM (Chris)
+33:41
+Oh, that seems like it would be a good thing, though. But I can see how the consent thing is a problem, because, you know, last week he asked me to work 40 hours more of overtime, and then he left the lab and then expected me to work it, so that wasn't. 
+O
+Orphie (Taylor)
+33:53
+Okay, listen, I thought that sentence was going to be a lot worse when you started off with, oh, yeah, consent is good to know. And last week he asked me to. And I was like, oh, God, this is going to be bad. 
+D
+DM (Chris)
+34:04
+Wait, what do you mean? I. Like, he's like, you know, happily buried with his husband. So, like, I don't know. You mean, like, are you. Huh. 
+R
+Rin (Rachel)
+34:12
+We are a bit concerned about his mental state right now. 
+O
+Orphie (Taylor)
+34:14
+Men commit 95% of violent crime. 
+O
+Ogre (Chet)
+34:18
+How did you work more? 
+D
+DM (Chris)
+34:22
+You just kind of do worker. Give me. He gives up on that. Yep. And you open your Game Boy, and Pippi pops up. He goes, hey, ogre. How's it going? Hi. You have fun? Oh, yeah, I had a lot of fun. 
+O
+Ogre (Chet)
+34:45
+I sucked up so many ghosts. 
+O
+Orphie (Taylor)
+34:47
+Oh, you really did. 
+D
+DM (Chris)
+34:50
+How did you suck them up? 
+O
+Orphie (Taylor)
+34:52
+Which. 
+O
+Ogre (Chet)
+34:54
+Oh, it feels fun a lot. 
+D
+DM (Chris)
+34:58
+Did you like it? 
+O
+Ogre (Chet)
+35:00
+Yeah, it was fun. I got to run around and jump and swing and. Oh, so there was. He just tried to remember too many things and he never tries. 
+D
+DM (Chris)
+35:14
+Did you see. Did you see all of my. My siblings, my cousins? 
+O
+Orphie (Taylor)
+35:19
+Did we. 
+D
+DM (Chris)
+35:19
+I don't. I don't know. 
+R
+Rin (Rachel)
+35:22
+I believe that is who he was sucking up into his sword. 
+O
+Orphie (Taylor)
+35:27
+Oh, Pip's cousins. Why am I still thinking about Doll? Yes. 
+R
+Rin (Rachel)
+35:33
+Before we left you with Dalya, you were able to communicate with all of your brothers and cousins and whatnot, right? 
+D
+DM (Chris)
+35:40
+Oh, no, I wasn't. I was just created with them. 
+R
+Rin (Rachel)
+35:44
+Okay. Okay. So the ghost might not existing anymore, does not impact you in any way, shape or form. 
+D
+DM (Chris)
+35:52
+No, I'm still alive. 
+O
+Orphie (Taylor)
+35:53
+And. 
+R
+Rin (Rachel)
+35:54
+Okay, perfect. 
+O
+Orphie (Taylor)
+35:55
+That's good to know. 
+R
+Rin (Rachel)
+35:55
+Noting Rin pulls out her journal and makes a note of it. 
+O
+Orphie (Taylor)
+36:00
+Pip is a ghost. Part of the ghost, not part of the ghost mind. 
+R
+Rin (Rachel)
+36:10
+I do have a question for you. When you were created, was it your. You and all of your relatives, Was it a priority to keep every piece of information that y' all came across? 
+D
+DM (Chris)
+36:25
+We need to Know everything there is to know and we store it all in here. 
+R
+Rin (Rachel)
+36:30
+And what happens if there's no more storage? 
+D
+DM (Chris)
+36:36
+What do you mean? 
+O
+Orphie (Taylor)
+36:37
+What if we run out of. 
+R
+Rin (Rachel)
+36:39
+Keep information? Yeah, Rin's gonna go into the lengthy description about, like, when they got to the center of the ghost mind, there was an issue with storage and, like, ghosts flying everywhere and it didn't seem right. And there was like, essentially past capacity for the information it could store. 
+D
+DM (Chris)
+36:53
+Kibby goes, oh, it sounds like my siblings needed an upgrade then. 
+R
+Rin (Rachel)
+36:59
+Yeah, I mean, I'm not a computer expert, but it. That definitely seemed to be the case. 
+D
+DM (Chris)
+37:05
+Some more storage must have been called for. 
+O
+Orphie (Taylor)
+37:08
+Called for? You mean like necessary or like, actually, yeah, called out for. 
+D
+DM (Chris)
+37:16
+They might have called it out. Yeah. 
+R
+Rin (Rachel)
+37:18
+Or called out. 
+O
+Orphie (Taylor)
+37:20
+Wow. 
+D
+DM (Chris)
+37:21
+You know, it. I find that it's a pretty regular thing around here for lots of organizations to just defer maintenance and then never keep up on it. 
+O
+Orphie (Taylor)
+37:30
+But what happens if we don't? If they didn't get the upgrade that they needed and they ran out of storage. 
+D
+DM (Chris)
+37:37
+Oh, then they wouldn't be able to store no more. Or throw out some of the more useless stuff and put it with useful stuff. I hope I'm making sense. 
+O
+Orphie (Taylor)
+37:51
+God, I'm sure you are. But, like, nothing is clicking for me. 
+O
+Ogre (Chet)
+37:57
+It's the opposite for me. Ogre has no idea. And he was just told that he's not supposed to take out the more storage that they found. 
+O
+Orphie (Taylor)
+38:09
+Well, what you're not supposed to do is chuck it at people without consent. 
+O
+Ogre (Chet)
+38:15
+Put away safe. 
+D
+DM (Chris)
+38:18
+I don't have any attachment or feelings to my cousins or siblings. 
+O
+Orphie (Taylor)
+38:22
+Should you. 
+D
+DM (Chris)
+38:27
+What? 
+O
+Ogre (Chet)
+38:28
+What if you. Did you want. Did you want them? 
+D
+DM (Chris)
+38:38
+Filial attachment is a construct, all right? 
+O
+Ogre (Chet)
+38:43
+You. 
+D
+DM (Chris)
+38:45
+Yes. 
+O
+Orphie (Taylor)
+38:46
+You're a constant. Pip, I'm sorry. I really wish I had more questions for you, but, like, there's something that's not clicking for me. 
+O
+Ogre (Chet)
+39:03
+I think I'm gonna take out the leather daddy ball and show it to Pip. 
+O
+Orphie (Taylor)
+39:06
+Just don't throw it at him or anybody else. 
+O
+Ogre (Chet)
+39:09
+I mean, I'm gonna be holding both at the same time if that does anything. 
+D
+DM (Chris)
+39:16
+You hold the leather daddy ball out to Pip and Pip goes, oh, I detected. Those are my siblings and cousins. 
+O
+Ogre (Chet)
+39:26
+Oh, yeah. So they are in there. I'm just gonna look up at you guys. Already all figured this out. I was still questioning it. 
+O
+Orphie (Taylor)
+39:35
+That's okay. Sometimes we need to connect some dots. 
+R
+Rin (Rachel)
+39:39
+Need a little extra information to confirm. 
+O
+Ogre (Chet)
+39:43
+Can you talk to them? 
+D
+DM (Chris)
+39:46
+Oh, you would like me to communicate with my cousins? 
+O
+Orphie (Taylor)
+39:49
+Sure. 
+R
+Rin (Rachel)
+39:50
+Can you? 
+D
+DM (Chris)
+39:51
+Yes. 
+O
+Ogre (Chet)
+39:51
+I just Curious if you could. 
+D
+DM (Chris)
+39:54
+Oh, I do have the capability to do so. Is that what you would like impacted. 
+R
+Rin (Rachel)
+40:01
+By the dark magic that is involved in this letter Daddy Ball? 
+O
+Ogre (Chet)
+40:06
+Is there dark magic in it? 
+R
+Rin (Rachel)
+40:09
+I mean, it's. Or death magic, I should say more specifically. Sorry. Death magic. 
+O
+Ogre (Chet)
+40:18
+Yeah. Okay, I'm not actually saying kiss as ogre, but that's the. 
+D
+DM (Chris)
+40:34
+Yeah. You. You put them together, and Ogre, just roll me a D20 straight up. 
+O
+Ogre (Chet)
+40:45
+Absolutely. Five. 
+D
+DM (Chris)
+40:51
+Five. Yeah. Amazing. You bring the lather Leather Daddy Ball and the Game Boy that Pippi is currently in to your favorite toys. And as soon as the energy from the Leather Daddy Ball touches the Game Boy, you hear Pippi go, ooh. Communication in progress, in progress. Oh. Oh, no. 
+O
+Orphie (Taylor)
+41:31
+Oh, no. 
+D
+DM (Chris)
+41:34
+And then you see the Leather Daddy Ball actually morph into the Game Boy. 
+O
+Orphie (Taylor)
+41:40
+Oh, what does that mean? 
+R
+Rin (Rachel)
+41:42
+Wait, so does the Game Boy become Leather Daddy Ball, or the Leather Daddy Ball becomes the Game Boy? 
+D
+DM (Chris)
+41:47
+The Leather Daddy Ball becomes the Game Boy. 
+O
+Orphie (Taylor)
+41:50
+Okay. Is that a. Efficient. 
+D
+DM (Chris)
+41:54
+Yeah. And then you see that the Game Boy then begins to turn a black car color. 
+R
+Rin (Rachel)
+42:00
+Ooh. 
+O
+Orphie (Taylor)
+42:02
+Oh, is it, like, see through. Like, the Game Boy colors were. 
+R
+Rin (Rachel)
+42:08
+Wait, hold on. It is see through with a black tint, but you can kind of see, like, the spirits of the ghosts, like, flying in the circuit board. 
+O
+Orphie (Taylor)
+42:16
+That would be cool. 
+D
+DM (Chris)
+42:17
+And then you see Pippi's shock face for a second, and then the screen goes black. 
+O
+Orphie (Taylor)
+42:25
+Oh. 
+D
+DM (Chris)
+42:26
+Oh, no. Yeah. And nothing works. And Dalya walks up and goes, ogre, what'd you do? What is that? What. What happened there? 
+O
+Ogre (Chet)
+42:39
+It went in. 
+D
+DM (Chris)
+42:40
+It. The. 
+O
+Ogre (Chet)
+42:41
+The ball went in the Game Boy, and now Pippi's off. He doesn't like being off. 
+D
+DM (Chris)
+42:47
+Oh, no. Oh, boy. Oh, no. I was. Oh. 
+R
+Rin (Rachel)
+42:52
+Now it's the Leather Daddy Game Boy. 
+O
+Orphie (Taylor)
+42:54
+The ldb From Leather Daddy Ball to Leather Daddy Game Boy. 
+D
+DM (Chris)
+43:04
+Dalya goes, okay, well, if you just, like, waited for, like, a second, I would have shown that I had cloned Pippi. So, thankfully, before this Ole Miss, we've got, like, a copy of Pippi. So I don't know if we can, like, turn back or whatever, or if you want that or. But we have it. Okay. 
+O
+Orphie (Taylor)
+43:24
+Okay. 
+D
+DM (Chris)
+43:25
+Yeah. 
+O
+Orphie (Taylor)
+43:26
+So. But what happened? 
+D
+DM (Chris)
+43:31
+Okay, so I think that the ghost mind spirits that you had stored in that ball merged with the prototype ghostly spirit that Pippi was, and they've merged into one. 
+O
+Orphie (Taylor)
+43:48
+Okay. Is that a bad thing? Why is it not working? 
+R
+Rin (Rachel)
+43:51
+Can I roll an arcana check on this thing? 
+D
+DM (Chris)
+43:53
+Sure. 
+O
+Ogre (Chet)
+43:54
+Or be quiet. Get Pippi now. 
+R
+Rin (Rachel)
+43:58
+And I'm Rolling with guidance. 
+O
+Ogre (Chet)
+43:59
+He doesn't like being off. 
+R
+Rin (Rachel)
+44:03
+I'm gonna tell Ogre to kind of hold out the Game Boy. I'm not gonna touch it because I don't want to. I'll put my hands, like, above and below it, but I don't need to be rolling a. 
+O
+Orphie (Taylor)
+44:14
+An extra save on top of that. 
+R
+Rin (Rachel)
+44:16
+Yeah, I don't need to be rolling a saving. Throw on this too. Okay. 
+O
+Orphie (Taylor)
+44:19
+That is. 
+O
+Ogre (Chet)
+44:21
+I was gonna just throw it at you right now. 
+O
+Orphie (Taylor)
+44:23
+Of course. 
+O
+Ogre (Chet)
+44:23
+I don't care about it. I want Pippi to be back. He doesn't like being off. If being a clone doesn't bother me at all, that's maybe what was happening with me. Who knows? That doesn't even register. 
+D
+DM (Chris)
+44:39
+Nope. 
+R
+Rin (Rachel)
+44:40
+I rolled the 23. 
+D
+DM (Chris)
+44:42
+You rolled a 23? Yeah. You see that? Like Dalia said, the ghost mind spirits that were contained within the Leather Daddy Ball. And you also detect some other magic, which was the magic that you felt before when you first touched the Leather Daddy Ball. The energy, the arcana of. Of death. And with those two combined, it has mixed with Pippi and the Game Boy console. And due to just the sheer amount of energy and trauma from combining, the entity that it is now needs time to recover. 
+O
+Orphie (Taylor)
+45:37
+Oh, my God. This sounds like the plot of Pluto. 
+R
+Rin (Rachel)
+45:41
+Actually, don't know that. 
+O
+Orphie (Taylor)
+45:43
+Is that a movie? Really good anime on Netflix. Oh, it was one of those things where, like, I turned it on for background noise, and then I couldn't stop watching it, and I binged the whole. 
+R
+Rin (Rachel)
+45:52
+Thing in one night. 
+O
+Orphie (Taylor)
+45:53
+It was so good. 
+O
+Ogre (Chet)
+45:54
+It's the new take on Astro Boy, isn't it? 
+O
+Orphie (Taylor)
+45:57
+Mm. 
+D
+DM (Chris)
+45:58
+Yeah, I've not watched it yet. 
+O
+Ogre (Chet)
+46:00
+I want to. 
+O
+Orphie (Taylor)
+46:01
+So good. Actually, now I want to re watch it. 
+R
+Rin (Rachel)
+46:08
+The L, D, G, B. 
+S
+Sanis (Gabe)
+46:14
+T, Q, I, A plus. 
+O
+Orphie (Taylor)
+46:22
+Perfect. I feel like you just cracked a code and we just won the whole campaign. 
+R
+Rin (Rachel)
+46:27
+I hope you know, babe, I am writing that into my notes. 
+D
+DM (Chris)
+46:32
+Damn it. And a month late. 
+R
+Rin (Rachel)
+46:36
+I was at a Pride month game night last night, so better late, as. 
+O
+Orphie (Taylor)
+46:43
+Pride isn't until August. 
+R
+Rin (Rachel)
+46:47
+Oh, really? 
+O
+Orphie (Taylor)
+46:47
+Did not know that. Yeah, I just think it's a scheduling thing. Also, you don't want to be outside parading in the middle of June in Atlanta. 
+R
+Rin (Rachel)
+46:55
+Very true. 
+O
+Ogre (Chet)
+46:58
+Prize all year round for me. 
+R
+Rin (Rachel)
+47:01
+Tbh I 100 agree. Should be. 
+O
+Orphie (Taylor)
+47:04
+Not for me. Because after pride, there's lust and then greed. 
+S
+Sanis (Gabe)
+47:12
+Gluttony. 
+O
+Orphie (Taylor)
+47:13
+Gluttony. Yeah. 
+S
+Sanis (Gabe)
+47:14
+Gluttony. 
+O
+Orphie (Taylor)
+47:15
+Gluttony's Christmas time. Actually. 
+R
+Rin (Rachel)
+47:19
+I was so confused where you were going with this. 
+O
+Orphie (Taylor)
+47:23
+Lust is in February. 
+D
+DM (Chris)
+47:27
+I Don't. Both. 
+R
+Rin (Rachel)
+47:28
+I believed you for a solid five seconds. I'll be honest. 
+O
+Orphie (Taylor)
+47:33
+Sloth is a good time, too. 
+R
+Rin (Rachel)
+47:35
+Sloth. 
+D
+DM (Chris)
+47:36
+Oh, my gosh. 
+O
+Orphie (Taylor)
+47:38
+Gonna have to take this out. 
+R
+Rin (Rachel)
+47:41
+Or not. Rin is going. Sorry. I'm writing some notes right now. Rin is going to relay the. Like, she'll, like. Once she's kind of done reading what happened to the Game Boy. She's actually going to kind of, like, take Ogre's hands as he's, like, clutching the Game Boy and just, like, try to reassure him, like, he. Pippi's still there. He merged with the leather daddy ball. He's gonna need some time to recover. That's a lot of magic that Ian took. Think about when you were eating constantly and then you were full and, like, couldn't eat for a long time. That's kind of how he feels right now. He's kind of having a very large food coma and has to recover. 
+O
+Ogre (Chet)
+48:26
+Ogre's gonna look like he's pooping his pants a little bit because he's trying. 
+R
+Rin (Rachel)
+48:29
+To remember that when were on Tark. Not Tarkir. Ixalan. 
+O
+Ogre (Chet)
+48:36
+I remember. I'm saying Ogre is currently. 
+D
+DM (Chris)
+48:40
+Like. 
+O
+Ogre (Chet)
+48:43
+He's. He's so not used to trying to remember things. Oh, yeah. Then I burped, right? 
+R
+Rin (Rachel)
+48:58
+So we can burp from Pippi. 
+D
+DM (Chris)
+49:00
+Got a burp, Ogre. I will say that. Yeah, you do remember that. And you find. Weirdly. Weirdly, you do remember that, which is crazy. Yeah. Yeah. 
+O
+Ogre (Chet)
+49:18
+I searched for and found a memory on purpose. 
+D
+DM (Chris)
+49:23
+And it came to you easier than you thought. 
+R
+Rin (Rachel)
+49:25
+He's leveling up, y'. 
+O
+Orphie (Taylor)
+49:26
+All. 
+D
+DM (Chris)
+49:26
+Yeah. 
+O
+Ogre (Chet)
+49:27
+I didn't have to poop my pants. 
+O
+Orphie (Taylor)
+49:29
+Hey, that's not fair. We all get to level up. It's time for level 10. What are we doing? 
+R
+Rin (Rachel)
+49:41
+Rin's gonna turn to Dalya. Is there a way you can potentially recreate or create another? Actually, no. Hold on. Do we want a copy of Pippi? 
+D
+DM (Chris)
+49:57
+Here you go. And then Dalya, like, you. You, like, make, like, a movement with your hand, and with your open hand, Dalya just puts the Game Boy into your hand. 
+R
+Rin (Rachel)
+50:09
+Oh, how many of these do you have? 
+D
+DM (Chris)
+50:13
+Oh, you want one, too? 
+R
+Rin (Rachel)
+50:15
+We only need the one. We're good. Thank you. 
+D
+DM (Chris)
+50:17
+Yeah, I have another one. Oh, here you go. Boom. And puts a. Another Game Boy with Pippi. 
+O
+Orphie (Taylor)
+50:24
+I feel like this was meant to be. What's the reason we would all need a Pip? 
+D
+DM (Chris)
+50:30
+You hold the Game Boy up, and you look at the screen and you see a more simplified version of Pippi and Pippi speaks to you. It's. Something's different. Pippi speaks to you in a more moral, monotone voice this time. Hi, I'm Pippi. Nice to meet you. 
+V
+Varis (Vincent)
+50:55
+Oh, no. It's an A.I. 
+R
+Rin (Rachel)
+50:58
+It doesn't seem like it was quite a true copy of Pippi, from what I can tell. 
+D
+DM (Chris)
+51:03
+Oh, no. From all the arcane energies that I traced and copied and everything, it's. It's the same. 
+R
+Rin (Rachel)
+51:10
+Can I tell what the difference is? 
+D
+DM (Chris)
+51:14
+Yeah. Give me. Give me an arcana check. Sure. 
+O
+Orphie (Taylor)
+51:18
+Okay. 
+V
+Varis (Vincent)
+51:19
+Valley over here. 
+O
+Ogre (Chet)
+51:20
+Just making AI Art, not a religion check. 
+V
+Varis (Vincent)
+51:24
+Doesn't have. It doesn't have the soul in it. 
+D
+DM (Chris)
+51:26
+It could be a religion check if you want. 
+O
+Orphie (Taylor)
+51:28
+Santa is using his to make. To write more. 
+O
+Ogre (Chet)
+51:33
+Books, but she already got a side. 
+R
+Rin (Rachel)
+51:37
+That's an 18 for Arcana or religion. Whatever you want it to be. 
+D
+DM (Chris)
+51:41
+Sure, sure. Yeah. I mean, Rin could have guessed. It's a copy of the personality and the memories and the knowledge and everything but the spirit. It's missing the soul. 
+R
+Rin (Rachel)
+52:01
+It is missing a soul. 
+D
+DM (Chris)
+52:03
+You have a soulless A.I. 
+O
+Orphie (Taylor)
+52:06
+That'S my kind of A.I. Oh, who needs a soul? 
+R
+Rin (Rachel)
+52:12
+Rin's actually not going to say anything. She's going to keep this information to herself because she does. She loves Dalya to pieces, and she believes Dalya always has the best intentions, but she does not want Dalya to run with this. Of trying to claim a soul to shove into a piece of machinery. 
+O
+Orphie (Taylor)
+52:28
+Agreed. Agreed. 
+R
+Rin (Rachel)
+52:31
+She would. 
+O
+Orphie (Taylor)
+52:32
+It would be a whole different level of fun. 
+D
+DM (Chris)
+52:35
+Dolly goes. Oh. So, Bryn, what do you think this is? 
+O
+Orphie (Taylor)
+52:40
+It's perfect. No notes. 
+R
+Rin (Rachel)
+52:44
+Rin doesn't finish your statement. 
+D
+DM (Chris)
+52:45
+Or feet. I'm. I'm glad you think so, because I've already taken the liberty of placing Pippi in Emla. 
+O
+Orphie (Taylor)
+52:54
+In what? 
+R
+Rin (Rachel)
+52:55
+Emla. 
+D
+DM (Chris)
+52:56
+In Emma, the big giant robot cannon weapon. Tank beetle. 
+O
+Orphie (Taylor)
+53:03
+Is that for me? Is it mine? 
+D
+DM (Chris)
+53:07
+No, no. Or it's for the. Is it Guild tank? 
+O
+Orphie (Taylor)
+53:11
+Mine. 
+D
+DM (Chris)
+53:14
+No. Or Orphe. These are very expensive. It's for the. Is it Guild? No, no, it's for Orph. 
+O
+Orphie (Taylor)
+53:19
+It's for Orphe. Now. 
+D
+DM (Chris)
+53:22
+No. Or. Or if you. If you get too violent. No, please don't. 
+O
+Orphie (Taylor)
+53:26
+It's mine. Now she wanders off to try to find it. 
+D
+DM (Chris)
+53:33
+No, It's. It's like, right there. 
+O
+Orphie (Taylor)
+53:34
+Okay. It's in. It. 
+D
+DM (Chris)
+53:40
+Do. Goes, no, no, or no, the doors. First off, the door's locked. But second, like, no, please, no. 
+O
+Orphie (Taylor)
+53:49
+Why not? It's made for me. You said all the words that have to do with Orphea. 
+D
+DM (Chris)
+54:00
+I'm still working on it. It's not ready yet. Also, it's. It's. It's the Izzard's Guild. It's not. It's not you guys. 
+O
+Orphie (Taylor)
+54:07
+You make stuff for us all the time. Make me work. 
+D
+DM (Chris)
+54:09
+Yeah, but this is different. 
+R
+Rin (Rachel)
+54:10
+At this point, we're running so many errands for y'. All. Like, we should be getting paid, right? Or at least be members. 
+D
+DM (Chris)
+54:20
+What? Getting paid? What does that mean? 
+O
+Orphie (Taylor)
+54:23
+Oh, Jesus. 
+R
+Rin (Rachel)
+54:25
+Do you not get paid? 
+D
+DM (Chris)
+54:32
+I. I have a place to live because they provide it. 
+O
+Ogre (Chet)
+54:41
+You know? What? 
+S
+Sanis (Gabe)
+54:42
+How do you buy your food? 
+D
+DM (Chris)
+54:44
+Oh, they provide it, too. 
+S
+Sanis (Gabe)
+54:46
+And your clothes? 
+O
+Orphie (Taylor)
+54:48
+They supply it. 
+D
+DM (Chris)
+54:49
+She looks at her laboratory coat and is it issued G or not? Jeans, pants. 
+S
+Sanis (Gabe)
+54:59
+So, like, you don't do, like. Do you just wash the same top and bottom and wear it every. Every day? 
+D
+DM (Chris)
+55:06
+No, I have, like, six more pairs of each. 
+O
+Ogre (Chet)
+55:12
+Yes. You know what they say. If you love what you do, you'll never need to get paid a day in your life. As I'm. She handed me a whole new Game Boy, right? 
+O
+Orphie (Taylor)
+55:24
+Yes. 
+S
+Sanis (Gabe)
+55:25
+Yeah. 
+O
+Ogre (Chet)
+55:25
+I'm gonna take my Pip out of my broken Game Boy and put him in the new one. 
+D
+DM (Chris)
+55:33
+You try and take the cartridge out of the Game Boy, and it doesn't come out. 
+O
+Ogre (Chet)
+55:37
+Oh, all right. Then I'm gonna turn my. The new one on and start talking to it and asking it just stupid questions interspersed with very existential ones. 
+O
+Orphie (Taylor)
+55:46
+So do we need to figure out what happened with this first? Oh, no. We just need time. It's figuring itself out. 
+R
+Rin (Rachel)
+55:52
+Correct. Rin mentioned this. 
+O
+Orphie (Taylor)
+55:55
+What do we do? 
+R
+Rin (Rachel)
+55:56
+That was the whole Shabil about, like, ogre being very hungry and then not eating for a while. 
+O
+Orphie (Taylor)
+56:02
+Should we go to the Selesnya conclave, then? 
+R
+Rin (Rachel)
+56:06
+I think that's pretty much where we need to go at this point. Dalia, one more question. Scientific question for you. So whenever you do experiments, and you are. You have a control and you have your variable, right? 
+D
+DM (Chris)
+56:25
+Yes, the scientific method. 
+R
+Rin (Rachel)
+56:28
+So your control is there to make sure you have a baseline. It never changes. Right. It's like, what's expected. Very minimal. And then when you add a variable, you usually only add one variable, right? 
+D
+DM (Chris)
+56:40
+Oh, yes. 
+R
+Rin (Rachel)
+56:41
+So if you never added variable. 
+D
+DM (Chris)
+56:43
+Well, the thing is, sometimes I add two or three, sometimes even five. 
+R
+Rin (Rachel)
+56:47
+Right? That's. That's totally fine. That's just how you work. 
+D
+DM (Chris)
+56:51
+But sometimes, even to the control, I will add some variables just to make it even more fun. 
+R
+Rin (Rachel)
+57:02
+If we're sticking to the most bland process of this, I apologize for making it bland. There's the control, there's no change. And if you don't add a variable, you do not expect change. Right. 
+D
+DM (Chris)
+57:15
+Why wouldn't you got to add the change. 
+R
+Rin (Rachel)
+57:19
+But that we're again, bland situation. So there's no change to how the process flow is. 
+D
+DM (Chris)
+57:28
+Okay. 
+R
+Rin (Rachel)
+57:30
+So if there's no change, no matter how many times you execute it, because you do not add a variable to anything, you do not expect a different outcome. Right. 
+D
+DM (Chris)
+57:39
+In this very hypothetical situation, I would agree with you. 
+R
+Rin (Rachel)
+57:45
+Okay. 
+D
+DM (Chris)
+57:46
+I'm always changing stuff. 
+R
+Rin (Rachel)
+57:48
+That's fine, that's good. You should be. That's how you expect things to be different each time you run the experiment. 
+O
+Orphie (Taylor)
+57:54
+That's what you're saying? 
+D
+DM (Chris)
+57:54
+Yes. Yeah. 
+R
+Rin (Rachel)
+57:57
+So let's hypothetically continuing. If this person, if a so called scientist, not you, of course, does the same thing every single day, except one day randomly. And I'm talking like exact same thing, essentially just turning off and on a switch. If one day, like for hundreds of days, he's been switching on and off the switch, not changing how he's executing it, not changing any plugged into power whatsoever, nothing has changed for these hundreds of days, except one day. 
+D
+DM (Chris)
+58:25
+I don't know who would do that. But that like. But nothing should change. 
+V
+Varis (Vincent)
+58:30
+Like, that person sounds really stupid, right? 
+D
+DM (Chris)
+58:32
+Yeah. That person sounds like they don't really have like the Izzet spirit or the like creativity. You know what I'm saying? 
+V
+Varis (Vincent)
+58:39
+I agree, you're so right. 
+R
+Rin (Rachel)
+58:43
+But strangely, one of these days they execute their unchanged process and something does change about the outcome. Would you think, or would you say that whatever their input was is what changed the output? 
+D
+DM (Chris)
+58:56
+No. 
+R
+Rin (Rachel)
+58:59
+So you should go talk to Ral. 
+O
+Orphie (Taylor)
+59:01
+By the way, Rachel, thank you so much. 
+D
+DM (Chris)
+59:04
+Why? 
+R
+Rin (Rachel)
+59:06
+So maybe the person I was talking about may not have been as hypothetical as I thought. 
+D
+DM (Chris)
+59:13
+You're telling me that Ral did the same thing every day? 
+O
+Orphie (Taylor)
+59:16
+Yeah. 
+D
+DM (Chris)
+59:17
+And thought that something different would happen and. 
+O
+Orphie (Taylor)
+59:20
+Yes. 
+R
+Rin (Rachel)
+59:20
+Yeah. So you know about the big beat? The big. What's the thing you're talking about? 
+D
+DM (Chris)
+59:25
+The interplaner beacon. 
+R
+Rin (Rachel)
+59:27
+Yes. So it activated today, but he's been trying to turn it on and off for the past like hundreds of days. Every morning as part of his morning routine. And for some reason he thinks he's the reason that it changed. But in actuality we have confirmed that he was not the reason it changed. 
+D
+DM (Chris)
+59:47
+Dalya just starts to go, oh, dear, oh dear. 
+R
+Rin (Rachel)
+59:52
+By chance, who put Ral in charge when Niv-Mizzet left? 
+D
+DM (Chris)
+59:59
+Niv, Niver, Niv themselves put Ral in charge. 
+R
+Rin (Rachel)
+01:00:02
+And what was his qualifications? 
+D
+DM (Chris)
+01:00:06
+He was the most senior person. 
+O
+Orphie (Taylor)
+01:00:08
+Who's senior after him? 
+D
+DM (Chris)
+01:00:11
+Oh, me. 
+R
+Rin (Rachel)
+01:00:14
+You might want to go talk to Roll. 
+O
+Orphie (Taylor)
+01:00:16
+I walk up to Rin and I hug her. 
+S
+Sanis (Gabe)
+01:00:20
+Senior person, like experience wise or age wise? 
+V
+Varis (Vincent)
+01:00:25
+If and if we have anything to do with it, I think you'll see a promotion in your future. 
+R
+Rin (Rachel)
+01:00:30
+Yeah. 
+D
+DM (Chris)
+01:00:32
+Wait, me? 
+R
+Rin (Rachel)
+01:00:34
+Yeah. Roll. I don't think is fit for the job anymore. But that's a whole nother conversation. Anyway, that answered my question. I think the rest of the group's question. We gotta go figure out how to deal with all these planeswalkers who have just gotten back to Ravnica and can't leave. 
+O
+Orphie (Taylor)
+01:00:50
+You have fun dealing with that. I got to punch him in the face. So I'm feeling good. 
+S
+Sanis (Gabe)
+01:00:55
+Good. 
+V
+Varis (Vincent)
+01:00:56
+Oh, yeah, that. That's the second thing. We now can no longer leave the plane. So you should look into that. You should look into that, too. 
+D
+DM (Chris)
+01:01:04
+I have a lot of. I have a lot of experiments to run. I have a lot of homework to do. Thanks, guys. 
+R
+Rin (Rachel)
+01:01:11
+You know how to contact us if you need any help. We're going to go talk to some planeswalkers. 
+D
+DM (Chris)
+01:01:16
+Bye. Bye. 
+O
+Orphie (Taylor)
+01:01:17
+Oh, thank you. 
+O
+Ogre (Chet)
+01:01:18
+You're welcome. 
+O
+Orphie (Taylor)
+01:01:21
+I hope that works. 
+V
+Varis (Vincent)
+01:01:24
+So do we remember, where did we leave the tavern? Was it at the apartment? 
+R
+Rin (Rachel)
+01:01:29
+I believe so. 
+V
+Varis (Vincent)
+01:01:31
+Okay. 
+R
+Rin (Rachel)
+01:01:31
+Usually we park it at. We park it at the apartment. 
+O
+Orphie (Taylor)
+01:01:36
+We just have to be more cognizant of when we're going to leave for five years. 
+R
+Rin (Rachel)
+01:01:40
+Yes. 
+D
+DM (Chris)
+01:01:41
+Yeah. 
+O
+Ogre (Chet)
+01:01:42
+Wasn't that problem? 
+R
+Rin (Rachel)
+01:01:43
+Make sure the parking pass is up to date. 
+D
+DM (Chris)
+01:01:47
+You know what would be cool? 
+V
+Varis (Vincent)
+01:01:50
+And this would probably be a question for Dalian. In the future, we should get, like, a thing to miniaturize our tavern. That way we can just put it inside our apartment. Well, your apartment. 
+R
+Rin (Rachel)
+01:02:02
+Oh, my God. 
+O
+Orphie (Taylor)
+01:02:03
+Yes. 
+V
+Varis (Vincent)
+01:02:04
+They would have to deal with parking and all that. 
+S
+Sanis (Gabe)
+01:02:07
+I saw this thing on a play called Critical Role where they did the same thing with a bear. 
+O
+Ogre (Chet)
+01:02:15
+No, I want it to turn into a motorcycle that I can ride. So I want. 
+O
+Orphie (Taylor)
+01:02:19
+Now that's to mention 20. 
+V
+Varis (Vincent)
+01:02:23
+Or. Or what about a unicycle? I feel like that's more ogre's vibe. 
+D
+DM (Chris)
+01:02:29
+Sorry. 
+O
+Ogre (Chet)
+01:02:29
+A tricycle. 
+V
+Varis (Vincent)
+01:02:31
+Yeah, no, yeah, tricycle. Like a sick, like, really, like, cool motorized trike. Yeah. It's got a rocket booster on the back. 
+D
+DM (Chris)
+01:02:44
+Yeah. 
+S
+Sanis (Gabe)
+01:02:45
+So we're talking like big wheel. Like just in the front, big wheel, little wheels. Okay. 
+D
+DM (Chris)
+01:02:50
+Like. Like the tiny farthing style. Like that extreme. Yeah, but. 
+V
+Varis (Vincent)
+01:02:56
+Yeah, but like, turn to a. 
+O
+Orphie (Taylor)
+01:02:58
+Nobody has time for a penny farthing. 
+D
+DM (Chris)
+01:03:00
+The big wheel with like the. 
+O
+Ogre (Chet)
+01:03:02
+The controls like this for turning, for breaking the side so you could skid out. 
+O
+Orphie (Taylor)
+01:03:10
+A big wheel is. So you want to have a. 
+S
+Sanis (Gabe)
+01:03:12
+You want a luge big wheel is what I'm hearing. 
+O
+Ogre (Chet)
+01:03:17
+Hell yeah. No, I still want it to have the pedals and I still want them to always go as fast. But it is not required for the motion at all for me to push them. But I just. I want my legs doing this like crazy for no mechanical benefit. 
+S
+Sanis (Gabe)
+01:03:37
+Support that idea, Ogre. I think we should get Dalya to make that for you. 
+O
+Orphie (Taylor)
+01:03:41
+Yep. 
+S
+Sanis (Gabe)
+01:03:42
+That'd be so cool. 
+R
+Rin (Rachel)
+01:03:43
+I mean, it only makes sense because it's also Ogre's Tavern, so he should be the one to write it. 
+O
+Ogre (Chet)
+01:03:47
+Yeah, it should be dangerous. 
+R
+Rin (Rachel)
+01:03:52
+I will request we minimize the danger. 
+O
+Ogre (Chet)
+01:03:56
+That's what the pedals are for. 
+V
+Varis (Vincent)
+01:04:01
+But a tricycle? Yeah. 
+R
+Rin (Rachel)
+01:04:05
+Yes. 
+D
+DM (Chris)
+01:04:06
+Oh, here we go. Wait, wait. 
+S
+Sanis (Gabe)
+01:04:07
+Let's just make sure it has a seat belt and we should be fine. 
+V
+Varis (Vincent)
+01:04:16
+Oh, a backwards tricycle. I like it. 
+D
+DM (Chris)
+01:04:20
+Oh, you could. Hear, hear. Thanks, AliExpress. How about a double seater one? 
+O
+Orphie (Taylor)
+01:04:26
+I hate it. 
+O
+Ogre (Chet)
+01:04:29
+Or are these AI generated? 
+S
+Sanis (Gabe)
+01:04:32
+No, these are real things. People actually do this. I live in one of those states where people do stupid shit. 
+D
+DM (Chris)
+01:04:40
+In Colorado. Yeah, like there are those types of bikes everywhere. I'm sure. 
+O
+Orphie (Taylor)
+01:04:46
+Oh my God. 
+R
+Rin (Rachel)
+01:04:46
+The tandem one is hilarious. 
+D
+DM (Chris)
+01:04:48
+Boston has them too. 
+O
+Ogre (Chet)
+01:04:52
+If I asked mid journey to give me a recumbent bike. 
+D
+DM (Chris)
+01:04:56
+No, you can order this off of AliExpress. Timely delivery. 3 wheel rear suspension, recumbent bike. Recumbent tricycle for sale. 
+O
+Orphie (Taylor)
+01:05:05
+How much is it? 
+D
+DM (Chris)
+01:05:07
+It's a cool three. $800. 
+O
+Orphie (Taylor)
+01:05:10
+Oh, okay. Chill. 
+D
+DM (Chris)
+01:05:11
+Yeah, yeah. Very chill. Yeah. Oh, but it's no longer available and it's $650 in shipping. So you know, you probably afford it. 
+R
+Rin (Rachel)
+01:05:21
+Where the hell is that getting shipped from? 
+S
+Sanis (Gabe)
+01:05:23
+Obviously overseas. The damn tariffs. 
+O
+Ogre (Chet)
+01:05:28
+I just realized that it's doing a wheelie, but you just have support on your back. The first one literally looks like it's partway up into going into a wheelie because I didn't picture the thing on the front just smacking into literally anything and immediately breaking your entire engine. 
+D
+DM (Chris)
+01:05:51
+Anyways, those are some recumbent bicycles. Nice little Ogre's Tavern. Tangent. 
+R
+Rin (Rachel)
+01:05:57
+Yes. Amazing. Anyway, I guess we are heading out back to the sleep Lesnian Conclave. What time of day is it right now? 
+S
+Sanis (Gabe)
+01:06:09
+Can we pick up my sister on the way? We told her to meet us at the apartment. 
+R
+Rin (Rachel)
+01:06:12
+Oh yeah, we gotta go to the apartment first. 
+D
+DM (Chris)
+01:06:15
+It's. It's nighttime at this Point. 
+R
+Rin (Rachel)
+01:06:18
+Okay. 
+V
+Varis (Vincent)
+01:06:19
+Do we want to just, like, the apartment for the night? 
+O
+Orphie (Taylor)
+01:06:22
+No, stop. 
+S
+Sanis (Gabe)
+01:06:23
+Take a nap. 
+R
+Rin (Rachel)
+01:06:24
+I. I mean, I'm for nap, but also, I feel like this is a situate. Well, we need to nap because we are. We have not long rested. But this is also a very, like, intense situation that I feel like we probably should do, like, immediately. 
+O
+Orphie (Taylor)
+01:06:40
+I'm pretty sure I used my last rage to punch what's his face. 
+R
+Rin (Rachel)
+01:06:46
+Worse. 
+O
+Ogre (Chet)
+01:06:47
+We just need Selena get over here from the Golgari district, right? 
+S
+Sanis (Gabe)
+01:06:56
+She was supposed to meet us at the apartment. 
+R
+Rin (Rachel)
+01:06:58
+Yeah, she's meeting us at the apartment. 
+O
+Ogre (Chet)
+01:07:01
+Let's go to the apartment. 
+D
+DM (Chris)
+01:07:03
+Let's. Okay. 
+R
+Rin (Rachel)
+01:07:04
+I believe it's on the way, if I remember correctly. 
+D
+DM (Chris)
+01:07:07
+Yeah. So you guys leave the fortress of Nivix and Dalya and Crazy Ral. And you guys make it to Sunhome and Rin and Orphea's apartment, and you see the tavern on your way into the apartment building. You go up and. Yeah, you guys are in the apartment. Clarissa has her door closed, and you guys are there. 
+O
+Ogre (Chet)
+01:07:36
+No. 
+D
+DM (Chris)
+01:07:36
+Selena. 
+S
+Sanis (Gabe)
+01:07:41
+Can I sense where she is? Connection? No. 
+D
+DM (Chris)
+01:07:48
+Do you want to make a perception check? 
+S
+Sanis (Gabe)
+01:07:51
+Yeah, for sure. 
+R
+Rin (Rachel)
+01:07:54
+We can tell Clarissa's home. She just. Her door is closed, right? 
+D
+DM (Chris)
+01:07:57
+Yeah. Like, the light is on under her. You can see the light below beneath the door. 
+S
+Sanis (Gabe)
+01:08:02
+Dark outside. That much I know. 
+R
+Rin (Rachel)
+01:08:05
+Oh, no. 
+D
+DM (Chris)
+01:08:06
+Oh, that's cool. 
+S
+Sanis (Gabe)
+01:08:08
+Plus eight is nine. 
+R
+Rin (Rachel)
+01:08:10
+Oh, God. You're just that one. 
+D
+DM (Chris)
+01:08:12
+I will. I will tell you right now, Sanis, you're. Your head kind of hurts a little bit right now. Your head kind of hurts, and it, like, is, like, throbbing, and you feel, like, kind of pressure in the back of your head right now, so it's hard to even think a little bit. 
+S
+Sanis (Gabe)
+01:08:28
+I really hate how accurate that is to real life right now because, like, I've been dealing with this neck pain that caused this headache that I've had for the past, like, week and a half. 
+D
+DM (Chris)
+01:08:38
+I'm sorry to say, Gabe, but Santa's is feeling the same thing, too, right now. 
+R
+Rin (Rachel)
+01:08:42
+Yeah. 
+S
+Sanis (Gabe)
+01:08:43
+Damn. We just get kicked when we're down, bro. Gonna take my little happy ass to the fridge and grab one of my blood bags. 
+R
+Rin (Rachel)
+01:08:56
+Can. Does it seem like anyone's been here besides Clarissa? 
+D
+DM (Chris)
+01:09:03
+Nope. That's a little concerning. Yep. It's just you guys and Clarissa. 
+O
+Orphie (Taylor)
+01:09:09
+I'm gonna say that. And I catch Clarissa up on everything that's been going on. 
+D
+DM (Chris)
+01:09:14
+Yeah. You know, you, like, knock on her door, and she opens it. 
+O
+Orphie (Taylor)
+01:09:16
+Oh. 
+D
+DM (Chris)
+01:09:17
+Oh, hey, guys. What's. What's going on? 
+O
+Orphie (Taylor)
+01:09:20
+Explains. 
+D
+DM (Chris)
+01:09:22
+Sure. 
+R
+Rin (Rachel)
+01:09:23
+It's on fire outside. 
+D
+DM (Chris)
+01:09:26
+What do you mean it's on fire outside? 
+O
+Orphie (Taylor)
+01:09:27
+Hey, maybe work from home for the next couple of days. 
+D
+DM (Chris)
+01:09:33
+Bestie. You know, I work at a bar, so I literally cannot do that. 
+S
+Sanis (Gabe)
+01:09:39
+Just have people come over to your apartment and sell liquor here. We have a tavern downstairs. 
+O
+Orphie (Taylor)
+01:09:45
+Well, maybe be ready for a rush. There's gonna be a lot of new people in town. 
+D
+DM (Chris)
+01:09:50
+Sanders, if I could. If I was the owner of a bar, that would be incredible. You know, I don't. 
+S
+Sanis (Gabe)
+01:09:57
+We should totally make her assistant manager. 
+O
+Orphie (Taylor)
+01:10:00
+We're not gonna drag Clarissa around with us. 
+S
+Sanis (Gabe)
+01:10:05
+That's why she's the assistant manager. 
+D
+DM (Chris)
+01:10:08
+I don't want to be an assistant manager of anything. I want to be the manager. Oh, well. 
+S
+Sanis (Gabe)
+01:10:18
+I tried. I. I tried to figure it out for you. We didn't want you going outside, but whatever. Fine. 
+D
+DM (Chris)
+01:10:25
+Listen, it's. It's not that far of a walk, okay? And I mean, a bunch of new planes, walkers and people here, like, that's more business for the bars, right? 
+O
+Orphie (Taylor)
+01:10:38
+Well, yeah. We don't know, like, how the. We don't know these people, so just be careful. I mean, I know you always are, but, like, I gotta say it. Just be careful. 
+D
+DM (Chris)
+01:10:52
+Yeah. Yeah. I mean, yeah, I will. That's. Thanks. 
+R
+Rin (Rachel)
+01:10:59
+I did also want to ask. Did. Has anyone stopped by the apartment in the last, like, few hours? 
+D
+DM (Chris)
+01:11:07
+No. Why do you ask? 
+R
+Rin (Rachel)
+01:11:11
+Just. Just curious. We had told someone to meet us here, but seems they haven't shown up yet. 
+D
+DM (Chris)
+01:11:16
+Oh, no. Yeah. No, it's just been me. Like, I got back home from my first job, and pretty soon I'm gonna have to go to the bar like I do every day, so if I. Who are you looking for? 
+R
+Rin (Rachel)
+01:11:40
+We haven't told her about. Rin's gonna, like, turn around with the rest group. We haven't told her about Selena yet, have we? Do we want to tell her about Selena? 
+O
+Orphie (Taylor)
+01:11:49
+Wasn't she here the last time were here with Selena? 
+D
+DM (Chris)
+01:11:51
+Yes. 
+O
+Orphie (Taylor)
+01:11:52
+Okay. 
+R
+Rin (Rachel)
+01:11:53
+So she does know Selena is stopping by later? 
+D
+DM (Chris)
+01:11:56
+Oh, yeah. I will let you know if I see Selena on my way to the bar or what have you. I'll be on the lookout for her. 
+R
+Rin (Rachel)
+01:12:07
+Would you mind also keeping an ear out at the bar tonight, just if there's any talks in regards to, like, how the planeswalkers are feeling. Anything weird going on? I know we're in the Allied side of Ravnica, but just. Just let us know if you hear anything weird. 
+D
+DM (Chris)
+01:12:31
+Yeah, yeah, all. I'll keep an ear out like I always do. You know, they always say sometimes that bartenders are like therapists. 
+R
+Rin (Rachel)
+01:12:45
+I mean, we don't need to hear everyone. Like, we don't need to hear a customer's life story unless it's really juicy. Then we'll definitely take that over a bottle of wine. 
+O
+Orphie (Taylor)
+01:12:51
+Clarissa so used to sharing the tea. 
+R
+Rin (Rachel)
+01:12:54
+Yes, definitely. There have been multiple nights where it's been Rin Orphe. And Clarissa sitting on the couch, just listening to her Rin, of course, is like asking quite, like, really weird, like, academic questions. And Ogre's just sitting there, just like. Just enjoy the story. 
+D
+DM (Chris)
+01:13:12
+For sure. For sure. 
+R
+Rin (Rachel)
+01:13:14
+But yeah, well, maybe. Maybe not necessarily more of like life stories this time. Maybe just about organized crime, something fishy happening, maybe certain people talking, that type of stuff. 
+D
+DM (Chris)
+01:13:30
+Yeah. I'll let you guys know if I see any, like, shifty folks or kind of funny business going on. But at the. I can't remember if it was like the Redeemed angel or whatnot. The name of the bar. This is crispy. I can't remember. I can't remember if it was like the Redeemed angel or. 
+O
+Orphie (Taylor)
+01:13:47
+That sounds cool. 
+R
+Rin (Rachel)
+01:13:48
+It was something angel. 
+D
+DM (Chris)
+01:13:49
+Yeah. 
+O
+Orphie (Taylor)
+01:13:50
+Yeah. Maybe it was taken over by new owners while were gone for five years and they renamed the Redeemed Angel. 
+D
+DM (Chris)
+01:13:57
+Yeah. And so close. Clarissa goes. Yeah. At the. The Redeemed Angel. Yeah. There's never any funny business. Not with a. Not with a bar named like the Redeemed Angel. 
+R
+Rin (Rachel)
+01:14:10
+I feel like it might be a little ironic of a name. I feel like this has the potential to be a running joke where we can never remember the name of this bar and then it just gets renamed every so often because it keeps changing own. 
+D
+DM (Chris)
+01:14:29
+Do you guys under new management every single time. 
+V
+Varis (Vincent)
+01:14:31
+Isn't that generally what happens in real life? 
+R
+Rin (Rachel)
+01:14:34
+Yes. 
+D
+DM (Chris)
+01:14:35
+Yeah, yeah. 
+O
+Ogre (Chet)
+01:14:38
+It's like the shop next door and Bob's Burgers open exactly every single episode. 
+D
+DM (Chris)
+01:14:46
+Didn't know that. But cool Irish pub going from o' Brien's to o' Malley's to Christopher to Charlie's. Yep. Yep. 
+R
+Rin (Rachel)
+01:15:01
+I guess the question is, do we want to go to the Selesnian Conclave? 
+O
+Orphie (Taylor)
+01:15:05
+Do we? Let's take the long rest. 
+O
+Ogre (Chet)
+01:15:07
+Yeah. And then go Ogre's. Fine. But you guys can take a long rest because you've been begging for one for a really long time. 
+O
+Orphie (Taylor)
+01:15:14
+Yeah, I was gonna say yeah. After the way Orphe has been about this long rest. 
+R
+Rin (Rachel)
+01:15:21
+Okay. So how I'm picturing this then like Rin. Like, then turns to the rest of the group. It's like, do we Want to just like, maybe take a quick nap and then head out or like just go now? I feel like this is really important. Just the rest of the group is just passed out all over the place. 
+O
+Orphie (Taylor)
+01:15:34
+Yeah. 
+D
+DM (Chris)
+01:15:35
+Yeah. You guys like went into the apartment? Yeah. You guys like went into the apartment and like we're talking to Clarissa and everyone else was just kind of like spreading out on the couch and starting to lay down, eyes half closed. 
+O
+Orphie (Taylor)
+01:15:51
+Eventually, while Raid was talking or if he just worked her way upstairs to the attic to sleep. 
+D
+DM (Chris)
+01:15:59
+I'm. 
+O
+Ogre (Chet)
+01:15:59
+I'm in your room under the. 
+O
+Orphie (Taylor)
+01:16:02
+Under the bed, under the book igloo. 
+O
+Ogre (Chet)
+01:16:05
+Oh, I. I'm under there like talking and falling asleep to the new game boy. Well, just outside Buckeygloo, I think is Pippi and I think witches out there just looking at him probably like, wow, Everyone who gets attached like this, it's changed. He's now spirit. Spirit and black. Like this keeps happening. 
+O
+Orphie (Taylor)
+01:16:33
+Or if he's going to make sure that. Or he's going to make sure that. Or if he just wants to make sure that witch has everything she needs before she goes to bed. Like you. Good. 
+O
+Ogre (Chet)
+01:16:48
+All right. 
+D
+DM (Chris)
+01:16:48
+So are you guys gonna take a long rest or a short rest? 
+O
+Orphie (Taylor)
+01:16:51
+It's gotta be long. 
+R
+Rin (Rachel)
+01:16:53
+I think it's long rest at this point. 
+D
+DM (Chris)
+01:16:55
+Going to bed. All right. 
+O
+Orphie (Taylor)
+01:16:57
+Bitched it. Benji about. Look, it has to be long rest. And I really did use my last rage to punch with a switch face. 
+D
+DM (Chris)
+01:17:08
+I love it. Yeah. 
+O
+Orphie (Taylor)
+01:17:16
+Woo. Reset. 
+D
+DM (Chris)
+01:17:18
+Yes. 
+O
+Orphie (Taylor)
+01:17:19
+I've been slightly this whole time. 
+D
+DM (Chris)
+01:17:25
+I will just sum it up here. You all wake up sanis. Surprisingly, even though you had such a massive migraine and headache yesterday, you wake up this morning with a completely clear head. 
+S
+Sanis (Gabe)
+01:17:48
+Oh, Zaddy. Daddy. 
+D
+DM (Chris)
+01:17:56
+Daddy's there. Go into your mind palace. You go into your mind palace and he's there. And you see that he's now even more put together. Fancier suit, hair done up. Even better. 
+O
+Orphie (Taylor)
+01:18:13
+Does he have like a man bun? 
+D
+DM (Chris)
+01:18:15
+Oh, for sure. Definitely has a man. 
+R
+Rin (Rachel)
+01:18:17
+But a man bun with a ribbon. 
+O
+Orphie (Taylor)
+01:18:21
+Yep. 
+D
+DM (Chris)
+01:18:21
+Yes, yes. 
+S
+Sanis (Gabe)
+01:18:23
+Okay, but so his hair is wavy or straight. 
+O
+Orphie (Taylor)
+01:18:25
+Hey, that's up to you. 
+D
+DM (Chris)
+01:18:27
+What would look better for you? 
+O
+Orphie (Taylor)
+01:18:29
+It is your mind, after all. 
+D
+DM (Chris)
+01:18:30
+Wavy. 
+S
+Sanis (Gabe)
+01:18:31
+Yeah, A wavy brunette. 
+O
+Orphie (Taylor)
+01:18:34
+Hot. 
+D
+DM (Chris)
+01:18:36
+Yeah. And then you guys are in the living room of your mind palace and Szadek goes, oh, hello, Zenith. How are you this morning? 
+S
+Sanis (Gabe)
+01:18:48
+Much better than yesterday. You look good. 
+D
+DM (Chris)
+01:18:52
+As am I. Good. So, notice anything different? 
+S
+Sanis (Gabe)
+01:19:01
+There's no wine in your hand. 
+D
+DM (Chris)
+01:19:04
+Oh, no. This is just straight blood. Oh, wait, what the. Here. Would you hear? Hear. And he tosses you a blood bag. 
+S
+Sanis (Gabe)
+01:19:12
+Oh, God. I obviously grab it and just take a sip, like, oh, this is. 
+O
+Orphie (Taylor)
+01:19:17
+You're like. How unfair for you to. 
+D
+DM (Chris)
+01:19:18
+It's delicious, Sanis. It is delicious. So good. Just. 
+O
+Orphie (Taylor)
+01:19:28
+So. 
+S
+Sanis (Gabe)
+01:19:31
+Looks like you're good. I guess I'm going to head out. I got to go look for my sister. 
+D
+DM (Chris)
+01:19:35
+Oh, yes. But before you do, like I. Like I asked you feel different? 
+S
+Sanis (Gabe)
+01:19:42
+I don't know. Dm. God, do I feel different? 
+D
+DM (Chris)
+01:19:46
+You def. You. You. You feel stronger. 
+S
+Sanis (Gabe)
+01:19:50
+I feel stronger. Less Twinkie. More Twinkie. 
+O
+Orphie (Taylor)
+01:19:56
+Did you say less Twinkie? He did, yes. 
+R
+Rin (Rachel)
+01:19:58
+Less Twinkie. Oh, my God. 
+D
+DM (Chris)
+01:20:00
+Sure. Yeah, yeah. 
+S
+Sanis (Gabe)
+01:20:03
+Getting to the otter status. 
+D
+DM (Chris)
+01:20:07
+And that. It goes. Yes. Well, I'm glad you feel that way is because you helped me become whole again. And thus, since I am at peace and harmony with myself, and I am a part of you are now also in harmony with me. 
+S
+Sanis (Gabe)
+01:20:39
+So you're not going to be as sassy with me anymore? 
+D
+DM (Chris)
+01:20:43
+Oh, no. I'm. I will try my best to not to. Okay, good. But as a result, Sanis, you are now just a little bit more powerful. Do you feel powerful, Science? You do feel powerful. 
+S
+Sanis (Gabe)
+01:21:08
+I, like, have the blood bag in one hand, sipping it, and I'm, like, looking at my other hand and I'm doing that thing where I make the veins on the back of my hand pop. And, like, yeah, it's looking like I had a good pump. 
+D
+DM (Chris)
+01:21:21
+No. No. Okay. You know, I think it was very easy to misjudge in that way. I. I didn't mean physically saddest. I meant up here. 
+S
+Sanis (Gabe)
+01:21:32
+I mean, I guess I don't have a headache anymore. 
+D
+DM (Chris)
+01:21:37
+You don't have a headache anymore. And you, as you stop and think inside your mind palace, your ability to empathize with other people is greater. You feel like you can click with people just that much more. And on top of that, you isolate yourself and you think on yourself and your mental mind palace and the walls that go up around it. And you're surprised to find that they're thicker. 
+O
+Orphie (Taylor)
+01:22:20
+Thick with a Q, dick with a cq. 
+D
+DM (Chris)
+01:22:26
+So to that end, you can add detect thoughts to your spell list. You get. You get one. You get one cast. Prolong this. 
+O
+Orphie (Taylor)
+01:22:40
+Oh, man, I wanna disembodied ghost living in mine. I love this. 
+R
+Rin (Rachel)
+01:22:47
+Let's go. 
+O
+Ogre (Chet)
+01:22:48
+You do have a disembodied ghost that. 
+O
+Orphie (Taylor)
+01:22:50
+I know. 
+D
+DM (Chris)
+01:22:51
+I know a ghost, Daddy. 
+R
+Rin (Rachel)
+01:22:54
+We all have some equivalent to a disembodied ghost. 
+V
+Varis (Vincent)
+01:23:02
+Wait, did we all get that or just Santa's? 
+O
+Orphie (Taylor)
+01:23:04
+No, just Saying is just saying. 
+V
+Varis (Vincent)
+01:23:06
+Okay, that's what I thought. I was kind of not listening for a second. 
+R
+Rin (Rachel)
+01:23:10
+All good. 
+O
+Orphie (Taylor)
+01:23:14
+Please note, sadly, not all of our. 
+R
+Rin (Rachel)
+01:23:16
+Disembodied ghosts give us that kind of ability. 
+O
+Orphie (Taylor)
+01:23:20
+Yeah, some of us just get swords. I mean, axes. 
+R
+Rin (Rachel)
+01:23:25
+Extendable axes. And fury. 
+S
+Sanis (Gabe)
+01:23:29
+And. 
+D
+DM (Chris)
+01:23:30
+And. And you'll get one more effect. But I still have to work it out. 
+O
+Orphie (Taylor)
+01:23:35
+Work it out, Chris. 
+D
+DM (Chris)
+01:23:49
+But yeah, that. That happens. Sennis. As you begin to wake up and yeah, everyone wakes up, I immediately try. 
+O
+Ogre (Chet)
+01:24:04
+To turn on Pippi. 
+D
+DM (Chris)
+01:24:07
+Doesn't work. 
+O
+Orphie (Taylor)
+01:24:10
+He just needs some rest. 
+O
+Ogre (Chet)
+01:24:13
+I put it back in my bag. Very sad about it, but I leave it on. 
+R
+Rin (Rachel)
+01:24:20
+Oh, go ahead. Sorry. 
+O
+Ogre (Chet)
+01:24:23
+No, that was it. I leave it on. Okay, so if he wakes up, you can. 
+R
+Rin (Rachel)
+01:24:29
+I do want to know, can Ogre tell the difference between the new Pippi and the old Pippi? 
+O
+Ogre (Chet)
+01:24:38
+I think so. I think it's probably been a lot less fun while I've gone through the same questions about, like, what's your favorite games? You probably just gave me a list of games instead of trying to, like, think about it and learn. So I've gotten a little bit more bored with it. 
+R
+Rin (Rachel)
+01:25:04
+So definitely when Rin wakes up. Ogre looks a little sad this morning. 
+O
+Orphie (Taylor)
+01:25:08
+Or disappointed. 
+O
+Ogre (Chet)
+01:25:10
+Unless. Have I begun giving this Pippi clone a spirit through questioning alone? 
+O
+Orphie (Taylor)
+01:25:20
+No. 
+D
+DM (Chris)
+01:25:22
+Are you interacting with that Pippi a lot? 
+O
+Ogre (Chet)
+01:25:25
+Yeah, I was just the same stuff I was talking to the original Pippi about. Like what. What are your favorite games? 
+D
+DM (Chris)
+01:25:33
+What you off what it. When you ask it about it doesn't really have any answer. All right, like what games it likes? What's its favorite color? It just doesn't give you answer. 
+O
+Ogre (Chet)
+01:25:51
+Okay. But yeah, I'd start getting bored with it. 
+D
+DM (Chris)
+01:26:01
+As you guys are all rousing waking up, you look outside, and now the apartment in Sunhome is a pretty tall tower. You guys have one of the upper floors, so you have a good view of what's going on in most rest of the 10th district. And so you see that south of the Boros district is the Orzhov district, Golgari and Simic. And. 
+O
+Orphie (Taylor)
+01:26:41
+How did we swing this view? We must have, like, helped somebody. 
+R
+Rin (Rachel)
+01:26:48
+I think it was a really good deal being super nice and you being super aggressive with the people, with the office people. 
+O
+Orphie (Taylor)
+01:26:55
+And somehow Clarissa being right in the middle. 
+R
+Rin (Rachel)
+01:26:58
+Yes. 
+D
+DM (Chris)
+01:27:01
+Yeah. 
+R
+Rin (Rachel)
+01:27:01
+I mean, we pay on time. We're great. We're great neighbors. Like we are. We. No issues. 
+O
+Orphie (Taylor)
+01:27:08
+We own a business. We're. We've got good savings because we have to. Because we disappear for Years at a time. Sometimes. 
+D
+DM (Chris)
+01:27:18
+You guys have a clear view of the rest of the 10th district. And what you see out the window is you see from the second sun controlled areas. Buildings are starting to get destroyed. And you see almost like a black tide tinged with blue, like, kind of like a lapis color spread out in, like, a wave. 
+O
+Orphie (Taylor)
+01:27:48
+Oh. Oh, shit. Was that a bad thing or is that a good thing? 
+D
+DM (Chris)
+01:27:54
+And you see it clash at the border with the allied districts. And you see now that there are angels and Is it warships? And even the parhelion 2 starts to get mobilized and. And lifts off this giant angelic fortress begin to lift off from the Boros district and move to the border between the allied forces and the second Sun. And you see now that before there was a DMZ and peacefulness, quote unquote, little skirmishes across the border. The aggression and the battles have restarted. And now with this army of. Of what you guys understand to be zombies. 
+O
+Orphie (Taylor)
+01:29:01
+Zombies. Not zombo. 
+D
+DM (Chris)
+01:29:03
+Zombo. 
+O
+Orphie (Taylor)
+01:29:06
+Zombos. 
+D
+DM (Chris)
+01:29:09
+Isaiah, you can. You can kind of see them a little bit. You. But you don't have that good of a view, but you see lots of little black figures running around as angels and is it worships go to meet them. 
+R
+Rin (Rachel)
+01:29:28
+Can we see potentially where it seems like command is, like, congregating. 
+D
+DM (Chris)
+01:29:35
+Give me an insight deck. 
+O
+Orphie (Taylor)
+01:29:37
+Okay. 
+R
+Rin (Rachel)
+01:29:39
+Maybe based on, like, my prior knowledge and understanding of how, like, the material military tactics work with the allies. That is a 26. 
+D
+DM (Chris)
+01:29:52
+I believe they're probably meeting in Sunhome. 
+R
+Rin (Rachel)
+01:29:56
+Okay, y', all. It seems like the war might have reignited. And there's a bunch of zombies running outside. 
+O
+Orphie (Taylor)
+01:30:02
+Sweet. 
+R
+Rin (Rachel)
+01:30:03
+I know we needed to sleep, but we might want to, like, get going now. 
+O
+Orphie (Taylor)
+01:30:06
+I mean. Yeah. Yeah, yeah. Let's go. 
+O
+Ogre (Chet)
+01:30:09
+Is Selena here? 
+R
+Rin (Rachel)
+01:30:11
+Is Selena here? 
+D
+DM (Chris)
+01:30:13
+Oh. 
+R
+Rin (Rachel)
+01:30:16
+Rin's gonna, like, frantically write a note and leave it on the counter. Is Clarissa up right now or any. She's. Is she around? 
+D
+DM (Chris)
+01:30:26
+No. 
+O
+Orphie (Taylor)
+01:30:27
+Okay. 
+R
+Rin (Rachel)
+01:30:29
+Yeah. Rin's gonna leave a note that says, like, to, like, Selena, Clarissa, or whoever reads this. We've gone to Sunhome to the Boros headquarters to deal with whatever's going on outside. 
+D
+DM (Chris)
+01:30:51
+So you guys are not gonna go to the Celestia Cop. 
+R
+Rin (Rachel)
+01:30:56
+I mean, what does the. Sorry. What does the group want to do? 
+O
+Ogre (Chet)
+01:31:00
+I mean, probably still going to their headquarters. 
+O
+Orphie (Taylor)
+01:31:04
+I think still going to the Salinity and Conclave is a good idea. We might do. 
+R
+Rin (Rachel)
+01:31:08
+We want to go to the Selesnya Conclave first and then go to whatever's going on. 
+O
+Orphie (Taylor)
+01:31:12
+Yeah. Because you never know who I Mean, like, we. We have a purpose for going there, which is to look for people, and then we might have help when we go to. To also. 
+O
+Ogre (Chet)
+01:31:22
+That suggestion was all above table. Ogre wants to go towards the nearest explosion, of course. 
+D
+DM (Chris)
+01:31:28
+Oh, yeah. There are explosions going on. 
+O
+Ogre (Chet)
+01:31:30
+Yeah. Ogre's rear for going there, but you guys never let him. So he's like, are we supposed to do something else? 
+R
+Rin (Rachel)
+01:31:40
+I mean, I'm. I'm torn. Like, we know we need to go to the Celes Concave potentially to see if the. Any of the other Gatewatch came back with any information. But at the same time, there is an active war outside. And I know for sure that all of the discussion and stuff would be going on at the Boros Guild. How much of an out of the way situation would it be for us to go to the Boros headquarters and then go to the Selesnya Conclave? 
+D
+DM (Chris)
+01:32:08
+The Boros headquarters is like, right outside your front door. Basically. Basically. 
+R
+Rin (Rachel)
+01:32:13
+Okay, so seems like we should. 
+O
+Orphie (Taylor)
+01:32:14
+We could stop there first. 
+R
+Rin (Rachel)
+01:32:16
+Yeah. Follow up. We'll go to the Boros Guild first, see what the situation is, let them know what our plan is in regards to, like, planeswalkers and the. Whatever's going on with the Gatewatch. And then we can go to the Selesnya Conclave to check in with her and then kind of decide what we want to do from there. 
+D
+DM (Chris)
+01:32:31
+Okay, cool. Yeah. You guys head down and. Yeah, in your apartment, you were, like, partially shielded from all the noise and the chaos, but once you're out of the building and on street level, there are, like, tons of people outside running to and fro, lots of people holding their belongings. As you. You guys were looking south. Your apartment, your rooms only faced south, so you saw what was going on in the city south. But as you look north, you see that there is a force assembling to the north as well. As you see the gruel begin to advance on the Boros district. 
+O
+Orphie (Taylor)
+01:33:18
+All right, let's move. We gotta go fast. There's a lot going on. 
+R
+Rin (Rachel)
+01:33:24
+I think we got to take the tavern with us. We cannot be leaving it here. 
+O
+Orphie (Taylor)
+01:33:29
+Okay. We're going to be going pretty long distances anyway, so tavern is main transportation option. 
+R
+Rin (Rachel)
+01:33:39
+Yeah, I agree, but we got to stick. We have to stick to the streets. We cannot be flying it at this moment with Scrappy. 
+D
+DM (Chris)
+01:33:51
+All right, you take the tavern with you to the Boros headquarters and you make it inside. And amidst the chaos, you see Molly standing and giving orders to couriers and runners as they come to report to her. And she looks like she's ranked right now. 
+R
+Rin (Rachel)
+01:34:17
+Molly. 
+O
+Orphie (Taylor)
+01:34:18
+What's up? What's going on? Details. 
+D
+DM (Chris)
+01:34:22
+Oh my gosh. I'm so glad to see some familiar faces right now. Everything sucks and I would like to quit, but we can't do that. 
+O
+Orphie (Taylor)
+01:34:32
+That's happening in real life. Plane too. 
+R
+Rin (Rachel)
+01:34:41
+Yeah. What. What. What's going on? When did this start? 
+D
+DM (Chris)
+01:34:45
+This started in the middle of the night. Slowly. We received reports of these like black plated metal plated with like blue zombies starting to appear on the borders and just relentlessly advancing towards us. And they're tough to deal with. 
+R
+Rin (Rachel)
+01:35:11
+Do we know like where they came from? Do they seem like normal in regards to like who's. Like, do we know. Are they coming from the Golgari? Like where are they coming from? 
+D
+DM (Chris)
+01:35:18
+They. They're coming from across the border, across the dmz. They just start. And. And we've been receiving reports and seeing that a lot of the like buildings and infrastructure in those bolus controlled areas are just getting destroyed. It's chaos. 
+R
+Rin (Rachel)
+01:35:36
+That's so weird that they would destroy their own buildings. 
+D
+DM (Chris)
+01:35:41
+I. It's. It's. At this point it's chaos. It's hard to get a straight. 
+O
+Orphie (Taylor)
+01:35:45
+All we know is that it's exactly what's going on. We don't. 
+D
+DM (Chris)
+01:35:49
+Yeah, we all. We know that is coming from their direction. We don't know from where or who is controlling them or whatever. We're just trying our best to hold the line and stay alive with these zombies. That combined with the fact that now the gruel has. Has. Has turned on us. 
+R
+Rin (Rachel)
+01:36:14
+This is not a good situation. Do you also know that a bunch of planeswalkers are now like trapped on Ravnica? I don't know if that information. 
+D
+DM (Chris)
+01:36:22
+Yeah, I've been receiving reports of like tons of. Of planeswalkers that are just here in the city. 
+O
+Orphie (Taylor)
+01:36:28
+Are they pissed off? And. 
+D
+DM (Chris)
+01:36:29
+And they have helped. Some of them have volunteered to go to the front lines and help out with offending the. We've been calling them eternals. 
+O
+Orphie (Taylor)
+01:36:41
+That's cool. Why do we give. 
+D
+DM (Chris)
+01:36:43
+And so we. We've been trying to hold them off and. And the planeswalkers have definitely been helping. But it's looking dire right now. 
+V
+Varis (Vincent)
+01:36:53
+With all the enemies. Is it like one big group that came in or is there. Are they coming in waves? Like are they getting reinforcements? 
+D
+DM (Chris)
+01:37:02
+It seems like a continuous flow. They just keep on coming. 
+O
+Orphie (Taylor)
+01:37:10
+There. Ha. 
+R
+Rin (Rachel)
+01:37:10
+They have to be coming from somewhere. So maybe if we go to the source we might be able to deal with it. But we don't know where they're coming from. Right. 
+D
+DM (Chris)
+01:37:18
+We have no idea right now that there's been no time for reconnaissance and my demure contacts have been silenced. I haven't heard a peep out of them. 
+R
+Rin (Rachel)
+01:37:29
+Yeah, that might be our fault. 
+D
+DM (Chris)
+01:37:32
+What? 
+R
+Rin (Rachel)
+01:37:33
+So the entire Dimir information infrastructure might not exist in their control anymore? 
+D
+DM (Chris)
+01:37:43
+What do you mean? 
+R
+Rin (Rachel)
+01:37:48
+Well, it's at least in good hands. I can at least tell you that. However, they have zero ability to contact it. 
+D
+DM (Chris)
+01:38:01
+So is this why I haven't been able to get a hold of any kind of information or surveillance? Because the Dimir Guild are the ones that do the surveilling and the scouting and the scout surreptitious information gathering. And, you know, the Dimir are for the most part impartial and serve all of the guilds. But I would like to think that in this case, they were helping the allied forces, and now I don't have anything from them. 
+R
+Rin (Rachel)
+01:38:36
+Yeah, Bryn's just gonna look at the rest of the group. Just kind of very. You know, what we didn't have to. 
+O
+Orphie (Taylor)
+01:38:41
+Do is tell them it was our fault. We could have just said, oh, yeah, it's down. 
+R
+Rin (Rachel)
+01:38:45
+You know, Rin can't hold that in at all. 
+D
+DM (Chris)
+01:38:49
+Yeah. 
+O
+Ogre (Chet)
+01:38:49
+Any. Anyone who looked at Ogre when you said it was in good hands, you. You'll notice that he's got like kind of a smile on his face and he's rummaging through a couple of his bags, and when you look back, he's holding up one of his mushrooms and Steve's tooth and kind of smiling. You said there was like a lot of them. 
+R
+Rin (Rachel)
+01:39:16
+You know, Ogre, that is actually not the worst idea you've had. 
+O
+Ogre (Chet)
+01:39:22
+I'm getting smarter. 
+R
+Rin (Rachel)
+01:39:27
+One last. 
+V
+Varis (Vincent)
+01:39:28
+I mean, I approve. 
+R
+Rin (Rachel)
+01:39:29
+I. Yeah, Rachel is fully here for this idea. 
+V
+Varis (Vincent)
+01:39:33
+I mean, like, I'm ready to jump in the frame myself. 
+R
+Rin (Rachel)
+01:39:36
+Steve, this would be phenomenal. 
+V
+Varis (Vincent)
+01:39:40
+Just eat up all the zombies. 
+R
+Rin (Rachel)
+01:39:42
+Yes, just eat all the zombies. Or at least take a decent chunk of them. That's like the best I can ask for. 
+O
+Ogre (Chet)
+01:39:49
+Lane to get to where they're coming from. 
+R
+Rin (Rachel)
+01:39:53
+That too. Yeah. Just bore through the. Bore through the tunnels. So with all of these planeswalkers getting called back to the plane of Ravnica and getting craft here. Do you. Have you by chance heard anything about from the Gatewatch at all? Who the Gatewatch? Those who served and were part of Jace's the previous pack holder or so above table. 
+D
+DM (Chris)
+01:40:16
+Molly has. Molly doesn't know about the Gatewatch. 
+O
+Orphie (Taylor)
+01:40:19
+Oh. 
+R
+Rin (Rachel)
+01:40:21
+Do you have heard anything maybe about a planeswalker named Chandra? Or Gideon coming back onto this plane. 
+D
+DM (Chris)
+01:40:29
+No. No. 
+R
+Rin (Rachel)
+01:40:32
+Okay, if you do, please let us know. They may have very valuable information in regards to maybe not necessarily this situation directly, but very indirectly, if that makes sense. 
+D
+DM (Chris)
+01:40:47
+Okay, yeah, sure. 
+R
+Rin (Rachel)
+01:40:51
+Rin's gonna turn the rest group. So what do we want to do about this situation here? We can still go to the Selesnine Conclave, but I think we kind of have to deal with the massive zombie problem and the gruel coming in, or literally the entire alliance is going to collapse. 
+S
+Sanis (Gabe)
+01:41:05
+Why can't we do it all at once when we're on our way to the Selesnya Conclave, just beat up a bunch of bad guys. 
+R
+Rin (Rachel)
+01:41:13
+Are there bad guys on the way to Celestine Conclave? 
+D
+DM (Chris)
+01:41:16
+No, it's one contiguous group. 
+R
+Rin (Rachel)
+01:41:18
+No. Yeah, it's all along the border. Border, Right. Or at least, like, in certain sec. 
+O
+Orphie (Taylor)
+01:41:23
+Like. 
+S
+Sanis (Gabe)
+01:41:23
+Yeah, I gotta take a look at the map again. 
+R
+Rin (Rachel)
+01:41:27
+Okay, I believe this. All the way on the east side. 
+S
+Sanis (Gabe)
+01:41:31
+Yes. And you said the gruel is now turned against us. 
+R
+Rin (Rachel)
+01:41:36
+Correct? They're from the. 
+S
+Sanis (Gabe)
+01:41:38
+From the north. 
+R
+Rin (Rachel)
+01:41:39
+Yeah. 
+S
+Sanis (Gabe)
+01:41:40
+And then there's. And then Rakdos is an ally, but they're on the other side of the Golgari. 
+R
+Rin (Rachel)
+01:41:50
+Correct. Oh, God, I really hope the Rakdos are okay. Rin then all of a sudden has this, like, acknowledgment of, like, oh, Penny's, like, all the way on the other side of this. What the going on? Rin's gonna turn back to Molly. Do we know what's going on with Arachdos at all? Is there any contact whatsoever? 
+D
+DM (Chris)
+01:42:07
+Nope, nope. 
+R
+Rin (Rachel)
+01:42:10
+Rin actually curses, and she does not do that. 
+D
+DM (Chris)
+01:42:14
+Oh. 
+R
+Rin (Rachel)
+01:42:17
+God, please, no. Ogre does not need to be learning curse words. 
+O
+Ogre (Chet)
+01:42:22
+I've been using them, remember? 
+R
+Rin (Rachel)
+01:42:24
+Oh, yeah, you have. 
+O
+Ogre (Chet)
+01:42:25
+You can't hear me, but I use them. 
+R
+Rin (Rachel)
+01:42:27
+Oh, maps. I forget we have a different thing for this. Okay, yeah. The gruel are to the north and the Red wastes. I think we should still go to the Selesnine Conclave and see if we can get any information about the gates. Watch. However we. I think, immediately should then try and sort out where the heck these zombies are coming from, because this is. This is not okay. 
+V
+Varis (Vincent)
+01:43:00
+So I'm sorry if this is maybe already discussed in the past, like, 20 seconds, but do we not just want to send Steve to demolish them right now? 
+D
+DM (Chris)
+01:43:08
+My suggestion, while we go over there. 
+O
+Ogre (Chet)
+01:43:12
+Ogre, Boris, go with Steve, because I'm gonna summon and ride Steve once we're there. Obviously. But I have more than one mushroom Left if you want to be a dragon. 
+D
+DM (Chris)
+01:43:24
+Well, okay. 
+V
+Varis (Vincent)
+01:43:25
+That's what I was gonna say. Like, I'm ready to jump in the fray with dragon right now and just up. 
+O
+Ogre (Chet)
+01:43:30
+And Ogre jumping down there and sending these souls might be one of the better ways to take out hordes of zombies. 
+R
+Rin (Rachel)
+01:43:41
+Would you be able to, though? Because they're all in the Game Boy, and the game Boy does isn't like. 
+O
+Ogre (Chet)
+01:43:47
+My blade's the one that. 
+R
+Rin (Rachel)
+01:43:48
+Oh, true. 
+D
+DM (Chris)
+01:43:49
+With souls. 
+O
+Ogre (Chet)
+01:43:51
+I don't know if it'll still go to the Game Boy. 
+D
+DM (Chris)
+01:43:56
+But. 
+V
+Varis (Vincent)
+01:43:58
+Like, I think this would be one instance where splitting up wouldn't actually be a bad idea. 
+O
+Ogre (Chet)
+01:44:03
+Yeah. 
+D
+DM (Chris)
+01:44:03
+You guys can take. 
+O
+Ogre (Chet)
+01:44:04
+Because we're real quick. 
+V
+Varis (Vincent)
+01:44:06
+Because, like, me and Ogre are just gonna be killing, like, just enemies. 
+O
+Ogre (Chet)
+01:44:12
+Right in roll 20, obviously. Roll 20, but, like, I'm cool with us splitting off and going and doing this while you guys do that, because Ogre's looking up at Varis holding now two of the mushrooms and the tooth. Like. 
+R
+Rin (Rachel)
+01:44:34
+Rin. Rin's gonna look at Sanis and Orphea. I know this is usually not the logical way we want to go, but I think actually this might be the time that we should probably split up. I hate splitting the party, but I think Varis and Ogre can do some serious damage and actually try to call the zombies that are currently coming. Going through, at least for a time to give us time to try and figure out where the heck it's coming from. 
+S
+Sanis (Gabe)
+01:45:01
+I don't disagree. 
+R
+Rin (Rachel)
+01:45:04
+Orphe, you have an option. You can go have fun, take all your rage out. I'm fully here for this. Or you can come with us to the Selesnya Conclave. 
+O
+Orphie (Taylor)
+01:45:15
+I. As much as I would like to go smash things, I feel like there might be a fight wherever we go. 
+R
+Rin (Rachel)
+01:45:27
+I sure hope not, but I agree. 
+S
+Sanis (Gabe)
+01:45:29
+Valid. And Rin and I are not. We're kind of squishy. 
+O
+Orphie (Taylor)
+01:45:33
+Just so. I mean, like, if they want to go do that. And I stay with you guys just in case somebody needs to be manhandled. 
+R
+Rin (Rachel)
+01:45:41
+Yep. And just to. Just to confirm, Chris. 
+O
+Orphie (Taylor)
+01:45:48
+What? 
+O
+Ogre (Chet)
+01:45:50
+No one comes close to your single target damage. 
+R
+Rin (Rachel)
+01:45:56
+We got a big beefy AOE and a single two single target, people. So I think we got it covered. 
+V
+Varis (Vincent)
+01:46:06
+Before you guys head out, though, I did make some treats in the morning. 
+D
+DM (Chris)
+01:46:10
+It. 
+V
+Varis (Vincent)
+01:46:11
+It doesn't really do much, but you can get four temporary hit points. 
+O
+Orphie (Taylor)
+01:46:15
+So I'll take tip hit. 
+R
+Rin (Rachel)
+01:46:17
+I'll take some four temp hit point cookies. That sounds great to me. 
+V
+Varis (Vincent)
+01:46:22
+So all four of you Guys can do that. 
+O
+Ogre (Chet)
+01:46:26
+Nice. 
+S
+Sanis (Gabe)
+01:46:30
+Thanks Varis, these taste delicious. 
+R
+Rin (Rachel)
+01:46:34
+Since it's like 8 o', clock, can I request we take a bio break here in like 10 minutes or even like right now? 
+D
+DM (Chris)
+01:46:40
+Sure, sure. 
+R
+Rin (Rachel)
+01:46:41
+I've been drinking a lot of liquids. 
+D
+DM (Chris)
+01:46:43
+Yeah, so I just want to get it clear. Team one, Varis and Ogre. Team two, Orphe, Sennis and Rin. 
+R
+Rin (Rachel)
+01:46:49
+Yes, and plan is Ogre and Varis will execute Plan Oversized or Operation Oversized. 
+O
+Orphie (Taylor)
+01:47:00
+Thank you. 
+R
+Rin (Rachel)
+01:47:00
+I came up with it just now to enlarge our best friend Steve and Varis in dragon form to go take out at least some if as many as they can of the zombies. Do you all want to go after the gruel as well or just focus on the zombies for right now? 
+O
+Ogre (Chet)
+01:47:18
+What up the Horde? 
+V
+Varis (Vincent)
+01:47:20
+Yeah, I think we're just gonna help Zombies for you. 
+D
+DM (Chris)
+01:47:22
+We're gonna. 
+O
+Ogre (Chet)
+01:47:23
+We're going to go do a bullet heaven game. 
+V
+Varis (Vincent)
+01:47:27
+I don't know what that reference is. 
+R
+Rin (Rachel)
+01:47:29
+But I'm here for it. 
+D
+DM (Chris)
+01:47:30
+Great. 
+O
+Ogre (Chet)
+01:47:31
+Dopamine simulators. 
+R
+Rin (Rachel)
+01:47:36
+And then team two will be going to the Selesnya Conclave to get information hopefully from the Gateswatch if they are there. Or at least find what's her face. Who is Tree? I call her Tree Lady. She's the one that gave good berries to. To Ogre. We need to find her, see if she's gotten in contact with the other planeswalkers and then meet back. 
+D
+DM (Chris)
+01:47:59
+Cool. 
+O
+Ogre (Chet)
+01:48:00
+NASA. 
+R
+Rin (Rachel)
+01:48:02
+Yes. Nissa and I just wanted to confirm our upgraded cell phones. We can communicate with each other from them if we need to try and meet back up. 
+O
+Orphie (Taylor)
+01:48:11
+Like even if they were cell phones, I'd be able to do that. 
+R
+Rin (Rachel)
+01:48:14
+Yeah, I wanted to make sure because we will have to like at least one person who's not oversized and we can communicate and try and like. Okay, where's the opening? We'll meet you all there. 
+D
+DM (Chris)
+01:48:25
+You'll see us. 
+R
+Rin (Rachel)
+01:48:27
+I true it'll be hard to miss you, but still depends on how long we're gone. Because who knows, we might run into some as well. 
+V
+Varis (Vincent)
+01:48:34
+And you could always, I assume, call Molly because like she'll be on the front lines. 
+D
+DM (Chris)
+01:48:44
+I don't know. 
+V
+Varis (Vincent)
+01:48:44
+Yeah. 
+R
+Rin (Rachel)
+01:48:47
+Okay. I think that's our plan, Chris. 
+D
+DM (Chris)
+01:48:49
+All right, cool. Come back at 8:20 then. 
+R
+Rin (Rachel)
+01:48:52
+Solid. That'll also give me time after I. 
+O
+Orphie (Taylor)
+01:48:56
+Get back to table. 
+Audio Transcript of Pacts & Power
+Date: 07/27/25, part 2
+I think we're good to go. 
+O
+Orphie (Me)
+00:00
+I'm good to go. 
+D
+DM (Chris)
+00:01
+Okay. 
+R
+Rin (Rachel)
+00:01
+I did actually finish my notes. 
+O
+Orphie (Me)
+00:03
+Press record. 
+O
+Ogre (Chet)
+00:05
+Vincent, how long can you turn into a dragon? Or is it just once a day. 
+O
+Orphie (Me)
+00:10
+For however long dragon. 
+V
+Varis (Vincent)
+00:13
+I'm looking. He's like, forget. 
+O
+Ogre (Chet)
+00:17
+I know. My mushrooms only last for one hour. So I'm definitely telling you guys as we separate, like, remember, you only got. 
+V
+Varis (Vincent)
+00:24
+It, like, an hour. I'm as long as I want. 
+D
+DM (Chris)
+00:28
+Cool. Yeah. 
+O
+Ogre (Chet)
+00:30
+So you can get us over there, and we could wait a bit. You'll have an hour from the explosions. From our explosions. 
+D
+DM (Chris)
+00:42
+It's a good idea. All right. 
+O
+Orphie (Me)
+00:47
+So should I. One more question. Corey's card. 
+D
+DM (Chris)
+00:50
+Okay, sure. 
+R
+Rin (Rachel)
+00:53
+Molly, do we know where the zombies are coming from or just the general direction? 
+D
+DM (Chris)
+00:57
+Molly says, oh, they're coming from. I mean, they're lined up all around the border, all along the border with the second sun. So there. There's, like, no one spot. It seems like they're coming from everywhere. 
+O
+Orphie (Me)
+01:12
+Okay. 
+D
+DM (Chris)
+01:14
+At least that's as far as we can see for now. 
+R
+Rin (Rachel)
+01:19
+Rin's gonna turn to Ogre and Vincent. Reconnaissance mission. Then not only destroy zombies, figure out where they're coming from, and then once we meet back up after y' all are done in an hour, because she's gonna remember the mushrooms last only for an hour. We can then go to where hopefully Steve can take us wherever we need to go to. To figure out where they're coming from and stop them. 
+D
+DM (Chris)
+01:45
+Yeah. 
+O
+Ogre (Chet)
+01:46
+I hope he's hungry. 
+R
+Rin (Rachel)
+01:48
+You know. 
+V
+Varis (Vincent)
+01:50
+About how long would it take them to get to the. From here? 
+D
+DM (Chris)
+01:58
+At least 20 minutes. At least 20 to 30 minutes. 
+O
+Ogre (Chet)
+02:02
+Even flying in the tavern? 
+R
+Rin (Rachel)
+02:06
+Rin's slightly concerned about taking the tavern flying right now. 
+V
+Varis (Vincent)
+02:11
+Well, I mean, even driving it. Like, is. Is that the tavern driving time where. 
+D
+DM (Chris)
+02:16
+Oh, the tavern driving time would be a lot quicker. 
+V
+Varis (Vincent)
+02:18
+Okay. 
+R
+Rin (Rachel)
+02:19
+We're driving the tavern over to the Selesnya Conclave. 
+D
+DM (Chris)
+02:22
+Okay. 
+V
+Varis (Vincent)
+02:22
+Okay. 
+D
+DM (Chris)
+02:22
+I would say it would cut it in half, but especially with all the chaos going around and, like, there are other vehicles that are on the road, people just, like, everywhere. So it'll be faster, but still take a bit of time. 
+R
+Rin (Rachel)
+02:39
+Yeah, like, we're talking like, 10 to 15 minutes versus, like, 20 to 30. 
+D
+DM (Chris)
+02:43
+Yeah. 
+V
+Varis (Vincent)
+02:43
+Yeah. Okay. So this was still help. 
+D
+DM (Chris)
+02:47
+Are. Are we. 
+V
+Varis (Vincent)
+02:48
+Are we, like, ready to go right now? 
+D
+DM (Chris)
+02:51
+I'm gonna. 
+O
+Ogre (Chet)
+02:52
+I'm gonna dig something else out of one of my bags. The same one that I was pulling Steve's tooth out of and hand it to Rin. And it's just a little. I Guess a pretty regular sized glass bottle. It's. It's my ever smoking bottle that I forget that I have and don't know how it works myself. But I can just send you the description of it. 
+R
+Rin (Rachel)
+03:16
+Okay. Randomness. Okay. 
+O
+Ogre (Chet)
+03:22
+I'm finally remembering what my stuff does. It's. 
+V
+Varis (Vincent)
+03:26
+Sanus. Could I see your quiver for a sec? It's gonna. I'm gonna help you out. 
+D
+DM (Chris)
+03:34
+Oh. 
+S
+Sanis (Gabe)
+03:35
+Okay. 
+V
+Varis (Vincent)
+03:35
+I. I don't. You know, just. If you. If you happen to run into trouble on the way, so help you out a little bit. 
+S
+Sanis (Gabe)
+03:42
+Okay. 
+D
+DM (Chris)
+03:43
+Okay. 
+V
+Varis (Vincent)
+03:46
+Can I get guidance real quick though? 
+R
+Rin (Rachel)
+03:48
+Yeah, go ahead. 
+V
+Varis (Vincent)
+03:50
+Thanks. 
+R
+Rin (Rachel)
+03:54
+I'm guessing you're still rolling on the gauntlet. Didn't. 
+V
+Varis (Vincent)
+03:58
+Yep. Don't even need it. 
+D
+DM (Chris)
+03:59
+Okay. 
+V
+Varis (Vincent)
+04:01
+You're handing me. Are you handing me the paper? 
+S
+Sanis (Gabe)
+04:04
+Yeah. 
+V
+Varis (Vincent)
+04:05
+Okay. 
+S
+Sanis (Gabe)
+04:07
+Skeptically. 
+V
+Varis (Vincent)
+04:08
+Let me burn my spell. Start real quick. It's a third level. Yeah. Okay, so bars can take it. And then he's just gonna breathe fire all over it. 
+S
+Sanis (Gabe)
+04:20
+Dude, what the. 
+V
+Varis (Vincent)
+04:22
+That was good. I think it. Does it even say just got the. 
+S
+Sanis (Gabe)
+04:29
+Grime off that we still don't. 
+O
+Orphie (Me)
+04:32
+Selena's still not back. 
+V
+Varis (Vincent)
+04:34
+Okay. So it doesn't give any flavor. Text as to like, what it looks like now, but for the next. 
+S
+Sanis (Gabe)
+04:41
+Soot covered, I'm assuming. 
+V
+Varis (Vincent)
+04:44
+Where is it again? Where is it again? For your next 12 arrows, it. And it doesn't matter if it misses. So it is just your next 12 arrows. They deal an actual one. D6 fire damage. 
+D
+DM (Chris)
+05:00
+Very nice. 
+S
+Sanis (Gabe)
+05:03
+Thank you. 
+D
+DM (Chris)
+05:04
+What was the spell? 
+V
+Varis (Vincent)
+05:05
+Flame arrows. 
+D
+DM (Chris)
+05:07
+Nice. 
+V
+Varis (Vincent)
+05:13
+And then duration wise, it only lasts for an hour, so after. After that, it'll just. It'll turn off. 
+O
+Orphie (Me)
+05:20
+I just want you guys to know in the first part of the notes, it has abbreviated Leather Daddy Ball to ldb. 
+R
+Rin (Rachel)
+05:28
+Yes. Don't forget LDGB as well. 
+O
+Orphie (Me)
+05:33
+I haven't gotten that far yet. 
+R
+Rin (Rachel)
+05:35
+Okay. 
+O
+Orphie (Me)
+05:36
+It does say eventually, LDB is merged with AI companion, Pippi's Game Boy, creating a new arcane fusion that temporarily renders Pippi unconscious. 
+R
+Rin (Rachel)
+05:47
+Name's the Leather Daddy Game Boy. Or the ldgb. 
+D
+DM (Chris)
+05:55
+Love it. All right. Anything else before you guys split the party? 
+R
+Rin (Rachel)
+06:08
+Rin takes the bottle kind of curiously just like. Okay. Do we by chance know what the command word is? 
+V
+Varis (Vincent)
+06:27
+I mean, I don't think Ogre's ever used it. Right. 
+O
+Orphie (Me)
+06:30
+No. 
+R
+Rin (Rachel)
+06:31
+And to be honest, I don't think Ogre would know the command word for it. 
+O
+Ogre (Chet)
+06:37
+Yeah, I don't think I have a command word for it. Once this thing's on, it's on. It's a good thing I have not used it yet be wise. 
+R
+Rin (Rachel)
+06:48
+Yeah, we love a good last ditch effort plan that may potentially sabotage us in the ends. Always. Great. Okay, I think we're ready to go. 
+D
+DM (Chris)
+07:11
+All right, so Operation Oversize and Operation Salary are a go. 
+R
+Rin (Rachel)
+07:18
+Yes. 
+D
+DM (Chris)
+07:20
+Cool. All right, so we'll go to Operation Oversize first. So what does it look like when you guys leave for the front? 
+V
+Varis (Vincent)
+07:32
+Am I just going dragon now? 
+O
+Ogre (Chet)
+07:34
+Right, yeah, Koger's definitely just waiting for you to turn into a dragon. He assumes, you know, because you can read minds, he thinks, no, please don't. 
+R
+Rin (Rachel)
+07:43
+Turn into a dragon inside of the Boros office, please. 
+V
+Varis (Vincent)
+07:47
+Well, I mean, yeah, no need to. Varis doesn't need to be told that. So yeah, we'll go outside in the Niall dragon. 
+D
+DM (Chris)
+08:02
+Yeah. 
+O
+Ogre (Chet)
+08:02
+And then just. 
+D
+DM (Chris)
+08:05
+Tell me when to break the tooth. 
+V
+Varis (Vincent)
+08:07
+I mean we probably wait till we. 
+O
+Ogre (Chet)
+08:11
+Get to where the Zombos are. 
+V
+Varis (Vincent)
+08:13
+Yeah, yeah. 
+D
+DM (Chris)
+08:15
+All right, so Varis, you turn into a dragon, over hops on your back, you spread your wings and you lift off to the air. As you get closer to the front and you get a better look at the landscape, what you saw from afar, your fears are confirmed. It's just as bad. But you do see buildings starting to be destroyed. This kind of like black blue wave start to push out even in more intensity from the south. And once you reach the front lines, you're greeted by a full on battle. You see all sorts of varieties of figures plated in this like weird metal that people are calling Eternals. You see like manticores, you see Nagas, you see jackal humanoids and humanoids themselves advancing in kind of like unison towards the front. 
+D
+DM (Chris)
+09:33
+The Boros and Izzet and Cesian warriors fighters are engaged at the front, trying to hold them back. But you see a little pocket where the line is starting to break and the Eternals are getting through. You go to that part. 
+O
+Ogre (Chet)
+09:55
+That sounds right. 
+D
+DM (Chris)
+09:59
+All right, you roll on up and yeah, there are just a ton of Eternals in the back and Boros is it soldiers in the front kind of trying to fend them off. And you see that there is the line is starting to break and Eternals are starting to make headway into past the line and into the Boros district. What do you guys do? 
+O
+Ogre (Chet)
+10:36
+All right, go over that. And then once we get over that, I'm breaking the tooth. So he comes up straight. 
+V
+Varis (Vincent)
+10:45
+Oh yeah. 
+O
+Ogre (Chet)
+10:46
+At which point I'm gonna jump off of you while I feed you one mushroom. 
+R
+Rin (Rachel)
+10:53
+And it's amazing, absolutely epic. 
+O
+Ogre (Chet)
+10:54
+And then I'm feather falling myself down to on Top of Steve. I'm gonna run up, like probably misty step to get to his mouth and shove the other mushroom in his mouth. And I only have one left. 
+V
+Varis (Vincent)
+11:12
+That. That is just the enlarge spell, right? 
+O
+Orphie (Me)
+11:15
+Yeah, yeah. 
+D
+DM (Chris)
+11:16
+So you just double it. 
+V
+Varis (Vincent)
+11:18
+I'm a big. 
+D
+DM (Chris)
+11:22
+Absolutely massive dragon. 
+V
+Varis (Vincent)
+11:24
+Doubles in size, weight multiplied by eight. I am now. What size am I? Huge. I'm now gargantuan. 
+O
+Ogre (Chet)
+11:36
+Enjoy. 
+D
+DM (Chris)
+11:40
+Awesome. 
+V
+Varis (Vincent)
+11:41
+Hell yeah. 
+D
+DM (Chris)
+11:43
+You see? Yeah. As the chaos on the ground is unfolding, Varis and Ogre fly over. Ogre midair chips the tooth. You hear a vibrating coming from the ground as Ogre feather falls, chucks a mushroom into Varis's mouth and slowly floats down Steve. You hear the rumbling and then a. As Steve from an underground tunnel pops out and gets like, actually, let me see, how many does he get? Gets three eternals in his mouth. On the way up and with the mouth full, he goes, you have called me and so I shall come. 
+R
+Rin (Rachel)
+12:41
+It's Steve. 
+O
+Orphie (Me)
+12:43
+We love Steve. 
+S
+Sanis (Gabe)
+12:45
+Hi, Steve. 
+O
+Ogre (Chet)
+12:46
+I'm gonna like land on his head, putting the other mushroom in there into his mouth. 
+V
+Varis (Vincent)
+12:54
+Point and go. 
+O
+Ogre (Chet)
+12:55
+Think you can eat all of those ones? 
+D
+DM (Chris)
+12:58
+It has been some time since I have feasted. Today, the metals of man shall be consumed. 
+R
+Rin (Rachel)
+13:09
+Yeah. Let's go. 
+O
+Ogre (Chet)
+13:13
+Away from the mouth. 
+D
+DM (Chris)
+13:16
+To. 
+O
+Ogre (Chet)
+13:16
+Sit on top and just revel for a little bit before getting in the action myself. 
+D
+DM (Chris)
+13:21
+Amazing. Varis, can you give me an attack roll against just the sea of eternals in general? 
+V
+Varis (Vincent)
+13:34
+I mean, I just plan on breath weaponing. 
+D
+DM (Chris)
+13:36
+Sure. Okay, just roll me damage then. 
+V
+Varis (Vincent)
+13:44
+Oh, okay, cool. What is it again? Okay, 18v6. That is 58. Yeah, I did. 
+D
+DM (Chris)
+14:15
+And that's from. Oh, just. Just being a dragon. Yeah, yeah. 
+V
+Varis (Vincent)
+14:21
+My breath and a 60 foot cone. Also, for the sake of the enlarged spell, I'm probably just breath weaponing rather than like making claw attacks. But it normally, like if it's a person, you'd be holding a weapon and you would deal a little extra damage. Can that also apply to my claws. 
+D
+DM (Chris)
+14:46
+Because you're enlarged? Yeah, yeah, sure. I'll give it to you. Cool. 
+V
+Varis (Vincent)
+14:51
+It's only D4, so whatever. 
+D
+DM (Chris)
+14:53
+Yep. All right. So you said 58. 
+V
+Varis (Vincent)
+14:57
+58 force damage. Yeah. 
+D
+DM (Chris)
+15:04
+All right, so I'll say, Varis, you don't spare any time. Without hesitation, as soon as you become big, you're embigonded. You sweep across the line where the eternal started to break through and you breath weapon across the battlefield and you incinerate 14 of those eternals. And as you start to go up from Your bombing run. You hear the cheers and the cries of the Izzip and Boros soldiers that are on the ground. All right, let me see. You know, I thought I had. I had a NPC sheet for Steve somewhere. I don't know where I put it. 
+R
+Rin (Rachel)
+16:23
+Time to dig. Just like Steve dig. Yeah, I mean, like, also, we need to make sure and big end makes it into the quotes for the session. 
+D
+DM (Chris)
+16:38
+Okay, you know what? I'll say that. Ogre, you're writing. Steve, you can make the roll. Just roll for me. Just roll for me. You're. Are you muted? You're muted right now. 18. Okay. 
+O
+Ogre (Chet)
+17:16
+I really got average on it. 1, 2, 7, 8. 
+D
+DM (Chris)
+17:25
+All right. I mean, it's still not bad because Steve's on the ground, right? And, like, eating takes a lot of work. He still manages to. As he's sliding on the ground, snake style, just slurp up four eternals in his mouth. 
+O
+Ogre (Chet)
+17:50
+Hell, yeah. 
+V
+Varis (Vincent)
+17:51
+Just have him, like, roll away. 
+O
+Ogre (Chet)
+17:53
+I was about to say exactly that. If he ever gets out, like, all the way, I'm gonna tell him to just start rolling and I'm gonna start running, like. 
+D
+DM (Chris)
+18:04
+Oh, yeah. 
+O
+Ogre (Chet)
+18:06
+As he just steamrolls. 
+D
+DM (Chris)
+18:09
+That's right. Steve isn't actually fully out at this point. He's. He, like, came out and then, like, came back down and, like, there's still more of him underground. Yeah. 
+O
+Ogre (Chet)
+18:19
+And who knows what damage I did to the underground by having him enlarge while still in there and just. 
+D
+DM (Chris)
+18:27
+Yeah, yeah. 
+R
+Rin (Rachel)
+18:29
+I was just wondering. I was like, I wonder what the underground infrastructure is doing right now and how those pipes are going. 
+D
+DM (Chris)
+18:35
+Yes, exactly. 
+O
+Ogre (Chet)
+18:37
+Or maybe did this cause an earthquake? Did I cause a natural disaster? 
+V
+Varis (Vincent)
+18:42
+Steve just going. I mean, he's, like, half. Like, he's the size of the whole city right now. 
+O
+Ogre (Chet)
+18:50
+Yeah. I don't think we ever saw his end. 
+R
+Rin (Rachel)
+18:54
+No, we have. We have. I believe so. 
+O
+Ogre (Chet)
+18:57
+I mean, we never saw it in roll 20 when it just kept getting bigger. 
+S
+Sanis (Gabe)
+19:02
+And his head. I don't. Yeah, we. I don't think we've seen his tail in the same room as his head ever. 
+D
+DM (Chris)
+19:09
+Yeah. 
+S
+Sanis (Gabe)
+19:09
+Because when he. When we first met him is when we saw the tail, and it was when he was leaving us. 
+D
+DM (Chris)
+19:14
+Yeah. I think that you guys saw, like, maybe 60 or 70ft of him. Yeah. Yeah. 
+O
+Ogre (Chet)
+19:27
+Well, he's twice as long now. 
+D
+DM (Chris)
+19:31
+Just absolutely ginormous. Yeah. So with that round done, I'm gonna go to Operation Celery. So you guys are going to go to the Selesnya Conclave, and you guys are taking Ogre's. Tavern. 
+R
+Rin (Rachel)
+20:00
+Yes. 
+D
+DM (Chris)
+20:01
+Okay, cool. Yeah. Right now the streets are chaos. Like I said before, you guys get into Ogre's Tavern, you get scrappy going and you're dodging in between other wagons, other vehicles, other people that are just running around like, trying to get back home, trying to get to the store to, like, get stuff. It's absolute chaos out there. But after a bit, you manage to get to the Slesnia Conclave wave and you guys go. Where are you guys going? 
+S
+Sanis (Gabe)
+20:47
+Off the check in desk. 
+R
+Rin (Rachel)
+20:50
+Yeah, we need to go find where Nessie. Nessa. Nessa. Nissa. 
+D
+DM (Chris)
+20:56
+Nissa. 
+R
+Rin (Rachel)
+20:56
+Nissa. Nissa is. We need to find Nissa. 
+D
+DM (Chris)
+20:59
+All right. No, you go to the same spot that Nissa is usually at, and you see her there. And you also see a couple of other familiar faces there. Let me open up my folder. You see Myra hanging out with Nissa smoking some Celesnian celery. 
+V
+Varis (Vincent)
+21:45
+So glad we split up. 
+R
+Rin (Rachel)
+21:47
+Who's smoking celery? 
+S
+Sanis (Gabe)
+21:49
+The bimbos from the prison. 
+R
+Rin (Rachel)
+21:52
+The bimbos from the factory, if you remember. 
+D
+DM (Chris)
+21:54
+God, Saskia and Myra. And you see that Nissa is also partaking. 
+S
+Sanis (Gabe)
+22:07
+I'll just go and try to insert myself into the rotation somewhere. 
+D
+DM (Chris)
+22:11
+Okay. Yeah, yeah. You. 
+S
+Sanis (Gabe)
+22:13
+You. 
+D
+DM (Chris)
+22:13
+You are on the other end. And they just, like, they hand you the joint. 
+R
+Rin (Rachel)
+22:19
+This is not the time to be freaking smoking. 
+D
+DM (Chris)
+22:24
+Yeah. Myra goes, wow, dang, Sanis, you can really hit it. 
+S
+Sanis (Gabe)
+22:32
+Yeah. 
+D
+DM (Chris)
+22:32
+And. And you look over. Yeah, you say that to Nissa, Rin. And Nissa goes, no, everything is, like, under control and it's like, chill. Like, let's just look behind. Did you even look like. 
+R
+Rin (Rachel)
+22:47
+Look to see how baked she is right now? 
+D
+DM (Chris)
+22:52
+Sure. Okay. 
+R
+Rin (Rachel)
+22:54
+Please let this actually be a good role. And I'm gonna roll guidance and I will actually talk through how, like, this manifests. Essentially. Rin is just looking at her and just like, please hope to doll that you are not baked out of your mind right now. Like, actually says it out loud. That is insight check. That is 19, 22. 
+D
+DM (Chris)
+23:23
+22. This is like the operational level of baked that you typically see Nissa in. 
+R
+Rin (Rachel)
+23:32
+Oh, she's normally baked. 
+D
+DM (Chris)
+23:34
+Yeah. And no. And so you're saying this Rin to her and she goes, just like, it's all fine. Look behind you. Everything's like, set up and it's like, chill. Don't worry about it. You turn around and you see that all of the tents for taking possible patients are all set up. All of the Selesnya clerics and medics are all walking around and preparing for the worst, and everything is organized and this goes. There's nothing to worry about, Rin. Just, like, chill out a little bit. 
+R
+Rin (Rachel)
+24:17
+I wish I could be as not worried as you are right now. My biggest question is, have you seen Chandra or Gideon at all? You know the planeswalkers are currently trapped here, right? 
+D
+DM (Chris)
+24:30
+She goes, yeah, I know. And I hope challenges here. I. I don't know for sure, though. I've just seen the Johnny around. 
+R
+Rin (Rachel)
+24:44
+I mean, that was expected. 
+D
+DM (Chris)
+24:45
+Like, he, like, stopped by and then he had. He, like, said something about, like, running to the front. So, you know, he's. He's doing it. 
+R
+Rin (Rachel)
+24:54
+But nothing from Chandra for Gideon. They were the ones, I think, that went. They did. They. We do know what plane of plane they went to, right? I can't remember. 
+D
+DM (Chris)
+25:06
+They went to Arcavios, which is Strixhaven. 
+R
+Rin (Rachel)
+25:11
+Right. They went to our Arcavios, so. But we haven't heard from them. Like, we lost Chandra first, then Gideon went to go find her, and we haven't heard from him since. I'm like, you've heard nothing at all? And Johnny didn't say anything either? No, I don't know how. You cannot be. If we can find them, hopefully they would actually have some really good information for us. 
+D
+DM (Chris)
+25:40
+No, I'm. Listen, Brynn, I'm. I'm actually really worried right now. But, you know, worrying isn't going to solve the problem. And she, like, waves behind you. You could. You just got to do stuff. 
+O
+Orphie (Me)
+25:53
+Oh, God. 
+D
+DM (Chris)
+25:54
+And not worry so much. 
+R
+Rin (Rachel)
+25:56
+You look like you're doing a whole lot right now. 
+D
+DM (Chris)
+26:00
+Yeah, I. I just gotta top off before I get back to it, Sanis. So. You know what I'm saying, right? I'm. 
+S
+Sanis (Gabe)
+26:10
+I'm picking up what you're putting down. Yes. 
+D
+DM (Chris)
+26:13
+Yeah. And then Myra hands you second round. 
+S
+Sanis (Gabe)
+26:17
+Yeah. 
+R
+Rin (Rachel)
+26:19
+Please don't we need you at least somewhat coherent. I don't need you shooting those fire arrows into someone's butt. 
+D
+DM (Chris)
+26:29
+It. 
+S
+Sanis (Gabe)
+26:30
+It's just two hits. Well, technically four. You know, puff, pass. I'm good. I won't. I won't take another. 
+D
+DM (Chris)
+26:36
+And then you see this. Don't worry. This is like some of the weaker stuff, you know, this is like, for the work day. 
+S
+Sanis (Gabe)
+26:43
+It's cbd, isn't it? 
+O
+Orphie (Me)
+26:45
+It's. 
+D
+DM (Chris)
+26:47
+No, no, it definitely has THC in it. It's like. Like part. It's like a little bit, but then, like, you know, the CBD to, like, really mell you out, get you, like. Okay with the day. You feel me? 
+S
+Sanis (Gabe)
+27:01
+Valid. 
+D
+DM (Chris)
+27:02
+Yeah. Anyways, we've got all the supplies we need, all the clerics and the Celesian medics are all ready to go. We haven't had any too serious cases yet, so it's all good. Let's have a little bit of peace and calm before things really start to go bad. 
+R
+Rin (Rachel)
+27:31
+Just an absolute sigh for MOrphie. 
+O
+Orphie (Me)
+27:34
+Yes, Just frustrated sigh. She feels like everybody's just far too in their, like, general spaces. Like, gosh, what is the word I'm looking for? I just. Everybody's too tucked into their specific corners of things, and it makes everybody, like, on the wrong, like, the far side of the spectrum for their. For what they do. And everybody is frustrating. 
+R
+Rin (Rachel)
+28:23
+Spiteful. Just read your message. Chat tv. I was wondering. I was like, do I have something for this? But, yes, that would do it. Because technically, pot is poison. 
+D
+DM (Chris)
+28:38
+Yeah. So as you see Nyssa, Myra and Saskia just, like, chilling, getting some hits in. You start to see more patients and more injured. Casualties start to come in. And it's at that point you see Nyssa look at Myra and Saskia. They nod and they put their joints out and they begin to walk over and they go, yeah, so do you need anything before. 
+R
+Rin (Rachel)
+29:14
+Get our hands dirty, please just let us know. Send a message to Molly. If you hear or see or hear anything about Chandra or Gideon, let her know, and she'll get the message to us. We're probably going to be heading over to the other side to try and sort out whatever is going on over there. 
+D
+DM (Chris)
+29:39
+Okay. Yeah, I mean, I'm sure wherever they are, Chandra and Gideon are perfectly fine. I mean, Gideon, like, he's literally unkillable. Like, you literally cannot kill that man. 
+R
+Rin (Rachel)
+29:54
+Wait, is she talking, like, in the figurative sense of that man has never died and is really, like, tough or actually physically cannot kill him? 
+D
+DM (Chris)
+30:02
+No, he's. Insert title card here. No. Invincible. 
+R
+Rin (Rachel)
+30:08
+Gideon the invincible. 
+D
+DM (Chris)
+30:12
+Yeah, he's. No, he's literally like, you can't. You cannot kill that man. So, sure, wherever he is, he's fine. And if all the planeswalkers were attracted here, I'm sure he's somewhere here. And as for Chandra, like, I'm. I'm sure she's also somewhere here, too. She's. She's got a lot of spirit. She don't take no shit. I'm sure she's fine. 
+R
+Rin (Rachel)
+30:44
+I. To be honest, they're very powerful people. The thing is, they could have very extremely valuable information that could turn the tides for this entire issue potentially. 
+D
+DM (Chris)
+30:58
+You know, in times of need, the Gatewatch always shows up. So We'll. We'll be there. 
+R
+Rin (Rachel)
+31:06
+Okay. 
+D
+DM (Chris)
+31:06
+Now is just not the time. 
+R
+Rin (Rachel)
+31:08
+I'm tired of talking to her. 
+O
+Orphie (Me)
+31:09
+Yeah. 
+R
+Rin (Rachel)
+31:13
+I don't know how comfortable I feel taking the tavern back to the Boros Guild since they're getting extremely under attacked right now. Do we want to leave the tavern here and walk back or. Because we have not been here very long. 
+S
+Sanis (Gabe)
+31:27
+Is there another method of transportation besides walking that we can take advantage of? 
+R
+Rin (Rachel)
+31:35
+I can technically fly for a minute, but not really. I mean, the walk would be 20 minutes, so that would be atrocious. 
+D
+DM (Chris)
+31:52
+Oh, that was not supposed to be sense yet. 
+O
+Orphie (Me)
+31:57
+Uhoh. 
+D
+DM (Chris)
+31:58
+Uhoh. 
+R
+Rin (Rachel)
+31:59
+Spoilers. 
+O
+Orphie (Me)
+32:02
+Well, she's pretty. 
+D
+DM (Chris)
+32:03
+Oh, really? 
+O
+Ogre (Chet)
+32:04
+Should I not be looking at the file name? 
+D
+DM (Chris)
+32:07
+What? 
+O
+Orphie (Me)
+32:09
+Oh, wait. I'm looking at something. 
+D
+DM (Chris)
+32:12
+I will just say right now. As you're Rin talking to Nissa and leaving the tavern here and talking with the group, both you and Team Oversized look to the south as you all hear an earth shaking sound. As the you feel as if the entire plane of ravnica and the 10th district are about to break apart. And as you look to the south, you see a massive structure start to arise from Plaza south in the 10th district. And you see that it kind of looks like a pyramid. And at the top, you see like, a bright light. Anyone that wants to give me a history check? 
+O
+Orphie (Me)
+33:24
+We love a history check. 
+R
+Rin (Rachel)
+33:26
+I will be rolling with guidance on this. 
+S
+Sanis (Gabe)
+33:37
+1918. 
+O
+Ogre (Chet)
+33:40
+Seven. 
+V
+Varis (Vincent)
+33:42
+That one for a four. 
+D
+DM (Chris)
+33:44
+Beautiful. 
+R
+Rin (Rachel)
+33:48
+That is a 21. 
+D
+DM (Chris)
+33:51
+Okay, and then specifically Rin and Varis roll me Arcana. 
+O
+Orphie (Me)
+34:00
+Okay. 
+D
+DM (Chris)
+34:01
+And. And Ogre 10. 
+V
+Varis (Vincent)
+34:11
+So I would think since I'm not in my virus form, I wouldn't have my Arcana expertise at the moment. 
+D
+DM (Chris)
+34:18
+Yep. 
+V
+Varis (Vincent)
+34:20
+Damn. Okay. 
+R
+Rin (Rachel)
+34:26
+Oh, is it not the same as, like, how Druid transformation functions, where you get to keep all of your. 
+V
+Varis (Vincent)
+34:31
+Yeah, only Druid Wild shape is like the only one where you get to keep your stuff. 
+R
+Rin (Rachel)
+34:35
+I mean, that makes sense. It's. It's extremely powerful. 
+V
+Varis (Vincent)
+34:38
+12 arcana. 
+D
+DM (Chris)
+34:40
+Okay. 
+R
+Rin (Rachel)
+34:42
+Mine was a 24. 
+D
+DM (Chris)
+34:43
+Yep. So if you got over 14 history, you recognize having seen that white light before. And you recognize it from when the Guild pack was first shattered, because that same light was what was sucked out of Jace's body. Rin, for you, with your high Arcana roll, you understand that as you are interrupted mid sentence, look over and see some of those white lights traveling to this massive structure. You understand that they're gathering, that they're being pulled there. 
+R
+Rin (Rachel)
+35:49
+Wait, so, okay, there's a light at the top of the pyramid, right? And then there's other lights traveling towards. Towards it. And so it's gathering light at the top. 
+D
+DM (Chris)
+36:05
+White energy. 
+O
+Ogre (Chet)
+36:17
+My roles were so low that I don't notice this. I'm too excited. 
+R
+Rin (Rachel)
+36:22
+Do I recognize those as like the planes? Like the spark of a Planeswalker. 
+D
+DM (Chris)
+36:28
+They're Planeswalker sparks. 
+O
+Orphie (Me)
+36:30
+Fuck. 
+R
+Rin (Rachel)
+36:32
+You just see Rin like drop to her knees as she's watching this pyramid just erupt into the sky. Just a look of defeat on her face as she relate. And she'll slowly relay this information to Orphie and Sanis. It actually wasn't a good idea for them to trap all of the Planeswalkers here on this. On this. They. That. That is exactly what they wanted to happen. We played right into their trap. Do we feel anything with our sparks? 
+D
+DM (Chris)
+37:10
+No. 
+O
+Orphie (Me)
+37:14
+I'd like to point out that we aren't the reason everybody's here or trapped here. That was Ra. 
+R
+Rin (Rachel)
+37:22
+I will say this. That is true. We have to get to that pyramid right now. 
+O
+Orphie (Me)
+37:39
+Go. And let's call big team. 
+R
+Rin (Rachel)
+37:42
+You know, Chat, you're not wrong. 
+V
+Varis (Vincent)
+37:50
+Laws be damned. Right now. Yeah, I think he's gonna care. 
+R
+Rin (Rachel)
+37:56
+Tbh. If we're losing the Tavern, we're losing it today. 
+O
+Orphie (Me)
+38:00
+We could always remake it. 
+R
+Rin (Rachel)
+38:02
+We could. 
+O
+Orphie (Me)
+38:03
+There's nothing that can't be replaced, Lucy. 
+R
+Rin (Rachel)
+38:09
+Thank you very much. 
+D
+DM (Chris)
+38:12
+Who? 
+R
+Rin (Rachel)
+38:13
+The golden goose that poofs out liquid gold. 
+D
+DM (Chris)
+38:18
+My goose. 
+O
+Ogre (Chet)
+38:20
+Well, obviously we left Lucy back in the apartment. 
+R
+Rin (Rachel)
+38:23
+Oh yes, I forgot we left. Yes, we left her in the apartment because we knew were leaving with the Tavern. So yes, she would have. She's in the apartment now. 
+D
+DM (Chris)
+38:31
+Yes, Lucy, Goosey is in the apartment. 
+O
+Ogre (Chet)
+38:33
+We have to collect all the eggs anyway. 
+D
+DM (Chris)
+38:37
+True. All right. 
+V
+Varis (Vincent)
+38:39
+Sell them for fake gold. 
+D
+DM (Chris)
+38:41
+Rin, as you have that realization that they're collecting sparks, we're going to go back over to Team Oversized. And before you guys make your moves, Ogre and Varis, you look over to where the forces are clashing and you see that there are some individuals that don't look like they fit in with the Boros or the Izzet Guild. Some of different races that you haven't seen before. Some that are dressed in very bizarre, very weird clothing. Maybe Ogre doesn't notice it. Maybe Ogre just notices that they are funny looking. But that's really it. And you identify these people just like in like a second split second as you turn your heads over and look over there and you see that some of the Eternals are wielding kind of like a Biden. 
+D
+DM (Chris)
+39:57
+And the moment you look over, you see that one of Them manages to get a good swing and jabs the Biden into one of the funny looking people. And you see that the funny looking person's eyes go white black and you see a white ball of energy leave their body, get absorbed into the Biden and shoot out towards the citadel. 
+V
+Varis (Vincent)
+40:30
+Do the funny looking people have any significance other than just looking weird to us? 
+R
+Rin (Rachel)
+40:35
+They should. 
+D
+DM (Chris)
+40:38
+That's primarily it. I mean, do you want to do insight check? 
+V
+Varis (Vincent)
+40:42
+Yeah, sure, if it's free. Yeah, yeah. 
+O
+Ogre (Chet)
+40:50
+Yeah. 
+V
+Varis (Vincent)
+40:50
+19. 
+O
+Ogre (Chet)
+40:53
+Recognize these as planeswalkers. 
+D
+DM (Chris)
+40:55
+Sure do, but sure do. 
+V
+Varis (Vincent)
+40:59
+F5. Damn, I'm sucking. 
+O
+Ogre (Chet)
+41:02
+I'm gonna start yelling at all of them. I'm gonna yell planeswalkers into my hand and throw it up into a mage hand and cast shatter and have it just yell the word planeswalkers to look at me super loud. Basically only using the negative part of the spell that it's. You can hear it really far away. And then once they all look at me, I'm just gonna scream spears. 
+D
+DM (Chris)
+41:52
+Okay. 
+O
+Ogre (Chet)
+41:52
+I just point at them. This is the best I can do with this information right now. 
+R
+Rin (Rachel)
+41:59
+That's more than I thought ogre would be able to do. So that is good. 
+D
+DM (Chris)
+42:02
+Yeah, yeah. Give me a persuasion check. Yeah. 
+O
+Ogre (Chet)
+42:13
+28. 
+D
+DM (Chris)
+42:14
+Oh, that's pretty good. That's pretty good. Just very. Two very simple words. Planeswalkers to get their attention and spears to have them pay attention to them. And that seemed to be enough. And you start to see the plains walkers take more caution around the spears and make sure to avoid those eternals that have those kinds of l. So you start to see less Planeswalker is starting to fall casualties to the Bible. 
+O
+Ogre (Chet)
+42:55
+I like to think that every one of these planeswalkers has met me at some time. That's like, oh, ogre saying something that makes sense maybe. 
+V
+Varis (Vincent)
+43:06
+Okay. 
+D
+DM (Chris)
+43:11
+So you. You look and for one reason or another, ogre. You actually do recognize some of them, I assume. 
+O
+Ogre (Chet)
+43:19
+Isaiah. 
+O
+Orphie (Me)
+43:23
+At least. 
+D
+DM (Chris)
+43:24
+Who? 
+R
+Rin (Rachel)
+43:25
+Our favorite boy, Isaiah. 
+O
+Orphie (Me)
+43:27
+At least he's there with y'. 
+D
+DM (Chris)
+43:28
+All. I don't know who you're talking about. All right, so team Oversized, would you like to make some attack? 
+O
+Ogre (Chet)
+43:41
+Also, I want to check something. Are you guys saying oversized with a V or ogre size? 
+D
+DM (Chris)
+43:47
+Sure, Ogre. It's ogre sized now. 
+R
+Rin (Rachel)
+43:52
+But I love ogre sized. 
+O
+Ogre (Chet)
+43:55
+Ogre size could also be a later one where we use all the rest of my little mushrooms. 
+R
+Rin (Rachel)
+44:05
+I have actually changed it in my notes. 
+O
+Ogre (Chet)
+44:13
+It's the same ones as before. Still just mowing through these things. 
+V
+Varis (Vincent)
+44:21
+So, Chris, unless you just want to ignore it for this Sake. Because we're not doing like a normal combat. But for the breath weapon of a dragon, it's supposed to like, you would like roll to like, see if it recharges. I don't actually know what that means. Like, do you know what is it. 
+O
+Ogre (Chet)
+44:42
+You have to roll? That recharges it? 
+V
+Varis (Vincent)
+44:43
+Okay, it's a D6. Is that like on your turn you do that. 
+O
+Ogre (Chet)
+44:49
+It's an end of turn. 
+V
+Varis (Vincent)
+44:51
+End of turn. Okay, do you want me to follow that? 
+D
+DM (Chris)
+44:55
+Yeah, yeah. 
+V
+Varis (Vincent)
+44:56
+Okay, let's see if that would have done it. Five or six. It did not. Okay, so I would just use my ginormous body and just land on the battlefield, squashing anyone underneath me. 
+D
+DM (Chris)
+45:17
+Love it. Just roll an attack. I say, which attack are you using? 
+V
+Varis (Vincent)
+45:24
+Well, I mean, that's just me choosing to land. If that squashes anyone, so be it. I was, I was thinking a multi attack, that's all. 
+D
+DM (Chris)
+45:34
+Okay, you know what? How about this? How big are you right now? 
+V
+Varis (Vincent)
+45:41
+Well, I am a gargantuan size, which I think is. Is that 20 by 20 or is that like more than that? I don't remember. 
+O
+Ogre (Chet)
+45:50
+Your normal size would be a 3 by 3 square. 
+D
+DM (Chris)
+45:53
+Right. 
+V
+Varis (Vincent)
+45:57
+Large is 10 by 10. Huge is 15. I, gargantuan, might just be 20 by 20. Yeah, well, I mean, that seems lame. 
+O
+Ogre (Chet)
+46:08
+But you're bigger in all dimensions by double. 
+V
+Varis (Vincent)
+46:14
+Yes. 
+O
+Ogre (Chet)
+46:14
+Well, the six by six, it. 
+V
+Varis (Vincent)
+46:20
+Sure, yeah. I was just thinking like, because normally it's huge and I got increased to gargantuan. 
+D
+DM (Chris)
+46:26
+Yeah. 
+V
+Varis (Vincent)
+46:27
+Which is a 20 by 20 foot square on a grid. 
+D
+DM (Chris)
+46:30
+Sure. You're. You're 30 by 30. 
+V
+Varis (Vincent)
+46:32
+Sure. Cool. 
+D
+DM (Chris)
+46:34
+You're 30 by 30. Okay, just roll me a D20. 
+V
+Varis (Vincent)
+46:46
+All right. Natural, baby. Let's go. 
+D
+DM (Chris)
+46:53
+Nat 20. Yes. Oh, my gosh. 
+O
+Ogre (Chet)
+46:58
+Good job. 
+R
+Rin (Rachel)
+46:59
+Let's go. I don't know what we're excited about or what you were rolling for, but yes. 
+V
+Varis (Vincent)
+47:04
+I'm basically just doing a body slam on the battlefield right now. 
+R
+Rin (Rachel)
+47:07
+Hell yeah. 
+D
+DM (Chris)
+47:09
+General success role. Jesus. Okay. I'll say that. Yeah. You land and just immediately you flatten 30 attorneys. 
+V
+Varis (Vincent)
+47:34
+Sitting with that. You know, I'll kind of like get myself back up and then just roar at the rest of the crowd. 
+D
+DM (Chris)
+47:44
+Yeah. The allied army starts cheering and you see that they are fighting with even more intensity. Do you have any attacks? 
+V
+Varis (Vincent)
+48:04
+I mean. Yeah, like my actual multi attack action. 
+D
+DM (Chris)
+48:06
+Okay. All right, so damage on it. 
+V
+Varis (Vincent)
+48:11
+It's. What is it? One bite and two claws. Just. Just go right to damage. Okay, you roll bit. Oh, there's actually something I forgot to edit in the thing. I have to change that. Do you want me to just take the average number that it just gives you? Would that be easier right now? 
+D
+DM (Chris)
+48:42
+Sure, sure. Give me the average. 
+V
+Varis (Vincent)
+48:44
+So the bite is 19 piercing plus seven force. 
+D
+DM (Chris)
+48:51
+Okay. 
+V
+Varis (Vincent)
+48:54
+And then two claw attacks would be a total of 30, you know, 15 each slashing. And then if I can get a wisdom saving throw, because I can also toss my frightful presence in there, which technically I. 
+D
+DM (Chris)
+49:18
+Well. 
+V
+Varis (Vincent)
+49:21
+No, that's part of the multi tax. So yeah, I'd only done that now. 
+D
+DM (Chris)
+49:27
+Okay. Rightful presence. Okay. So I'll say that with a couple of a claw and a bite attack, you manage to. Because you're massive, absolutely massive. Get 14 of them total and crush them up between your claws and your mouth. You also roar into the air using your frightful presence. And you see that in your area, all of the eternals are frightened and begin trying to move away from you. And so in that. In that break where you saw the line breaking, you guys hopped in or Varis, you hopped in. Ogre, you hopped in with. With Steve and you managed to push them back. Ogre, what are you and Steve doing? 
+O
+Ogre (Chet)
+51:14
+I mean, Steve's his own rottworm. He's I assume just continuing to gobble up as many of these bad guys as possible. 
+D
+DM (Chris)
+51:26
+Yep. 
+O
+Ogre (Chet)
+51:28
+I think Ogre is trying to grab the sparks that are getting pulled away from people. Like to try and drag them and put them back, but it's I assume not working. And then while that also like any planeswalkers that end up in the path, slapping them out of the way with a mage hand, like trying to get. 
+D
+DM (Chris)
+51:59
+To the front line. Like you're slapping things walkers away that are trying to get to the front line. Yeah. 
+O
+Ogre (Chet)
+52:06
+Or just getting in the line of Steve. 
+D
+DM (Chris)
+52:10
+Okay, gotcha. 
+O
+Ogre (Chet)
+52:12
+I want to make sure they don't get gobbled up, but yeah. 
+D
+DM (Chris)
+52:18
+Awesome. Okay. Yeah. So Varis has landed on the ground. Started landed on a bunch of eternals scaring eternals away. Ogre on Steve is continuing to gobble up eternals while Ogre pushes planeswalkers away out of Steve's way and out of harm's way. So the battle is starting to be swung and be in the allies favor. We just look here, you see. Actually, let me just do a quick thing here. Okay. 
+O
+Ogre (Chet)
+53:21
+I think maybe witch is looking for powerful ones in the crowd. Like powerful eternals. 
+D
+DM (Chris)
+53:30
+Yeah. As witches searching. Before we go to team Celery, you. But you. What you guys don't see is this. Actually, you know what? I will say you do see this you do you see a 60 foot tall, massive, hulking figure with a longbow with an arrow knocked. And. And you see that it is aimed at Varis. And we go to team Celery. Rin, Sanis, and Orphie. 
+S
+Sanis (Gabe)
+54:21
+How far are we now? Did we ever leave yet? 
+R
+Rin (Rachel)
+54:30
+We're definitely taking the tavern and flying towards the pyramid. 
+S
+Sanis (Gabe)
+54:35
+Yes. 
+D
+DM (Chris)
+54:36
+Yes. You guys are going towards the pyramid. 
+R
+Rin (Rachel)
+54:40
+Of course. 
+O
+Orphie (Me)
+54:42
+I'm also gonna call or text. I'm gonna call Varys, and if he can't pick up, I'm going to text him what's going on to let him know where we're going. 
+R
+Rin (Rachel)
+54:54
+Do a group message with Ogre just in case. 
+O
+Orphie (Me)
+54:57
+Fair enough. You know what? 
+V
+Varis (Vincent)
+54:59
+I'll just put it in the group. 
+S
+Sanis (Gabe)
+55:01
+So y' all not gonna text Molly? That's rude. 
+V
+Varis (Vincent)
+55:05
+I mean, you wouldn't know that I would drag him without a phone. 
+O
+Orphie (Me)
+55:10
+You have a phone? 
+S
+Sanis (Gabe)
+55:13
+Yeah, but you're already sending the message. Be redundant, would it? 
+O
+Orphie (Me)
+55:20
+Okay. Or if he's gonna look over at Sanis and be like, hey, why don't you also fill Molly in? Why? While I fill in Ogre and Varys now? 
+S
+Sanis (Gabe)
+55:31
+I'll pass. 
+O
+Orphie (Me)
+55:34
+Okay. Orphie, text number Molly will also text Molly and let her know what's up. 
+D
+DM (Chris)
+55:43
+What exactly are you texting her? 
+O
+Orphie (Me)
+55:46
+The stuff about the pyramid. That we're headed that way. 
+D
+DM (Chris)
+55:52
+Okay. 
+R
+Rin (Rachel)
+55:54
+Do we see this giant archer? I'm guessing this is on top of the giant building. 
+D
+DM (Chris)
+56:00
+So I'll say that sometime. Time is a wonky concept. So I'll say that in this time, right? Rin, Orphie, and Sanis, you hop into Ogre's tavern, you fly over, and I will say that you get to the front lines at the same time that this God eternal pops out and you see this like 60 foot tall figure, hulking. And what you guys do. 
+R
+Rin (Rachel)
+56:38
+How far. Like, how far away is this thing and its arrow away from us? 
+D
+DM (Chris)
+56:47
+Give me. Well, first off, give me an insight check. 
+O
+Orphie (Me)
+56:51
+Okay. 
+R
+Rin (Rachel)
+56:54
+I'm rolling guidance on this because I just feel like this entire time, Rin is just praying. 
+O
+Ogre (Chet)
+57:00
+Did they hear me blast planeswalkers? 
+R
+Rin (Rachel)
+57:04
+Oh, yeah. Did we hear that? 
+D
+DM (Chris)
+57:07
+No. 
+R
+Rin (Rachel)
+57:07
+Okay, that was an absolutely shite roll. But still a 14. 
+D
+DM (Chris)
+57:16
+With a 14, I will give it to you. The God eternal is like at least 500 to 700ft away. 
+R
+Rin (Rachel)
+57:25
+Okay. 
+D
+DM (Chris)
+57:26
+But with. With a 14, like, from. From that distance, it'll be able to hit the front lines. 
+R
+Rin (Rachel)
+57:46
+Can I see Varis or Steve from where we. 
+D
+DM (Chris)
+57:51
+Oh, you can definitely see the both of them from where you guys Are. 
+R
+Rin (Rachel)
+57:54
+Okay. 
+V
+Varis (Vincent)
+57:58
+We'Re probably taller than most buildings right now. 
+D
+DM (Chris)
+58:01
+Yeah, you guys are humongous. 
+V
+Varis (Vincent)
+58:04
+Gargantuan even. 
+D
+DM (Chris)
+58:05
+Gargantuan even. Exactly. 
+S
+Sanis (Gabe)
+58:08
+I want to shoot it. Can I shoot? 
+R
+Rin (Rachel)
+58:11
+Would they be within ear, like, earshot of us if, like, I essentially did the same thing as Ogre did, just different? 
+D
+DM (Chris)
+58:24
+Sure. How are you gonna do it? 
+R
+Rin (Rachel)
+58:27
+I'm gonna cast Thaumaturgy, specifically utilizing your voice booms up to three times as loud as your normal for one minute. I don't know how loud that would be, but. 
+O
+Orphie (Me)
+58:37
+Oh, I forgot I ordered food with that. 
+V
+Varis (Vincent)
+58:42
+It'd be kind of like using a megaphone. 
+R
+Rin (Rachel)
+58:45
+Yeah, pretty much like a megaphone. 
+D
+DM (Chris)
+58:48
+Yeah, I'd say that's the same effect. So you'd have to get a little closer for them. They would hear something, but they wouldn't be able to make out what it is. So you'd have to get closer. 
+R
+Rin (Rachel)
+59:01
+So let me understand kind of how. Because the DMZ is right on the 10th district, if I remember correctly from the map. So it's the front line of where it, like the DMZ connects with the Allies territory. That's where Varis and Ogre are. And then the pyramid is on the other side. Side of the front line from us. 
+D
+DM (Chris)
+59:28
+Yeah. So you know what? 
+R
+Rin (Rachel)
+59:35
+Yeah. So like Boros. So the Boros. Boros is here. I'll do it. So it's like, for y'. All. So Boris is here. The front line's right here, and here's the dmz. And then that's where the tower is. It's inside of that DMZ Plaza east zone. 
+D
+DM (Chris)
+59:50
+I just posted another map. 
+R
+Rin (Rachel)
+59:52
+Perfect, thank you. Oh, it's really far in. Okay, I thought it was a lot closer than that. 
+V
+Varis (Vincent)
+01:00:11
+So the front line is what, the red? 
+D
+DM (Chris)
+01:00:14
+Yep. And like, as for like the dmz, like, the Eternals have completely taken it up. Like they're on the other side of the dmz. 
+O
+Orphie (Me)
+01:00:24
+Okay. 
+V
+Varis (Vincent)
+01:00:35
+Now, the Orza refugees were in Sia, right? 
+R
+Rin (Rachel)
+01:00:39
+Correct. 
+D
+DM (Chris)
+01:00:40
+Killed. They intermix. But my parents camp was in the Boros. 
+V
+Varis (Vincent)
+01:00:46
+Yeah, my parents. I sent them. Where again? 
+D
+DM (Chris)
+01:00:50
+They're in the Boros Guild, like in Sunhome. 
+V
+Varis (Vincent)
+01:00:55
+Okay, so they're fine. I was like, they're not still an aura's operate. 
+R
+Rin (Rachel)
+01:01:11
+Jesus. 
+O
+Orphie (Me)
+01:01:14
+What the. 
+R
+Rin (Rachel)
+01:01:16
+I don't have anything that goes that far. 
+O
+Orphie (Me)
+01:01:21
+Holy. I uploaded this map to chat GpT and it read it. 
+D
+DM (Chris)
+01:01:27
+Oh, cool. 
+O
+Orphie (Me)
+01:01:28
+I mean, like it says, the Dimir is marked with three question marks. Fitting as the mere space of operation is secret. Possible connections to Vula, the Whisper Mask and Espionage. 
+D
+DM (Chris)
+01:01:47
+Sanis, if you wanna. You wanna shoot the God Eternal? 
+V
+Varis (Vincent)
+01:01:50
+Yeah, I mean, it's technically in range for him for the long. 
+R
+Rin (Rachel)
+01:01:55
+Yeah, I was about to say. Is that in range for you? 
+S
+Sanis (Gabe)
+01:01:57
+Yeah. 
+V
+Varis (Vincent)
+01:01:58
+Be at disadvantage, though, but. 
+S
+Sanis (Gabe)
+01:02:00
+Yeah, I'd be a disadvantage, but I can do it. 
+D
+DM (Chris)
+01:02:03
+Okay, sure, Go for it. 
+S
+Sanis (Gabe)
+01:02:06
+Oh, baby dice, please don't fail me now. 
+D
+DM (Chris)
+01:02:13
+Oh. 
+S
+Sanis (Gabe)
+01:02:15
+Oh, dirty 20. With disadvantage. 
+O
+Orphie (Me)
+01:02:20
+With disadvantage. That's lovely. 
+S
+Sanis (Gabe)
+01:02:24
+I have a plus nine. 
+D
+DM (Chris)
+01:02:26
+Wow. Okay. Yeah. You. You hit the God Eternal with a flame arrow. 
+V
+Varis (Vincent)
+01:02:35
+Oh, yeah. 
+S
+Sanis (Gabe)
+01:02:36
+I get a D8 plus a D6. 
+R
+Rin (Rachel)
+01:02:39
+Let's go. 
+S
+Sanis (Gabe)
+01:02:41
+All right, D8 plus three is 11 plus a D6. 11 plus five. 16. 
+V
+Varis (Vincent)
+01:02:52
+And I don't know if it matters. 
+D
+DM (Chris)
+01:02:53
+One such. Yeah, go ahead. The. 
+S
+Sanis (Gabe)
+01:02:57
+The five. Yeah, the five points for that is fire damage. I don't know if that makes a difference. 
+D
+DM (Chris)
+01:03:04
+Sure. 
+V
+Varis (Vincent)
+01:03:07
+I was gonna say I don't know if it makes a difference to. To the giant God guy, but my flames are the white flames from Ugin, so if that makes sense. 
+D
+DM (Chris)
+01:03:17
+Oh, yeah. So, Ugins, you see the God Eternal with a longbow, aiming somewhere. You don't know exactly where. It's kind of hard to tell from your angle, but you knock an arrow, it's your time to shine, baby. And you think on top of your inside, Ogre's Tavern, kind of like an attack helicopter, sticking your head out, you pull your longbow back and you let loose an arrow. It's never been more clear in your life. The arrow flies true, hits the God Eternal in the shoulder. Ugin's white flame flares up. Varis, you look over, you see it. A Tear comes to your eye. And Sanis, you made your mark. 
+O
+Orphie (Me)
+01:04:12
+Hell yeah. 
+D
+DM (Chris)
+01:04:14
+The God Eternal, you see, shifts its focus and moves from where it was aiming before to Ogre's Tavern. 
+O
+Orphie (Me)
+01:04:24
+Hell yeah. This is an important moment for Sanis, which I'm saying out loud for tragic, btu. But we're also about to get murdered. 
+R
+Rin (Rachel)
+01:04:36
+Yep. 
+D
+DM (Chris)
+01:04:39
+Rin and Orphie. What are you guys doing? I will give both of you guys an action before the God Eternal will take their action. 
+O
+Orphie (Me)
+01:04:50
+How far off the ground are we? 
+D
+DM (Chris)
+01:04:55
+Like 100ft. 
+O
+Orphie (Me)
+01:05:14
+I got nothing. 
+S
+Sanis (Gabe)
+01:05:21
+Is there a balcony we can jump onto? 
+O
+Orphie (Me)
+01:05:23
+Is there anything I can bigify myself with? Should have asked for one of those mushrooms before we left. 
+O
+Ogre (Chet)
+01:05:35
+I. I gave Rin something else. 
+R
+Rin (Rachel)
+01:05:38
+Oh, yeah. So clocking that. He is now clocking us. Thank you, Chet, because I definitely forgot about that. 
+R
+Rin (Rachel)
+01:05:54
+Appreciate Orphie or whoever is near Rin, as we're like Writing the tavern. Just see her like aha moment, reach into her bag, start rummaging, bring out a bottle that looks like it has like some cloudiness in it and just uncorks it. And so we are now surrounded in 60ft of smoke. It was an ever smoking bottle. Smoke leaks from the lead stoppered mouth of a brass bottle which weighs about one pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60 foot radius from the bottle. The clouds area is heavily obscured. Each minute the bottle remains open and within the cloud, the Radius increases by 10ft until it reaches a maximum of 100, 120. The cloud persists as long as the bottle is open. 
+R
+Rin (Rachel)
+01:06:51
+Closing the bottle requires you to speak the command word as an action. Once the bottle is closed, the cloud disappears in 10 minutes. Moderate wind gets rid of it. 
+O
+Orphie (Me)
+01:06:59
+So, okay, so we're six. 
+D
+DM (Chris)
+01:07:02
+I will say that, I will say that the word was just on the bottle. 
+R
+Rin (Rachel)
+01:07:07
+I mean she ain't saying it anytime soon. 
+D
+DM (Chris)
+01:07:10
+Okay. I'm just telling you that the word. 
+O
+Orphie (Me)
+01:07:12
+what is it, 60ft in diameter? 
+R
+Rin (Rachel)
+01:07:18
+No, 60 foot radius. So that's 120ft across. However, it can get to a maximum radius of 120, which is 240ft wide. 
+O
+Orphie (Me)
+01:07:27
+Okay, what I want to do is. Right, I'm assuming you said that I saw your face. I didn't know what was happening. Like I didn't know that ogre gave that to you. But I assume I saw the look of determination in Rin's face and that she had a plan. And reacting to the smoke happening, I'm going to take a sharp turn with the tavern so that even if the Eternal is still pointing its arrow where we were, we won't be in that exact space when the arrow comes toward us, but still staying within the smoke. 
+V
+Varis (Vincent)
+01:08:11
+I think it follows the bottle. 
+O
+Ogre (Chet)
+01:08:14
+It doesn't specifically say it continues pouring out of it. 
+R
+Rin (Rachel)
+01:08:19
+So there's just gonna be a trail following. 
+D
+DM (Chris)
+01:08:22
+Yeah. 
+V
+Varis (Vincent)
+01:08:23
+Oh, is that. 
+O
+Ogre (Chet)
+01:08:24
+It would make sense if it was like every round at the beginning of your turn, it again spits out the initial 100. 
+D
+DM (Chris)
+01:08:32
+It'll give you enough to travel to the end of it. 
+O
+Ogre (Chet)
+01:08:34
+But I mean this would all come down to Chris's ruling. 
+V
+Varis (Vincent)
+01:08:37
+Yeah, it's kind of hard to be. 
+R
+Rin (Rachel)
+01:08:39
+This giant trail of smoke just following us. 
+D
+DM (Chris)
+01:08:42
+Yeah, I would say that it would make more sense to be a giant trail of smoke. Like from when you open it, boom. Like smoke radius 60. But then when you move like, it would dissipate where it was and then follow you as, like, a smoke trail wherever you go. 
+R
+Rin (Rachel)
+01:08:57
+Right. 
+D
+DM (Chris)
+01:08:58
+Hard to keep track, but I. I think that would be probably most fair as long as you're holding on to the bottle. 
+O
+Orphie (Me)
+01:09:03
+Now that the arrow has been released, does it look like it is following us or is it gonna miss us? 
+D
+DM (Chris)
+01:09:11
+You can't see. 
+R
+Rin (Rachel)
+01:09:14
+Okay, so either. 
+D
+DM (Chris)
+01:09:16
+So this is. These are the actions that you guys are taking. You're gonna open the smoke bottle, and then Orphie, you're gonna take evasive maneuvers and yet the caravan or the tavern the other direction. 
+O
+Orphie (Me)
+01:09:29
+Yes. Hard right. 
+D
+DM (Chris)
+01:09:33
+Okay. All right, I'm gonna make this roll. Okay. 
+O
+Orphie (Me)
+01:09:43
+Say the result out loud. 
+D
+DM (Chris)
+01:09:44
+That's. That's. That's. That's generous.  the tavern will get hit. This role is with disadvantage. This was an 18 classic. Okay. 
+O
+Orphie (Me)
+01:09:59
+Oh, wait. Can we roll? 
+D
+DM (Chris)
+01:10:04
+I want all of you guys to roll. Dexterity saving throws, please. 
+O
+Orphie (Me)
+01:10:08
+Well, I guess I don't like this. On this. 
+S
+Sanis (Gabe)
+01:10:14
+11, I legit have a plus 7 to my dexterity saving throws. 
+O
+Orphie (Me)
+01:10:26
+And I rolled a 18 from Orphie. 
+R
+Rin (Rachel)
+01:10:32
+5. 
+O
+Orphie (Me)
+01:10:35
+Do I have time to rage? 
+S
+Sanis (Gabe)
+01:10:40
+Tell my sister I love her. 
+O
+Orphie (Me)
+01:10:42
+We're all dying. You should have said it yourself. 
+S
+Sanis (Gabe)
+01:10:47
+All right, so don't worry about me. 
+R
+Rin (Rachel)
+01:10:50
+I can fly if need be. 
+S
+Sanis (Gabe)
+01:10:52
+Is my next character also going to be level nine, or do I have to start at one again? 
+D
+DM (Chris)
+01:10:57
+18. Okay, everyone in the tavern except for Orphie takes 78 points of damage or you take half of it. 
+S
+Sanis (Gabe)
+01:11:18
+I think I misheard you. I think I missed. You said 78. 
+R
+Rin (Rachel)
+01:11:22
+Yes. You said 78. 
+D
+DM (Chris)
+01:11:23
+Yep. Yeah. 
+R
+Rin (Rachel)
+01:11:25
+I'm down to one HP. I'm still alive. 
+D
+DM (Chris)
+01:11:28
+Let's go, baby. Let's go. 
+V
+Varis (Vincent)
+01:11:32
+Mphp. Let's go. 
+R
+Rin (Rachel)
+01:11:37
+I'm literally down to one HP. 
+O
+Orphie (Me)
+01:11:40
+Let's have 78 divided by 2. 
+D
+DM (Chris)
+01:11:44
+39. 
+O
+Ogre (Chet)
+01:11:45
+So it makes sense. It's both of you in the back. 
+O
+Orphie (Me)
+01:11:48
+And I'm assuming I'm. I. I did it. That's not. That's not math. 
+D
+DM (Chris)
+01:11:58
+Is it? You all take evasive maneuvers. This is what. Ha. Okay, I'll start from the beginning. This is the sequence of events that happened. Sanis's taking his shot, seeing his chance to shine. 
+O
+Orphie (Me)
+01:12:22
+There we go. 
+D
+DM (Chris)
+01:12:22
+Takes his shot and diverts the God Eternals attention to you guys, Rin and Orphie. You guys immediately take evasive actions. Rin, you pop open that bottle that Ogre gave you so fast. Orphie, you start taking evasive maneuvers with Scrappy, as you're the one that is currently piloting and as the smoke cloud envelops the tavern, you guys are all thinking we have a chance to dodge out of this. You hear the arrow fly through the air. In fact, you all hear the arrow fly through the air and it is loud. As it spiral shoots towards the tavern, this massive arrow pierces a huge hole into Ogre's Tavern. Exploding shrapnel and everything everywhere within the tavern. Grazing Orphie and socking Rin and Sanis squarely inside the tavern. 
+D
+DM (Chris)
+01:13:55
+Maybe Varis and even in his dragon form would see that you saw the arrow before you heard it. And yeah, that is. That is what happened to Ogre's Tavern. There is currently a massive gaping pole in the wagon that's the end of today's session. 
+O
+Orphie (Me)
+01:14:27
+From here? No, we still have 15 minutes from here. 
+O
+Ogre (Chet)
+01:14:32
+And for his second attack. 
+S
+Sanis (Gabe)
+01:14:35
+I do technically have two attacks per action. 
+O
+Ogre (Chet)
+01:14:39
+I wasn't talking about you. 
+R
+Rin (Rachel)
+01:14:41
+Oh, we know. 
+O
+Orphie (Me)
+01:14:42
+Can I from here as a reaction up. Can I bonus action rage and grab Sanis. 
+R
+Rin (Rachel)
+01:14:56
+Wait, don't. Why are you grabbing him? I have less health.
+O
+Orphie (Me)
+ You can fly. True. 
+S
+Sanis (Gabe)
+01:15:05
+Come on, Peter Pan. 
+O
+Ogre (Chet)
+01:15:08
+An arrow hit the tavern, not the. 
+D
+DM (Chris)
+01:15:11
+Horse. 
+O
+Ogre (Chet)
+01:15:18
+To bust up both. Scrappy. 
+D
+DM (Chris)
+01:15:20
+Scrap. 
+O
+Orphie (Me)
+01:15:23
+Yeah. How is Scrappy surviving? 
+D
+DM (Chris)
+01:15:25
+Scrappy's hurt. 
+O
+Orphie (Me)
+01:15:26
+Scrappy the metal horse. Would somebody please describe Scrappy for chat? 
+S
+Sanis (Gabe)
+01:15:33
+GPT. 
+D
+DM (Chris)
+01:15:35
+Scrappy, the. Is it horse powered by jungle juice. Not in its butt anymore, but just. 
+R
+Rin (Rachel)
+01:15:45
+Flows through its veins naturally. 
+D
+DM (Chris)
+01:15:47
+Flows through its veins naturally. This blue and red colored horse. 
+O
+Orphie (Me)
+01:15:53
+He is a war forged horse. 
+R
+Rin (Rachel)
+01:15:55
+Warforged mechanical horse. 
+O
+Orphie (Me)
+01:15:57
+Warforged mechanical horse. Has. Has he survived the impact of the arrow? 
+D
+DM (Chris)
+01:16:04
+Yeah, Scrappy has survived the impact of the arrow, but you see that a huge chunk of his back has been taken out. 
+O
+Orphie (Me)
+01:16:13
+Is he still flying? 
+D
+DM (Chris)
+01:16:16
+He's still flying, but barely. 
+O
+Orphie (Me)
+01:16:18
+Okay then my. Then I'm gonna try to grab Sanis and get on the back of Scrappy and I'm gonna. You have 1hp left, Rachel. 
+R
+Rin (Rachel)
+01:16:35
+1Hp left. 
+O
+Orphie (Me)
+01:16:38
+But you're up. I'm gonna. I'm gonna look at you and be like, “fly” 
+S
+Sanis (Gabe)
+01:16:41
+Stop typing Ch. 
+O
+Orphie (Me)
+01:16:47
+We do not have time for you to be concussed. 
+S
+Sanis (Gabe)
+01:16:53
+I swear I will find you. Do not give Chris any ideas. 
+R
+Rin (Rachel)
+01:16:58
+Bears are even worse at flying. 
+O
+Orphie (Me)
+01:17:02
+What? I'm a bear. 
+O
+Ogre (Chet)
+01:17:04
+I mean the horse is barely flying. 
+O
+Orphie (Me)
+01:17:07
+Oh, it's barely flying. 
+O
+Ogre (Chet)
+01:17:10
+It was only worthy for the chat. I don't know why you said it out loud. I typed it for a reason. 
+O
+Orphie (Me)
+01:17:19
+I mean, Orphie has Taken bear in both of her totem warrior paths for barbarians. So it's true. 
+O
+Ogre (Chet)
+01:17:28
+Raging and falling is bear fly. 
+O
+Orphie (Me)
+01:17:30
+I think the next time I'm gonna start taking on, like, some physical appearance of bears, my ears are gonna start, like, turning into, like, teddy bear ears. 
+R
+Rin (Rachel)
+01:17:41
+From a tiefling. That transformation is an interesting thing. 
+O
+Orphie (Me)
+01:17:44
+Yeah, they're just gonna get rounded instead of pointy. Still got ram horns. 
+D
+DM (Chris)
+01:17:54
+Okay, so. Or if you grab Sanis and you put him on Scrappy's back and you shout at Rin to get out and fly. 
+O
+Orphie (Me)
+01:18:06
+I mean, like, she can come get on Scrappy with us, but I need her to do it herself. 
+D
+DM (Chris)
+01:18:11
+Okay. 
+O
+Orphie (Me)
+01:18:12
+I mean, I. I probably have the strength to get both of them. You're so light. I could just grab them both. 
+S
+Sanis (Gabe)
+01:18:22
+I don't know why, but I'm imagining Orphie grabbing Rin by the wing and. 
+O
+Orphie (Me)
+01:18:26
+Just yeet by the wing. I would never. I would. I mean, I'm. I'm picturing me literally r wrapping my arm around your waist, sanis. And I think for Rin, if. If I am allowed to grab her, it would be, like, by the shirt collar, like, twisting it behind your neck to make sure that you stay in it, and then just pushing off with all of my strength to just land on Scrappy. And this would probably be like, the next thing I could do. But, like, then the idea is using Blazebringer to separate the Tavern from Scrappy and let the Tavern fall. 
+D
+DM (Chris)
+01:19:20
+Okay. 
+O
+Orphie (Me)
+01:19:22
+I give. 
+R
+Rin (Rachel)
+01:19:23
+I. 
+O
+Orphie (Me)
+01:19:23
+No, Fox. I don't give a fuck about the Tavern. We can rebuild it. But I can't rebuild you. 
+D
+DM (Chris)
+01:19:34
+Those are those true words have never been said? 
+R
+Rin (Rachel)
+01:19:39
+Nope. 
+O
+Orphie (Me)
+01:19:40
+And you know, honestly, the Tavern is so old. It's time to make some changes anyway. We can make it better. We have the technology. 
+D
+DM (Chris)
+01:19:53
+Yeah. On that note, with that, I assume that you had dropped. Do you drop the bottle of smoke? 
+R
+Rin (Rachel)
+01:20:05
+No. 
+D
+DM (Chris)
+01:20:05
+And you hold on to it your life. Fantastic. You hold on to the bottle of smoke as you hop on Scrappy with Sanis's slung over Orphie's shoulder. Or maybe just on Scrappy and detach Ogre's Tavern from Scrappy. And you guys, as you start to separate, you look over and you see the God eternal reach for another arrow, knock it and shoot the wagon, the Tavern midair as it is falling. And as the second arrow pierces the Tavern, it explodes into pieces. 
+O
+Orphie (Me)
+01:20:54
+Knowing the Scrappy is seriously harmed as well. I. The. The choice from here would be to nose dive in a way that looks super real and just try to get to the ground. 
+R
+Rin (Rachel)
+01:21:12
+Okay, as we're doing this, can Rin do like full combat action? 
+D
+DM (Chris)
+01:21:19
+Sure, sure. 
+R
+Rin (Rachel)
+01:21:22
+As my main. Oh, wait, hold on. I keep forgetting this is actually. Hold on. Is this a bonus action? No, this is one full action. As my action, I'm going to use healing Hands on myself, which is 4D. Four healing. And then after that I. Which one am I using? These are my fourth level slots. I believe I want to do. 
+V
+Varis (Vincent)
+01:21:53
+Before you go into like picking spells chat, I assume you've been thinking the same thing. All of you are blind right now. 
+D
+DM (Chris)
+01:22:01
+From the smoke. 
+O
+Orphie (Me)
+01:22:06
+Yeah. 
+V
+Varis (Vincent)
+01:22:09
+Like the cloud of smoke that you're still in. 
+O
+Orphie (Me)
+01:22:14
+We're not blind. We just can't see outside of the cloud. 
+V
+Varis (Vincent)
+01:22:19
+I mean, is it not just a pure black cloud of smoke? I'm pretty sure it's heavy obscurement. 
+D
+DM (Chris)
+01:22:25
+This cloud right here too. 
+O
+Ogre (Chet)
+01:22:29
+It's not like a. A one way illusion. It's real smoke everywhere. 
+R
+Rin (Rachel)
+01:22:36
+Okay, so are you saying we can't do what we just did? Or do we just want to continue? 
+O
+Orphie (Me)
+01:22:39
+Are you adding. 
+R
+Rin (Rachel)
+01:22:40
+After we did all of this, everything. 
+V
+Varis (Vincent)
+01:22:42
+We just did was okay. 
+O
+Orphie (Me)
+01:22:44
+That we can't do this. Okay, then that little nugget of information. If he said that we could do it. 
+D
+DM (Chris)
+01:22:53
+No. Yeah. Everything that you guys did is fine. Yeah. 
+R
+Rin (Rachel)
+01:22:56
+Yeah. So we just don't know where we're going. That's it. 
+D
+DM (Chris)
+01:22:58
+Yeah. You guys don't know where you're going. It's just like. But you guys have separated. The tavern. You guys know how the tavern is connected to Scrappy. You separated it. Like you have spatial awareness. Even though I know everything is covered in smoke. Yeah. Here's your thing. You know where down is. Yeah. Just don't know where you might land. 
+O
+Ogre (Chet)
+01:23:16
+Yeah, and he's just saying. Because the topic of creatures you can see was finally going to become relevant potentially. 
+V
+Varis (Vincent)
+01:23:24
+Because I assume you're about to cast healing word. 
+R
+Rin (Rachel)
+01:23:27
+God damn it. 
+D
+DM (Chris)
+01:23:29
+Yeah. Yeah, that's. 
+O
+Ogre (Chet)
+01:23:30
+That's why you're saying something. I. I wasn't gonna say anything about it. 
+R
+Rin (Rachel)
+01:23:33
+Well, I should heal anyone because all of my spells are sight. So we're done. 
+O
+Orphie (Me)
+01:23:37
+Let's just try to get to the ground and then we can cork the bottle and then you can see. 
+R
+Rin (Rachel)
+01:23:43
+Oh, wait, hold on. I have mass cure wounds. Hold on. Oh, no. Also a see Within range. Never mind. 
+O
+Orphie (Me)
+01:23:51
+Odin, I swear to God. Go down. 
+D
+DM (Chris)
+01:23:55
+Because I guess, you know, it's. It's. It's what they say. You can only hear. You can only heal what you see and not what you touch. Right? That's what they say. I think cure wounds lets you not. Not mass but regular cure wounds. 
+R
+Rin (Rachel)
+01:24:09
+I don't also. I don't have cure wounds because it sucks. Usually. 
+O
+Ogre (Chet)
+01:24:16
+Don'T get to use the better one. Better one. That's pretty awesome. 
+V
+Varis (Vincent)
+01:24:19
+Yeah. 
+R
+Rin (Rachel)
+01:24:22
+No, I haven't. What do you let the 2024 one. 
+D
+DM (Chris)
+01:24:25
+It doubles it. 
+O
+Ogre (Chet)
+01:24:26
+Yeah, it's worth it for an action. Now that's 2d8 per upcast is a ridiculous amount that you can heal into. 
+R
+Rin (Rachel)
+01:24:35
+Consideration for next time. But I don't have it prepared for today. 
+V
+Varis (Vincent)
+01:24:40
+So I. I just. I just wanted Rin to be aware of the bottle because you're currently nose diving to the ground and you can't see the ground. Just want to put that out there. 
+R
+Rin (Rachel)
+01:24:51
+Yeah, I guess I let it go. Okay. 
+O
+Ogre (Chet)
+01:24:54
+Yeah, it was less effective than I was hoping. 
+O
+Orphie (Me)
+01:24:59
+Can I add a caveat? Can I. I mean out the first fall. Well, yeah, but I guess. 
+D
+DM (Chris)
+01:25:08
+Did you. You activate your. Or are you going to activate your flying? 
+R
+Rin (Rachel)
+01:25:12
+I'm on the horse. 
+O
+Orphie (Me)
+01:25:13
+Why would I, you know, save yourself from crashing? 
+D
+DM (Chris)
+01:25:20
+It could become relevant. 
+R
+Rin (Rachel)
+01:25:21
+I'm trying to figure out what the is going on. Please. 
+D
+DM (Chris)
+01:25:24
+Okay, sure. Just take a sec. Mean. Meanwhile, while you figure that out, Ogre, give me a perception check. 
+O
+Ogre (Chet)
+01:25:35
+Oh yeah. I'm great at these. 
+D
+DM (Chris)
+01:25:40
+Six Sick. 
+O
+Ogre (Chet)
+01:25:47
+Cloud. 
+D
+DM (Chris)
+01:25:48
+Yeah, you. You see. All you see is the tavern falling from the sky and then getting destroyed by the God eternal. And then this like smoke cloud that's like falling to the ground. But you didn't. You don't exactly see what's going on past that. Oh no. You're tired. 
+R
+Rin (Rachel)
+01:26:06
+Why does it not matter if I let go of the bottle? Because it'd be going the same velocity as the rest of our party. So we'd still be in the smoke anyway. 
+O
+Orphie (Me)
+01:26:13
+Well, Sparky is. Is flying, but barely. So maybe not the exact velocity, but I guess if I'm intentionally. 
+D
+DM (Chris)
+01:26:22
+Yeah, the scrappy is still flying, so it's not like you're gonna like fall 100ft. 
+O
+Ogre (Chet)
+01:26:27
+Yeah, and dropping the thing is going to give you instant cover all the way down to then move around in it. 
+R
+Rin (Rachel)
+01:26:36
+Yeah, but I still can't heal anyone. And if we hit the ground and we don't know where we're landing, we can still take damage. And then I'm knocked out and then no one can revive me or any of us. 
+O
+Ogre (Chet)
+01:26:44
+You can leave the smoke trail that you left by dropping it before getting to the ground. 
+V
+Varis (Vincent)
+01:26:50
+They don't know where the ground is. 
+R
+Rin (Rachel)
+01:26:51
+We still don't know where the ground is though. That still doesn't fix the issue. 
+O
+Orphie (Me)
+01:26:55
+We do a little bit. Like, I can't see it, but I do know how far up were. 
+D
+DM (Chris)
+01:27:01
+I'd say that you know where down is. You know where. 
+O
+Orphie (Me)
+01:27:04
+I mean, we know where down is, but I don't know where ground is, but I know how far up were. And I'm still fully conscious. I'm only at half hp. Like, I'm. I guess I'm doing great. 
+V
+Varis (Vincent)
+01:27:16
+Yeah, technically speaking, I guess you would know the distance, but can I feel. 
+S
+Sanis (Gabe)
+01:27:20
+Her close to me? 
+O
+Orphie (Me)
+01:27:23
+I mean, you would. 
+V
+Varis (Vincent)
+01:27:24
+You guys. 
+D
+DM (Chris)
+01:27:24
+Are you. Are you up or not? 
+S
+Sanis (Gabe)
+01:27:26
+Yeah, I'm still up. I haven't. 
+D
+DM (Chris)
+01:27:28
+Okay. Oh, you guys are all still up. 
+O
+Orphie (Me)
+01:27:29
+Yeah, we're all still up. 
+R
+Rin (Rachel)
+01:27:30
+Yeah, we're all still. 
+O
+Orphie (Me)
+01:27:31
+Even if barely you two would be touched. Well, I guess all three of us would be touching at this point because I would have yanked you guys together when were. 
+R
+Rin (Rachel)
+01:27:38
+What happened is I'm in the front and Sanis's is in the back, and you're in the middle. 
+O
+Orphie (Me)
+01:27:43
+Yeah, sure. And I'm assuming Sanis's will be holding on to me, and I would be holding on to Rin, and we would all be holding on to Scrappy. 
+S
+Sanis (Gabe)
+01:27:53
+I wanna. 
+O
+Orphie (Me)
+01:27:54
+And screaming. 
+S
+Sanis (Gabe)
+01:27:56
+Yeah, we. We'd be screaming on the way down. I want to reach for Rin's arm or wherever. Touch her and cast cure wounds at second level, which is 2D8 plus 4. So let's see. 
+R
+Rin (Rachel)
+01:28:17
+Yeah, I guess I do. Like, I. At this point, I guess the only thing I can do is let go of the bottle or, like throw it sideways or something. 
+S
+Sanis (Gabe)
+01:28:25
+You also get 15 HP back. 
+R
+Rin (Rachel)
+01:28:28
+Thank you. 
+D
+DM (Chris)
+01:28:36
+All right, so you toss the bottle. 
+R
+Rin (Rachel)
+01:28:38
+Yes. 
+D
+DM (Chris)
+01:28:39
+Okay. And then. Orphie, what are you doing? 
+O
+Orphie (Me)
+01:28:46
+Trying to find ground. 
+D
+DM (Chris)
+01:28:49
+Okay. Deer and Scrappy trying to find the ground. All right. 
+O
+Orphie (Me)
+01:28:58
+It would. If only I'd been raging before we got hit with this thing. 
+R
+Rin (Rachel)
+01:29:03
+If only. 
+O
+Orphie (Me)
+01:29:04
+Super great. I mean, like, I took half damage, but then if I took half of half damage, that would be even better. 
+R
+Rin (Rachel)
+01:29:10
+Yeah, because that would have been piercing damage. Right. 
+O
+Orphie (Me)
+01:29:14
+Assuming there wasn't anything special going on. 
+D
+DM (Chris)
+01:29:16
+It was piercing. Okay, go back. I'll. We'll go back to team Ogre sized, and I will just. Okay, Varis, give me a perception check. 
+V
+Varis (Vincent)
+01:29:49
+That's 17. 
+D
+DM (Chris)
+01:29:51
+17. Okay. I will say that you saw everything unfold between the God eternal and as you saw the rest of the gang come by on top of Ogre or inside Ogre's Tavern. And so you saw the tavern get destroyed and the smoke cloud and what you assume Scrappy and the rest of the party going towards the ground. You saw that. And as you. As you look back over at the God Eternal, you see that now, having destroyed the tavern, you start to see it moving its gaze toward. Back towards you. And you hear from behind the front lines, a familiar voice. It's. It's Samut. And Samut, if you don't remember, above the table, was from Amonkhet and was one of the ones that helped you guys in the trials on Amonkhet. For the one shot. 
+O
+Orphie (Me)
+01:31:11
+Spell that. 
+R
+Rin (Rachel)
+01:31:12
+Yep. 
+D
+DM (Chris)
+01:31:14
+And Samut shouts at You Varis, and she goes, you need to get out of here now. That's God Eternal Aketra. And she never misses a shot. 
+O
+Orphie (Me)
+01:31:31
+So what you're saying is she was aiming for the tavern. 
+V
+Varis (Vincent)
+01:31:39
+How. 
+D
+DM (Chris)
+01:31:41
+So? 
+V
+Varis (Vincent)
+01:31:41
+You said, like, from the tavern, they were, like, 500 or so feet. Is that the same distance from us or, you know, lady and ogre? 
+D
+DM (Chris)
+01:31:50
+Yep. 
+V
+Varis (Vincent)
+01:31:50
+Okay. 
+D
+DM (Chris)
+01:31:50
+Yep. But. But Varis. I'm gonna. I'm gonna let you have two weeks to think about it, because that's where I'm gonna end the session. 
+V
+Varis (Vincent)
+01:32:02
+Okay. 
+R
+Rin (Rachel)
+01:32:05
+Classic. 
+S
+Sanis (Gabe)
+01:32:10
+Menace to society. We're all listening. 
+O
+Orphie (Me)
+01:32:17
+Who's to say I wouldn't have done the same thing if I had any sort of aoe? Anything? 
+D
+DM (Chris)
+01:32:24
+I mean, if you poke the bear, don't be upset when the bear bites back. 
+O
+Orphie (Me)
+01:32:31
+Let's just look at it as an opportunity. Just know my idea. 
+D
+DM (Chris)
+01:32:35
+It was a great shot, though. It was a great shot. 
+R
+Rin (Rachel)
+01:32:37
+Anything. 
+D
+DM (Chris)
+01:32:39
+It was a great shot. 
+O
+Orphie (Me)
+01:32:40
+Anything. The bear was already doing its thing. Just so you know. 
+D
+DM (Chris)
+01:32:46
+Rin did not. Or if he did not. 
+R
+Rin (Rachel)
+01:32:50
+True. 
+S
+Sanis (Gabe)
+01:32:51
+All right, all right. 
+O
+Orphie (Me)
+01:32:54
+So when we hit the ground and you were feeling guilty about what just happened, Orphie's response is gonna be like, I can't be mad at you for what you did. We're just. We're good. Let's finish this. 
+R
+Rin (Rachel)
+01:33:15
+We're just fucked. But it's fine. We're at least fucked together. 
+S
+Sanis (Gabe)
+01:33:18
+As I gurgle my last breath. Because I die as we hit the ground. 
+O
+Orphie (Me)
+01:33:22
+Yes. Like I said, we could rebuild the tavern, but I can't rebuild you guys, so. 
+D
+DM (Chris)
+01:33:27
+Right. 
+O
+Orphie (Me)
+01:33:28
+So, again, what's important to me is that we are alive together. 
+S
+Sanis (Gabe)
+01:33:32
+Yeah. 
+V
+Varis (Vincent)
+01:33:33
+For now. 
+S
+Sanis (Gabe)
+01:33:34
+Do I start my character at level one or level nine? 
+O
+Orphie (Me)
+01:33:37
+Hey, you still have 11. 
+R
+Rin (Rachel)
+01:33:39
+What's the name of the God, by the way? 
+D
+DM (Chris)
+01:33:41
+God Eternal Oketra. I'll put it in the Lord. 
+O
+Orphie (Me)
+01:33:46
+Will you put the name of the person who was just talking to Varys in the lore dump as well? Yeah, I just Needed how to spell it? Yep. 
+V
+Varis (Vincent)
+01:33:56
+I say Sanis. 
+D
+DM (Chris)
+01:33:57
+If. 
+V
+Varis (Vincent)
+01:33:57
+If need be, you could just be one of the planeswalkers that came in. They got summit here. You need a new character. 
+D
+DM (Chris)
+01:34:06
+That's true. 
+O
+Ogre (Chet)
+01:34:06
+This is fine to have to make a new character. 
+R
+Rin (Rachel)
+01:34:13
+We are not having Sanis die a second time. 
+S
+Sanis (Gabe)
+01:34:16
+It's okay. 
+D
+DM (Chris)
+01:34:16
+It's okay. 
+S
+Sanis (Gabe)
+01:34:17
+I. I have. It's okay. I'm gonna just. I'm creating my new character now. I just need to know what level he's gonna be. 
+V
+Varis (Vincent)
+01:34:23
+So, Rachel, just so you remember, if you even have the spell prepared, that is. You do have diamonds on you. If you don't end up dying first. You have diamonds. 
+R
+Rin (Rachel)
+01:34:41
+I have diamonds. When the. Did I pick up diamonds? 
+V
+Varis (Vincent)
+01:34:45
+I'm pretty sure right Then my inventory. 
+R
+Rin (Rachel)
+01:34:48
+When the Would we pick that up? 
+V
+Varis (Vincent)
+01:34:51
+We got it at some point. Like, I'm not Chris. I'm not mistaken, right? 
+D
+DM (Chris)
+01:34:57
+I don't know. 
+V
+Varis (Vincent)
+01:34:58
+I remember, like, we. We, like, found diamonds. Like, I think it was like, multiple diamonds. And we. You determined. I think it was like 300 gold worth, or unless it was 600 gold. So we had two. Two uses. I don't remember. I swear. We had a conversation about that, though. 
+R
+Rin (Rachel)
+01:35:19
+I. I've also don't remember this at all. 
+D
+DM (Chris)
+01:35:24
+But you guys might have enough money to cast revivify. 
+R
+Rin (Rachel)
+01:35:28
+What's the money? About 300. I have 304. 
+D
+DM (Chris)
+01:35:35
+Choose. 
+O
+Orphie (Me)
+01:35:36
+As long as you didn't leave it in the tavern. 
+R
+Rin (Rachel)
+01:35:39
+I mean, she always carries it on her. 
+S
+Sanis (Gabe)
+01:35:41
+I. I just. I'm. I'm already creating a new character. It's okay. 
+R
+Rin (Rachel)
+01:35:47
+We are not. No, we're not dying. I will not let it happen. 
+O
+Orphie (Me)
+01:35:53
+We've been in worse spots before my frustration chat. What does the date on your cup mean? 
+S
+Sanis (Gabe)
+01:36:00
+Where I actually died? 
+D
+DM (Chris)
+01:36:02
+What? 
+O
+Ogre (Chet)
+01:36:04
+Oh, it's Highland. It's the middle school my girlfriend works at. This was a free thing. 
+O
+Orphie (Me)
+01:36:11
+We love free stuff. I love a good cup. 
+O
+Ogre (Chet)
+01:36:15
+Your new character obviously has to be zaddy because he's taking over your body if you die. 
+S
+Sanis (Gabe)
+01:36:23
+Vampires are so hard because you got to be mysteriously broody and like, my charisma just. 
+O
+Orphie (Me)
+01:36:29
+I. I just love that you picked. 
+R
+Rin (Rachel)
+01:36:31
+
+A character that gets so high. 
+O
+Ogre (Chet)
+01:36:35
+You have a very high charisma. 
+S
+Sanis (Gabe)
+01:36:37
+I know. 
+O
+Orphie (Me)
+01:36:38
+And I roll like I'm stopping the recording, FYI. 
+Sync with audio
+06:1601:36:43
+1×
+
+
+
+
+
+
+
+
+

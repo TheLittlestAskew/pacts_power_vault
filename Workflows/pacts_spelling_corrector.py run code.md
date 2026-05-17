@@ -10,7 +10,7 @@ python pacts\_spelling\_corrector.py --dry-run
 
 \# Fix a single transcript
 
-python pacts\_spelling\_corrector.py --file 02-072725-Pacts.md
+python pacts_spelling_corrector.py --file 03-081025-Pacts.md
 
 
 
