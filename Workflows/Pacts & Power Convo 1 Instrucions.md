@@ -28,14 +28,16 @@ Wait for Taylor to confirm corrections before proceeding.
 Apply all confirmed spelling corrections. Reformat as script format (see Corrected Transcript section below). Save to Obsidian vault via Obsidian MCP at `Session_Sources/Transcripts/Corrected/[Session#]_[MMddyy]_corrected.md`.
 
 ### Step 4: Query DDB Roll Archive
-Always query Supabase for the session's rolls. Do not ask whether to do this — always do it.
-```sql
-SELECT * FROM ddb_rolls
-WHERE campaign_id = (SELECT id FROM ddb_campaigns WHERE game_id = 3661522)
-AND DATE(timestamp_iso AT TIME ZONE 'America/New_York') = 'YYYY-MM-DD';
-```
-If no rolls are returned, flag a possible sync gap and ask Taylor if she has synced.
+**Step 4: Query DDB Roll Archive** Always query Supabase for the session's rolls. Do not ask whether to do this — always do it.
 
+**Date-locked roll queries.** Pull rolls for a session by filtering `sitl_session_rolls` on that session's real-world play date only. Never query other dates or widen the range to "fill gaps." A roll that appears in the transcript with no archive match on that date is logged as `transcript-only`, not hunted for on adjacent dates.
+
+sql
+
+```sql
+SELECT * FROM sitl_session_rolls
+WHERE session_date = 'YYYY-MM-DD';
+```
 ### Step 5: Generate Session Notes
 Generate all sections using the pp_session_notes_template_v8 as the authority on content and formatting. Cross-reference transcript rolls against DDB archive rolls. Flag discrepancies.
 
