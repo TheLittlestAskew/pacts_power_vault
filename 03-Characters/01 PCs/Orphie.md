@@ -1,6 +1,9 @@
 ---
 type: pc
 full_name: Orphea "Orphie" Levistus
+aliases:
+  - Orphea "Orphie" Levistus
+  - Orphie Levistus
 race: Tiefling
 class: Barbarian (Path of the Totem Warrior)
 level: 12

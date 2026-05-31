@@ -1,6 +1,8 @@
 ---
 type: pc
 full_name: Sanis Reylana
+aliases:
+  - Sanis Reylana
 race: Dark Elf (Drow)
 class: Ranger (Fey Wanderer)
 level: 12

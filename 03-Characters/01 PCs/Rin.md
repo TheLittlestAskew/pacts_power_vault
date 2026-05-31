@@ -1,6 +1,9 @@
 ---
 type: pc
 full_name: Rinestra "Rin" Genleth
+aliases:
+  - Rinestra "Rin" Genleth
+  - Rinestra Genleth
 race: Aasimar
 class: Cleric (Light Domain)
 level: 12

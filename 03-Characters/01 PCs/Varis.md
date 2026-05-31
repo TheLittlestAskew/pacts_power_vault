@@ -1,6 +1,8 @@
 ---
 type: pc
 full_name: Varis Aestra
+aliases:
+  - Varis Aestra
 race: Gem Dragonborn
 class: Sorcerer (Draconic Bloodline — Ugin)
 level: 12
