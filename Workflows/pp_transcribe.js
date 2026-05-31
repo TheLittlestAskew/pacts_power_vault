@@ -91,6 +91,10 @@ const PP_KEYTERMS = [
   "Vincent",
   "Chris",
 
+  // ── Guest Players (OOC) ──
+  "Bri",
+  "Dan",
+
   // ── DM / Table ──
   "heavyhart",
 
@@ -511,8 +515,8 @@ async function uploadFile(filePath) {
  * Submit a transcription request with Pacts & Power vocabulary config.
  * Returns the transcript ID for polling.
  */
-async function submitTranscription(audioUrl) {
-  log("Submitting transcription with Pacts & Power vocabulary...");
+async function submitTranscription(audioUrl, speakerCount = 6) {
+  log(`Submitting transcription with Pacts & Power vocabulary (${speakerCount} speakers)...`);
 
   const requestBody = {
     audio_url: audioUrl,
@@ -530,9 +534,9 @@ async function submitTranscription(audioUrl) {
     custom_spelling: PP_CUSTOM_SPELLING,
 
     // ── Speaker Diarization ──
-    // Identifies different speakers (DM + 5 players = 6)
+    // Default 6 (DM + 5 players), use --speakers 7 for guest sessions
     speaker_labels: true,
-    speakers_expected: 6,
+    speakers_expected: speakerCount,
 
     // ── General Settings ──
     language_code: "en_us",
@@ -596,7 +600,7 @@ async function pollForCompletion(transcriptId) {
  * Format the transcript with speaker labels and timestamps.
  * Outputs in script format compatible with the Pacts & Power workflow.
  */
-function formatTranscript(transcriptData) {
+function formatTranscript(transcriptData, speakerCount = 6) {
   const lines = [];
 
   lines.push("# Pacts & Power Session Transcript");
@@ -604,7 +608,7 @@ function formatTranscript(transcriptData) {
   lines.push(`# Audio duration: ${Math.round(transcriptData.audio_duration / 60)} minutes`);
   lines.push(`# Model: ${transcriptData.speech_model || "universal-3-pro"}`);
   lines.push(`# Confidence: ${(transcriptData.confidence * 100).toFixed(1)}%`);
-  lines.push(`# Speakers expected: 6 (DM + 5 players)`);
+  lines.push(`# Speakers expected: ${speakerCount} (DM + ${speakerCount - 1} players)`);
   lines.push("");
   lines.push("---");
   lines.push("");
@@ -644,7 +648,21 @@ function formatTimestamp(ms) {
 // ══════════════════════════════════════════════════════════════
 
 async function main() {
-  const args = process.argv.slice(2);
+  const rawArgs = process.argv.slice(2);
+
+  // ── Parse --speakers flag ──
+  // Usage: node pp_transcribe.js --speakers 7 session.mp3
+  // Default: 6 (DM + 5 players). Use 7 for guest sessions (Bri, Dan, etc.)
+  let speakerCount = 6;
+  const args = [];
+  for (let i = 0; i < rawArgs.length; i++) {
+    if (rawArgs[i] === "--speakers" && rawArgs[i + 1]) {
+      speakerCount = parseInt(rawArgs[i + 1], 10);
+      i++; // skip next arg (the number)
+    } else {
+      args.push(rawArgs[i]);
+    }
+  }
 
   // Validate API key early
   if (API_KEY === "YOUR_API_KEY_HERE") {
@@ -667,7 +685,8 @@ async function main() {
 `);
     console.log(`Recordings folder: ${RECORDINGS_DIR}`);
     console.log(`Vocabulary loaded:  ${PP_KEYTERMS.length} keyterms`);
-    console.log(`Custom spellings:   ${PP_CUSTOM_SPELLING.length} correction rules\n`);
+    console.log(`Custom spellings:   ${PP_CUSTOM_SPELLING.length} correction rules`);
+    console.log(`Speakers expected:  ${speakerCount}${speakerCount > 6 ? " (guest session)" : ""}\n`);
 
     const recordings = listRecordings();
 
@@ -733,11 +752,11 @@ async function main() {
   }
 
   // Submit and poll
-  const transcriptId = await submitTranscription(audioUrl);
+  const transcriptId = await submitTranscription(audioUrl, speakerCount);
   const result = await pollForCompletion(transcriptId);
 
   // Format output
-  const formatted = formatTranscript(result);
+  const formatted = formatTranscript(result, speakerCount);
 
   // Determine output path — default to Transcripts/Raw_Unedited
   if (!outputPath) {
