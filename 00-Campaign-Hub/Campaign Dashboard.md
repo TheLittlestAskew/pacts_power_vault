@@ -32,7 +32,7 @@
 | [[Ogre's Traveling Tavern]] | Portable tavern/home base; pulled by [[Scrappy]] |
 | [[Scrappy]] | Mechanical Izzet horse |
 | [[Blazebringer]] | Orphie's ancestral greataxe (Amenkheti metal) |
-| [[Leather Daddy Game Boy]] (LDGB) | Ogre's ghost artifact fused with [[Pippi]] |
+| [[Leather Daddy Game Boy]] (LDGB) | Ogre's ghost artifact fused with [[Pippi]]. Began as the "[[Leather Daddy Ball]]" stage; in Transcript 01 it absorbed every wandering spirit from the [[Ghost Mind]] (centuries of Dimir intelligence) via [[Witch]]. |
 | [[Sole Integrated Storage]] (SIS) | Artifact; partly connected to [[House Dimir]] |
 | Dragon Spirit Box | Varis's container holding [[Niv-Mizzet]]'s spirit |
 
@@ -75,6 +75,12 @@ The overarching campaign antagonist is [[Nicol Bolas]], an ancient planeswalker 
 ### 4. Investigate the Orzhov District
 The Orzhov district is a ghost town with no living or dead souls. The party planned to investigate and potentially restore banking operations.
 
+### 5. Mend the Guildpact
+Introduced in Transcript 01 (07/13/25). [[Ral Zarek]] revealed that the ley lines underlying the [[Guildpact]] are still intact and the Pact can be mended with enough guild representation. As of Transcript 01, three guilds remained unaligned: [[Golgari Swarm]], [[Simic Combine]], and [[Gruul Clans]]. (This dovetails with the Revive [[Niv-Mizzet]] quest, which also requires gathering a representative from every guild.)
+
+### 6. Escape the Immortal Sun Lockdown
+Introduced in Transcript 01 (07/13/25). The [[Immortal Sun]] activated on [[Ravnica]] immediately after the [[Interplanar Beacon]] began summoning planeswalkers, trapping every planeswalker on the plane — including the party. [[Ogre]] recognized the barrier from the party's prior encounter on [[Ixalan]]. This is the in-world reason the party later pursues an artifact ("The Auction") that would allow people to leave the plane.
+
 ## Major Campaign Events Timeline
 
 | Session | Event |
@@ -89,6 +95,13 @@ The Orzhov district is a ghost town with no living or dead souls. The party plan
 | Session 16 | Party woke from 11-month coma in [[Selesnya Conclave]]; [[Tenth District]] split revealed |
 | Session 17 | [[Ral Zarek]] provided tunnel blueprints; party visited Rakdos |
 | Session 18 | [[Orphea "Orphie" Levistus\|Orphie]] found [[Blazebringer]]; party fought Vaudahn; secret tunnel to Azorius |
+| Transcript 01 (07/13/25) | Party descended into the [[Ghost Mind]]; solved the urn-judgment, ghost-choir, and Glass Staircase of Truth puzzles |
+| Transcript 01 (07/13/25) | Glass Staircase revealed the [[Guildpact]] ley lines are intact (restorable) and the Levistus line is NOT descended from magic |
+| Transcript 01 (07/13/25) | [[Ogre]] exorcised all Ghost Mind spirits into the [[Leather Daddy Ball]]; [[Sanis Reylana\|Sanis]] absorbed the [[Szadek]] fragment (Szadek now whole in his mind palace); Ghost Mind collapsed |
+| Transcript 01 (07/13/25) | [[Kaya Cassir]] severed her tether to Sanis and departed |
+| Transcript 01 (07/13/25) | Party planeswalked to the [[Fortress of Nivix]]; [[Ral Zarek]] activated the [[Interplanar Beacon]]; the [[Immortal Sun]] trapped all planeswalkers on [[Ravnica]] |
+| Transcript 01 (07/13/25) | Ral reported [[Golgari Swarm\|Golgari]], [[Simic Combine\|Simic]], and [[Gruul Clans\|Gruul]] unaligned, and [[Borborygmos]] overthrown [⚠ conflicts with later Gruul status — flagged] |
+| Transcript 01 (07/13/25) | DM stinger (not party knowledge): interplanar bridge opened in Golgari territory; [[Eternals]] and god-sized coffins emerged |
 | Transcript 02 (07/27/25) | Eternals advancing; party visited [[Boros Legion\|Boros]] HQ; Molly briefed them |
 | Transcript 03 (08/10/25) | [[Chandra Nalaar\|Chandra]] rescued; brought to [[Selesnya Conclave]] for healing |
 | Transcript 05 (09/07/25) | [[Tezzeret]] killed by Orphie (114 damage double crit); "It's breakfast time." |
@@ -103,6 +116,7 @@ The Orzhov district is a ghost town with no living or dead souls. The party plan
 | Planeswalker | Allegiance | Status |
 |---|---|---|
 | [[Jace Beleren]] | Living Guildpact | Dead (assassinated by Vraska) |
+| [[Kaya Cassir]] | Independent (former Obzedat enforcer) | Alive; severed her tether to [[Sanis Reylana\|Sanis]] and departed (Transcript 01) |
 | [[Nicol Bolas]] | Antagonist | Active; primary villain |
 | [[Vraska]] | Golgari / Bolas-aligned | Active antagonist |
 | [[Liliana Vess]] | Bolas-aligned (revealed as Professor Onyx) | Active antagonist |

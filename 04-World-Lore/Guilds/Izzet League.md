@@ -49,6 +49,7 @@ A key late-campaign quest involves reviving [[Niv-Mizzet]] using artifacts from 
 | Early Session 17 | [[Ral Zarek]] gave the party blueprints to a tunnel under [[New Prahv]]; Rin received a Mizzium Artifact |
 | Early Session 18 | Party encountered shrunk Izzet researchers (Mazeet and Kiqi) escaping from New Prahv |
 | Early Session 16 | Izzet aligned with Boros and Gruul as "The Allies" |
+| Transcript 01 (07/13/25) | [[Ral Zarek]] activated the [[Interplanar Beacon]] atop the [[Fortress of Nivix]] once the [[Ghost Mind]]'s interference was removed; the party arrived there by involuntary planeswalk and was briefed on the [[Immortal Sun]] lockdown |
 | Transcript 10 (12/14/25) | [[Benji]] sent by Varis to recruit [[Dalya Bara\|Dahlia]] at the Izzet Guild for fundraising |
 
 ## Related

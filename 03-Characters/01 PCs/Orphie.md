@@ -101,6 +101,8 @@ In Session 7 (Transcript 07), Orphie met [[Athena]] in a dream sequence. Athena 
 | Early Session 5 | Punched [[Ral Zarek]] over consent issues |
 | Early Session 18 | Found [[Blazebringer]] in the tunnels under [[New Prahv]] after her Sword of Fire and Ice melded with an ancestral greataxe |
 | Early Session 18 | Meditated with [[Penny]] through calisthenics; found her spiritual center |
+| Transcript 01 (07/13/25) | In the [[Ghost Mind]], opened the heavy floor door one-handed after [[Ogre]] tried to pull it while standing on it; led the party's choice to free all four condemned urn-spirits rather than judge them |
+| Transcript 01 (07/13/25) | Learned via the Glass Staircase of Truth that the **Levistus line is NOT descended from magic** — a significant identity revelation |
 | Transcript 05 (09/07/25) | Decapitated [[Tezzeret]] with [[Blazebringer]] in a double crit dealing 114 total damage. Said: "Do you smell that? It's breakfast time." |
 | Transcript 07 (10/05/25) | Met ancestor [[Athena]] in a dream; learned about [[Blazebringer]]'s Amenkheti metal composition |
 
@@ -109,6 +111,12 @@ In Session 7 (Transcript 07), Orphie met [[Athena]] in a dream sequence. Athena 
 When Orphie rages, her brown eyes and tribal tattoos on her arms, back, and face glow molten lava red. She has Brutal Critical (one additional weapon damage die on crits with melee attacks).
 
 ## Key Quotes
+
+> **Transcript 01 (07/13/25) — On the urn-judgment puzzle**
+> "What right do we have to judge the dead when we can barely keep the living sorted?"
+
+> **Transcript 01 (07/13/25) — On the Levistus lineage revelation**
+> "The Levistus line isn't magic. It never was."
 
 > **Transcript 05 (09/07/25) — Decapitating Tezzeret**
 > "Do you smell that? It's breakfast time."

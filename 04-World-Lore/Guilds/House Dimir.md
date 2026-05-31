@@ -24,11 +24,16 @@ Benji also examined the [[Sole Integrated Storage]] (SIS) artifact with interest
 | [[Benji]] | Dimir agent; Varis's old friend; party ally | Active |
 | [[Lazav]] | Dimir guildmaster | [Unknown] |
 
+## The Ghost Mind
+
+The [[Ghost Mind]] was the Dimir's central intelligence network and archive — a massive arcane construct in Dimir territory housing centuries of accumulated ghostly intelligence, with a fragment of founder [[Szadek]] at its core. In Transcript 01 the party entered it, and [[Ogre]] exorcised every spirit within into the [[Leather Daddy Ball]] while [[Sanis Reylana|Sanis]] absorbed the Szadek fragment. The Ghost Mind **collapsed**, effectively destroying the Dimir Guild's intelligence network.
+
 ## Key Events
 
 | Session | Event |
 |---|---|
 | Early Session 2 | Dimir insurgent beckoned Varis after the arrest; gave him items |
+| Transcript 01 (07/13/25) | Party entered and collapsed the [[Ghost Mind]]; all its spirits absorbed into the [[Leather Daddy Ball]]; the Dimir intelligence network destroyed. Glass Staircase confirmed [[Kaya Cassir]] killed [[Szadek]]. |
 | Transcript 10 (12/14/25) | Benji examined SIS; DM noted part of it belongs to the Dimir Guild |
 | Transcript 10 (12/14/25) | Benji stated the Dimir are not currently aligned with anyone |
 | Transcript 10 (12/14/25) | Benji sent on diplomatic mission to recruit Izzet, Selesnya, and Rakdos support |

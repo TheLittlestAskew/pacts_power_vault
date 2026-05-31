@@ -34,6 +34,7 @@ Late in the campaign, the party discussed needing a Golgari representative for t
 | Early Session 4 | [[Vraska]] killed [[Jace Beleren]] at the Spring Festival; Golgari undead flooded the streets |
 | Early Session 7 | Party encountered [[Steve]] the Rotworm in the Golgari tunnels |
 | Early Session 18 | Party fought the Golgari necromancer Vaudahn in the sewers |
+| Transcript 01 (07/13/25) | Reported by [[Ral Zarek]] as one of three unaligned guilds. DM stinger (not party knowledge): an interplanar bridge opened in Golgari territory, and rows of [[Eternals]] with god-sized coffins emerged from Amonkhet's necropolis |
 | Transcript 03 (08/10/25) | Golgari buildings seen toppled from the air |
 | Transcript 07 (10/05/25) | Rin noted the Golgari are one of the hardest guilds to recruit for the ritual |
 

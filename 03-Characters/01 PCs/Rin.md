@@ -71,6 +71,8 @@ Rin handles the finances of [[Ogre's Traveling Tavern]].
 | Early Session 3 | Healed by a Selesnyan priest after arrest; gifted the [[Selesnya Conclave\|Selesnya]] locket |
 | Early Session 3 | Used Genasi ability of flight to try to escape arrest; shot down by 10 guards |
 | Early Session 4 | Helped innocents during the Spring Festival chaos |
+| Transcript 01 (07/13/25) | Sensed (Arcana 23) that the [[Ghost Mind]]'s magical darkness originated from deeper within and was related to but distinct from the Ghost Mind's own power |
+| Transcript 01 (07/13/25) | Stepped wrong on the Glass Staircase of Truth on the statement "The [[Guildpact]] is dead" (false — the ley lines are intact), taking 5 psychic damage; the party's only misstep |
 | Transcript 03 (08/10/25) | Followed [[Chandra Nalaar\|Chandra]] into [[Vitu-Ghazi]] for medical care after rescue |
 | Transcript 06 (09/17/25) | Rolled a 19 on a history check; recognized [[Liliana Vess]]'s Chain Veil and called her out as a betrayer of the Gatewatch |
 | Transcript 07 (10/05/25) | Discussed Selesnya trinket/amulet; mentioned she'd given it to someone at some point but got it back |

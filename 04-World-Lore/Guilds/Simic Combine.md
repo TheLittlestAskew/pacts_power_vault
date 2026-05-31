@@ -19,6 +19,7 @@ The Simic have had limited direct interaction with [[The Breakfast Club]]. Their
 
 | Session | Event |
 |---|---|
+| Transcript 01 (07/13/25) | Named by [[Ral Zarek]] as one of three unaligned guilds (with [[Golgari Swarm\|Golgari]] and [[Gruul Clans\|Gruul]]) the party must still bring in to mend the [[Guildpact]] |
 | Transcript 03 (08/10/25) | Simic buildings seen destroyed from the air during the Eternals crisis |
 | Transcript 07 (10/05/25) | Rin identified Simic as one of the hardest guilds to recruit a representative from |
 

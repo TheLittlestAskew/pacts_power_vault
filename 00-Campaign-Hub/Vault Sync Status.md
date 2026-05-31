@@ -22,7 +22,7 @@ This file tracks which sessions have been fully processed into vault wiki pages.
 | Session | Source | Session File | NPCs | Locations | Loot | Quotes | Encounters |
 |---|---|---|---|---|---|---|---|
 | Sessions 1–16 | Early Sessions PDF | 🔶 (bullet notes exist) | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Transcript 01 (07/13/25) | 01_071325 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Transcript 01 (07/13/25) | 01_071325 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (no combat — puzzle session) |
 | Transcript 02 (07/27/25) | 02_072725 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Transcript 03 (08/10/25) | 03_081025 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Transcript 04 (08/26/25) | 04_082625 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -40,9 +40,13 @@ This file tracks which sessions have been fully processed into vault wiki pages.
 | Task | Status |
 |---|---|
 | Backlink audit | ❌ |
-| NPC pages from existing file stubs | ❌ |
-| Location pages from existing file stubs | ❌ |
-| Loot Tracker | ❌ |
-| Quote Board Master | ❌ |
-| Profanity Ledger | ❌ |
-| House Rules & Rulings | ❌ |
+| NPC pages from existing file stubs | 🔶 (T01: populated Borborygmos, Vraska, Salena; created Hikara, Benji, Nicol Bolas) |
+| Location pages from existing file stubs | 🔶 (T01: created Fortress of Nivix) |
+| Loot Tracker | 🔶 (T01 logged) |
+| Quote Board Master | 🔶 (T01 logged) |
+| Profanity Ledger | 🔶 (T01 logged) |
+| House Rules & Rulings | 🔶 (T01 logged) |
+
+## Processing Log
+
+- **Transcript 01 (07/13/25) — Into the Ghost Mind — processed (Convo 2):** Dashboard (timeline, planeswalkers, quests, party assets), all 5 PC pages, NPC pages (Kaya, Ral, Szadek, Tomik already done by prior pass; updated Salena; created/populated Borborygmos, Hikara, Benji, Nicol Bolas, Vraska), world-lore (Ghost Mind, Fortress of Nivix, Interplanar Beacon, Immortal Sun, Eternals, House Dimir, Izzet, Golgari, Gruul, Simic), mechanics (Roll_Statistics, Spell_Usage), and all four hub trackers seeded. POV journal verified present. **Open flags:** (1) Salena/"Selena" return mechanism; (2) Borborygmos overthrown (T01) vs. active ally (T07); (3) Ogre History 15 vs DDB 17.

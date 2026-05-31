@@ -79,12 +79,17 @@ Varis is the cook at [[Ogre's Traveling Tavern]].
 | Early Session 2 | Cast invisibility to escape the Azorius arrest; chased down a Dimir insurgent and received items |
 | Early Session 4 | Led [[Salena]] to safety with [[Sanis Reylana\|Sanis]] during the Spring Festival; gave Salena invisibility powder |
 | Early Session 6 | Visited [[Orzhova]] with the group to meet with his adopted father |
+| Transcript 01 (07/13/25) | In his Ghost Mind entrance vision, was shown [[Tarkir]], returning dragons, and three shapes resembling his parents and a younger sibling; chose a path of helping people and being "part of something greater" after hearing [[Ugin]]'s voice |
+| Transcript 01 (07/13/25) | Took the worst of the urn-chamber psychic blasts — failed the Urn 3 Constitution save (rolled 10) for 10 psychic damage |
 | Transcript 03 (08/10/25) | Transformed into dragon form to serve as the party's aerial transport during the Eternals crisis |
 | Transcript 05 (09/07/25) | Rolled a natural 20 on perception (33 total) during the Tezzeret fight; noticed Chandra's behavior shift |
 | Transcript 10 (12/14/25) | Sent [[Benji]] on a diplomatic mission with his amulet to recruit guild support for the auction/fundraising effort |
 | Transcript 10 (12/14/25) | Strategized with the party about reinstating the [[Orzhov Syndicate\|Orzhov]] bank and gathering funds |
 
 ## Key Quotes
+
+> **Transcript 01 (07/13/25) — On the Ghost Mind's revelations**
+> "The Ghost Mind knew things about all of us."
 
 > **Transcript 05 (09/07/25) — On Orphie's combat**
 > "Just barbarian things."
