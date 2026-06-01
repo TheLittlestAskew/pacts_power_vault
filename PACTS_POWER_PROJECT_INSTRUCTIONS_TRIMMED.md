@@ -5,7 +5,26 @@
 This is the master ruleset for the Pacts & Power campaign archival project. It contains the shared rules, constraints, campaign reference, and source documentation that apply across all workflows.
 
 For workflow-specific instructions, see:
-- **Convo 1 (Session Notes Generation):** `Pacts___Power_Convo_1_Instructions.md`
+
+- **Transcribe** 
+```
+`cd C:\Users\theli\pacts_power_vault\Workflows\pp_transcribe`
+`node pp_transcribe.js`
+```
+
+That launches **interactive mode** — it lists your available recordings and lets you pick one by number.
+
+**Other ways to run it:**
+
+| Goal                          | Command                                            |
+| ----------------------------- | -------------------------------------------------- |
+| Pick from a list              | `node pp_transcribe.js`                            |
+| Transcribe a specific file    | `node pp_transcribe.js session13.mp3`              |
+| Transcribe by full path       | `node pp_transcribe.js "C:\path\to\audio.mp3"`     |
+| Guest session (extra speaker) | `node pp_transcribe.js --speakers 7 session13.mp3` |
+
+Output lands in `Session_Sources\Transcripts\Raw_Unedited\`.
+- Convo 1 (Session Notes Generation):** `Pacts___Power_Convo_1_Instructions.md`
 - **Convo 2 (Vault Updates):** `PACTS___POWER_CONVO_2_INSTRUCTIONS.md`
 
 ---
