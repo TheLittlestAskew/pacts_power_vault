@@ -145,6 +145,7 @@
 | Steve | — | Golgari Rotworm. Befriended by Ogre. |
 | Lavinia | Lavina | Azorius administrator. |
 | Krenko | Crenko | Goblin NPC. |
+| Dolora | Dol Ara, Dora, Dolores | Rin's patron deity (Light Domain); source of her radiant/Channel Divinity power. Confirmed spelling. |
 
 ---
 

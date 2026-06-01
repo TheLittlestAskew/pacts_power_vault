@@ -47,6 +47,13 @@ Grandiose, cheerful, and theatrical — greets a desperate fight as "the fanfare
 - Asked [[Varis Aestra\|Varis]] whether he had **"the box"** (the Dragon Spirit Box) and urged him to use it on Niv-Mizzet's remains
 - Once Niv's essence was absorbed, congratulated Chandra and **joined the party**, asking where they were headed next — answer: "the Bone Zone" ([[Bone Mine]])
 
+### [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Transcript 05 — Do You Smell That? It's Breakfast Time]] (09/07/2025)
+- Flew with the party toward the [[Bone Mine]], swapping war stories — a planeswalking traveler ([[Ixalan]], [[Tarkir]], [[Phyrexia]], [[Strixhaven]]); confirmed he was an **undercover "professor" at [[Strixhaven]]** (taught "Adventuring 101" and a class on fighting the undead), and that [[Chandra Nalaar\|Chandra]] attended his classes
+- Revealed that after Chandra's capture, **[[Onyx\|Professor Onyx]] snitched the [[Flameseekers of Truth]]' identities to [[Nicol Bolas\|Bolas]]** — none of them survived
+- **Knocked unconscious the instant he touched the [[Leather Daddy Game Boy]]** (overwhelmed by its god-souls); [[Chandra Nalaar\|Chandra]] doodled a monocle/mustache/unibrow on his face while he was out; he woke later muttering "cheesecake"
+- In the [[Tezzeret]] fight, cleaved corrupted Myconids apart with his fiery longsword ("that is how you grill mushrooms"), suffering exhaustion
+- Stayed "in solidarity" as the marrow pits collapsed (produced an umbrella)
+
 ## Key Quotes
 
 > **Transcript 04 (08/26/25) — Mid-battle, atop Niv-Mizzet's body**

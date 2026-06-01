@@ -52,6 +52,22 @@ DM rulings and table conventions, logged by session. These are Chris's in-the-mo
 | Dragon-form stats exception | Continuing the T02/T03 ruling: out of/around dragon form Varis lacks his Arcana expertise, but for the absorption Chris made an **exception** and let him roll with his normal [[Varis Aestra\|Varis]] stat block and proficiencies. |
 | Eternal "armor" (lore ruling) | On inspection, an [[Eternals\|Eternal]]'s plating is **metal painted directly onto the skin**, not removable armor — still has thickness/material (not naked), but cannot be looted as armor. |
 
+## Transcript 05 (09/07/25) — [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Do You Smell That? It's Breakfast Time]]
+
+| Ruling | Detail |
+|---|---|
+| Homebrew cure ritual | Chris allowed the party's improvised cure (pulling a strand of [[Ugin]]'s essence from dragon-[[Varis Aestra\|Varis]] and infusing it into [[Rin]]'s syringe) as part of a healing ritual ("if you want to do this as part of Rin's healing ritual, I'll allow it"). High Arcana rolls (29, 31) made it "ultimately positive" with **undetermined side effects**. |
+| Squeezing | A creature can move through a space one size smaller than itself at **half speed, with disadvantage on attacks/Dex, and attackers get advantage** — used by dragon-Varis to fit through the tunnel after a reduced-size mushroom. |
+| Force damage vs terrain | Chris let [[Varis Aestra\|Varis]]'s Force Breath be used to **excavate** the collapsed tunnel (rolling damage to clear rubble); the breath weapon must **recharge** (roll each round) between uses. |
+| Domination | [[Tezzeret]]'s domination forced a **Wisdom save with disadvantage**; on a failure [[Chandra Nalaar\|Chandra]] was controlled (made to attack allies). A later save (and an opportunity hit) let her **break free**. |
+| Essence drain | Tezzeret's tendril dealt necrotic **and reduced the target's hit-point maximum** by the amount taken (rather than normal damage) — narrated as "stealing essence" from [[Orphea "Orphie" Levistus\|Orphie]]. |
+| Miasma aura | Standing within / moving through the corrupted Myconids' aura forced **Constitution saves vs necrotic** (5/hit); holding one's breath could avoid it, but a failed save while pushing through cost [[Orphea "Orphie" Levistus\|Orphie]] **a level of exhaustion**. |
+| Exhaustion (5e'14) | One level = disadvantage on ability checks; two levels = speed halved (Chris used the one-DM-table variant the party posted). |
+| Counterspell | Chris ran Counterspell as **spell level + 10 DC** when cast below the target spell's level; [[Ogre]] countered Tezzeret at 22. |
+| Divine Intervention | Per RAW: roll d100, success on **≤ cleric level** (10); [[Rin]] rolled 65 and it **failed**. |
+| Double crit + Brutal Critical | [[Orphea "Orphie" Levistus\|Orphie]]'s two natural 20s plus Great Weapon Master's bonus attack and **Brutal Critical** (extra weapon die on a melee crit, gained at level 9) totaled **114 damage** in one turn. |
+| Tasting the essence pit | Drinking the raw marrow-pit essence forced a **Con save**; [[Ogre]] failed (13) and took **59 radiant damage**, dropping unconscious (no resistance; not raging). |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

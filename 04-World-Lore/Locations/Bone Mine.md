@@ -1,8 +1,8 @@
 ---
 type: location
 region: "Golgari district (Tenth District), Ravnica"
-status: "Active (Selena recovering there; 'something weird' reported)"
-first_appearance: "Referenced earlier; resurfaced Transcript 03 (08/10/25)"
+status: "Myconid colony cavern intact; the marrow/essence pits collapsed & sealed (T05, 09/07/25)"
+first_appearance: "Referenced earlier; resurfaced Transcript 03 (08/10/25); on-site Transcript 05 (09/07/25)"
 ---
 
 # Bone Mine
@@ -19,7 +19,25 @@ A Golgari-associated site connected to the **Myconids**, previously the scene of
 
 The party **set out for the Bone Mine** ([[Sanis Reylana\|Sanis]] cast Pass Without a Trace; [[Varis Aestra\|Varis]] flew them as a dragon) to rescue [[Salena\|Selena]], but detoured to fight at [[Niv-Mizzet]]'s corpse and **had not arrived by session's end** — still bound for what the party nicknamed "the Bone Zone," now with [[Isiah Ja-Faank]] in tow. No new on-site details yet.
 
+## Transcript 05 (09/07/25) — On Site
+
+The party finally reached and entered the Bone Mine.
+
+**Layout & lore (revealed/expanded):**
+- The approach field was littered with **hundreds of dead [[Eternals]]** — slain by [[Salena|Selena]] defending the colony.
+- The **entrance had collapsed** and was being re-excavated (by mindless Eternals); [[Varis Aestra|Varis]] blasted it open with Force Breaths.
+- Tunnels lined with **purple fluorescent mushrooms** and mushroom-grown corpses lead down to the **Myconid colony cavern** (home base of the Myconids, led by [[Thal]]).
+- Deeper still are the **marrow / essence pits** ("ossuary pits"): open pools where the Myconids distilled the **concentrated soul-essence of ancient long-dead beings**. This essence — the were-zombie–birthing liquid — is what [[Salena|Selena]] (and others before her) emerged from.
+
+**Events:**
+- [[Thal]] had used the essence to save a gravely injured Selena, but the pits were being **corrupted by [[Nicol Bolas|Bolas]]** via pumps + a black portal installed by **[[Tezzeret]]**.
+- The party killed Tezzeret at the marrow pits; **Selena submerged in the essence pit** and the **corruption was purged** (the pool turned white-purple).
+- The marrow pits then **collapsed and sealed** as the party escaped. The Myconid colony cavern remains; all Myconids were left unconscious, with an ethereal white-eyed figure (Selena, ascended) standing over [[Thal]].
+
 ## Related
+- [[Thal]]
+- [[Tezzeret]]
+- [[Eternals]]
 - [[Salena]]
 - [[Brula]]
 - [[Sanis Reylana]]

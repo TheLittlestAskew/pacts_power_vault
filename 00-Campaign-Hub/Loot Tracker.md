@@ -84,6 +84,20 @@ Campaign-wide tracker of artifacts, items, and significant objects: owner, state
 | [[Scrappy]] | → [[Izzet League]] (via [[Brula]]) | Too damaged for the battlefield (parts falling off). **Brula took him to the Izzet League** to be repaired and delivered to **[[Dalya Bara\|Dahlia]]** — explicitly **not** [[Ral Zarek\|Ral]]. (Resolves the T03 "Izzet vs Golgari" drop-off question → **Izzet**.) | Transcript 04 (08/26/25) |
 | Mushroom-grown bone | [[Sanis Reylana\|Sanis]] | Still carried; the clue pointing to [[Salena\|Selena]] at the [[Bone Mine]]. | Transcript 04 (08/26/25) |
 
+## Transcript 05 (09/07/25) — [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Do You Smell That? It's Breakfast Time]]
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| Cure syringe ([[Ugin]] essence + [[Nicol Bolas\|Bolas]] ichor + [[Dolora]] radiance + party blood/spit) | [[Rin]] (built) → [[Salena\|Selena]] (used on) | **Created and spent this session.** An old syringe holding Bolas's black ichor (the were-zombie agent) had been infused with [[Dolora]]'s celestial radiance by [[Rin]]'s past channel divinity; the party added a strand of [[Ugin]]'s essence (pulled from dragon-[[Varis Aestra\|Varis]], Arcana 29 w/ [[Ogre]] help), plus Orphie/Sanis blood and Orphie's spit, then **injected Selena** to burn out Bolas's corruption (Medicine 16). | Transcript 05 (09/07/25) |
+| [[Salena\|Selena]]'s bone bow & bone claws | [[Salena\|Selena]] | Her were-zombie weapons; she used them to slay **hundreds of [[Eternals]]** solo at the Bone Mine (incl. five pierced on a single giant bone arrow). | Transcript 05 (09/07/25) |
+| [[Leather Daddy Game Boy]] (LDGB) | [[Ogre]] | **Now holds three god-souls** — [[God-Eternal Oketra\|Oketra]] (ambition) plus two death gods ([[Szadek]] + the "bat boy from Ixalan," [[Aclazotz]]) — alongside the Orzhov ghost souls. Touching it **instantly knocked [[Isiah Ja-Faank]] unconscious** (overwhelmed by millions of deaths). | Transcript 05 (09/07/25) |
+| [[Black Lotus]] | [[Ogre]] | Ogre joked about throwing it (and the LDGB) into the essence pit; talked down. Still in his bag. | Transcript 05 (09/07/25) |
+| [[Immortal Sun]] | (Unknown) | **Recalled** this session as the artifact **[[Tezzeret]] took** (from the crystal-tower events). With Tezzeret dead, its whereabouts are an open lead. | Transcript 05 (09/07/25) |
+| Myconid essence / marrow pits | [[Bone Mine]] | [[Tezzeret]] had installed pumps + a black portal **corrupting** the ancient essence pits for [[Nicol Bolas\|Bolas]]. After his death the corruption was **purged** (pool turned white-purple) and the pits **collapsed/sealed**. | Transcript 05 (09/07/25) |
+| [[Tezzeret]]'s soul | — | [[Ogre]] tried to claim it via Accursed Specter but **could not** (he didn't land the killing blow and had spent his bonus action). | Transcript 05 (09/07/25) |
+
 ## Archivist Notes
 
 - **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. **Transcript 02 (07/27/25) is the transformation event** (Ball fused into Pip's Game Boy → LDGB). Transcript 01 captures it at the Ball stage; older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.

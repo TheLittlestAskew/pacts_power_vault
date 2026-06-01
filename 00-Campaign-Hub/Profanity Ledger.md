@@ -6,12 +6,12 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 | Speaker (Player) | Total |
 |---|---|
-| Taylor | 16 |
-| Rachel | 10 |
-| Gabe | 9 |
-| Chet | 9 |
-| Bri (guest) | 9 |
-| Vincent | 2 |
+| Taylor | 21 |
+| Rachel | 15 |
+| Bri (guest) | 13 |
+| Gabe | 13 |
+| Chet | 12 |
+| Vincent | 4 |
 
 > ⚠️ Transcript 03 counts are **approximate** — the battle audio is heavily auto-censored/bleeped, so exact words/frequencies could not always be confirmed.
 
@@ -69,6 +69,21 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 > Also noted (not in player totals): Chris (DM) ~3 — "your fucking tavern," "Oh shit," "Damn."
 
 **Session 04 total:** ~18 (Taylor 4, Bri 5, Rachel 3, Chet 3, Gabe 2, Vincent 1). Largely in-character; attributed to players for campaign totals.
+
+### Transcript 05 (09/07/25) — [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Do You Smell That? It's Breakfast Time]]
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Taylor (Orphie / OOC) | Fuck / damn | ~5 | "What the fuck happened to everything"; revenge-curses during the collapse; combat reactions |
+| Rachel (Rin / OOC) | Fuck / hell / damn | ~5 | "What the hell" (TikTok bit); "the fuck"; rolling-twos frustration; "would have fucked your day" |
+| Bri (Chandra, guest) | Fuck / ass / bastard | ~4 | "Set his ass on fire"; "You bastard… I'm going to kill you"; "kick the [shit] out of" |
+| Gabe (Sanis) | Fuck / shit | ~4 | "Son of a [bitch]" long-rest bit; revenge-curse banter; combat |
+| Chet (Ogre) | Shit / fuck | ~3 | "Absolutely soiled"; combat banter |
+| Vincent (Varis) | Damn / ass | ~2 | Dragon-HP banter; combat |
+
+> Heavy OOC banter session (curse-off during the ceiling collapse). Audio partly auto-censored; counts approximate.
+
+**Session 05 total:** ~23 (Taylor 5, Rachel 5, Bri 4, Gabe 4, Chet 3, Vincent 2).
 
 ## Related
 - [[Campaign Dashboard]]

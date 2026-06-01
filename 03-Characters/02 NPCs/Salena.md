@@ -1,9 +1,10 @@
 ---
 type: npc
 tag: status-discrepancy
-affiliation: "Reylana Family"
-status: "Died Early Session 4 — present/apparently alive in Transcript 01 (return unexplained; flagged)"
+affiliation: "Reylana Family / the Bone Mine Myconids"
+status: "Alive — were-zombie; ascended/transformed at the Bone Mine essence pit (T05, 09/07/25)"
 first_appearance: "Early sessions"
+location: "The Bone Mine essence pit (submerged/ascending)"
 ---
 
 # Salena
@@ -39,7 +40,17 @@ Sister to [[Sanis Reylana|Sanis]] of the [[Reylana Family]].
 - Remains **off-screen** at the [[Bone Mine]]. The party set out to reach her ([[Sanis Reylana\|Sanis]] cast Pass Without a Trace; [[Varis Aestra\|Varis]] flew them as a dragon) but detoured at [[Niv-Mizzet]]'s corpse and **had not yet arrived by session's end** — still bound for "the Bone Zone."
 - New thread: [[Sanis Reylana\|Sanis]] now openly **blames [[Isiah Ja-Faank]] for Salena's death** ("He got my sister killed"), tying Isiah to her Early Session 4 demise — a connection not yet detailed in-source (flagged).
 
+### [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Transcript 05 — Do You Smell That? It's Breakfast Time]] (09/07/2025)
+- **Found and rescued.** She had single-handedly slain **hundreds of [[Eternals]]** (bone bow, bone claws; five pierced on one giant bone arrow) defending the Myconid colony before falling gravely injured.
+- The Myconid leader [[Thal]] kept her alive with "the essence" (the were-zombie pit liquid), but she was **corrupted by [[Nicol Bolas\|Bolas]]'s black ichor** ([[Rin]], Arcana 24).
+- The party **cured her** with a syringe combining [[Ugin]]'s essence, Bolas's ichor, [[Dolora]]'s celestial radiance, and party blood/spit. She woke with **solid white eyes**, embraced [[Sanis Reylana\|Sanis]] silently, and whispered *"take me to the essence pits."*
+- With the party's support, [[Sanis Reylana\|Sanis]] **helped her into the essence pit**; she submerged as Bolas's corruption was purged and the marrow pits collapsed.
+- **Stinger:** after the fight, an **ethereal white-eyed figure** stood over the unconscious [[Thal]] — implied to be Selena, **ascended** ("the mushroom queen now"). Her exact new nature is unresolved.
+- This largely resolves the long-standing "death/return" flag: her Early-Session-4 death led to a **were-zombie rebirth** (via the Bone Mine pits), and she has now ascended further.
+
 ## Related
+- [[Thal]]
+- [[Bone Mine]]
 - [[Sanis Reylana]]
 - [[Reylana Mansion]]
 - [[Clarissa]]

@@ -19,6 +19,9 @@ The party does **not** recognize the name "Onyx." The DM gated a recall check be
 
 > ⚠ **Archivist cross-reference (campaign-level, NOT party knowledge in T03):** Per the [[Campaign Dashboard]], **[[Liliana Vess]]** is later revealed to have operated under the alias **Professor Onyx**. Do not treat this connection as known to the party during Transcript 03.
 
+## Update — Transcript 05 (09/07/25)
+[[Isiah Ja-Faank]] (who fought alongside [[Chandra Nalaar|Chandra]] in the [[Flameseekers of Truth]]) confirmed that after Chandra's capture, **"Professor Onyx" snitched on everyone** — revealing the Flameseekers' identities to [[Nicol Bolas|Bolas]], after which none of them made it out. This corroborates Chandra's betrayal account and deepens Onyx's role as a Bolas-aligned informant. (Still not connected to [[Liliana Vess]] by the party in-fiction.)
+
 ## Relationships
 - [[Chandra Nalaar]] — Betrayed her at Strixhaven.
 - [[Strixhaven]] — Setting of the betrayal.

@@ -34,6 +34,19 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Rinestra "Rin" Genleth\|Rin]] | Guidance / Sacred Flame (holy words) | Guidance on investigation checks; ranged radiant support during the Eternal fight |
 | [[Chandra Nalaar\|Chandra]] | Fly / Fireball (fire spells) | Flew down to fight back-to-back with [[Isiah Ja-Faank]], slinging fire into the [[Eternals]] |
 
+## Transcript 05 (09/07/25) — [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Do You Smell That? It's Breakfast Time]]
+
+| Character | Spell / Ability | Outcome |
+|---|---|---|
+| [[Varis Aestra\|Varis]] | Force Breath / Frightful Presence | Excavated the collapsed tunnel (67/51/60) and hit [[Tezzeret]] point-blank; Frightful Presence (DC 19) on the corrupted Myconids |
+| [[Varis Aestra\|Varis]] | [[Ugin]]-essence pull (homebrew) | Drew a strand of Ugin's spirit energy from his dragon form to power [[Salena\|Selena]]'s cure (Arcana 29 with [[Ogre]]'s help) |
+| [[Rinestra "Rin" Genleth\|Rin]] | Mass Cure Wounds | 29 HP to each ally — **chosen specifically to bypass [[Ogre]]'s Darkness** (point-targeted, not sight-targeted) |
+| [[Rinestra "Rin" Genleth\|Rin]] | Fireball (5th) / Guidance / Bless / **Divine Intervention** | Level-5 Fireball on the Myconids; Guidance spammed on nearly every cure roll; Divine Intervention **failed** (d100 65) during the collapse |
+| [[Sanis Reylana\|Sanis]] | **Phantasmal Force** / Dreadful Strike | Illusion of Tezzeret dying over and over in the crystal tower (Int save failed); +psychic on longbow hits; also consulted [[Szadek]] in his mind palace |
+| [[Ogre]] | [[Witch]] + Darkness / **Counterspell** / Unseen Servant / Mage Hand | Fought "Yoda-style" in self-Darkness (soul/psychic dmg; Witch's bonus shifts sword↔brain); countered Tezzeret (22); Unseen Servant + Mage Hands to push/grab/help |
+| [[Chandra Nalaar\|Chandra]] | Fireball / Scorching Ray / Fly | Opened on Tezzeret; **dominated** into Fireballing the party; freed, then Scorching Ray on Tezzeret |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Rage / Great Weapon Master / Eldritch Maul (tattoo) | Raged through essence-drain and exhaustion; the GWM bonus attack + tattoo force damage fed the **114-damage double crit** |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]

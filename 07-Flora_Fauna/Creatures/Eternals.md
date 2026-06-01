@@ -60,6 +60,10 @@ Common transcription error: "Eternels."
 - A horde swarmed [[Niv-Mizzet]]'s corpse; **[[Varis Aestra\|Varis]]'s Force Breath (65) evaporated 18 of them** in one cone, and the party cut down the rest while absorbing the Firemind's essence (a shockwave knocked the survivors back)
 - On inspection their **plating proved to be metal painted onto the skin** (not lootable armor); the party **looted a working [[Spark-Harvester Trident|Spark Harvester]]** from a fallen Eternal
 
+### [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Transcript 05 — Do You Smell That? It's Breakfast Time]] (09/07/2025)
+- A force of Eternals assaulted the [[Bone Mine]] Myconid colony; **[[Salena|Selena]] slew hundreds of them single-handedly** (bone bow/claws; five pierced on one giant bone arrow). The approach field was carpeted with their corpses.
+- Three **mindless Eternals** were found digging at the collapsed mine entrance (reaped by [[Ogre]]); others lay dead inside without mushrooms growing on them (notably distinct from the mushroom-grown corpses).
+
 ## Related
 - [[Nicol Bolas]]
 - [[The Second Sun]]

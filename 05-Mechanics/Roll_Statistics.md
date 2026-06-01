@@ -12,16 +12,19 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | Transcript 02 (07/27/25) | 22 | ~30 | [[Varis Aestra\|Varis]] (10) |
 | Transcript 03 (08/10/25) | 61 | ~40 | [[Sanis Reylana\|Sanis]] (20) |
 | Transcript 04 (08/26/25) | 16 | ~10 | [[Ogre]] (7) |
+| Transcript 05 (09/07/25) | ~85 | ~15 | [[Orphea "Orphie" Levistus\|Orphie]] (~43) |
 
 ## Per-Character DDB Rolls
 
-| Character | T01 (07/13/25) | T02 (07/27/25) | T03 (08/10/25) | T04 (08/26/25) |
-|---|---|---|---|---|
-| [[Ogre]] | 19 | 7 | 11 | 7 |
-| [[Orphea "Orphie" Levistus\|Orphie]] | 11 | 4 | 17 | 3 |
-| [[Varis Aestra\|Varis]] | 7 | 10 | 13 | 4 |
-| [[Rinestra "Rin" Genleth\|Rin]] | 2 (mostly transcript-only) | 0 (all transcript-only) | 0 (all transcript-only) | 0 (all transcript-only) |
-| [[Sanis Reylana\|Sanis]] | 0 (all transcript-only) | 1 (Cure Wounds; rest transcript-only) | 20 | 2 |
+| Character | T01 (07/13/25) | T02 (07/27/25) | T03 (08/10/25) | T04 (08/26/25) | T05 (09/07/25) |
+|---|---|---|---|---|---|
+| [[Ogre]] | 19 | 7 | 11 | 7 | ~5 |
+| [[Orphea "Orphie" Levistus\|Orphie]] | 11 | 4 | 17 | 3 | ~43 |
+| [[Varis Aestra\|Varis]] | 7 | 10 | 13 | 4 | ~29 |
+| [[Rinestra "Rin" Genleth\|Rin]] | 2 (mostly transcript-only) | 0 (all transcript-only) | 0 (all transcript-only) | 0 (all transcript-only) | 1 (Divine Intervention; rest transcript-only) |
+| [[Sanis Reylana\|Sanis]] | 0 (all transcript-only) | 1 (Cure Wounds; rest transcript-only) | 20 | 2 | ~17 |
+
+> **T05 note:** an unusually heavy DDB session (~85 rolls) — the marrow-pits fight was long, and [[Orphea "Orphie" Levistus\|Orphie]] rolled the most (~43) of any character in any session so far. [[Chandra Nalaar\|Chandra]] (Bri) and most of [[Rinestra "Rin" Genleth\|Rin]]'s rolls remain transcript-only/physical.
 
 ## Notable Rolls — Transcript 01
 
@@ -84,6 +87,22 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Rinestra "Rin" Genleth\|Rin]] | Perception | 25 | Front-line scan (transcript-only) |
 
 > **Roll note (T04):** the earliest logged roll (20:15:53, [[Ogre]] Spell Attack to hit, 11) has **no clear transcript context** — likely a stray/recap roll. 15 of 16 DDB rolls match a specific transcript moment; [[Rinestra "Rin" Genleth\|Rin]] and [[Chandra Nalaar\|Chandra]] rolled transcript-only/physical as usual.
+
+## Notable Rolls — Transcript 05
+
+| Character | Roll | Result | Note |
+|---|---|---|---|
+| [[Orphea "Orphie" Levistus\|Orphie]] | Blazebringer to-hit ×2 | **nat 20 + nat 20** | The double-crit kill on [[Tezzeret]] — **114 total damage** (Great Weapon Master + Brutal Critical). Most damage in one turn in the campaign so far. |
+| [[Varis Aestra\|Varis]] | Bite to-hit | **nat 20 (34)** | Crit killing a corrupted Myconid |
+| [[Varis Aestra\|Varis]] | Perception | **nat 20 (33)** | Spotted dominated [[Chandra Nalaar\|Chandra]] targeting him |
+| [[Varis Aestra\|Varis]] | Force Breath (18d6) | 67 / 51 / 60 | Tunnel excavation + point-blank on Tezzeret |
+| [[Sanis Reylana\|Sanis]] | History | **nat 20 (23)** | Identified the cyborg as [[Tezzeret]] |
+| [[Sanis Reylana\|Sanis]] | Medicine | **nat 20 (24)** | Confirmed KO'd [[Ogre]] would survive the pit-taste |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Constitution Save | **nat 20 (30)** | Resisting Tezzeret's essence-drain |
+| [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (1d100) | 65 — **failed** (needed ≤10) | Asked her deity for cover during the collapse |
+| [[Rinestra "Rin" Genleth\|Rin]] | Arcana / Medicine (transcript-only) | 24 / 31 / 25 | Diagnosed Bolas's corruption; built & injected Selena's cure |
+
+> **Roll note (T05):** [[Chandra Nalaar\|Chandra]] (Bri) rolled entirely off-DDB; [[Rinestra "Rin" Genleth\|Rin]]'s only DDB roll was the Divine Intervention `1d100`. Many of [[Ogre]]'s Witch/psychic hits and his Counterspell were narrated, not itemized in DDB (same pattern as T03). Party level this session: **10**.
 
 ## Related
 - [[Campaign Dashboard]]

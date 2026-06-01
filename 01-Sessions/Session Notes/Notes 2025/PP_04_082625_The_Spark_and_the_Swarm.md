@@ -4,7 +4,7 @@ session_number: 4
 play_date: 08/26/25
 title: The Spark and the Swarm
 transcript: "[[04_082625_corrected]]"
-party_level: 12
+party_level: 10
 ---
 
 # PP_04 — The Spark and the Swarm
@@ -18,7 +18,7 @@ party_level: 12
 | Session # | 04 |
 | Real-world play date | 08/26/25 |
 | In-game location | [[Tenth District]], [[Ravnica]] ([[Selesnya Conclave]] → front lines → [[Sunhome]] → [[Niv-Mizzet]]'s corpse en route to the [[Bone Mine]]) |
-| Party level | 12 |
+| Party level | 10 |
 | Present (PCs) | [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Rinestra "Rin" Genleth\|Rin]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] |
 | Companion PC | [[Chandra Nalaar\|Chandra]] (Bri) — recurring guest, traveling with the party |
 | Key NPCs | [[Brula]], [[Nissa]], [[Molly]], [[Clarissa]], [[Isiah Ja-Faank]] (joins party) |

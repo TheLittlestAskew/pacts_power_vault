@@ -95,6 +95,20 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Ogre]] | "The bone zone. You want to come with us?" | Funny |
 | [[Chandra Nalaar\|Chandra]] | "Who the fuck says I'm dying, bitch?" | Banter / Threat |
 
+## Transcript 05 (09/07/25) — [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time|Do You Smell That? It's Breakfast Time]]
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Orphea "Orphie" Levistus\|Orphie]] | "Do you smell that? It's breakfast time." | Funny / Iconic |
+| [[Tezzeret]] | "As expected of Athena's descendant." | Important to Story |
+| [[Tezzeret]] (dying) | "The harvest is coming." | Threat / Important to Story |
+| [[Tezzeret]] | "In the end, Bolas will win through all. It's futile." | Threat |
+| [[Isiah Ja-Faank]] | "You see, friends, that is how you grill mushrooms." | Funny / DM Quip |
+| [[Chandra Nalaar\|Chandra]] | "You bastard. You made me hurt them. I'm going to kill you." | Serious |
+| [[Sanis Reylana\|Sanis]] | "It was her decision and that's all that matters." | Poignant |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "We can't abandon her again." | Poignant |
+| [[Ogre]] | "No hesitation, all action." | Banter |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

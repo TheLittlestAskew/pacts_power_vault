@@ -16,7 +16,12 @@ A magic **school** (on the plane of [[Arcavios]]) entangled with the campaign's 
 - The **undead sorcerers** among [[Nicol Bolas]]'s [[Eternals]] army on Ravnica were recognized as Strixhaven students.
 - A "**Strixane**" alternate timeline is referenced by the DM (tied to the gated [[Onyx]] recall).
 
+## Added Detail (Transcript 05, 09/07/25)
+- [[Isiah Ja-Faank]] revealed he was an **undercover "professor" at Strixhaven**, teaching "Adventuring 101" and a class on fighting the undead; [[Chandra Nalaar|Chandra]] attended some of his classes. He fought the undead there ("once or twice").
+- He confirmed that after Chandra's capture, **[[Onyx|Professor Onyx]] snitched the [[Flameseekers of Truth]]' identities to [[Nicol Bolas|Bolas]]**, and none of the Flameseekers survived.
+
 ## Related
+- [[Isiah Ja-Faank]]
 - [[Chandra Nalaar]]
 - [[Flameseekers of Truth]]
 - [[Onyx]]
