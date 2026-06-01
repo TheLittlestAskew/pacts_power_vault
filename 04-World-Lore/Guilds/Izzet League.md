@@ -25,7 +25,7 @@ A key late-campaign quest involves reviving [[Niv-Mizzet]] using artifacts from 
 |---|---|---|
 | [[Niv-Mizzet]] | Izzet Parun; spirit held by Varis | Dead (spirit preserved) |
 | [[Dalya Bara]] | Izzet guild leader (installed with party help) | Active |
-| [[Ral Zarek]] | Izzet planeswalker; gave the party tunnel blueprints and a Mizzium Artifact | Complicated; party has hostile feelings |
+| [[Ral Zarek]] | Izzet planeswalker; **guildmaster after Niv-Mizzet's death (T03)** | Complicated; party openly hostile (wants him dead) |
 | Mazeet | Viashino Izzet researcher; encountered shrunk in tunnels | [Unknown] |
 | Kiqi | Half-elf Izzet researcher; encountered shrunk in tunnels | [Unknown] |
 
@@ -50,6 +50,7 @@ A key late-campaign quest involves reviving [[Niv-Mizzet]] using artifacts from 
 | Early Session 18 | Party encountered shrunk Izzet researchers (Mazeet and Kiqi) escaping from New Prahv |
 | Early Session 16 | Izzet aligned with Boros and Gruul as "The Allies" |
 | Transcript 01 (07/13/25) | [[Ral Zarek]] activated the [[Interplanar Beacon]] atop the [[Fortress of Nivix]] once the [[Ghost Mind]]'s interference was removed; the party arrived there by involuntary planeswalk and was briefed on the [[Immortal Sun]] lockdown |
+| Transcript 03 (08/10/25) | **[[Niv-Mizzet]] (Parun) killed by [[Nicol Bolas]]** during the siege — disintegrated atop [[Bolas's Citadel]]; their spirit is preserved in [[Varis Aestra\|Varis]]'s Dragon Spirit Box (the "box" that grew warm at session's end). The Izzet brought **armored vehicles** to fortify the front; **[[Ral Zarek\|Ral]] becomes guildmaster**, to the party's dismay |
 | Transcript 10 (12/14/25) | [[Benji]] sent by Varis to recruit [[Dalya Bara\|Dahlia]] at the Izzet Guild for fundraising |
 
 ## Related

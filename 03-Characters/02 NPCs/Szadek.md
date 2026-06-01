@@ -38,6 +38,11 @@ Szadek founded House Dimir and was its first guildmaster. His history is deeply 
 - Sanis absorbed the Szadek fragment from the Ghost Mind entity
 - Szadek is now whole and reunified in Sanis's mind palace for the first time
 
+### [[PP_02_072725_I_Cant_Rebuild_You|Transcript 02 — I Can't Rebuild You]] (07/27/2025)
+- Appeared more "put together" in [[Sanis Reylana|Sanis]]'s mind palace after the long rest (fancier suit, hair done up, drinking straight blood) — now at peace and in harmony with Sanis
+- Because Sanis helped him become whole, **granted Sanis a power-up**: greater empathy (clicks with people more easily), thicker mental-palace walls (mental fortitude), the spell **Detect Thoughts** (one cast), and one additional effect still to be determined by the DM
+- Promised to try to be less "sassy" with Sanis going forward
+
 ## Key Quotes
 
 **SANIS** (regarding Szadek) · Session 01

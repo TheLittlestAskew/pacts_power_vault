@@ -76,7 +76,10 @@ Rin handles the finances of [[Ogre's Traveling Tavern]].
 | Early Session 4 | Helped innocents during the Spring Festival chaos |
 | Transcript 01 (07/13/25) | Sensed (Arcana 23) that the [[Ghost Mind]]'s magical darkness originated from deeper within and was related to but distinct from the Ghost Mind's own power |
 | Transcript 01 (07/13/25) | Stepped wrong on the Glass Staircase of Truth on the statement "The [[Guildpact]] is dead" (false — the ley lines are intact), taking 5 psychic damage; the party's only misstep |
-| Transcript 03 (08/10/25) | Followed [[Chandra Nalaar\|Chandra]] into [[Vitu-Ghazi]] for medical care after rescue |
+| Transcript 02 (07/27/25) | Caught the [[Leather Daddy Ball]] (WIS save 19); analyzed the new [[Leather Daddy Game Boy\|LDGB]] (Arcana 23 — death magic + Ghost Mind souls + Pip); used the Socratic "scientific method" to prove [[Ral Zarek\|Ral]] didn't activate the beacon, convincing [[Dalya Bara|Dalya]] |
+| Transcript 02 (07/27/25) | Realized the pyramid was **harvesting planeswalker sparks** (Arcana 24) — "we played right into their trap"; uncorked the ever-smoking bottle for cover during the escape and was **dropped to 1 HP** by [[God-Eternal Oketra\|Oketra]]'s arrow (healed by [[Sanis Reylana\|Sanis]] mid-fall) |
+| Transcript 03 (08/10/25) | Anchored the siege as healer/blaster — Mass Healing Word, a **Wall of Fire that incinerated 14 Eternals**, repeated Fireballs, and **Celestial Revelation** (sprouted wings to fly with [[Molly]]'s Skyknights). Talked [[Orphea "Orphie" Levistus\|Orphie]] back from a spiral of despair. |
+| Transcript 03 (08/10/25) | Took charge of [[Chandra Nalaar\|Chandra]]'s rescue — a Medicine check confirmed Chandra had been tortured and starved; followed her into [[Vitu-Ghazi]] for care; later (Insight 26+) read [[Brula]] as a sincere were-zombie. |
 | Transcript 06 (09/17/25) | Rolled a 19 on a history check; recognized [[Liliana Vess]]'s Chain Veil and called her out as a betrayer of the Gatewatch |
 | Transcript 07 (10/05/25) | Discussed Selesnya trinket/amulet; mentioned she'd given it to someone at some point but got it back |
 | Transcript 07 (10/05/25) | Strategized guild representative recruitment for the [[Niv-Mizzet]] revival ritual |

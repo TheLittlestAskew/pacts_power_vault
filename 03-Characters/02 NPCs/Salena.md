@@ -28,7 +28,16 @@ Sister to [[Sanis Reylana|Sanis]] of the [[Reylana Family]].
 - Present with the party during the Ghost Mind descent
 - Underwent an entrance-ritual vision (coffin / younger self) and chose not to return to who she was, enduring everything again to see her brother
 
+### [[PP_02_072725_I_Cant_Rebuild_You|Transcript 02 — I Can't Rebuild You]] (07/27/2025)
+- Was told (at the end of Transcript 01) to meet the party at the Sunhome apartment, but **never arrived** — only roommate [[Clarissa]] was home. [[Sanis Reylana|Sanis]] could not sense her; the party left her a note. Her absence is a flagged concern. (Display name rendered "Selena" in transcripts.)
+
+### [[PP_03_081025_Thats_Why_No_One_Will_Remember_Your_Name|Transcript 03 — That's Why No One Will Remember Your Name]] (08/10/2025)
+- **Located (off-screen).** [[Brula]] — an elf were-zombie like Salena — found the party at [[Vitu-Ghazi]] and reported that Salena went to the **[[Bone Mine]]**, got hurt, and is **recovering** there. Brula delivered a mushroom-grown bone as a token and offered to lead [[Sanis Reylana|Sanis]] to her. The party intends to follow.
+- Confirms Salena is **alive** as of T03 (a were-zombie), partially resolving the prior "return unexplained" flag — though the full mechanism is still unstated.
+
 ## Related
 - [[Sanis Reylana]]
 - [[Reylana Mansion]]
+- [[Clarissa]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]
+- [[PP_02_072725_I_Cant_Rebuild_You]]

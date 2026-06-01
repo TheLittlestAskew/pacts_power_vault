@@ -48,6 +48,9 @@ Sharp, moody, family-scarred. Sanis carries deep wounds from witnessing [[Salena
 | Item | Description |
 |---|---|
 | Eversmoking Bottle | Received from Jeeves |
+| [[Flame Arrows]] (on quiver) | Cast by [[Varis Aestra\|Varis]]; ~12 arrows +1d6 white [[Ugin]] fire (carried from T02 into T03) |
+| Freeze-dried Snickerdoodle cookies | Hoarded healing treats (from Orphie's mom); 2 remaining after T03 |
+| Mushroom-grown bone | Given by [[Brula]] in T03; points to [[Salena\|Selena]] at the [[Bone Mine]] |
 
 ## Key Relationships
 
@@ -76,6 +79,10 @@ The Reylana family is wealthy and has an estate ([[Reylana Mansion\|Reylana mans
 | Transcript 01 (07/13/25) | Absorbed the [[Ghost Mind]]'s Szadek fragment into his mind palace — for the first time, [[Szadek]] is **whole and reunified** within him |
 | Transcript 01 (07/13/25) | [[Kaya Cassir]] severed her long-standing tether to him outside the collapsed Ghost Mind and departed |
 | Transcript 01 (07/13/25) | His sister [[Salena]] was present during the Ghost Mind descent (vision of a coffin/younger self; wanting to "see her brother again") — see relationship note below |
+| Transcript 02 (07/27/25) | Received a **power-up from [[Szadek]]** (now whole) over a long rest: greater empathy, thicker mental-palace walls, the spell **Detect Thoughts** (one cast), and one TBD effect |
+| Transcript 02 (07/27/25) | Hero moment: at extreme range with disadvantage, landed a **dirty-20 flame arrow on God-Eternal [[God-Eternal Oketra\|Oketra]]** (white [[Ugin]] flame), drawing her fire onto the Tavern; nearly died in the resulting blast; cast **Cure Wounds** on [[Rin]] mid-fall (15 HP). His sister [[Salena\|Selena]] failed to meet the party at the apartment |
+| Transcript 03 (08/10/25) | Anchored ranged DPS in the siege — a **nat-20 Longbow crit**, Hail of Thorns (max 10, shredding 5 Eternals), and [[Flame Arrows]] dropping undead [[Strixhaven]] sorcerers; fired from the back of [[Scrappy]] as [[Orphea "Orphie" Levistus\|Orphie]] drove. Earlier (S02) his shot drew [[Oketra]]'s attention onto the party. |
+| Transcript 03 (08/10/25) | Received a mushroom-grown bone from [[Brula]] and word that his sister **[[Salena\|Selena]] is hurt and recovering at the [[Bone Mine]]** — a new personal hook. |
 | Transcript 11 (01/11/26) | Used his family's "insurance" to acquire superior health potions for the party |
 
 ## Key Quotes
@@ -88,6 +95,9 @@ The Reylana family is wealthy and has an estate ([[Reylana Mansion\|Reylana mans
 
 > **Transcript 01 (07/13/25) — After Kaya severed the tether**
 > "She's gone. The tether is gone."
+
+> **Transcript 02 (07/27/25) — Facing death as Oketra's arrow flies**
+> "Tell my sister I love her."
 
 > **Early Session 6 — On Rin memorizing the map**
 > Called Rin a nerd for memorizing the map from [[Ral Zarek]].

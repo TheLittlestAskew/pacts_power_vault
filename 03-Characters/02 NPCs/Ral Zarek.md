@@ -47,6 +47,12 @@ Practical, mission-focused. Revealed personal details (marriage to Tomik) casual
 - Revealed [[Borborygmos]] overthrown as Gruul leader
 - Departed on lightning disc to gather allies
 
+### [[PP_02_072725_I_Cant_Rebuild_You|Transcript 02 — I Can't Rebuild You]] (07/27/2025)
+- Still at the [[Interplanar Beacon]] atop [[Fortress of Nivix]], cackling and proud — convinced his daily switch-flipping (not the [[Ghost Mind]]'s destruction) had activated it
+- **Punched in the face by [[Orphea "Orphie" Levistus|Orphie]]** (16 to hit) as a lesson on consent, for non-consensually summoning every planeswalker to [[Ravnica]]
+- The party openly debated replacing him; [[Dalya Bara|Dalya]] (next most senior) was floated as a better fit, and [[Rin]]'s "scientific method" argument convinced Dalya that Ral did not actually cause the beacon to work
+- Did not grasp the consent lesson ("So if I ask to punch someone and I just do it anyways, that's consent?")
+
 ## Key Quotes
 
 **RAL ZAREK** · Session 01 · [Serious]
@@ -54,6 +60,9 @@ Practical, mission-focused. Revealed personal details (marriage to Tomik) casual
 
 **RAL ZAREK** · Session 01 · [DM Quip]
 *"My husband is going to kill me."*
+
+**RAL ZAREK** · Transcript 02 · [DM Quip]
+*"Magic touch, baby."*
 
 ## Related
 - [[Izzet League]]

@@ -20,9 +20,57 @@ Campaign-wide tracker of artifacts, items, and significant objects: owner, state
 | [[Immortal Sun]] | Unknown (assoc. [[Nicol Bolas]] / [[The Second Sun]]) | Active on Ravnica; traps all planeswalkers on the plane (incl. the party). Previously encountered on [[Ixalan]]. | Transcript 01 (07/13/25) |
 | Planeswalker-detecting glasses | [[Ral Zarek]] | In Ral's possession; the same glasses the party previously hunted for. | Transcript 01 (07/13/25) |
 
+## Transcript 02 (07/27/25) — [[PP_02_072725_I_Cant_Rebuild_You|I Can't Rebuild You]]
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[Leather Daddy Ball]] → [[Leather Daddy Game Boy]] (LDGB) | [[Ogre]] | **Transformation event.** Ogre brought the Ball into contact with [[Pippi]]'s Game Boy (straight d20 = 5); the Ball merged into the console, which turned black/translucent with spirits visible in the circuitry. Now holds the [[Ghost Mind]] souls + the Ball's pre-existing **death magic** + Pip's spirit, fused into one entity. Renders Pip unconscious; needs time to recover. | Transcript 02 (07/27/25) |
+| [[Pippi]] (AI companion) | [[Ogre]] | Merged into the LDGB; inert/recovering. A separate **soulless clone** (personality + memories, no soul) exists, installed in **[[EMLA]]**; [[Rin]] also holds a spare functional Pip clone from [[Dalya Bara]]. | Transcript 02 (07/27/25) |
+| [[EMLA]] | [[Izzet League]] / [[Dalya Bara]] | Large Izzet mech / tank-beetle weapon; now houses a soulless Pip clone. Unfinished; Izzet property (Dalya refused Orphie's claim). | Transcript 02 (07/27/25) |
+| [[Black Lotus]] | [[Ogre]] | Confirmed still in Ogre's backpack. A wish-cast usable only by a planeswalker of considerable power — Ogre does not qualify. | Transcript 02 (07/27/25) |
+| [[Witch]] (sentient weapon) | [[Ogre]] | Used to search the battlefield for powerful [[Eternals]]. | Transcript 02 (07/27/25) |
+| [[Steve]]'s tooth | [[Ogre]] | Broken to summon [[Steve]] at the front lines. | Transcript 02 (07/27/25) |
+| Enlarge mushrooms | [[Ogre]] | Double size, ~1 hour; used on [[Steve]] and [[Varis Aestra\|Varis]]. ~1 remaining after this session. | Transcript 02 (07/27/25) |
+| Ever-smoking bottle | [[Ogre]] → [[Rin]] | Given to Rin; 60-ft expanding smoke cloud, no known command word. Used for cover during the escape, then tossed away. | Transcript 02 (07/27/25) |
+| [[Blazebringer]] | [[Orphea "Orphie" Levistus\|Orphie]] | Used to sever/detach [[Ogre's Traveling Tavern\|Ogre's Tavern]] from [[Scrappy]] during the escape. | Transcript 02 (07/27/25) |
+| Flame Arrows (on Sanis's quiver) | [[Sanis Reylana\|Sanis]] (cast by [[Varis Aestra\|Varis]]) | 3rd-level Flame Arrows: next 12 arrows +1d6 fire (white [[Ugin]] flame), 1 hour. Used to strike [[Oketra]]. | Transcript 02 (07/27/25) |
+| Detect Thoughts | [[Sanis Reylana\|Sanis]] | Added to spell list (1 cast) via [[Szadek]]'s reunification power-up. | Transcript 02 (07/27/25) |
+| Enlarge cookies/treats | [[Varis Aestra\|Varis]] | Grant 4 temporary HP each; shared with the party before the battle. | Transcript 02 (07/27/25) |
+| Diamonds (~300–600 gp; Revivify component) | [[Rin]] | Debated; ~304 gp on hand for a possible Revivify (spell not prepared this session). | Transcript 02 (07/27/25) |
+| [[Mizzium Apparatus]] | [[Varis Aestra\|Varis]] | Referenced in a roll ("Mizzium" check 25) during Part 2 prep. | Transcript 02 (07/27/25) |
+| [[Ogre's Traveling Tavern]] | Party | **DESTROYED** by God-Eternal [[Oketra]]'s arrows (one pierced it for 78 damage; a second destroyed it mid-fall). Party intends to rebuild. | Transcript 02 (07/27/25) |
+| [[Scrappy]] | Party | **Badly damaged** — a large chunk of his back blown out by Oketra's arrow; barely flying. | Transcript 02 (07/27/25) |
+| [[Lucy]] (golden goose) | Orphie & Rin | Lays liquid-gold eggs; left safe at the Sunhome apartment. | Transcript 02 (07/27/25) |
+
+## Transcript 03 (08/10/25) — [[PP_03_081025_Thats_Why_No_One_Will_Remember_Your_Name|That's Why No One Will Remember Your Name]]
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[Witch]] (sentient weapon) | [[Ogre]] | **Harvested a god's soul.** Ogre burrowed inside [[Oketra]]'s armor and stabbed the heart; on a Con save, drew the God-Eternal's soul out through Witch. (DDB logs Ogre's attacks as "Duskblade" — likely the same weapon; flagged.) | Transcript 03 (08/10/25) |
+| [[Blazebringer]] | [[Orphea "Orphie" Levistus\|Orphie]] | Cleaved Eternals/jackals all battle; **carved Orphie's name into the prone [[Oketra]]'s thigh**. 15-ft reach (tattoo) + fire damage. | Transcript 03 (08/10/25) |
+| [[Leather Daddy Game Boy]] (LDGB) | [[Ogre]] | [[Pippi]] still inert/recovering from the T02 merge ("Pip is still recovering"). | Transcript 03 (08/10/25) |
+| [[Black Lotus]] | [[Ogre]] | Still in Ogre's backpack with [[Pippi]]. Revealed Ogre once unknowingly wished "to keep all his friends safe forever" — it did **not** work (he isn't a powerful enough planeswalker to use it). | Transcript 03 (08/10/25) |
+| [[Flame Arrows]] (on Sanis's quiver) | [[Sanis Reylana\|Sanis]] (cast by [[Varis Aestra\|Varis]]) | Carried over from T02; ~12 arrows +1d6 fire. Spent through the battle on Eternals and sorcerers. | Transcript 03 (08/10/25) |
+| Shrinking mushroom | [[Ogre]] | Used to go tiny (~6–8 in) and infiltrate [[Oketra]]'s armor (counterpart to the enlarge "embiggening" mushrooms). | Transcript 03 (08/10/25) |
+| Freeze-dried Snickerdoodle cookies | [[Sanis Reylana\|Sanis]] | Hoarded healing cookies (from Orphie's mom); ate 1 (~7–10 temp HP) → 2 remaining. | Transcript 03 (08/10/25) |
+| Mushroom-grown bone | [[Sanis Reylana\|Sanis]] | Given by [[Brula]]; a bone sprouting purple mushrooms — magic resembles [[Strixhaven]]'s (not the [[Elder Spell]]). Points to [[Salena\|Selena]] at the [[Bone Mine]]. | Transcript 03 (08/10/25) |
+| [[Ogre's Traveling Tavern]] | Party | Confirmed destroyed; the **Drawer of Holding** (party furniture/belongings) is still inside the wreck, unretrieved. | Transcript 03 (08/10/25) |
+| [[Scrappy]] | Party | Used as a battle mount; battered, slated for repair (Izzet Guild / Golgari with [[Dalya Bara\|Dahlia]]). | Transcript 03 (08/10/25) |
+| "The box" | [[Varis Aestra\|Varis]] | A container among Varis's belongings that grew warm at session's end (Arcana 17) — unexplained stinger; later associated with [[Niv-Mizzet]]'s preserved spirit (see Dashboard Quest #1). | Transcript 03 (08/10/25) |
+
+### Enemy / Planar Artifacts
+
+| Item | Custodian | State | Session |
+|---|---|---|---|
+| [[Spark-Harvester Trident]] + [[Elder Spell]] | [[Nicol Bolas]] / [[Eternals]] | The enemy spark-extraction method (per [[Chandra Nalaar]]): the **Elder Spell** cast in tandem with the **spark-harvester trident** harvests a planeswalker's spark after death. Bolas absorbs the harvested sparks atop [[Bolas's Citadel]]. | Transcript 03 (08/10/25) |
+
 ## Archivist Notes
 
-- **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. Transcript 01 captures it at the Ball stage. Older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.
+- **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. **Transcript 02 (07/27/25) is the transformation event** (Ball fused into Pip's Game Boy → LDGB). Transcript 01 captures it at the Ball stage; older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.
 
 ## Related
 - [[Campaign Dashboard]]

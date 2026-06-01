@@ -47,7 +47,7 @@ Giddy, genuine, childlike curiosity meets eldritch trauma. Ogre is the chaos eng
 |---|---|
 | [[Leather Daddy Game Boy]] (LDGB) | Ghost artifact fused with [[Pippi]]; a key personal artifact |
 | [[Sole Integrated Storage]] (SIS) | Artifact; name explicitly clarified as "Sole" not "Soul" |
-| Black Lotus | Kept in his bag |
+| [[Black Lotus]] | Kept in his bag (with [[Pippi]]); Ogre once unknowingly wished on it "to keep all his friends safe forever" — it didn't work, as he isn't a powerful enough planeswalker (revealed T03) |
 
 ## Key Relationships
 
@@ -76,6 +76,10 @@ Giddy, genuine, childlike curiosity meets eldritch trauma. Ogre is the chaos eng
 | Early Session 6 | Decided to inchworm through a tunnel to collect glowbugs |
 | Transcript 01 (07/13/25) | Only party member able to see through the [[Ghost Mind]]'s magical darkness; guided the blinded party down the staircase by the hand |
 | Transcript 01 (07/13/25) | Used [[Witch]] to exorcise every wandering spirit in the Ghost Mind — all absorbed into the [[Leather Daddy Ball]], destroying the Dimir intelligence network and triggering a major power surge in the artifact |
+| Transcript 02 (07/27/25) | Accidentally **fused the [[Leather Daddy Ball]] into [[Pippi]]'s Game Boy** (straight d20 = 5), creating the [[Leather Daddy Game Boy]] and knocking Pip inert — death magic + Ghost Mind souls + Pip merged into one entity |
+| Transcript 02 (07/27/25) | Led "Operation Ogre-Sized": summoned [[Steve]] (broke his tooth) and enlarged him with a mushroom to devour [[Eternals]]; warned the front-line planeswalkers about spark-extracting bidents via Shatter + Mage Hand ("PLANESWALKERS / SPEARS," Persuasion 28) |
+| Transcript 03 (08/10/25) | "Shadow of the Colossus": misty-stepped onto [[Steve]], was flown into [[Oketra]]'s armor by [[Varis Aestra\|Varis]], shrank with a mushroom, and sabotaged the God-Eternal from the inside (−2 AC). Burrowed to the heart and, on a Con save, **harvested Oketra's soul through [[Witch]]** — the killing act. |
+| Transcript 03 (08/10/25) | Revealed he once unknowingly used the [[Black Lotus]] to wish "to keep all his friends safe forever" — it didn't work. Increasingly demonic in battle (witch-corruption noted by the party). |
 | Transcript 05 (09/07/25) | Summoned Witch to cast darkness during the [[Tezzeret]] fight; attempted to capture Tezzeret's soul via Accursed Specter after Orphie's killing blow |
 | Transcript 07 (10/05/25) | Ogre's past revealed: he tried to drink Phyrexian oil on [[Dominaria]] and "legitimately died," causing the party to fall apart and leave that plane |
 
@@ -93,6 +97,9 @@ Ogre is the namesake of [[Ogre's Traveling Tavern]], the party's portable tavern
 
 > **Transcript 01 (07/13/25) — Recognizing the Immortal Sun**
 > "I've felt this before. On the island. We're not leaving."
+
+> **Transcript 03 (08/10/25) — Infiltrating Oketra's armor**
+> "I misty stepped onto this guy. I'm playing Shadow of the Colossus with this [god]. Let's go."
 
 > **Transcript 10 (12/14/25) — On SIS**
 > "If you like SIS so much, you align yourself with SIS."

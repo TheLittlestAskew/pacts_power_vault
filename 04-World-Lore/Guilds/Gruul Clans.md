@@ -34,7 +34,7 @@ The Gruul were initially hostile, led by [[Domri Rade]] who was aligned with [[N
 | Early Session 16 | Gruul aligned with Boros and Izzet as "The Allies" |
 | Gruul Sessions | Party helped Borborygmos and Sharp Dog consolidate power; Sanis vomited during the Gruul initiation but completed the Krip Walk |
 | Transcript 01 (07/13/25) | [[Ral Zarek]] reported the Gruul **unaligned** and [[Borborygmos]] **overthrown**, with a new unnamed leader [⚠ conflicts with the Transcript 07 entry below — see flag] |
-| Transcript 02 (07/27/25) | Gruul forces seen advancing on the Boros district from the north |
+| Transcript 02 (07/27/25) | **Gruul turned on the alliance** — forces advanced on the [[Boros Legion\|Boros]] district from the north (the Red Wastes) during the Eternal invasion, fighting the Allies [⚠ conflicts with the maintained "Allied" status and the T07 rep-candidate entry — see flag] |
 | Transcript 07 (10/05/25) | Borborygmos confirmed as Gruul representative candidate for the Niv-Mizzet ritual |
 
 > ⚠ **Continuity flag:** Transcript 01 (07/13/25) reports [[Borborygmos]] overthrown as Gruul leader, while Transcript 07 (10/05/25) and the current guild status list him as an active ally and rep candidate. These conflict; preserved unresolved pending DM confirmation.

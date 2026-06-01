@@ -106,6 +106,9 @@ In Session 7 (Transcript 07), Orphie met [[Athena]] in a dream sequence. Athena 
 | Early Session 18 | Meditated with [[Penny]] through calisthenics; found her spiritual center |
 | Transcript 01 (07/13/25) | In the [[Ghost Mind]], opened the heavy floor door one-handed after [[Ogre]] tried to pull it while standing on it; led the party's choice to free all four condemned urn-spirits rather than judge them |
 | Transcript 01 (07/13/25) | Learned via the Glass Staircase of Truth that the **Levistus line is NOT descended from magic** — a significant identity revelation |
+| Transcript 02 (07/27/25) | **Punched [[Ral Zarek]] in the face** (16 to hit) as a hands-on lesson on consent for non-consensually summoning every planeswalker (a callback to her Early Session 5 consent-punch) |
+| Transcript 02 (07/27/25) | At the climax, **sacrificed [[Ogre's Traveling Tavern]]** to save the party — raged, gathered [[Sanis Reylana\|Sanis]], ordered [[Rin]] to fly, and cut the Tavern loose with [[Blazebringer]] as God-Eternal [[God-Eternal Oketra\|Oketra]] fired on it. The title beat: "I can't rebuild you." |
+| Transcript 03 (08/10/25) | Snapped at [[Molly]] for falling back ("that's why nobody will remember your name"); wavered toward despair, then was spiritually rebuked by her late grandmother — "Survive, you idiot." |
 | Transcript 05 (09/07/25) | Decapitated [[Tezzeret]] with [[Blazebringer]] in a double crit dealing 114 total damage. Said: "Do you smell that? It's breakfast time." |
 | Transcript 07 (10/05/25) | Met ancestor [[Athena]] in a dream; learned about [[Blazebringer]]'s Amenkheti metal composition |
 
@@ -120,6 +123,15 @@ When Orphie rages, her brown eyes and tribal tattoos on her arms, back, and face
 
 > **Transcript 01 (07/13/25) — On the Levistus lineage revelation**
 > "The Levistus line isn't magic. It never was."
+
+> **Transcript 02 (07/27/25) — Choosing her friends over the Tavern**
+> "I don't give a fuck about the Tavern. We can rebuild it. But I can't rebuild you."
+
+> **Transcript 03 (08/10/25) — On her size in a battle of gods and dragons**
+> "I just want to be big, okay?"
+
+> **Transcript 03 (08/10/25) — To Molly, on retreating**
+> "And that's why nobody will remember your name."
 
 > **Transcript 05 (09/07/25) — Decapitating Tezzeret**
 > "Do you smell that? It's breakfast time."

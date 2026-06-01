@@ -83,7 +83,9 @@ Varis is the cook at [[Ogre's Traveling Tavern]].
 | Early Session 6 | Visited [[Orzhova]] with the group to meet with his adopted father |
 | Transcript 01 (07/13/25) | In his Ghost Mind entrance vision, was shown [[Tarkir]], returning dragons, and three shapes resembling his parents and a younger sibling; chose a path of helping people and being "part of something greater" after hearing [[Ugin]]'s voice |
 | Transcript 01 (07/13/25) | Took the worst of the urn-chamber psychic blasts — failed the Urn 3 Constitution save (rolled 10) for 10 psychic damage |
-| Transcript 03 (08/10/25) | Transformed into dragon form to serve as the party's aerial transport during the Eternals crisis |
+| Transcript 02 (07/27/25) | "Operation Ogre-Sized": turned dragon and was enlarged by [[Ogre]]'s mushroom to gargantuan, then **incinerated 14 [[Eternals]] with a breath weapon** (18d6 = 58), **body-slammed ~30 more on a nat 20**, and crushed ~14 with a multiattack + Frightful Presence. Cast **Flame Arrows** on [[Sanis Reylana\|Sanis]]'s quiver before the battle |
+| Transcript 03 (08/10/25) | Fought [[Oketra]] in dragon form — flew [[Ogre]] into the god's armor, popped off its shoulder pauldron, landed a 64-damage breath weapon, then **wing-attacked the God-Eternal prone and grappled it** (Athletics 25 vs DC 21) while [[Steve]] coiled its legs. Served as the party's aerial taxi throughout. |
+| Transcript 03 (08/10/25) | Received [[Niv-Mizzet]]'s dying telepathic message ("you'll know what to do — let this happen, and wait") and relayed it to the party; at session's end felt "the box" among his belongings grow warm (stinger — see Dragon Spirit Box). |
 | Transcript 05 (09/07/25) | Rolled a natural 20 on perception (33 total) during the Tezzeret fight; noticed Chandra's behavior shift |
 | Transcript 10 (12/14/25) | Sent [[Benji]] on a diplomatic mission with his amulet to recruit guild support for the auction/fundraising effort |
 | Transcript 10 (12/14/25) | Strategized with the party about reinstating the [[Orzhov Syndicate\|Orzhov]] bank and gathering funds |
