@@ -36,6 +36,9 @@ Cheerful, enthusiastic, and a chaotic experimenter (adds "two or three, sometime
 ### [[PP_03_081025_Thats_Why_No_One_Will_Remember_Your_Name|Transcript 03 — That's Why No One Will Remember Your Name]] (08/10/2025)
 - Slated to repair [[Scrappy]] (Izzet Guild / Golgari) after the battle
 
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- **Designated recipient of [[Scrappy]]** — [[Brula]] was sent to bring the battered horse to the [[Izzet League]] to be fixed up and given specifically to Dalya ("give it to no one else"), explicitly **not** [[Ral Zarek\|Ral]]. (Resolves the prior Izzet-vs-Golgari drop-off question → Izzet/Dalya.) Off-screen.
+
 ## Related
 - [[Izzet League]]
 - [[Fortress of Nivix]]

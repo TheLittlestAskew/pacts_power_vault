@@ -11,16 +11,17 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | Transcript 01 (07/13/25) | 39 | ~30 | [[Ogre]] (19) |
 | Transcript 02 (07/27/25) | 22 | ~30 | [[Varis Aestra\|Varis]] (10) |
 | Transcript 03 (08/10/25) | 61 | ~40 | [[Sanis Reylana\|Sanis]] (20) |
+| Transcript 04 (08/26/25) | 16 | ~10 | [[Ogre]] (7) |
 
 ## Per-Character DDB Rolls
 
-| Character | T01 (07/13/25) | T02 (07/27/25) | T03 (08/10/25) |
-|---|---|---|---|
-| [[Ogre]] | 19 | 7 | 11 |
-| [[Orphea "Orphie" Levistus\|Orphie]] | 11 | 4 | 17 |
-| [[Varis Aestra\|Varis]] | 7 | 10 | 13 |
-| [[Rinestra "Rin" Genleth\|Rin]] | 2 (mostly transcript-only) | 0 (all transcript-only) | 0 (all transcript-only) |
-| [[Sanis Reylana\|Sanis]] | 0 (all transcript-only) | 1 (Cure Wounds; rest transcript-only) | 20 |
+| Character | T01 (07/13/25) | T02 (07/27/25) | T03 (08/10/25) | T04 (08/26/25) |
+|---|---|---|---|---|
+| [[Ogre]] | 19 | 7 | 11 | 7 |
+| [[Orphea "Orphie" Levistus\|Orphie]] | 11 | 4 | 17 | 3 |
+| [[Varis Aestra\|Varis]] | 7 | 10 | 13 | 4 |
+| [[Rinestra "Rin" Genleth\|Rin]] | 2 (mostly transcript-only) | 0 (all transcript-only) | 0 (all transcript-only) | 0 (all transcript-only) |
+| [[Sanis Reylana\|Sanis]] | 0 (all transcript-only) | 1 (Cure Wounds; rest transcript-only) | 20 | 2 |
 
 ## Notable Rolls — Transcript 01
 
@@ -68,6 +69,21 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | Party | d20 (Onyx recall) | Ogre 1 / Sanis 10 / Varis 19 / Orphie 16 | Needed a nat 20; none succeeded — "[[Onyx]]" identity stayed hidden |
 
 > **Roll note (T03):** Ogre's weapon is logged in DDB as **"Duskblade"** (to hit 1d20+11) but called **"[[Witch]]"** in the transcript — likely the same weapon; flagged. His two finishing 15-psychic heart-stabs and the soul-drain were narrated, not itemized in DDB.
+
+## Notable Rolls — Transcript 04
+
+| Character | Roll | Result | Note |
+|---|---|---|---|
+| [[Varis Aestra\|Varis]] | Force Breath (18d6) | **65** (DDB) | Evaporated 18 [[Eternals]] in one cone at [[Niv-Mizzet]]'s corpse |
+| [[Varis Aestra\|Varis]] | Arcana | 22 (1d20+8, DDB) | Absorbed Niv-Mizzet's essence into the Dragon Spirit Box (Chris allowed normal Varis stats) |
+| [[Sanis Reylana\|Sanis]] | Investigation | **22** (DDB) | Found the [[Spark-Harvester Trident\|Spark Harvester]] on a fallen Eternal |
+| [[Ogre]] | Investigation (w/ Help) | 17 vs **DC 18** (DDB) | **Failed** to dislodge the immovable rod (would've been 5/6 without [[Chandra Nalaar\|Chandra]]'s help) |
+| [[Ogre]] | Wisdom / Strength | 9 / 14 (DDB) | Conduit for the absorption: connect-the-dots vision, then pulled the tether |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Insight | 18 (1d20+8, DDB) | Read [[Brula]]'s grim face — no survivors in the Golgari district |
+| [[Sanis Reylana\|Sanis]] | Perception (disadv) | 19 (DDB) | Caught [[Nissa]] slipping [[Chandra Nalaar\|Chandra]] an extra potion |
+| [[Rinestra "Rin" Genleth\|Rin]] | Perception | 25 | Front-line scan (transcript-only) |
+
+> **Roll note (T04):** the earliest logged roll (20:15:53, [[Ogre]] Spell Attack to hit, 11) has **no clear transcript context** — likely a stray/recap roll. 15 of 16 DDB rolls match a specific transcript moment; [[Rinestra "Rin" Genleth\|Rin]] and [[Chandra Nalaar\|Chandra]] rolled transcript-only/physical as usual.
 
 ## Related
 - [[Campaign Dashboard]]

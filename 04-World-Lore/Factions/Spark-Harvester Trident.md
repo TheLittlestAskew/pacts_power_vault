@@ -16,6 +16,10 @@ The weapon used with the **[[Elder Spell]]** to harvest planeswalker sparks. Nam
 
 > ⚠ **Terminology note:** Transcript 03 calls it a **trident** (Chandra's exact words). Earlier sessions/notes describe the Eternals' tools as **bidents/staves** (transcribed "Biden"). Likely the same class of weapon; flagged.
 
+## Party Acquisition (Transcript 04, 08/26/25)
+
+The party **looted a working Spark Harvester** from a fallen [[Eternal]] at [[Niv-Mizzet]]'s corpse ([[Sanis Reylana\|Sanis]] Investigation 22). In-fiction it is "the thing that rips out your spark and kills people"; [[Varis Aestra\|Varis]] cautioned that **a spark harvested with it would still route to [[Nicol Bolas\|Bolas]]**, so using it offensively is risky. [[Rin]] took custody of it, intending to have the [[Izzet League]] (and herself) study it. This is the party's first physical possession of the enemy's spark-extraction tool — a concrete asset for the **Stop the Spark Harvesting** quest.
+
 ## Related
 - [[Elder Spell]]
 - [[Eternals]]

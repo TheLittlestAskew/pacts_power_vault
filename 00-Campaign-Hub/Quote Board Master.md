@@ -81,6 +81,20 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] | "Enjoy being forgotten to history." (to [[Molly]]) | Funny / Banter |
 | Chris (DM) | "Aura farming." (on [[Nicol Bolas]] atop his citadel) | DM Quip |
 
+## Transcript 04 (08/26/25) — [[PP_04_082625_The_Spark_and_the_Swarm|The Spark and the Swarm]]
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Orphea "Orphie" Levistus\|Orphie]] | "We can rebuild it. We have the technology." | Funny |
+| [[Chandra Nalaar\|Chandra]] | "You hear the dummy thick of their ass clapping as they run across the battlefield." | Funny |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "It wasn't an accident. It wasn't an accident, but—" | Funny / Dark |
+| [[Sanis Reylana\|Sanis]] | "however, I don't like him. He got my sister." | Serious / Important to Story |
+| [[Sanis Reylana\|Sanis]] | "He got my sister killed. He's the reason she died." | Serious / Important to Story |
+| [[Isiah Ja-Faank]] | "oh, my friends! Come join the fanfare in defending the Firemind's body!" | DM Quip / NPC |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "Who doesn't love a change of scenery?" | Banter |
+| [[Ogre]] | "The bone zone. You want to come with us?" | Funny |
+| [[Chandra Nalaar\|Chandra]] | "Who the fuck says I'm dying, bitch?" | Banter / Threat |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

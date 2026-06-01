@@ -109,6 +109,7 @@ In Session 7 (Transcript 07), Orphie met [[Athena]] in a dream sequence. Athena 
 | Transcript 02 (07/27/25) | **Punched [[Ral Zarek]] in the face** (16 to hit) as a hands-on lesson on consent for non-consensually summoning every planeswalker (a callback to her Early Session 5 consent-punch) |
 | Transcript 02 (07/27/25) | At the climax, **sacrificed [[Ogre's Traveling Tavern]]** to save the party — raged, gathered [[Sanis Reylana\|Sanis]], ordered [[Rin]] to fly, and cut the Tavern loose with [[Blazebringer]] as God-Eternal [[God-Eternal Oketra\|Oketra]] fired on it. The title beat: "I can't rebuild you." |
 | Transcript 03 (08/10/25) | Snapped at [[Molly]] for falling back ("that's why nobody will remember your name"); wavered toward despair, then was spiritually rebuked by her late grandmother — "Survive, you idiot." |
+| Transcript 04 (08/26/25) | Protective spine of the recovery run: counts saving [[Rin]] and [[Sanis Reylana\|Sanis]] from the crash as the only scorecard she keeps; sent [[Brula]] off to punch [[Ral Zarek\|Ral]]; pressed [[Clarissa]] to evacuate and handed off the Drawer of Holding. Mowed down [[Eternals]] at [[Niv-Mizzet]]'s corpse. Deadpanned the tavern's loss ("We can rebuild it. We have the technology.") and her old "it wasn't an accident" bit about Clarissa's boyfriend. |
 | Transcript 05 (09/07/25) | Decapitated [[Tezzeret]] with [[Blazebringer]] in a double crit dealing 114 total damage. Said: "Do you smell that? It's breakfast time." |
 | Transcript 07 (10/05/25) | Met ancestor [[Athena]] in a dream; learned about [[Blazebringer]]'s Amenkheti metal composition |
 
@@ -132,6 +133,9 @@ When Orphie rages, her brown eyes and tribal tattoos on her arms, back, and face
 
 > **Transcript 03 (08/10/25) — To Molly, on retreating**
 > "And that's why nobody will remember your name."
+
+> **Transcript 04 (08/26/25) — On the destroyed Tavern**
+> "We can rebuild it. We have the technology."
 
 > **Transcript 05 (09/07/25) — Decapitating Tezzeret**
 > "Do you smell that? It's breakfast time."

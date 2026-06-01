@@ -37,6 +37,11 @@ Pragmatic, overworked, wry under pressure. Greets the party warmly as familiar f
 - After Oketra fell and [[Niv-Mizzet]] died, urged the party to **fall back and regroup** rather than charge [[Nicol Bolas|Bolas]]; began fortifying the line with [[Izzet League|Izzet]] armored vehicles and [[Selesnya Conclave|Selesnya]] healers
 - [[Orphea "Orphie" Levistus|Orphie]] needled her for the cautious call ("that's why nobody will remember your name")
 
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- Found **atop the barricades directing the fortified front-line defense** (Izzet makeshift walls, [[EMLA]] units, Boros Angels); the party spotted her on a Perception check (all but [[Orphea "Orphie" Levistus\|Orphie]])
+- Waved the party through the lines with a resigned **"good luck"**, knowing they'd go regardless
+- Gave a scouting report: the [[Eternals]] front line had **pulled back** after the party's help downing [[God-Eternal Oketra\|Oketra]], but the [[Golgari Swarm\|Golgari]] district is densely populated and heavily damaged
+
 ## Key Quotes
 
 **MOLLY** · Transcript 02 · [Serious]

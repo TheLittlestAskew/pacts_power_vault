@@ -53,6 +53,9 @@ Practical, mission-focused. Revealed personal details (marriage to Tomik) casual
 - The party openly debated replacing him; [[Dalya Bara|Dalya]] (next most senior) was floated as a better fit, and [[Rin]]'s "scientific method" argument convinced Dalya that Ral did not actually cause the beacon to work
 - Did not grasp the consent lesson ("So if I ask to punch someone and I just do it anyways, that's consent?")
 
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- Off-screen, but the party's hostility toward him hardens: they sent [[Brula]] to the [[Izzet League]] with [[Scrappy]] under strict instructions to give the horse to [[Dalya Bara\|Dahlia]] and **not** Ral, and — at [[Orphea "Orphie" Levistus\|Orphie]]'s urging — to **punch him** ("if you see anyone… whose ego is larger than his head, do not give it to him")
+
 ## Key Quotes
 
 **RAL ZAREK** · Session 01 · [Serious]

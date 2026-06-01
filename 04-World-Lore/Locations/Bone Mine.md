@@ -15,6 +15,10 @@ A Golgari-associated site connected to the **Myconids**, previously the scene of
 - The mushroom-bone magic resembles the magic seen at [[Strixhaven]] (related to, but not, the [[Elder Spell]]).
 - The party plans to travel here (after dropping off [[Scrappy]]) following Brula.
 
+## Transcript 04 (08/26/25) — En Route
+
+The party **set out for the Bone Mine** ([[Sanis Reylana\|Sanis]] cast Pass Without a Trace; [[Varis Aestra\|Varis]] flew them as a dragon) to rescue [[Salena\|Selena]], but detoured to fight at [[Niv-Mizzet]]'s corpse and **had not arrived by session's end** — still bound for what the party nicknamed "the Bone Zone," now with [[Isiah Ja-Faank]] in tow. No new on-site details yet.
+
 ## Related
 - [[Salena]]
 - [[Brula]]

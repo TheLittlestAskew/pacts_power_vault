@@ -6,9 +6,9 @@ aliases:
 race: Human
 class: Planeswalker (Pyromancer)
 affiliation: "Gatewatch / Party ally; founder of the Flameseekers of Truth"
-status: "Alive (severely injured, scarred)"
+status: "Alive (recovering; scarred); traveling with the party as a recurring guest companion (T04)"
 first_appearance: "Early Session 4 (Spring Festival)"
-location: "[[Vitu-Ghazi]] / [[Selesnya Conclave]]"
+location: "Traveling with the party (Tenth District battlefield, en route to the Bone Mine) — T04"
 ---
 
 # Chandra Nalaar
@@ -35,8 +35,9 @@ Chandra knows the enemy's spark-harvesting method: the **[[Elder Spell]]**, cast
 
 | Character | Relationship |
 |---|---|
-| [[Nissa]] | Close ally; intook and cared for Chandra at Vitu-Ghazi (tearful reunion) |
-| [[The Breakfast Club]] | Long-time allies; reunited and fiercely protective of her |
+| [[Nissa]] | Close ally; intook and cared for Chandra at Vitu-Ghazi (tearful reunion); romantic undertone (the extra-potion/blush beat, T04) |
+| [[Isiah Ja-Faank]] | Her rescuer — broke her out of prison; she fights at his side without hesitation (T04) |
+| [[The Breakfast Club]] | Long-time allies; reunited and fiercely protective of her; she now travels with them as a recurring guest companion (T04) |
 | [[Onyx]] | Betrayer at Strixhaven who got her captured |
 | [[Nicol Bolas]] | Enemy; the architect of the spark harvesting |
 | [[Dovin Baan]] | Helped the party defeat him at the Spring Festival (Early Session 4) |
@@ -48,6 +49,7 @@ Chandra knows the enemy's spark-harvesting method: the **[[Elder Spell]]**, cast
 | Early Session 4 | Helped the party take down [[Dovin Baan]] during the Spring Festival attack |
 | Transcript 03 (08/10/25) | Returned after ~7 years — appeared at [[Oketra]]'s feet hurling Fireballs; helped the party kill the God-Eternal (Fireballs, **Immolation** for 35 fire) |
 | Transcript 03 (08/10/25) | Rescued and flown to [[Vitu-Ghazi]]; revealed the [[Strixhaven]] / [[Flameseekers of Truth]] / [[Onyx]] story and the [[Elder Spell]] + [[Spark-Harvester Trident]] |
+| Transcript 04 (08/26/25) | Recovered enough to travel with the party; [[Nissa]] slipped her an **extra Potion of Superior Healing** (a blushing, romantic beat). At [[Niv-Mizzet]]'s corpse she recognized her rescuer **[[Isiah Ja-Faank]]** and **leapt down (Fly) to fight back-to-back with him**, slinging fire — over the party's objections, on the principle of repaying the man who freed her from prison. |
 
 ## Key Quotes
 

@@ -23,6 +23,17 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Rinestra "Rin" Genleth\|Rin]] | Thaumaturgy / Healing Hands / Guidance | Thaumaturgy to amplify her voice; sight-based healing blocked by the smoke cloud |
 | [[Orphea "Orphie" Levistus\|Orphie]] | Rage | Spent her last rage punching [[Ral Zarek\|Ral]]; raged again during the escape |
 
+## Transcript 04 (08/26/25) — [[PP_04_082625_The_Spark_and_the_Swarm|The Spark and the Swarm]]
+
+| Character | Spell / Ability | Outcome |
+|---|---|---|
+| [[Sanis Reylana\|Sanis]] | **Pass Without a Trace** | +10 stealth to the party within 30 ft and no magical tracking, to approach the [[Bone Mine]] while [[Varis Aestra\|Varis]] flew them as a dragon |
+| [[Varis Aestra\|Varis]] | Dragon transformation + Breath Weapon (Force) | 60-ft cone, 18d6 = **65 force**, **evaporated 18 [[Eternals]]** at [[Niv-Mizzet]]'s corpse |
+| [[Varis Aestra\|Varis]] | Arcana (Dragon Spirit Box) | Channeled the box to **absorb [[Niv-Mizzet]]'s essence** (22; Chris allowed his normal Varis stats, not dragon stats) |
+| [[Ogre]] | Mage Hand / [[Witch]] (Hexblade returning weapon) | Mage Hand to recover the smoke bottle and search the wreck; reaped Eternal souls with Witch, re-summoning it to hand after each kill |
+| [[Rinestra "Rin" Genleth\|Rin]] | Guidance / Sacred Flame (holy words) | Guidance on investigation checks; ranged radiant support during the Eternal fight |
+| [[Chandra Nalaar\|Chandra]] | Fly / Fireball (fire spells) | Flew down to fight back-to-back with [[Isiah Ja-Faank]], slinging fire into the [[Eternals]] |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]

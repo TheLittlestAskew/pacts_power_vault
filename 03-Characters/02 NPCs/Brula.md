@@ -27,6 +27,12 @@ Skittish and apologetic but sincere. [[Rin]] (Insight 26+) read her as meaning w
 - Agreed to wait at "the fortress" while the party dropped off [[Scrappy]], then **vanished** as soon as she left the tree
 - The mushroom-bone magic was deduced (Chandra, Arcana) to resemble the magic seen at [[Strixhaven]] — related to, but not, the [[Elder Spell]]
 
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- Still with the party at the [[Selesnya Conclave]] behind the front lines
+- **Offered to take the battered [[Scrappy]] to the [[Izzet League]]** to be repaired and delivered to [[Dalya Bara\|Dahlia]] — and, at the party's request, to **punch [[Ral Zarek\|Ral]]** ("friends of Selena are friends of mine, so I'll do that")
+- Took Scrappy's reins and ran off toward the Izzet Guild "with alarming speed for her body"
+- ⚠ Transcript renders her name inconsistently this session ("Vrul," "Rula," and once "Brula Galadora"); corrected to the canonical **Brula**. The surname "Galadora" (single occurrence) is unconfirmed and not adopted.
+
 ## Relationships
 - [[Salena|Selena]] — Fellow were-zombie; sent by/connected to her.
 - [[Sanis Reylana|Sanis]] — Delivered the bone and the message about his sister.

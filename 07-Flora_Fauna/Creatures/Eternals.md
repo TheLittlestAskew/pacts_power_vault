@@ -22,6 +22,7 @@ Common transcription error: "Eternels."
 - **God-Eternals** — massive (≈60-ft) god-tier commanders; the first seen is **[[God-Eternal Oketra]]**, an unerring archer (killed by the party in T03)
 
 ## Abilities Observed
+- **"Armor" is metal painted directly onto the skin** (revealed T04, [[Rin]] Investigation): not removable plate, but still has thickness/material (the wearers are not "naked"). Cannot be looted as armor.
 - Relentless, continuous advance ("they just keep on coming") — no clear single source point
 - Some Eternals wield **bidents** (transcribed "Biden") that, on striking a planeswalker, extract the victim's **spark** as a white orb and send it toward the spark-harvesting pyramid in Plaza South
 - Tough and durable; broke the allied front line in places before the party intervened
@@ -53,6 +54,11 @@ Common transcription error: "Eternels."
 - Party sealed three line-breaches (Rin's Wall of Fire incinerated 14; Sanis's Hail of Thorns shredded 5; Orphie cleaved the third)
 - **[[God-Eternal Oketra]] was killed** by the party; [[Ogre]] harvested her soul through [[Witch]]
 - Undead sorcerers among them confirmed to be turned [[Strixhaven]] students; Eternals hang back with their [[Spark-Harvester Trident|spark-harvester tools]] to avoid being hooked
+
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- After [[God-Eternal Oketra\|Oketra]]'s fall, the Eternal front line **pulled back** (per [[Molly]]'s scouting report), though the [[Golgari Swarm\|Golgari]] district stayed densely populated and damaged
+- A horde swarmed [[Niv-Mizzet]]'s corpse; **[[Varis Aestra\|Varis]]'s Force Breath (65) evaporated 18 of them** in one cone, and the party cut down the rest while absorbing the Firemind's essence (a shockwave knocked the survivors back)
+- On inspection their **plating proved to be metal painted onto the skin** (not lootable armor); the party **looted a working [[Spark-Harvester Trident|Spark Harvester]]** from a fallen Eternal
 
 ## Related
 - [[Nicol Bolas]]

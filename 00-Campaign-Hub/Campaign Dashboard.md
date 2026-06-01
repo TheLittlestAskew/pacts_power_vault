@@ -29,12 +29,14 @@
 
 | Asset | Description |
 |---|---|
-| [[Ogre's Traveling Tavern]] | **DESTROYED** (T02–T03) — shot out of the sky by [[God-Eternal Oketra]]; [[Orphie]] detached [[Scrappy]] and threw the party clear. The party's **Drawer of Holding** (furniture/belongings) is still inside the wreck, unretrieved. |
-| [[Scrappy]] | Mechanical Izzet horse; sole surviving piece of the Tavern. Used as a battle mount in T03; battered and slated for repair (Izzet Guild / Golgari). |
+| [[Ogre's Traveling Tavern]] | **DESTROYED** (T02–T03) — shot out of the sky by [[God-Eternal Oketra]]; [[Orphie]] detached [[Scrappy]] and threw the party clear. **T04:** the **Drawer of Holding** (furniture/belongings) and the salvaged **Tavern sign** were recovered from the wreck and handed to [[Clarissa]] for safekeeping; the immovable rod "parking brake" was left lodged in the wreck. Party intends to rebuild. |
+| Drawer of Holding | Party → **[[Clarissa]]** (T04). ~2 ft container holding the salvaged Tavern furniture/belongings + the Tavern sign; carried by Clarissa as she evacuates to the [[Selesnya Conclave]]. |
+| [[Spark-Harvester Trident\|Spark Harvester]] | **[[Rin]]** (T04). Looted from a fallen [[Eternal]]; the device that extracts a planeswalker's spark (kills first). [[Varis Aestra\|Varis]] notes the spark would still route to [[Nicol Bolas\|Bolas]]. To be studied / taken to the [[Izzet League]]. |
+| [[Scrappy]] | Mechanical Izzet horse; sole surviving piece of the Tavern. Used as a battle mount in T03; **T04:** too damaged to fight (parts falling off), sent with [[Brula]] to the [[Izzet League]] for repair and delivery to [[Dalya Bara\|Dahlia]] (not [[Ral Zarek\|Ral]]). |
 | [[Blazebringer]] | Orphie's ancestral greataxe (Amenkheti metal) |
 | [[Leather Daddy Game Boy]] (LDGB) | Ogre's ghost artifact fused with [[Pippi]]. Began as the "[[Leather Daddy Ball]]" stage; in Transcript 01 it absorbed every wandering spirit from the [[Ghost Mind]] (centuries of Dimir intelligence) via [[Witch]]. |
 | [[Sole Integrated Storage]] (SIS) | Artifact; partly connected to [[House Dimir]] |
-| Dragon Spirit Box | Varis's container holding [[Niv-Mizzet]]'s spirit |
+| Dragon Spirit Box | Varis's container holding [[Niv-Mizzet]]'s spirit. **T04:** the party physically **absorbed Niv-Mizzet's essence** from the Firemind's remains into the box ([[Varis Aestra\|Varis]] Arcana 22; [[Ogre]] as conduit). Varis reports no felt change in power yet. |
 
 ## Guild Status Tracker
 
@@ -64,7 +66,7 @@ The [[Selesnya Conclave]] serves as a neutral safe zone and the party's base. Th
 ## Major Active Quests
 
 ### 1. Revive Niv-Mizzet
-Gather an artifact/representative from every guild in [[Ravnica]], then travel to the [[Implicit Maze]] to perform a ritual that will revive [[Niv-Mizzet]] using the spirit stored in [[Varis Aestra\|Varis]]'s Dragon Spirit Box. Hardest guilds to recruit: [[Golgari Swarm]] and [[Simic Combine]]. **Origin (T03, 08/10/25):** Niv-Mizzet was killed by [[Nicol Bolas]] this session; before dying they sent [[Varis Aestra\|Varis]] a telepathic message ("you'll know what to do — let this happen, and wait"), and at session's end Varis felt "the box" among his belongings grow warm.
+Gather an artifact/representative from every guild in [[Ravnica]], then travel to the [[Implicit Maze]] to perform a ritual that will revive [[Niv-Mizzet]] using the spirit stored in [[Varis Aestra\|Varis]]'s Dragon Spirit Box. Hardest guilds to recruit: [[Golgari Swarm]] and [[Simic Combine]]. **Origin (T03, 08/10/25):** Niv-Mizzet was killed by [[Nicol Bolas]] this session; before dying they sent [[Varis Aestra\|Varis]] a telepathic message ("you'll know what to do — let this happen, and wait"), and at session's end Varis felt "the box" among his belongings grow warm. **Update (T04, 08/26/25):** the party reached Niv-Mizzet's corpse and **absorbed the Firemind's essence into the Dragon Spirit Box** ([[Varis Aestra\|Varis]] Arcana 22; [[Ogre]] as conduit) — the spirit is now physically secured in the box, no felt power change yet.
 
 ### 2. The Auction
 An auction exists for an artifact that would allow people to leave the plane. The party is attempting to fundraise across guilds to bid on it. [[Benji]] was sent as a diplomatic envoy to the [[Izzet League]], [[Selesnya Conclave]], and [[Cult of Rakdos]]. The party is also trying to reinstate the [[Orzhov Syndicate\|Orzhov]] bank.
@@ -82,13 +84,13 @@ Introduced in Transcript 01 (07/13/25). [[Ral Zarek]] revealed that the ley line
 Introduced in Transcript 01 (07/13/25). The [[Immortal Sun]] activated on [[Ravnica]] immediately after the [[Interplanar Beacon]] began summoning planeswalkers, trapping every planeswalker on the plane — including the party. [[Ogre]] recognized the barrier from the party's prior encounter on [[Ixalan]]. This is the in-world reason the party later pursues an artifact ("The Auction") that would allow people to leave the plane.
 
 ### 7. Stop the Spark Harvesting
-Introduced in Transcript 03 (08/10/25). [[Nicol Bolas]] is absorbing harvested planeswalker sparks atop [[Bolas's Citadel]]. Per [[Chandra Nalaar]], sparks are extracted via the **[[Elder Spell]]** cast in tandem with a **[[Spark-Harvester Trident]]** (victims die first, then the spark is removed). Goal: disrupt the extraction (protect victims / destroy the harvester staves) and ultimately stop Bolas before he gathers enough power.
+Introduced in Transcript 03 (08/10/25). [[Nicol Bolas]] is absorbing harvested planeswalker sparks atop [[Bolas's Citadel]]. Per [[Chandra Nalaar]], sparks are extracted via the **[[Elder Spell]]** cast in tandem with a **[[Spark-Harvester Trident]]** (victims die first, then the spark is removed). Goal: disrupt the extraction (protect victims / destroy the harvester staves) and ultimately stop Bolas before he gathers enough power. **Update (T04, 08/26/25):** the party **looted a working [[Spark-Harvester Trident\|Spark Harvester]]** from a fallen [[Eternal]] ([[Rin]] holds it); [[Varis Aestra\|Varis]] noted a spark harvested with it would still route to [[Nicol Bolas\|Bolas]]. Plan to study it at the [[Izzet League]].
 
 ### 8. Find the Eternals' Entry Point
 Introduced in Transcript 03 (08/10/25). The undead [[Eternals]] army pours into the [[Tenth District]] through the [[Golgari Swarm|Golgari]] district. Undead sorcerers among them were identified as students of [[Strixhaven]]. The party intends to locate and close the entry point.
 
 ### 9. Find Selena at the Bone Mine
-Introduced in Transcript 03 (08/10/25). [[Brula]] (an elf were-zombie) reported that [[Salena|Selena]] — [[Sanis Reylana\|Sanis]]'s sister — was hurt and is recovering at the [[Bone Mine]], and delivered a mushroom-grown bone as a token. The party plans to follow Brula there (after dropping [[Scrappy]] for repair).
+Introduced in Transcript 03 (08/10/25). [[Brula]] (an elf were-zombie) reported that [[Salena|Selena]] — [[Sanis Reylana\|Sanis]]'s sister — was hurt and is recovering at the [[Bone Mine]], and delivered a mushroom-grown bone as a token. The party plans to follow Brula there (after dropping [[Scrappy]] for repair). **Update (T04, 08/26/25):** the party set out for the [[Bone Mine]] ([[Sanis Reylana\|Sanis]] cast Pass Without a Trace; [[Varis Aestra\|Varis]] flew them as a dragon). En route they detoured to fight at [[Niv-Mizzet]]'s corpse, absorbed the Firemind's essence, looted a Spark Harvester, and picked up [[Isiah Ja-Faank]] — **still en route to Selena at session's end** (heading to "the Bone Zone" with Isiah).
 
 ## Major Campaign Events Timeline
 
@@ -125,6 +127,10 @@ Introduced in Transcript 03 (08/10/25). [[Brula]] (an elf were-zombie) reported 
 | Transcript 03 (08/10/25) | [[Nicol Bolas]] retreats to "aura farm," absorbing harvested planeswalker sparks ([[Elder Spell]] + [[Spark-Harvester Trident]] revealed by [[Chandra Nalaar\|Chandra]]) |
 | Transcript 03 (08/10/25) | [[Chandra Nalaar\|Chandra]] returns after ~7 years — imprisoned/tortured at [[Strixhaven]]; founded the [[Flameseekers of Truth]]; betrayed by [[Onyx]]; rescued & healed at [[Selesnya Conclave]] ([[Vitu-Ghazi]]) by [[Nissa]] |
 | Transcript 03 (08/10/25) | [[Brula]] (elf were-zombie) delivers a mushroom-grown bone; reports [[Salena\|Selena]] hurt and recovering at the [[Bone Mine]]; [[Varis Aestra\|Varis]] feels "the box" grow warm (stinger) |
+| Transcript 04 (08/26/25) — [[PP_04_082625_The_Spark_and_the_Swarm\|The Spark and the Swarm]] | At the [[Selesnya Conclave]], [[Nissa]] heals the party and hands out Potions of Superior Healing; [[Brula]] takes battered [[Scrappy]] to the [[Izzet League]] for repair/delivery to [[Dalya Bara\|Dahlia]] (explicitly not [[Ral Zarek\|Ral]]) |
+| Transcript 04 (08/26/25) | Party recovers the **Drawer of Holding** and the salvaged Tavern sign from the [[Ogre's Traveling Tavern]] wreck (inside the endless smoke; immovable rod left behind), then hands the Drawer to [[Clarissa]], who evacuates to the Conclave as the [[Gruul Clans\|Gruul]]–[[Boros Legion\|Boros]] line buckles near [[Sunhome]] |
+| Transcript 04 (08/26/25) | En route to the [[Bone Mine]], the party finds [[Niv-Mizzet]]'s corpse swarmed by [[Eternals]] and defended by [[Isiah Ja-Faank]] (the man who freed [[Chandra Nalaar\|Chandra]] from prison); [[Varis Aestra\|Varis]]'s Force Breath evaporates 18 Eternals |
+| Transcript 04 (08/26/25) | Using the **Dragon Spirit Box** ([[Varis Aestra\|Varis]] Arcana 22; [[Ogre]] as conduit via a connect-the-dots vision), the party **absorbs [[Niv-Mizzet]]'s essence** into the box; a **Spark Harvester** is looted from a fallen Eternal; [[Isiah Ja-Faank]] joins the party toward the "Bone Zone" |
 | Transcript 05 (09/07/25) | [[Tezzeret]] killed by Orphie (114 damage double crit); "It's breakfast time." |
 | Transcript 06 (09/17/25) | [[Liliana Vess]] revealed; dropped Professor Onyx disguise; 15 Eternals behind her |
 | Transcript 07 (10/05/25) | Orphie met [[Athena]] in a dream; learned about [[Blazebringer]]'s Amenkheti metal |

@@ -41,6 +41,10 @@ Extremely laid-back, perpetually baked ("operational" baseline, per [[Rin]]'s In
 - Reported [[Ajani]] ran to the front line; no sign of Teferi or Gideon; **[[Liliana Vess|Liliana]] is not welcome** at the Conclave
 - Confirmed that once a planeswalker's spark is harvested there is no way to resuscitate them
 
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- Healed the party behind the front lines and gave **each member a Potion of Superior Healing (8d4+8)** — and slipped **[[Chandra Nalaar\|Chandra]] an extra one** (a blushing, romantic beat; [[Sanis Reylana\|Sanis]] caught it on a Perception check)
+- Continues to be the party's reliable source of relief/healing at the [[Selesnya Conclave]]
+
 ## Key Quotes
 
 **NISSA** · Transcript 02 · [Serious]

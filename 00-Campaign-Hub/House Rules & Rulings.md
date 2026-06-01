@@ -40,6 +40,18 @@ DM rulings and table conventions, logged by session. These are Chris's in-the-mo
 | Revivify limits (dragons) | Revivify could work on a dragon in principle, but **not** on [[Niv-Mizzet]] — disintegrated to bone, no intact body to restore. |
 | Nat-20-gated recall | The identity of "[[Onyx]]" (tied to an alternate "Strixane" timeline) was gated behind a nat-20 recall check; the party missed it, so the information stayed hidden. |
 
+## Transcript 04 (08/26/25) — [[PP_04_082625_The_Spark_and_the_Swarm|The Spark and the Swarm]]
+
+| Ruling | Detail |
+|---|---|
+| Ever-smoking bottle duration | Chris confirmed the endless smoke bottle's cloud is **infinite "until you cork it."** Re-corking it (Rin still held the cork) immediately cleared the smoke from the wreck. |
+| Help action, narrated | Chris had both the searcher ([[Ogre]]) and the helper ([[Chandra Nalaar\|Chandra]]) describe in-fiction how they searched/helped before granting the Help bonus (advantage) on the investigation checks. |
+| Immovable rod retrieval | Recovering the rod "parking brake" from the wreck was a flat check vs **DC 18**; [[Ogre]] hit 17 (with help) and **failed** — Chris ruled the immovable rod stays exactly where it is. |
+| Breath weapon, mass save | [[Varis Aestra\|Varis]]'s Force Breath (60-ft cone, 18d6 = 65 force) used **one Dex save for the whole Eternal group** (Chris rolled a 7); ruled to **evaporate 18 [[Eternals]]** at once. Varis angled it from the air to avoid allies. |
+| Spirit-absorption ritual | Pulling [[Niv-Mizzet]]'s essence into the Dragon Spirit Box was a **multi-check ritual**: [[Varis Aestra\|Varis]] Arcana (22) to initiate, then [[Ogre]] (tethered to the box) Wisdom (9, connect-the-dots vision) and Strength (14) to pull the tether. |
+| Dragon-form stats exception | Continuing the T02/T03 ruling: out of/around dragon form Varis lacks his Arcana expertise, but for the absorption Chris made an **exception** and let him roll with his normal [[Varis Aestra\|Varis]] stat block and proficiencies. |
+| Eternal "armor" (lore ruling) | On inspection, an [[Eternals\|Eternal]]'s plating is **metal painted directly onto the skin**, not removable armor — still has thickness/material (not naked), but cannot be looted as armor. |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

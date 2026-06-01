@@ -6,12 +6,12 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 | Speaker (Player) | Total |
 |---|---|
-| Taylor | 12 |
-| Gabe | 7 |
-| Rachel | 7 |
-| Chet | 6 |
-| Bri (guest) | 4 |
-| Vincent | 1 |
+| Taylor | 16 |
+| Rachel | 10 |
+| Gabe | 9 |
+| Chet | 9 |
+| Bri (guest) | 9 |
+| Vincent | 2 |
 
 > ⚠️ Transcript 03 counts are **approximate** — the battle audio is heavily auto-censored/bleeped, so exact words/frequencies could not always be confirmed.
 
@@ -54,6 +54,21 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 | Bri (Chandra, guest) | Fuck / shit | ~4 | "Fuck you" fireballs; "stranger danger"; "fucking up my own name" |
 
 **Session 03 total:** ~20 (approximate — heavy censorship). Largely in-character; attributed to players for campaign totals. Bri (Chandra's player) is a returning guest.
+
+### Transcript 04 (08/26/25) — [[PP_04_082625_The_Spark_and_the_Swarm|The Spark and the Swarm]]
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Taylor (Orphie, mixed IC/OOC) | Shit | ~4 | "get his shit together"; "he's probably shit"; "shit happens"; "all of this shit" (apartment war zone) |
+| Bri (Chandra, guest, mixed) | Fuck / bitch / ass | ~5 | "what the fuck?"; "Who the fuck says I'm dying, bitch?"; "of course it fucking froze"; "dummy thick…ass clapping" |
+| Rachel (Rin, mixed) | Fuck / damn | ~3 | "Is it fucking Isaiah?"; "fucking dragon box"; "Damn, you add metals…" |
+| Chet (Ogre, mixed) | Fuck / shit / balls | ~3 | "Let's do this fucking thing"; "Oh shit" (immovable rod); "punch Sanis in the balls" |
+| Gabe (Sanis, mixed) | Fuck / shit | ~2 | "I'm fucking some shit up" |
+| Vincent (Varis, IC) | Ass | ~1 | "big-ass battle going on a couple blocks away" |
+
+> Also noted (not in player totals): Chris (DM) ~3 — "your fucking tavern," "Oh shit," "Damn."
+
+**Session 04 total:** ~18 (Taylor 4, Bri 5, Rachel 3, Chet 3, Gabe 2, Vincent 1). Largely in-character; attributed to players for campaign totals.
 
 ## Related
 - [[Campaign Dashboard]]

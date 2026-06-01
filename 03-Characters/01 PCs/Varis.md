@@ -49,7 +49,7 @@ Cool-headed, calculating, secretly sentimental. Varis is the party's strategist 
 |---|---|
 | Dragon Form | Can transform into a dragon; used for party transport |
 | Invisibility Powder | Used for stealth and escape |
-| Dragon Spirit Box | Contains the spirit of [[Niv-Mizzet]]; central to the revival quest |
+| Dragon Spirit Box | Contains the spirit of [[Niv-Mizzet]]; central to the revival quest. **T04:** physically absorbed Niv-Mizzet's essence from the Firemind's remains (Arcana 22; [[Ogre]] as conduit) — no felt change in power yet |
 | Mind Spells | Blew up Groodion heads with psychic attacks |
 
 ## Signature Items
@@ -86,6 +86,8 @@ Varis is the cook at [[Ogre's Traveling Tavern]].
 | Transcript 02 (07/27/25) | "Operation Ogre-Sized": turned dragon and was enlarged by [[Ogre]]'s mushroom to gargantuan, then **incinerated 14 [[Eternals]] with a breath weapon** (18d6 = 58), **body-slammed ~30 more on a nat 20**, and crushed ~14 with a multiattack + Frightful Presence. Cast **Flame Arrows** on [[Sanis Reylana\|Sanis]]'s quiver before the battle |
 | Transcript 03 (08/10/25) | Fought [[Oketra]] in dragon form — flew [[Ogre]] into the god's armor, popped off its shoulder pauldron, landed a 64-damage breath weapon, then **wing-attacked the God-Eternal prone and grappled it** (Athletics 25 vs DC 21) while [[Steve]] coiled its legs. Served as the party's aerial taxi throughout. |
 | Transcript 03 (08/10/25) | Received [[Niv-Mizzet]]'s dying telepathic message ("you'll know what to do — let this happen, and wait") and relayed it to the party; at session's end felt "the box" among his belongings grow warm (stinger — see Dragon Spirit Box). |
+| Transcript 04 (08/26/25) | Used blindsight to locate the smoke bottle in the [[Ogre's Traveling Tavern\|Tavern]] wreck; **landed a Force Breath (18d6 = 65) that evaporated 18 [[Eternals]]** in one cone at [[Niv-Mizzet]]'s corpse, clearing a path for [[Isiah Ja-Faank]] and [[Chandra Nalaar\|Chandra]]. |
+| Transcript 04 (08/26/25) | **Channeled the Dragon Spirit Box to absorb [[Niv-Mizzet]]'s essence** (Arcana 22, Chris allowing his normal Varis stats; [[Ogre]] served as the conduit) — the Firemind's spirit is now physically in the box, though Varis feels no change in power. Flew the party (dragon form) toward the [[Bone Mine]]. |
 | Transcript 05 (09/07/25) | Rolled a natural 20 on perception (33 total) during the Tezzeret fight; noticed Chandra's behavior shift |
 | Transcript 10 (12/14/25) | Sent [[Benji]] on a diplomatic mission with his amulet to recruit guild support for the auction/fundraising effort |
 | Transcript 10 (12/14/25) | Strategized with the party about reinstating the [[Orzhov Syndicate\|Orzhov]] bank and gathering funds |

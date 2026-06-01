@@ -35,6 +35,10 @@ Sister to [[Sanis Reylana|Sanis]] of the [[Reylana Family]].
 - **Located (off-screen).** [[Brula]] — an elf were-zombie like Salena — found the party at [[Vitu-Ghazi]] and reported that Salena went to the **[[Bone Mine]]**, got hurt, and is **recovering** there. Brula delivered a mushroom-grown bone as a token and offered to lead [[Sanis Reylana|Sanis]] to her. The party intends to follow.
 - Confirms Salena is **alive** as of T03 (a were-zombie), partially resolving the prior "return unexplained" flag — though the full mechanism is still unstated.
 
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- Remains **off-screen** at the [[Bone Mine]]. The party set out to reach her ([[Sanis Reylana\|Sanis]] cast Pass Without a Trace; [[Varis Aestra\|Varis]] flew them as a dragon) but detoured at [[Niv-Mizzet]]'s corpse and **had not yet arrived by session's end** — still bound for "the Bone Zone."
+- New thread: [[Sanis Reylana\|Sanis]] now openly **blames [[Isiah Ja-Faank]] for Salena's death** ("He got my sister killed"), tying Isiah to her Early Session 4 demise — a connection not yet detailed in-source (flagged).
+
 ## Related
 - [[Sanis Reylana]]
 - [[Reylana Mansion]]

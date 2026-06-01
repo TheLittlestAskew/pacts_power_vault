@@ -68,6 +68,22 @@ Campaign-wide tracker of artifacts, items, and significant objects: owner, state
 |---|---|---|---|
 | [[Spark-Harvester Trident]] + [[Elder Spell]] | [[Nicol Bolas]] / [[Eternals]] | The enemy spark-extraction method (per [[Chandra Nalaar]]): the **Elder Spell** cast in tandem with the **spark-harvester trident** harvests a planeswalker's spark after death. Bolas absorbs the harvested sparks atop [[Bolas's Citadel]]. | Transcript 03 (08/10/25) |
 
+## Transcript 04 (08/26/25) — [[PP_04_082625_The_Spark_and_the_Swarm|The Spark and the Swarm]]
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| Dragon Spirit Box (dragon simulacrum) | [[Varis Aestra\|Varis]] | **Absorption event.** With Varis's Arcana (22) and [[Ogre]] acting as conduit (Wisdom 9 connect-the-dots vision; Strength 14 to pull the tether), the box on Varis's back **absorbed [[Niv-Mizzet]]'s essence** from the Firemind's remains. A shockwave knocked back the surrounding [[Eternals]]. Varis reports **no felt change in power** yet. Feeds the **Revive Niv-Mizzet** quest. | Transcript 04 (08/26/25) |
+| [[Spark-Harvester Trident\|Spark Harvester]] (spark-harvest lance) | [[Rin]] | **Looted** from a fallen [[Eternal]] ([[Sanis Reylana\|Sanis]] Investigation 22). The device that rips a planeswalker's spark out and kills them; [[Varis Aestra\|Varis]] notes the harvested spark would still route to [[Nicol Bolas\|Bolas]]. Rin took it to study / bring to the [[Izzet League]]. | Transcript 04 (08/26/25) |
+| Drawer of Holding | Party → [[Clarissa]] | **Recovered** from the [[Ogre's Traveling Tavern\|Tavern]] wreck (in the endless smoke), then **given to [[Clarissa]]** to carry as she evacuates to the [[Selesnya Conclave]]. ~2 ft; holds the salvaged tavern furniture/belongings **and the tavern sign**. | Transcript 04 (08/26/25) |
+| [[Ogre's Traveling Tavern]] sign | In the Drawer of Holding | **Salvaged** — the only piece of the Tavern to survive the crash intact (singed). [[Rin]] insisted on keeping it; stuffed into the Drawer of Holding. | Transcript 04 (08/26/25) |
+| Ever-smoking / endless smoke bottle | [[Rin]] | **Recovered & re-corked.** Found in the wreck ([[Varis Aestra\|Varis]] blindsight + [[Ogre]] Mage Hand, Investigation 12); Rin still had the cork and stoppered it, clearing the smoke. (Same bottle tossed away in T02 — retconned as still corked/kept.) | Transcript 04 (08/26/25) |
+| Immovable rod ("parking brake") | — (left at crash site) | The Tavern's "parking brake." [[Ogre]]'s retrieval check (17 w/ Chandra's help) **failed vs DC 18** — the rod stays lodged where it is. **Left behind.** Originally acquired back at [[Strixhaven]]. | Transcript 04 (08/26/25) |
+| Potion of Superior Healing (8d4+8) | Party | [[Nissa]] gave **one to each** party member; **+1 extra to [[Chandra Nalaar\|Chandra]]** ([[Sanis Reylana\|Sanis]] caught it, Perception 19). [[Rin]] drank hers immediately; Orphie/Varis/Sanis/Chandra saved theirs. | Transcript 04 (08/26/25) |
+| [[Scrappy]] | → [[Izzet League]] (via [[Brula]]) | Too damaged for the battlefield (parts falling off). **Brula took him to the Izzet League** to be repaired and delivered to **[[Dalya Bara\|Dahlia]]** — explicitly **not** [[Ral Zarek\|Ral]]. (Resolves the T03 "Izzet vs Golgari" drop-off question → **Izzet**.) | Transcript 04 (08/26/25) |
+| Mushroom-grown bone | [[Sanis Reylana\|Sanis]] | Still carried; the clue pointing to [[Salena\|Selena]] at the [[Bone Mine]]. | Transcript 04 (08/26/25) |
+
 ## Archivist Notes
 
 - **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. **Transcript 02 (07/27/25) is the transformation event** (Ball fused into Pip's Game Boy → LDGB). Transcript 01 captures it at the Ball stage; older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.

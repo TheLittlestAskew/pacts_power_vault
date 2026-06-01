@@ -59,6 +59,7 @@ Sharp, moody, family-scarred. Sanis carries deep wounds from witnessing [[Salena
 | [[Salena]] | Sister. Died in Early Session 4 — but **present and apparently alive during the Transcript 01 Ghost Mind descent** (confirmed same character per Taylor). Mechanism of her return is unestablished; flagged for DM confirmation. |
 | [[Ogre]] | Banter partner |
 | [[Rinestra "Rin" Genleth\|Rin]] | Mutual grounding |
+| [[Isiah Ja-Faank]] | **Actively blames him for [[Salena\|Selena]]'s death** ("He got my sister killed. He's the reason she died," T04). Distrusts him even as Isiah joins the party. |
 | [[Dalya Bara]] | Deep distrust |
 | [[Reylana Family]] | Family-scarred; the [[Reylana Mansion\|Reylana estate]] features in later sessions |
 
@@ -83,6 +84,7 @@ The Reylana family is wealthy and has an estate ([[Reylana Mansion\|Reylana mans
 | Transcript 02 (07/27/25) | Hero moment: at extreme range with disadvantage, landed a **dirty-20 flame arrow on God-Eternal [[God-Eternal Oketra\|Oketra]]** (white [[Ugin]] flame), drawing her fire onto the Tavern; nearly died in the resulting blast; cast **Cure Wounds** on [[Rin]] mid-fall (15 HP). His sister [[Salena\|Selena]] failed to meet the party at the apartment |
 | Transcript 03 (08/10/25) | Anchored ranged DPS in the siege — a **nat-20 Longbow crit**, Hail of Thorns (max 10, shredding 5 Eternals), and [[Flame Arrows]] dropping undead [[Strixhaven]] sorcerers; fired from the back of [[Scrappy]] as [[Orphea "Orphie" Levistus\|Orphie]] drove. Earlier (S02) his shot drew [[Oketra]]'s attention onto the party. |
 | Transcript 03 (08/10/25) | Received a mushroom-grown bone from [[Brula]] and word that his sister **[[Salena\|Selena]] is hurt and recovering at the [[Bone Mine]]** — a new personal hook. |
+| Transcript 04 (08/26/25) | Cast **Pass Without a Trace** (+10 stealth, no magical tracking) for the trip toward the [[Bone Mine]]; **found the [[Spark-Harvester Trident\|Spark Harvester]]** on a fallen [[Eternal]] (Investigation 22) and handed it off. Voiced open blame toward [[Isiah Ja-Faank]] for [[Salena\|Selena]]'s death even as Isiah joined the party. |
 | Transcript 11 (01/11/26) | Used his family's "insurance" to acquire superior health potions for the party |
 
 ## Key Quotes
@@ -98,6 +100,9 @@ The Reylana family is wealthy and has an estate ([[Reylana Mansion\|Reylana mans
 
 > **Transcript 02 (07/27/25) — Facing death as Oketra's arrow flies**
 > "Tell my sister I love her."
+
+> **Transcript 04 (08/26/25) — On Isiah, at Niv-Mizzet's corpse**
+> "He got my sister killed. He's the reason she died."
 
 > **Early Session 6 — On Rin memorizing the map**
 > Called Rin a nerd for memorizing the map from [[Ral Zarek]].

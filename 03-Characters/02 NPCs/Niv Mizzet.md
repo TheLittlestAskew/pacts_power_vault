@@ -26,6 +26,10 @@ During the siege of the [[Tenth District]], Niv-Mizzet flew across the battlefie
 
 Before dying, Niv-Mizzet sent **[[Varis Aestra|Varis]]** a telepathic message: *"you'll know what to do — let this happen, and wait,"* and winked/nodded at him in passing. At session's end, Varis felt **"the box"** among his belongings grow warm — later understood to hold Niv-Mizzet's preserved spirit (the **Dragon Spirit Box**).
 
+## Aftermath — Essence Absorbed (Transcript 04, 08/26/25)
+
+En route to the [[Bone Mine]], the party found Niv-Mizzet's skeletal corpse swarmed by [[Eternals]] and defended by [[Isiah Ja-Faank]]. After clearing the horde, Isiah urged Varis to use "the box." With **[[Varis Aestra|Varis]]'s Arcana (22)** and **[[Ogre]] acting as the conduit** (a connect-the-dots vision; Wisdom 9, Strength 14 to pull the tether), the remains glowed red-blue-purple and **Niv-Mizzet's essence was drawn into the Dragon Spirit Box** in a tornado of energy. A shockwave knocked back the surrounding Eternals. The Firemind's spirit is now physically secured in the box — though Varis reports **no felt change in power** yet. This is a key step toward the **Revive Niv-Mizzet** quest.
+
 ## Legacy & Quests
 
 - The party's standing quest to **Revive Niv-Mizzet** (see [[Campaign Dashboard]]) centers on the spirit preserved in Varis's Dragon Spirit Box, requiring a representative/artifact from every guild and a ritual at the [[Implicit Maze]].

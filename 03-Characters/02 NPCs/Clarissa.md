@@ -3,9 +3,9 @@ type: npc
 race: Unknown
 class: Unknown
 affiliation: "The Breakfast Club (civilian)"
-status: "Alive"
+status: "Alive (evacuating)"
 first_appearance: "Early sessions (rescued by the party)"
-location: "Orphie & Rin's apartment, Sunhome (Tenth District)"
+location: "En route to the Selesnya Conclave (evacuated the Sunhome apartment, T04)"
 ---
 
 # Clarissa
@@ -33,6 +33,12 @@ Easygoing, social, gossip-loving, devoted to her job. Refuses to stay home from 
 - Home alone at the apartment when the party returned for their long rest (she had not seen [[Salena|Selena]])
 - Caught up on the planeswalker crisis; the party urged her to be careful working at the bar with so many new arrivals in town
 - Agreed to keep an ear out at "the Redeemed Angel" for any rumors about planeswalkers, organized crime, or "shifty folks"
+
+### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
+- Ran out of the [[Sunhome]] apartment **scared** as the [[Gruul Clans\|Gruul]]–[[Boros Legion\|Boros]] line buckled nearby (a boulder lodged in a neighboring building); couldn't reach her boyfriend
+- The party urged her to **evacuate to the [[Selesnya Conclave]]** and handed her the **Drawer of Holding** (the party's salvaged tavern belongings + sign) to carry; she strapped it to her back and left
+- Wryly accepted that the chaos is "maybe your fault" and floated getting **her own studio** next lease cycle; agreed to keep handling the party's affairs
+- Running bit: [[Orphea "Orphie" Levistus\|Orphie]]'s "I killed her boyfriend one time… it wasn't an accident, but—" (the party wants it on a soundboard)
 
 ## Related
 - [[Rin]]
