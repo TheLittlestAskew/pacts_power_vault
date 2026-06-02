@@ -22,7 +22,7 @@ party_level: 11
 | In-game location | **Maze's End** (the [[Implicit Maze]]) — mid-ritual, the Guildpact reforging and [[Niv-Mizzet]] emerging |
 | Present (PCs) | [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Rinestra "Rin" Genleth\|Rin]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] |
 | Key NPCs | **[[Augur of Bolas]]** (the "Ogre of Bolas" hatred-manifestation), **[[Niv-Mizzet]]** (mid-revival), [[Athena]] (prayed to; silent) |
-| DDB rolls | **0 logged on 2026-03-13** — the table ran on **Roll20** and DDB's game-log wasn't syncing (extensive in-session tech issues); all rolls are transcript-only |
+| DDB rolls | **0 — none exist for 2026-03-13.** This session was played on **Roll20**, whose rolls never flow into D&D Beyond's game log, so there is **permanently no DDB roll data to sync** (re-verified 2026-06-01 after the sync rebuild — not a pending/recoverable gap). All rolls are transcript-only |
 
 ## 2. Orphie POV Overview
 
@@ -100,7 +100,7 @@ The Augur **shrieks** (party-wide Con-save force damage), and the shriek **shake
 
 **Initiative (this session):** [[Sanis Reylana\|Sanis]] → [[Orphea "Orphie" Levistus\|Orphie]] (17) → [[Augur of Bolas]] → [[Rinestra "Rin" Genleth\|Rin]] (17) → [[Ogre]] → [[Varis Aestra\|Varis]] (13). (Ogre largely occupied reviving Niv.)
 
-**Full Roll Log (DDB cross-reference).** **No DDB rolls were logged for 2026-03-13** — the session used **Roll20** and D&D Beyond's game-log/dice sync was broken throughout (the table spent real time troubleshooting it). All combat rolls are therefore **transcript-only**. Notable transcript rolls:
+**Full Roll Log (DDB cross-reference).** **No DDB rolls exist for 2026-03-13** — the session was played on **Roll20**, and Roll20 rolls do not appear in D&D Beyond's game log. This is a **permanent platform gap, not a sync failure** (re-verified 2026-06-01 after the DDB sync was rebuilt — the archive holds rolls for every other session 06–19, but genuinely nothing for this date). All combat rolls are therefore **transcript-only**. Notable transcript rolls:
 | Character | Roll | Result | Context |
 |---|---|---|---|
 | [[Rinestra "Rin" Genleth\|Rin]] | Channel Divinity (radiant AoE) | **28** | **Wiped all shadow-echoes & dispelled the Augur's smog** (the turning point) |
@@ -138,7 +138,7 @@ The Augur **shrieks** (party-wide Con-save force damage), and the shriek **shake
 
 **Continuity Flags / Missing Info / Ambiguities.**
 - ⚠️ **PARTY LEVEL CORRECTION:** the DM explicitly confirms the party is **level 11** this session ("you guys just hit 11"; Orphie's ~63 max HP fits lvl-11 barbarian). The S13 milestone level-up was **to 11, not 12** — **PP_13, PP_14, PP_15 frontmatter/notes are being corrected from 12 → 11.** (The project file's "current level 12" is a *later/present-day* level, not yet reached in-session.)
-- ⚠️ **No DDB rolls logged (Roll20 session + broken DDB sync)** — the roll log here is reconstructed from the transcript only; figures are approximate.
+- ⚠️ **No DDB rolls (Roll20 session)** — Roll20 rolls never sync to D&D Beyond, so this is a **permanent gap, not pending data** (re-verified 2026-06-01 after the sync rebuild). The roll log here is reconstructed from the transcript only; figures are approximate.
 - **Boss fight unresolved** — outcomes (Augur's defeat, Niv's full revival, the stalactite collapse) belong to the next session; do not import them here.
 - **Raw transcript** — spellings to confirm: **[[Augur of Bolas]]**, **[[Niv-Mizzet]]**, **[[Dolora\|Dolorah]]**, **[[Firemind Vessel]]**, "Shadow of Moil" (the spell). Canonical/transcript forms used; transcript left as-is per "no spell check."
 - **Orphie's −22 max HP** persists until **Greater Restoration** (not currently prepared) — carry into the next session.
