@@ -34,6 +34,9 @@ Kaya is a planeswalker with the ability to interact with and destroy ghosts. She
 - Voluntarily severed the tether connecting her to Sanis
 - Departed; current location unknown
 
+### [[PP_07_100525_The_Reylana_Infiltration|PP 7 — The Reylana Infiltration]] (10/05/25)
+- Per the [[Liliana Vess|Liliana]]/[[Vraska]] conversation the party overheard at the [[Reylana mansion|Reylana Estate]], Kaya has been **"dealt with" — alive but out of commission / incapacitated** ([[Rin]] Insight 28). Whereabouts and condition otherwise unspecified.
+
 ## Key Quotes
 
 **KAYA CASSIR** · Session 01
@@ -45,3 +48,4 @@ Kaya is a planeswalker with the ability to interact with and destroy ghosts. She
 - [[Ghost Mind]]
 - [[Orzhov Syndicate]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]
+- [[PP_07_100525_The_Reylana_Infiltration]]

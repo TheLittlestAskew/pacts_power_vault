@@ -15,15 +15,15 @@
 
 ## The Breakfast Club
 
-| PC | Race | Class | Player | Status |
-|---|---|---|---|---|
-| [[Orphea "Orphie" Levistus\|Orphie]] | Tiefling | Barbarian (Totem Warrior) | Taylor | Active |
-| [[Ogre]] | Stout Halfling | Bard/Warlock/Barbarian | Chet | Active |
-| [[Rinestra "Rin" Genleth\|Rin]] | Aasimar | Cleric (Light Domain) | Rachel | Active |
-| [[Sanis Reylana\|Sanis]] | Drow | Ranger (Fey Wanderer) | Gabe | Active |
-| [[Varis Aestra\|Varis]] | Gem Dragonborn | Sorcerer (Draconic/Ugin) | Vincent | Active |
-| [[Lance]] | Genasi | Rogue/Thief | Tenthebrutal | Inactive (left to care for his father) |
-| [[Braun]] | Elf | Sorcerer (Draconic Bloodline) | cbrown15797273 | Inactive (Boros Academy training) |
+| PC                                   | Race           | Class                         | Player       | Status                                 |
+| ------------------------------------ | -------------- | ----------------------------- | ------------ | -------------------------------------- |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Tiefling       | Barbarian (Totem Warrior)     | Taylor       | Active                                 |
+| [[Ogre]]                             | Stout Halfling | Bard/Warlock/Barbarian        | Chet         | Active                                 |
+| [[Rinestra "Rin" Genleth\|Rin]]      | Aasimar        | Cleric (Light Domain)         | Rachel       | Active                                 |
+| [[Sanis Reylana\|Sanis]]             | Drow           | Ranger (Fey Wanderer)         | Gabe         | Active                                 |
+| [[Varis Aestra\|Varis]]              | Gem Dragonborn | Sorcerer (Draconic/Ugin)      | Vincent      | Active                                 |
+| [[Lance]]                            | Genasi         | Rogue/Thief                   | Tenthebrutal | Inactive (left to care for his father) |
+| [[Braun]]                            | Elf            | Sorcerer (Draconic Bloodline) | Clay         | Inactive (Boros Academy training)      |
 
 ## Party Assets
 

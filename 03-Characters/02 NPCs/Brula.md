@@ -3,9 +3,10 @@ type: npc
 race: Elf (were-zombie)
 class: Unknown (dual daggers)
 affiliation: "Connected to Salena; Golgari / Bone Mine"
-status: "Alive"
+status: "Alive (freed; en route to the Selesnya Conclave)"
 first_appearance: "Transcript 03 (08/10/25)"
 location: "Bone Mine / en route"
+aliases: ["Brula Galadora", "Vrul", "Rula"]
 ---
 
 # Brula

@@ -25,6 +25,10 @@ Claiming a "little birdie" (a vision of [[Ugin]]) told her a god's apotheosis wo
 - Cornered/grappled by [[Chandra Nalaar|Chandra]]; provoked into a 4th-level Fireball; **dimension-doored away** (scroll) with Chandra (KO'd), [[Isiah Ja-Faank]], and the Eternals.
 - Stinger: deposited Chandra & Isiah at the Great Tree of [[Vitu-Ghazi]], told Isiah to care for Chandra, and stepped back through the portal "to Bolas's side."
 
+### [[PP_07_100525_The_Reylana_Infiltration|PP 7 — The Reylana Infiltration]] (10/05/25)
+- Arrived **by portal** at the [[Reylana mansion|Reylana Estate]] (Golgari war camp) and went inside with [[Vraska]].
+- Overheard by the hidden party through a vent — and **winked at them** (she knows they're there; the double-agent ambiguity continues). Her exchange with Vraska confirmed the **Rakdos invasion was thwarted**, **[[Borborygmos]] roused**, the [[Simic Combine|Simic]] still loyal with the [[Immortal Sun]], **[[Tezzeret]] dead**, **[[Kaya Cassir|Kaya]] dealt with**, and the **Golgari flanking march through hollow [[Orzhov Syndicate|Orzhov]]**.
+
 ## Relationships
 - [[Nicol Bolas]] — Contracted to him via the chain veil; a bound (claimed reluctant) double agent.
 - [[Chandra Nalaar]] — Betrayed her at [[Strixhaven]] (as "Onyx"); pure enmity.
@@ -37,4 +41,6 @@ Claiming a "little birdie" (a vision of [[Ugin]]) told her a god's apotheosis wo
 - [[Nicol Bolas]]
 - [[Chandra Nalaar]]
 - [[Eternals]]
+- [[Vraska]]
 - [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right]]
+- [[PP_07_100525_The_Reylana_Infiltration]]

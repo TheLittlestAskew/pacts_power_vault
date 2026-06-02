@@ -24,6 +24,11 @@ Killed in Early Session 4; reborn as a **were-zombie** via the [[Bone Mine]] ess
 - **Blessing-spore** — bestowed a boon on [[Orphie]], [[Ogre]], [[Rin]], and [[Varis Aestra|Varis]].
 - **"Seed of renewal"** — a one-time free Revivify-type cast granted to [[Sanis Reylana|Sanis]].
 
+## Key Events
+
+### [[PP_07_100525_The_Reylana_Infiltration|PP 7 — The Reylana Infiltration]] (10/05/25)
+- Her **heightened senses** (since ascending) let her send [[Sanis Reylana|Sanis]] a **prophetic vision** during the long rest at the [[Bone Mine]]: the **[[Reylana mansion|Reylana Estate]]** in [[Wayport]] surrounded by a Devkarin/[[Lotleth]] army awaiting orders. Sanis forced himself awake to warn the party.
+
 ## Relationships
 - [[Sanis Reylana|Sanis]] — Brother. Absolved him of guilt for her death; materialized for a hug; deeply personal.
 - [[Thal]] — Myconid leader (Thal Oram) she revived; he proclaimed her goddess.
@@ -42,3 +47,4 @@ Killed in Early Session 4; reborn as a **were-zombie** via the [[Bone Mine]] ess
 - [[Bone Mine]]
 - [[Myconids]]
 - [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right]]
+- [[PP_07_100525_The_Reylana_Infiltration]]
