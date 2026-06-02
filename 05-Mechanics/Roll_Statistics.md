@@ -339,6 +339,67 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 
 > **Roll note (PP 18):** **60 DDB rolls** on 2026-04-05 — **all five PCs on DDB** (an unusual full-party sync, like PP 13). [[Teferi]] (guest player **Dan**) rolled **off-DDB** (transcript-only). Party plays at **level 12** (leveled at the end of S17). No PC downed in the Rot Warren assault.
 
+## Notable Rolls — [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26)
+
+> **78 DDB rolls** logged for 2026-04-19, covering **[[Ogre]], [[Orphea "Orphie" Levistus\|Orphie]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]]**. **[[Rinestra "Rin" Genleth\|Rin]] rolled physically/off-DDB** (her Divine Intervention d100s — all failed) — NOT a sync gap.
+
+| Character | Roll | Result | Note |
+|---|---|---|---|
+| [[Ogre]] | "Planeswalk" (1d20) | **20** [nat 20] | The climactic planeswalk **back as a god** ("that 20, baby!") |
+| [[Sanis Reylana\|Sanis]] | "Planeswalk" (1d20) | **20** [nat 20] | The only one to planeswalk first (others follow his trail) |
+| [[Varis Aestra\|Varis]] | Scorching Ray to hit (1d20+10) | **30** [nat 20] / 29 | Direct hit on [[Nicol Bolas\|Bolas]] — **dissipates** (he's siphoning) |
+| [[Varis Aestra\|Varis]] | Arcana (1d20+8) | **30** / 23 | Reading the meditation realm / the spark-shielded Bolas |
+| [[Sanis Reylana\|Sanis]] | Lightning Arrow ([[Ava's Longbow of Power]]) | **23 + 14** | Support fire on [[God-Eternal Bontu\|Bontu]] ([[Molly]] takes splash) |
+| [[Sanis Reylana\|Sanis]] | Dexterity save (1d20+7) | **8** [nat 1] | [[God-Eternal Rhonas\|Ronas]]'s arrow → 27 piercing |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Blazebringer to hit (1d20+10) | 25 / 26 / 23 | Throwing Eternals off the steps; striking [[Liliana Vess\|Liliana]] |
+| [[Ogre]] | Eldritch Blast to hit (1d20+6) | 21 / 21 / 19 | Knocking Eternals off the pyramid |
+| [[Ogre]] | Constitution saves (1d20+8) | **12 / 12** (fail) | The spark-plunge — 65 + 74 radiant ("I am unconscious") |
+| [[Ogre]] | Healing Word (8d4+2) | 20 | Free heal during the long-walk "short rest" |
+| [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) — *off-DDB* | 90 / 75 / 45 / 75 (all fail) | [[Dol Arrah]] never answers (the session's running gag) |
+
+> **Roll note (PP 19):** **78 DDB rolls** on 2026-04-19 — Ogre/Orphie/Sanis/Varis on DDB; **Rin rolled physical/off-DDB** (Divine Intervention d100s, all failed) — a per-player platform split, NOT a sync failure. Party plays at **level 12.** Session ends mid-assault (no PC death; [[Ogre]] "dies"/revives via his apotheosis).
+
+## Notable Rolls — [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26)
+
+> **Played on Roll20 + D&D Beyond — rolls synced** (NOT a Roll20-only gap like S16). **65 DDB rolls** logged for 2026-05-14, covering **[[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]]**. **[[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB.**
+>
+> ⚠ **AUDIO GAP — [[Orphea "Orphie" Levistus\|Orphie]]/Taylor's mic was NOT recorded.** Orphie has **no dialogue in the transcript**; her actions are **reconstructed from her 11 DDB rolls + the DM's narration** (roll clock-times cross-checked to the transcript: initiative 20:47 = transcript 00:10; her Blazebringer hits 21:26–21:28 = ~00:47–00:50). Treat Orphie's PP 20 content as reconstructed; if the audio is recovered, revisit.
+
+| Character | Roll | Result | Note |
+|---|---|---|---|
+| [[Ogre]] | Duskblade to hit (1d20+?) | **31** [15] → **27 dmg** | **Siphons [[Liliana Vess\|Liliana]]'s soul** — breaks the [[The Chain Veil\|Chain Veil]]'s control (after 15 psychic) |
+| [[Ogre]] | Eldritch Blast (×3) / Mage Hand | **20** hit | Pulls [[God-Eternal Bontu\|Bontu]] 10 ft off [[Molly]] |
+| [[Ogre]] | Wisdom save vs. Bontu's scream | **22** [15] | (Varis failed his — nat 1) |
+| [[Varis Aestra\|Varis]] | Arcana — contract rewrite | **27** | Overwrites the Chain Veil contract → [[Rinestra "Rin" Genleth\|Rin]] |
+| [[Varis Aestra\|Varis]] | Raulothim's Psychic Lance (quickened) | **19 psychic + incapacitate** | Freezes [[God-Eternal Bontu\|Bontu]] mid-attack on [[Sanis Reylana\|Sanis]] |
+| [[Sanis Reylana\|Sanis]] | Ava's Longbow + Lightning Arrow | to-hit **25**; **31 dmg + Slow** | Into Bontu's jaw-screws (after testing his regular bow — rage-baiting Ogre) |
+| [[Sanis Reylana\|Sanis]] | Ava's Longbow to hit | **nat 20 (29)** | **Crit** on Bontu (double dice — 30 dmg) |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Initiative (adv) | **18** | Rolls into the fight *(reconstructed)* |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Blazebringer to hit (adv) | **27** / **18** | **Grapple-dragging & clubbing [[Liliana Vess\|Liliana]]** *(reconstructed)* |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Perception (d20 18, +Perc ≈ 22) | **~22** | Confirms the God-Eternals froze when Liliana broke free *(reconstructed)* |
+| [[Rinestra "Rin" Genleth\|Rin]] | Arcana — *off-DDB* | **nat 20 (30)** | Decodes the Chain Veil (cursed-book lore) |
+
+> **Roll note (PP 20):** **65 DDB rolls** on 2026-05-14 — **Orphie/Ogre/Sanis/Varis on DDB**; **Rin off-DDB.** ⚠ **Orphie's audio was unrecorded** — her 11 DDB rolls + DM narration are the only record of her actions this session (her biggest contribution was actually **OOC/narrative**: drafting the rewritten Liliana contract). Party plays at **level 12.** Session ends mid-encounter (no PC down; Molly bloodied then healed).
+
+## Notable Rolls — [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) 🏁 (CAMPAIGN FINALE)
+
+> **105 DDB rolls** logged on 2026-05-31 — covering **all five PCs** (Orphie, Ogre, Sanis, Varis, **and [[Rinestra "Rin" Genleth\|Rin]]**, whose epilogue Divine-Intervention attempts landed on DDB this time — the rare full-party DDB session). Party plays at **level 12.** **No PC died** ([[Ogre]] "died"/returned via apotheosis carry; [[Varis Aestra\|Varis]] downed and revived).
+
+| Character | Roll | Result | Note |
+|---|---|---|---|
+| [[Orphea "Orphie" Levistus\|Orphie]] | HellSmasher to hit (adv) | **nat 19 + 20 → crit, 40 dmg** | First swing with the new maul ([[HellSmasher]]) |
+| [[Orphea "Orphie" Levistus\|Orphie]] | HellSmasher (1d20+10) | 31 / 31 / **66** | Caving [[Nicol Bolas\|Bolas]] in (incl. the pinky-toe smash) |
+| [[Ogre]] | Eldritch Blast to hit | **nat 20 (31)**, 30, 27s | Pushing the orb away + hitting Bolas |
+| [[Ogre]] | Arcana (move the orb) | 22 / 19 / 17 | **Choking Bolas's siphon** — 5 ft per success |
+| [[Ogre]] | Duskblade to hit | 31 [15] → 27 dmg | The (failed) soul-strike on Bolas |
+| [[Ogre]] | Initiative | 24 | Top of the order (Bolas pre-empts) |
+| [[Varis Aestra\|Varis]] | Dragon multiattack / Force breath | up to **65 Force** | Dragon-form assault on Bolas |
+| [[Varis Aestra\|Varis]] | Disintegrate | hits Bolas's horn | Cosmetic only (he saved) |
+| [[Sanis Reylana\|Sanis]] | Hail of Thorns + Ava's Longbow | hit, solar plexus | ⭐ **Breaks Bolas's spark-tether (decisive)** |
+| [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) | 97 / 67 / 53 / 63… **then 2** | Fails all fight; "answers" only at the party (the 2) |
+
+> **Roll note (PP 21):** **105 DDB rolls** on 2026-05-31 — **all five PCs on DDB** (Rin's epilogue Divine-Intervention rolls landed on DDB this finale). Party plays at **level 12.** **No PC died** (Ogre "died"/returned; Varis downed and revived). 🏁 **Final canonical session of Pacts & Power.**
+
 ## Related
 - [[Campaign Dashboard]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]

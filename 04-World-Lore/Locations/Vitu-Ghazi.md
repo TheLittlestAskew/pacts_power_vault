@@ -23,6 +23,8 @@ A massive tree with interior rooms (including private care rooms). During the si
 
 - **[[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26):** **Tamed asset — [[Nissa]] rides it to the council.** The S17 "Nessa rider" pays off: the **animate Great Tree** now serves the alliance, **ridden by [[Nissa]]**, who brings it to the **grand council of all ten guilds** at the surfaced [[Maze's End]] as part of the **[[Selesnya Conclave|Selesnya]]** contingent ([[Emmara Tandris|Amara Tandris]] + Nissa). The awakened Tree is firmly a **coalition asset**, no longer a rampaging threat. See **[[The Great Tree of Vitu-Ghazi]]**.
 
+- **[[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26):** **Marches to the victory.** In the finale, as [[Nicol Bolas|Bolas]] falls at the [[Bolas's Citadel|Citadel]], the Great Tree **marches up to the battlefield** with [[Nissa]] (steering it), **Myra Deathbloom**, and **Saskia Vostavo** — the Selesnya arriving for the close of the war. The awakened-tree arc resolves as a triumphant coalition asset at the campaign's end.
+
 ## Related
 - [[Selesnya Conclave]]
 - [[The Great Tree of Vitu-Ghazi]]
@@ -35,3 +37,4 @@ A massive tree with interior rooms (including private care rooms). During the si
 - [[PP_15_022226_Reforging_the_Guildpact]]
 - [[PP_17_040226_The_Guildpact_Reborn]]
 - [[PP_18_040526_Pacts_and_Power]]
+- [[PP_21_053126_I_Miss_You_Buddy]]

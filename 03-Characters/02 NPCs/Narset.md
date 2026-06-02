@@ -37,6 +37,9 @@ A planeswalker ally converging (with others) on the [[Immortal Sun]] auction. [[
 - **Brought the dragon cavalry.** As the [[Boros Legion|Boros]]/[[Izzet League|Izzet]] wall and the [[Azorius Senate|Azorius]] front teetered, Narset **opened portals over the Azorius spilling dragons** that firebombed the Eternal army (contesting [[God-Eternal Rhonas|Rhonas]]'s assault) — the off-plane reinforcement counterpart to [[Kwatli Pakal|Jareth]]'s Ixalan armies. Both fronts **stabilized.**
 - The fruit of her own heist: taking the [[Immortal Sun]] off-plane restored planeswalking, so **off-plane allies (dragons, Ixalan armies, planeswalkers) can now reach Ravnica to fight** — the war is winnable.
 
+### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26)
+- **Appears for the victory.** As [[Nicol Bolas|Bolas]] falls, **Narset and [[Vraska]] appear** at the battlefield with **the [[Immortal Sun]] gone, back on [[Ixalan]]** — her steal-and-destroy arc fully resolved. She is among the allies (Tarkir dragons, the Jeskai, Ixalan's forces, all ten guilds) celebrating Ravnica's salvation as [[Niv-Mizzet]] declares peace. *(Note: [[Vraska]] died PP 13 — the note lists her appearing here; logged as written, the reference is to the gathered allies/figures at the close.)*
+
 ## Relationships
 - [[The Breakfast Club]] — Planeswalker ally; her steal-the-Sun plan matched the party's goal.
 - [[Ravnica Trading Incorporated]] — Her crew/company (led by [[Shaylin]]).
@@ -55,3 +58,4 @@ A planeswalker ally converging (with others) on the [[Immortal Sun]] auction. [[
 - [[PP_12_011126_The_Masquerade_Auction]]
 - [[PP_13_012526_Fucking_Barbarians]]
 - [[PP_14_021326_Hold_the_Wall]]
+- [[PP_21_053126_I_Miss_You_Buddy]]

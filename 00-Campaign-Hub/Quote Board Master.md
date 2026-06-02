@@ -276,6 +276,42 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] | "We're the party. The party doesn't start till we walk in." | Funny |
 | [[Eddie]] (Myconid priest) | "One of our kind has been killed. A like for like is required." | Serious |
 
+## [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Ur-Ogre-lan]] (to [[Ogre]]) | "You are me and I am you." | Dramatic / Important to Story |
+| [[Ogre]] (returning, as a god) | "Hi, I'm Ogre." | Funny / Poignant |
+| [[Ogre]] (plunging into the sparks) | "Look at all this power — I'm gonna steal it, I'm gonna use it to save my friends." | Important to Story |
+| [[Niv-Mizzet]] | "What we are heading into is a fight for the future of this plane." | Dramatic |
+| [[Rinestra "Rin" Genleth\|Rin]] | "Fuck this — I'm just gonna throw some Fireballs." *(giving up on Divine Intervention)* | Funny |
+| [[Sanis Reylana\|Sanis]] | "I am metaphorically shitting cubes… scared but brave." | Funny / Poignant |
+
+## [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Ogre]] (to [[Liliana Vess\|Liliana]]) | "I'm sorry, lass, I just need your soul. You've not been doing shit with it anyway." | Funny / Dark |
+| [[Liliana Vess]] | "I don't want to do evil, but contractually I have to." | Serious / Important to Story |
+| [[Liliana Vess]] (waking) | "Oh… thanks for that." | Poignant |
+| [[Rinestra "Rin" Genleth\|Rin]] (to [[Ogre]]) | "I don't know what you've turned into, but we are not killing her." | Serious / Character |
+| [[Molly]] | "I fight for Ravnica. My death means nothing if this plane doesn't exist." | Dramatic |
+| Table | "Pacts and powers, by chance?" — "Yes." | Funny / Meta |
+
+## [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Lance Filo\|Lance]] (engraving, to [[Ogre]]) | "To the god of death — Hi, I'm Ogre — I miss you, buddy." | Poignant / Important to Story |
+| [[Aphonexa]] | "Don't worry, all will be safe." | Dramatic / Sacrifice |
+| [[Aphonexa]] (final whisper, to [[Sanis Reylana\|Sanis]]) | "I love you." | Poignant |
+| [[Athena]] (to [[Orphea "Orphie" Levistus\|Orphie]]) | "The greatest bonds can be forged with a hammer." | Dramatic / Character |
+| [[Ugin]] | "We cannot be truly rid of this evil. Perhaps we can merely contain it." | Serious / Important to Story |
+| [[Dol Arrah]] (finally answering [[Rinestra "Rin" Genleth\|Rin]]) | "We're having a party now." | Funny |
+| [[Rinestra "Rin" Genleth\|Rin]] | "My god really does fucking suck." | Funny |
+| [[Nicol Bolas]] | "No, no, this cannot be." | Dramatic |
+| [[Orphea "Orphie" Levistus\|Orphie]] (choosing the hammer) | "I've always wanted a hammer. Let's try something new." | Character |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

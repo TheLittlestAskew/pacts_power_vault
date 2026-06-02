@@ -73,6 +73,15 @@ Standing wreathed in a **white aura** (all colors at peace), Niv addresses the p
 - Set the **directive to confront Bolas directly at the Citadel** — and, since the army can't punch through, sent the party to find **another path in** (the Drillinator/Rotworm tunnel route).
 - *"From where it began, it shall end."*
 
+### [[PP_19_041926_Hi_Im_Ogre|PP 19 — Hi, I'm Ogre]] (04/19/26)
+- **Leads the distraction assault on the Citadel.** With the Rotworm tunnel open and the coalition assembled, Niv **bursts out as a distraction** and opens a chaotic battlefield at the foot of [[Bolas's Citadel]] — joining **Golgari Rotworms** swallowing [[Eternals]], **Izzet mech-suit scientists**, **[[Myconids|myconid]] spore-clouds**, **Rakdos** strafing the sky, and **[[Dalya Bara|Dahlia]] + myconids** holding the tunnel-mouth beachhead — so the party can ascend.
+- Warns the party this is *"a fight for the future of this plane,"* and grants them a pick of **personal allies** for the climb ([[A Shady Individual|Penny]], [[Molly]], [[Nissa]]) while the rest of the coalition holds the line.
+- Entering Bolas's **oppressive fog**, Niv **looks haggard** under the anxiety-miasma (unlike the notably-unfazed [[Ogre]]). Remains committed on the battlefield as the session ends mid-assault.
+
+### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26) — ⭐ DECLARES PEACE
+- **Coordinates the allied victory.** As the [[Living Guildpact]], Niv-Mizzet helps marshal the coalition through the final battle; when [[Nicol Bolas|Bolas]] falls (siphon broken, spark harvested, soul sealed by [[Ugin]]), the fighting across the battlefield ceases — Tarkir dragons, the Jeskai, Ixalan's forces, and all ten guilds celebrate.
+- ⭐ **Declares a coming time of peace for Ravnica** — the Guildpact restored, the war over, the plane saved. The campaign's central thread (the broken Guildpact since [[Jace Beleren|Jace]]'s death) closes with the reborn Niv ushering in peace.
+
 ## Legacy & Quests
 
 - The party's standing quest to **Revive Niv-Mizzet** (see [[Campaign Dashboard]]) centers on the spirit preserved in Varis's Dragon Spirit Box, requiring a representative/artifact from every guild and a ritual at the [[Implicit Maze]].
@@ -110,3 +119,6 @@ Standing wreathed in a **white aura** (all colors at peace), Niv addresses the p
 - [[PP_16_031326_A_Scared_Child]]
 - [[PP_17_040226_The_Guildpact_Reborn]]
 - [[PP_18_040526_Pacts_and_Power]]
+- [[Bolas's Citadel]]
+- [[PP_19_041926_Hi_Im_Ogre]]
+- [[PP_21_053126_I_Miss_You_Buddy]]

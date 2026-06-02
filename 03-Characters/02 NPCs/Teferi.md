@@ -3,7 +3,7 @@ type: npc
 race: Human / Planeswalker
 class: Chronomancer (time mage)
 affiliation: "Unaligned (planar repair); Zhalfir (home plane)"
-status: "Alive — joined the war (PP 18); brought the Zhalfir army to Ravnica, then departed to its front lines (reachable via Sending)"
+status: "Alive — returned for the finale (PP 21), then departed to the Gatewatch (off to Dominaria to help Ajani)"
 first_appearance: "Referenced T03 (08/10/25); on-page cameo PP 17 (04/02/26); fully arrives PP 18 — Pacts and Power (04/05/26)"
 location: "The Zhalfir front lines (departed PP 18); reachable via Sending"
 aliases: ["the time guy", "Tafari", "Tefari", "the time fairy", "the fairy"]
@@ -31,6 +31,10 @@ A distant, off-screen power. His cameo signals that the **planar damage caused b
 - **Departs.** Called to the **[[Zhalfir]] front lines**, Teferi leaves at session's end — reachable via *Sending*. (Table note: he may not return before the campaign ends — getting married ~6 weeks out.)
 - Raw-transcript names: "the time fairy / the fairy / Tafari" = Teferi.
 
+### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26)
+- **Returns for the final battle.** Teferi (Dan, guest) **steps back through a portal** to join the Citadel-summit fight against [[Nicol Bolas|Bolas]] — answering [[Orphea "Orphie" Levistus|Orphie]]'s running "rewind time so we can't lose" bit one last time.
+- **Epilogue — back to the Gatewatch.** With Bolas sealed, Teferi **returns to the Gatewatch**, off to **[[Dominaria]] to help Ajani.** As a parting gift he leaves [[Orphea "Orphie" Levistus|Orphie]] **two Polymorph scrolls** (for her beloved T-Rex form).
+
 ## Relationships
 - [[Niv-Mizzet]] — Fellow planar power; his cameo coincides with Niv's rebirth as the Living Guildpact, and he attends Niv's grand council (PP 18).
 - [[Nissa]] — Mentioned his absence at the [[Selesnya Conclave]] (T03); fellow Gatewatch power present at the war.
@@ -48,3 +52,5 @@ A distant, off-screen power. His cameo signals that the **planar damage caused b
 - [[The Rot Warren]]
 - [[PP_17_040226_The_Guildpact_Reborn]]
 - [[PP_18_040526_Pacts_and_Power]]
+- [[Dominaria]]
+- [[PP_21_053126_I_Miss_You_Buddy]]

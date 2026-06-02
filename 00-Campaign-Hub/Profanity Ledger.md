@@ -6,14 +6,22 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 | Speaker (Player) | Total |
 |---|---|
-| Taylor | 23 |
-| Rachel | 18 |
-| Gabe | 16 |
+| Gabe | ~102 |
+| Taylor | ~95 |
+| Rachel | ~90 |
+| Chet | ~59 |
+| Vincent | ~34 |
 | Bri (guest) | 16 |
-| Chet | 12 |
-| Vincent | 4 |
+| Dan (guest) | ~7 |
 
-> Totals through Transcript 06 (09/17/25).
+> **Totals re-tallied across ALL per-session data, Transcript 01 → PP 21 (the finale, 05/31/26)** during the final Convo 2 reconciliation pass (2026-06-02). The earlier table was frozen at Transcript 06; the per-session PP 07–PP 21 entries below had been appended without recomputing the running totals, so they are now folded in. **Counts from PP 07 onward are approximate** (heavy auto-censoring; many sessions raw/un-spell-checked with unreliable speaker labels) — treat the campaign totals as estimates, not exact.
+
+> ⚠️ **Flags affecting the totals:**
+> - **Transcript 03** counts are approximate — the battle audio is heavily auto-censored/bleeped.
+> - **PP 11 (12/14/25):** Rin (Rachel) was out of commission all session — **0 recorded for Rachel** (not missing data; she simply had no lines).
+> - **PP 20 (05/14/26):** Taylor/Orphie's mic was **unrecorded** — **Taylor counted as 0 for PP 20** (genuinely missing data, not a true zero). If her audio is recovered, Taylor's total will rise.
+> - **Bri (guest)** appears only in T03–T06 (no PP 07–21 lines); total unchanged at 16.
+> - **Dan (guest, Teferi)** is a new guest speaker (PP 18 + PP 21 only); added to the totals table.
 
 > ⚠️ Transcript 03 counts are **approximate** — the battle audio is heavily auto-censored/bleeped, so exact words/frequencies could not always be confirmed.
 
@@ -237,6 +245,42 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 | Vincent (Varis) | mixed | ~2 | The Orzhov spell-loan; the Cloudkill backsplash |
 
 > The campaign's "everyone shows up" council + a workshop comedy + a dungeon assault (raw transcript, no spell-check; partly auto-censored). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis) | mixed | ~7 | The climb; the nat-1 / 27-piercing arrow; *"shitting cubes… scared but brave"* |
+| Rachel (Rin) | mixed | ~6 | The failed Divine Intervention gag; *"Fuck this — I'm just gonna throw some Fireballs"* |
+| Taylor (Orphie) | mixed | ~5 | Throwing Eternals off the pyramid; carrying Rin; the campaign-recap montage |
+| Chet (Ogre) | mixed | ~3 | The spark-plunge; the apotheosis |
+| Vince (Varis) | mixed | ~2 | Summoning "Eugene"; the dissipated nat-20 ray on Bolas |
+
+> The penultimate session — a war-of-attrition Citadel climb + Ogre's apotheosis (raw transcript, no spell-check; partly auto-censored; unreliable speaker labels). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis) | mixed | ~7 | The god-tier brawl supporting Molly; the contract-rewrite scene |
+| Rachel (Rin) | mixed | ~4 | The Chain Veil decode; refusing Ogre (*"we are not killing her"*) |
+| Chet (Ogre) | mixed | ~3 | The soul-siphon; the kill-and-enslave push |
+| Vince (Varis) | mixed | ~2 | Rewriting the contract; the Bontu scream nat-1 |
+
+> ⚠ **Taylor/Orphie unrecorded this session (mic not captured) — not counted.** The second-to-last session — a single sustained Citadel-summit encounter + Liliana's redemption (corrected/spell-checked transcript). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis) | mixed | ~8 | The summit war of attrition; breaking the tether; losing Aphonexa |
+| Rachel (Rin) | mixed | ~6 | The failed Divine Intervention gag (*"my god really does fucking suck"*); the party epilogue |
+| Taylor (Orphie) | mixed | ~6 | Caving Bolas in with HellSmasher; the pinky-toe smash; the campaign-closing toast |
+| Chet (Ogre) | mixed | ~3 | Choking the siphon; the apotheosis-god calm |
+| Dan (Teferi, guest) | mixed | ~3 | Returning through the portal; the climactic fight |
+| Vince (Varis) | mixed | ~2 | Dragon-form assault; inheriting the Tarkir mantle |
+
+> 🏁 **The campaign finale** — the full re-transcribed, spell-checked corrected transcript (4h44m); anonymized speaker labels reconciled vs. the roll log. Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
 ## Related
 - [[Campaign Dashboard]]

@@ -283,6 +283,54 @@ Campaign-wide tracker of artifacts, items, and significant objects: owner, state
 
 > *No conventional loot — the gains are **strategic**: the Drillinator built, the ancient Rotworms freed, the ten-guild coalition + the [[Zhalfir army]] united, and a tunnel route opened to [[Bolas's Citadel]].*
 
+## [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| **[[Ogre]]'s apotheosis** (godhood / power gain) | [[Ogre]] | **GAINED (narrative + power).** Plunged **Dusk** into [[Nicol Bolas\|Bolas]]'s harvested **spark-ball** to absorb its energy (65 + 74 radiant; "died"), then reunited/merged with **[[Ur-Ogre-lan]]**, the halfling **god of death** — Ogre is the god's severed **heart**, now made **whole** (older, bearded, wise; **Bolas's corruption purged**). ⚠ **The sparks themselves remain with [[Nicol Bolas\|Bolas]]** (still atop the Citadel powering him). | PP 19 (04/19/26) |
+| **The harvested spark-ball** | Atop the Citadel ([[Nicol Bolas\|Bolas]]) | **Powers/shields Bolas as he siphons it** (makes him invulnerable). [[Ogre]] plunged into it and absorbed its power (→ apotheosis), but the ball/sparks **stay with Bolas** — likely must be disrupted to make him vulnerable in the finale. | PP 19 (04/19/26) |
+| **Dusk** ([[Ogre]]'s familiar-blade) | [[Ogre]] | The **conduit** driven into the spark-ball to absorb its power. Notably **unfazed by Bolas's anxiety-fog** ("they did this arc already"). Still Ogre's. | PP 19 (04/19/26) |
+| **The [[The Chain Veil\|Chain Veil]]** | [[Liliana Vess]] | Lets Liliana **marionette the 3 remaining God-Eternals** ([[God-Eternal Bontu\|Bontu]]/[[God-Eternal Rhonas\|Rhonas]]/+1) from the Citadel summit; she was **unmoved** by Ogre's Mage Hand. | PP 19 (04/19/26) |
+| [[Blazebringer]] | [[Orphea "Orphie" Levistus\|Orphie]] | Used to **throw Eternals off the pyramid** (to-hit 25/26/23) and strike [[Liliana Vess\|Liliana]] (little effect). | PP 19 (04/19/26) |
+| [[Ava's Longbow of Power]] | [[Sanis Reylana\|Sanis]] | **Lightning Arrow** support-fire on [[Molly]]'s duel with [[God-Eternal Bontu\|Bontu]] (23+14; Molly took the splash). Still on loan from [[Ava]]. | PP 19 (04/19/26) |
+| Citadel allies (Penny / Molly / Nissa) | Party (via [[Niv-Mizzet]]) | **GAINED for the climb** — the party's pick of 3 personal allies to ascend the Citadel: **[[A Shady Individual\|Penny]]** (Rin), **[[Molly]]** (Sanis), **[[Nissa]]** (Ogre, healer). | PP 19 (04/19/26) |
+
+> *No conventional loot — the "gain" is **positional** (the summit breached) and **narrative/power** ([[Ogre]]'s godhood). Bolas/Liliana/the God-Eternals remain standing — continues to the finale (05/31).*
+
+## [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| **[[The Chain Veil]]** (rewritten) | [[Liliana Vess]] (controlled by [[Rinestra "Rin" Genleth\|Rin]]) | **CONTRACT REWRITTEN.** Revealed (Rin's nat-20 Arcana) as a **demon-contract artifact bound to 5 death-demons** — *unremovable*; [[Ogre]] **siphoned Liliana's soul** to shatter its *control*, then **[[Varis Aestra\|Varis]] (Orzhov Guildmaster, Arcana 27) erased the demon + [[Nicol Bolas\|Bolas]] overlays and bound it to [[Rinestra "Rin" Genleth\|Rin]]/Ravnica** with protective clauses (no vessel/weapon/sacrifice/bargaining-token use without consent), sealed in white-and-black Orzhov flame. The curse-architecture is now a **shield** for its bearer. | PP 20 (05/14/26) |
+| **[[Liliana Vess]]** (bound ally) | Contract held by [[Rinestra "Rin" Genleth\|Rin]] | **GAINED — freed & flipped.** A planeswalker necromancer, now a **rescued ally** sworn to Rin/Ravnica; **turned the God-Eternals against [[Nicol Bolas\|Bolas]].** (Not loot per se — a bound, protected ally.) | PP 20 (05/14/26) |
+| **The God-Eternals (flipped)** | Re-aimed at [[Nicol Bolas\|Bolas]] | **GAINED for the finale.** [[God-Eternal Bontu\|Bontu]] / [[God-Eternal Rhonas\|Rhonas]] / [[God-Eternal Kefnet\|Kefnet]], freed of the Chain Veil with Liliana, **turned on Bolas.** | PP 20 (05/14/26) |
+| **The spark-orb** | Above the Citadel ([[Nicol Bolas\|Bolas]]) | **Slowly shrinking** as Bolas absorbs it (still shielding/empowering him). A carryover finale clock — not the party's. | PP 20 (05/14/26) |
+| [[Blazebringer]] | [[Orphea "Orphie" Levistus\|Orphie]] | Used to **grapple-drag & club [[Liliana Vess\|Liliana]]** (to-hit 27/18) while Orphie sustained the grapple through the contract scene. *(⚠ Reconstructed — Orphie's mic unrecorded.)* | PP 20 (05/14/26) |
+| **Duskblade** ([[Ogre]]'s familiar-blade) | [[Ogre]] | The blade Ogre used to **siphon Liliana's soul** (15 psychic + a 31-to-hit for 27), breaking the Chain Veil's control. Still Ogre's. | PP 20 (05/14/26) |
+| [[Ava's Longbow of Power]] | [[Sanis Reylana\|Sanis]] | **Lightning Arrow** (to-hit 25, **31 + Slow**) + a **nat-20 crit (30)** into [[God-Eternal Bontu\|Bontu]]'s jaw-screws, supporting [[Molly]]'s duel. Still on loan from [[Ava]]. | PP 20 (05/14/26) |
+| Rin's cursed [[Tarkir]] book | [[Rinestra "Rin" Genleth\|Rin]] | The **lore source** that decoded the Chain Veil (nat-20 Arcana). No state change. | PP 20 (05/14/26) |
+
+> *No conventional loot — the gains are **narrative/strategic**: [[Liliana Vess\|Liliana]] freed & bound as an ally, the **Chain Veil rewritten to Rin**, and the **God-Eternals flipped on Bolas.** Bolas + the (shrinking) spark-orb carry to the finale (05/31).*
+
+## [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| **[[HellSmasher]]** | [[Orphea "Orphie" Levistus\|Orphie]] | **GAINED — [[Blazebringer]]'s final form.** [[Athena]] reforges Orphie's fire-axe; she chooses a **hammer** over a sword ("Hellraiser")/axe, named **HellSmasher** (a maul, **1d20 dmg, +10**) — *"the greatest bonds can be forged with a hammer."* The campaign-ending weapon she means to pass down. | PP 21 (05/31/26) |
+| **[[Dragonhedron]]** (Dragon Spirit Box) | Taken by [[Ugin]] | **Repurposed — Bolas's prison.** Now **holds [[Nicol Bolas\|Bolas]]'s sealed soul**; [[Ugin]] **took the box into self-exile** as Bolas's warden. No longer the party's. | PP 21 (05/31/26) |
+| **The spark-orb** | — | **DISSIPATED.** After [[Sanis Reylana\|Sanis]] broke the tether, the destabilizing orb was **enveloped & safely released** by [[Aphonexa]] (her final sacrifice). The harvested sparks returned to the multiverse. | PP 21 (05/31/26) |
+| **[[The Chain Veil]]** | [[Liliana Vess]] (contract held by [[Rinestra "Rin" Genleth\|Rin]]) | **Stays with Liliana** (rewritten/protective per PP 20). Her **Lazotep God-Eternals harvested Bolas's spark.** | PP 21 (05/31/26) |
+| **2 Polymorph scrolls** | [[Orphea "Orphie" Levistus\|Orphie]] | **GAINED** — parting gift from [[Teferi]] (for her T-Rex form). | PP 21 (05/31/26) |
+| **Reylana estate** (inherited) | [[Sanis Reylana\|Sanis]] | **GAINED** — inherits the empty **[[Reylana mansion\|Reylana estate]]** as sole heir (epilogue). | PP 21 (05/31/26) |
+| **Lance's engraved hammer** | [[Ogre]] | **GAINED** — a halfling-etched hammer from **[[Lance Filo\|Lance]]** (the returning original DM, Stephen), engraved *"To the god of death — Hi, I'm Ogre — I miss you, buddy"* (with a carving of the two of them). The session's title and emotional heart. | PP 21 (05/31/26) |
+| Commissioned party art + custom MTG cards | The table (OOC) | The DM gifts **commissioned party art** and **custom Magic: The Gathering cards** for each PC at the wrap. | PP 21 (05/31/26) |
+
+> *Finale loot is **legacy & meaning**: Orphie's [[HellSmasher]], Sanis's inherited estate, Ogre's farewell hammer, Teferi's Polymorph scrolls. The [[Dragonhedron]] becomes Bolas's prison (taken by [[Ugin]]); the spark-orb is spent (Aphonexa's sacrifice). **🏁 Campaign complete.***
+
 ## Archivist Notes
 
 - **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. **Transcript 02 (07/27/25) is the transformation event** (Ball fused into Pip's Game Boy → LDGB). Transcript 01 captures it at the Ball stage; older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.

@@ -192,6 +192,41 @@ DM rulings and table conventions, logged by session. These are Chris's in-the-mo
 | Soul-magic as core surfactant | [[Ogre]]'s **Spirits of Death** (soul/death magic), imbued into the **[[god-metal]]** plate, served as the **surfactant** harmonizing the otherwise-incompatible ("oil and water") **lightning + Eternal-soul** core — a narrative crafting ruling: **six combined efforts** (skill checks/spells) stabilized it. |
 | Polymorph → T-Rex (guest-cast) | [[Teferi]] **polymorphed [[Orphea "Orphie" Levistus\|Orphie]] into a T-Rex** (Str 27, Int 2 — "the happiest T-Rex"), enabling her **bite (4d12+7)** and tail-swipe multiattack on the pylons. (Her second time; a recurring fan-favorite use.) |
 
+## [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+
+> **Platform note:** **78 DDB rolls** logged on 2026-04-19, covering **[[Ogre]], [[Orphea "Orphie" Levistus\|Orphie]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]]**. **[[Rinestra "Rin" Genleth\|Rin]] rolled physically/off-DDB** (her Divine Intervention d100s) — NOT a sync gap.
+
+| Ruling | Detail |
+|---|---|
+| Planeswalk as a d20 check | Both the **regroup** and the **climactic return** were resolved as a **1d20 planeswalk check.** [[Sanis Reylana\|Sanis]] **nat-20'd** the regroup (the only one to make it first); the others **followed his etheric trail with advantage** (even barely-arcane [[Orphea "Orphie" Levistus\|Orphie]] managed it). [[Ogre]]'s **nat-20** sent him (post-"death") to the **halfling pantheon** rather than the Blind Eternities — the apotheosis. |
+| Siphoning = invulnerability | **[[Nicol Bolas\|Bolas]] is effectively invulnerable while he siphons the spark-ball** — he's **outlined/empowered by the spark energy**, so [[Varis Aestra\|Varis]]'s **nat-20 Scorching Ray dissipated** with no effect. The implied solution (finale): **disrupt the spark-ball** to make him vulnerable. |
+| Divine Intervention as a running fail-gag | [[Rinestra "Rin" Genleth\|Rin]]'s **Divine Intervention** (needs a **d100 ≤ her cleric level, ~12**) **failed every attempt** (90/75/45/75) — **[[Dol Arrah]] stays silent** all session (a deliberate "the god is silent" narrative beat, echoing the S16 prayer-as-d4; the standard mechanic, just unlucky/intentional). |
+| Apotheosis via absorbed power | [[Ogre]] **driving Dusk into the harvested spark-ball to absorb its power** was honored as a story-gated transformation: he took **65 + 74 radiant** and dropped (Con saves 12/12, both fail → unconscious/"dead"), then the **souls he'd previously absorbed reconstituted [[Ur-Ogre-lan]]'s body** when he planeswalked into the god — narrative consequence of his accumulated soul/death magic, not a standard spell. |
+| Summon "Eugene" (Ugin) as transport | [[Varis Aestra\|Varis]] **summoned a Draconic Spirit ([[Ugin]], "Eugene," 60-ft fly)** to carry the party up the 400-ft pyramid — a class-feature summon used as mobility to speed the climb. |
+
+## [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+
+> **Platform note:** Played on **Roll20 (map/VTT) + D&D Beyond (dice)**, so the roll log synced (unlike the pure-Roll20 S16). **65 DDB rolls** logged on 2026-05-14, covering **[[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]]**. **[[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB.** ⚠ **[[Orphea "Orphie" Levistus\|Orphie]]/Taylor's mic was NOT recorded** — Orphie has no dialogue in the transcript; her actions are **reconstructed from her DDB roll log + DM narration** (roll timestamps cross-checked to the transcript).
+
+| Ruling | Detail |
+|---|---|
+| The Chain Veil is unremovable — but its *control* can be broken | The **[[The Chain Veil\|Chain Veil]]** is a **demon-contract artifact bound to 5 death-demons** (Rin's nat-20 Arcana from her cursed [[Tarkir]] book): whoever bears it is contracted/cursed and **it cannot simply be taken off** ([[Liliana Vess\|Liliana]] traded her contract to Bolas, like [[Penny]]). The party could not *remove* it — but **breaking the wearer's control** was allowed via either decapitation **or** directly **siphoning her soul** (see below). |
+| Soul-siphon breaks puppet-control | [[Ogre]] (post-apotheosis, [[Ur-Ogre-lan]]) **siphoned [[Liliana Vess\|Liliana]]'s soul** with **Duskblade** (15 psychic, then a **31-to-hit for 27**); the damage **shattered the Chain Veil's grip**, snapping Liliana lucid and **freezing the marionetted God-Eternals.** A narrative-gated use of his death/soul magic against an artifact's control. |
+| Sustained grapple to enable the soul-siphon | [[Orphea "Orphie" Levistus\|Orphie]] kept Liliana **grappled and dragged ~20 ft** toward the party and **held the grapple through the entire contract scene** (Liliana "in the zone," unresponsive) so Ogre could reach her and the rewrite could proceed. *(⚠ Reconstructed from Orphie's DDB rolls + DM narration — mic unrecorded.)* |
+| Orzhov Guildmaster contract-rewrite ("Pacts and Power") | Extending the S18 spell-loan mechanic: as **[[Orzhov Syndicate\|Orzhov]] Guildmaster**, [[Varis Aestra\|Varis]] can **rewrite an existing binding contract** (Arcana 27) — here **erasing the demon + [[Nicol Bolas\|Bolas]] overlays on the Chain Veil** and **transferring Liliana's binding to [[Rinestra "Rin" Genleth\|Rin]]/Ravnica** with bespoke **protective clauses** (no use as vessel/weapon/sacrifice/bargaining token without consent), sealed in white-and-black Orzhov flame. The table drafted the contract text out-of-character. |
+
+## [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+
+> **Platform note:** the finale was **re-transcribed in full** (4h44m; the original cut off at ~2h37m) with **anonymized speaker labels** reconciled vs. the **105-roll DDB log** (all five PCs on DDB — [[Rinestra "Rin" Genleth\|Rin]]'s epilogue Divine-Intervention attempts landed on DDB this time).
+
+| Ruling | Detail |
+|---|---|
+| **"Desperate Measures"** (homebrew, borrowed from Critical Role) | While **bloodied**, a PC may **pre-fail death saves for power**: **1 save** = dash + disengage / **+5 to a failed d20** / reroll; **2 saves** = max damage on a hit; **3 saves** = an **extra action or regain a spell slot** — **but dropping to 0 HP while saves are pre-failed = instant death.** A high-risk/high-reward finale rule, used all fight. |
+| Weapon "final form" — player choice | [[Athena]] offered [[Blazebringer]]'s **final form** as a **player choice of three**: a **sword** ("Hellraiser"), an **axe**, or a **hammer.** [[Orphea "Orphie" Levistus\|Orphie]] chose the hammer → **[[HellSmasher]]**, a **maul dealing 1d20 (+10).** (Narrative-gated weapon upgrade, not a standard item.) |
+| Choking the siphon (Mage Hand + Eldritch Blast vs. an object) | Because [[Nicol Bolas\|Bolas]] is **invulnerable while siphoning the spark-orb** (S19–20 rule), the path to vulnerability was to **move the orb out of his reach** — [[Ogre]] used **Mage Hand + Eldritch Blast** + repeated **Arcana checks (22/19/17)** to push the orb **5 ft per success**, starving the siphon (Rin's Arcana confirmed it worked). Enabled [[Sanis Reylana\|Sanis]]'s tether-breaking shot. |
+| An elder dragon can be **contained, not destroyed** | [[Ogre]]'s attempt to **siphon Bolas's soul with Duskblade FAILED** — Bolas is *part of what made existence.* Per [[Ugin]], the only resolution is **containment**: Bolas's soul is **sealed into the [[Dragonhedron]]** and Ugin **imprisons himself** as warden. (Story-gated ending, not a kill.) |
+| Divine Intervention — the running gag resolved | [[Rinestra "Rin" Genleth\|Rin]]'s **Divine Intervention failed the whole finale** (d100s 97/67/53/63…, needs ≤12) — then **succeeded in the epilogue (a 2)**, with [[Dol Arrah]] answering *only after the danger passed* (*"We're having a party now"*). The campaign-long "god is silent" beat lands as a punchline. |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

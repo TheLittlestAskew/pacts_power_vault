@@ -192,6 +192,50 @@ Running tracker of notable spell and special-ability usage, by session.
 
 > **Note (PP 18):** The headline is the **Orzhov spell-loan** ("Pacts and Power") enabling [[Rinestra "Rin" Genleth\|Rin]]'s **Raise Dead** (after a Cloudkill misfire) — the campaign's literal title-mechanic, established here. Mechanically central too: [[Ogre]]'s **soul/death magic** as the **surfactant** that harmonizes the Drillinator core. Combined party damage (Fireball / Eldritch Blast crit / Shatter / Lightning Arrow / T-Rex / Teferi's Fire Bolt) dropped all 6 Rot Warren pylons.
 
+## [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+
+> **78 DDB rolls — Ogre/Orphie/Sanis/Varis on DDB.** [[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB (her Divine Intervention d100s, all failed).
+
+| Character | Spell / Ability | Outcome |
+|---|---|---|
+| [[Ogre]] | **Dimension Door** / **Dusk** (familiar-blade) / soul-absorption | **The apotheosis.** Dimension-Doored above [[Nicol Bolas\|Bolas]]'s **spark-ball** and **plunged Dusk into it** to absorb its power (65+74 radiant → "dies"). The **souls he'd previously absorbed reconstituted [[Ur-Ogre-lan]]'s body** when he planeswalked into the god — returning **whole**. Also Mage-Hand Eldritch-Blasted Eternals off the pyramid and free-cast **Healing Word (20)** on the long walk. |
+| [[Varis Aestra\|Varis]] | **Summon Draconic Spirit ("Eugene"/[[Ugin]])** / **Scorching Ray** | Summoned a **60-ft-fly Draconic Spirit** to carry the party up the 400-ft pyramid; **nat-20 Scorching Ray on Bolas dissipated** (he's invulnerable while siphoning). |
+| [[Orphea "Orphie" Levistus\|Orphie]] | **[[Blazebringer]]** (rage, Athena channel) | **Threw Eternals off the pyramid** (to-hit 25/26/23) and struck [[Liliana Vess\|Liliana]] (little effect — she nodded); carried [[Rinestra "Rin" Genleth\|Rin]] up the steps. |
+| [[Sanis Reylana\|Sanis]] | **Lightning Arrow** ([[Ava's Longbow of Power]]) / longbow | Support-fired [[Molly]]'s duel with [[God-Eternal Bontu\|Bontu]] (23+14) and longbowed the last step-Eternal; ate [[God-Eternal Rhonas\|Ronas]]'s 27-piercing volley (nat-1 Dex save). |
+| [[Rinestra "Rin" Genleth\|Rin]] | **Divine Intervention** (d100) — *off-DDB* | **Failed all session** (90/75/45/75, needs ≤12); **[[Dol Arrah]] silent.** Gave up: *"Fuck this — I'm just gonna throw some Fireballs."* |
+
+> **Note (PP 19):** No conventional spell economy headline — the session's "spell" is **[[Ogre]]'s soul-magic apotheosis** (absorbing the spark-ball → reuniting with the halfling death-god [[Ur-Ogre-lan]]). Mechanically notable: **Bolas's siphon-invulnerability** (Varis's nat-20 ray dissipated) and **Rin's wholly-failed Divine Intervention** (the "god is silent" beat). [[Varis Aestra\|Varis]]'s **"Eugene" (Ugin) summon** doubled as party transport up the pyramid.
+
+## [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+
+> **65 DDB rolls — Orphie/Ogre/Sanis/Varis on DDB.** [[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB. ⚠ **Orphie's mic unrecorded** (actions reconstructed from her roll log + narration).
+
+| Character | Spell / Ability | Outcome |
+|---|---|---|
+| [[Ogre]] | **Duskblade** soul-siphon / **Misty Step** / **Eldritch Blast (Mage Hand)** | **The breakthrough.** Misty-Stepped to the grappled [[Liliana Vess\|Liliana]] and **siphoned her soul** (15 psychic, then 31-to-hit → 27) — **shattering the [[The Chain Veil\|Chain Veil]]'s control** (God-Eternals freeze). Also pulled [[God-Eternal Bontu\|Bontu]] 10 ft off [[Molly]] (EB/Mage Hand 20); made his Wis save vs. Bontu's scream (22). |
+| [[Varis Aestra\|Varis]] | **Orzhov contract-rewrite (Arcana)** / **Raulothim's Psychic Lance (quickened)** | **The key act:** as [[Orzhov Syndicate\|Orzhov]] Guildmaster (Arcana 27) **rewrote the Chain Veil contract** — erased the demon + Bolas overlays, bound Liliana to [[Rinestra "Rin" Genleth\|Rin]]/Ravnica with protective clauses ("**Pacts and Power**" again). Earlier **froze Bontu mid-attack on [[Sanis Reylana\|Sanis]]** (19 psychic + incapacitate); failed his Wis save vs. the scream (nat 1). |
+| [[Sanis Reylana\|Sanis]] | **Lightning Arrow** ([[Ava's Longbow of Power]]) | Supporting [[Molly]]'s duel with [[God-Eternal Bontu\|Bontu]]: **31 dmg + Slow** into the jaw-screws (to-hit 25) and a **nat-20 crit (30)**. |
+| [[Orphea "Orphie" Levistus\|Orphie]] | **[[Blazebringer]]** + **sustained grapple** (Rage) | **Held the whole plan together** — grappled & dragged Liliana ~20 ft (to-hit 27/18) and **sustained the grapple** through the contract scene so Ogre could siphon and Varis could rewrite. *(⚠ Reconstructed — mic unrecorded.)* |
+| [[Rinestra "Rin" Genleth\|Rin]] | **Arcana** (cursed [[Tarkir]] book) — *off-DDB* | **nat-20 (30)** — **decoded the Chain Veil** (demon-contract artifact, 5 death-demons, unremovable), cracking how to free Liliana without killing her. |
+
+> **Note (PP 20):** The session's "spell" is the one-two of **[[Ogre]]'s soul-siphon breaking the Chain Veil's control** + **[[Varis Aestra\|Varis]]'s Orzhov contract-rewrite** binding [[Liliana Vess\|Liliana]] to [[Rinestra "Rin" Genleth\|Rin]] — the campaign's "**Pacts and Power**" mechanic at its peak (rewriting a *demon* contract, not just loaning a slot). [[Nicol Bolas\|Bolas]]'s **siphon-invulnerability** persists (untouched); the freed God-Eternals are turned on him for the finale.
+
+## [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+
+> **105 DDB rolls — all five PCs on DDB** (Rin's epilogue Divine-Intervention attempts landed on DDB this time). Party at **level 12.**
+
+| Character | Spell / Ability | Outcome |
+|---|---|---|
+| [[Ogre]] | **Mage Hand + Eldritch Blast** (+ Arcana) | ⭐ **The key tactic — chokes the siphon.** Pushes [[Nicol Bolas\|Bolas]]'s spark-orb away foot by foot (Arcana 22/19/17, EB nat-20 31) to **starve his siphon**, making him vulnerable. Later **fails** the Duskblade soul-siphon on Bolas (too primordial). |
+| [[Sanis Reylana\|Sanis]] | **Hail of Thorns** ([[Ava's Longbow of Power]]) | ⭐ **The decisive blow** — to Bolas's exposed solar plexus, **snapping the spark-tether** and dropping him. |
+| [[Orphea "Orphie" Levistus\|Orphie]] | **[[HellSmasher]]** (Athena's reforged Blazebringer) | ⭐ Granted in a vision by [[Athena]]; a maul (**1d20+10**). Opens with a crit (40), then 31/31/**66** caving Bolas in. |
+| [[Varis Aestra\|Varis]] | **Dragon form** (Ugin's power) / Force breath / Disintegrate | All-out dragon assault (up to 65 Force); Disintegrate cosmetically hits Bolas's horn. Fulfills Ugin's "turn into dragon form in the final battle" prophecy. |
+| [[Rinestra "Rin" Genleth\|Rin]] | **Mass Cure Wounds** / **Divine Intervention** | The healing backbone of the attrition fight; **Divine Intervention fails the whole battle** (97/67/53/63…), then **answers in the epilogue** (a 2) — [[Dol Arrah]]'s punchline. |
+| [[Aphonexa]] (NPC) | **Spark-orb containment** (divine) | ⭐ **The sacrifice** — envelops the destabilizing spark-orb and **releases the sparks safely** to the multiverse; she is lost. |
+| [[Ugin]] (NPC) | **Soul-sealing** (planar) | ⭐ **Seals Bolas's soul into the [[Dragonhedron]]** and self-exiles as warden (containment, since an elder dragon can't be destroyed). |
+
+> **Note (PP 21):** No single "spell economy" headline — the finale is a collective takedown. Mechanically notable: **Ogre's Mage-Hand/Eldritch-Blast choking of the siphon** (the answer to Bolas's siphon-invulnerability), **Sanis's Hail of Thorns breaking the tether**, **Athena's [[HellSmasher]]**, **Aphonexa's divine orb-release sacrifice**, and **Ugin's soul-seal** into the [[Dragonhedron]]. The new homebrew **"Desperate Measures"** (pre-fail death saves for power) ran all fight. 🏁 **Final session of the campaign.**
+
 ## Related
 - [[Campaign Dashboard]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]

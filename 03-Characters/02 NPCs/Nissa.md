@@ -55,6 +55,12 @@ Extremely laid-back, perpetually baked ("operational" baseline, per [[Rin]]'s In
 - **Confirmed riding the animate [[Vitu-Ghazi]] — at the council.** The S17 "Nessa on the Great Tree" sighting pays off: Nissa attends the **grand council of all ten guilds** at the surfaced [[Maze's End]] alongside [[Emmara Tandris|Amara Tandris]] for the **[[Selesnya Conclave|Selesnya]]**, **riding the animate Great Tree of [[Vitu-Ghazi]]** — she is the one taming/steering it. (The session note attributes the rider to Nissa; the prior "Nessa"→Nissa flag is effectively resolved.)
 - Joined the Selesnya in putting their forces on the ritual die to formally unite against [[Nicol Bolas|Bolas]]; Teferi's status update notes Nissa is **present** with the war effort.
 
+### [[PP_19_041926_Hi_Im_Ogre|PP 19 — Hi, I'm Ogre]] (04/19/26)
+- **Summoned for the Citadel climb — [[Ogre]]'s pick.** When [[Niv-Mizzet]] grants the party a pick of personal allies to ascend [[Bolas's Citadel]], **Ogre chooses Nissa** as the group's **healer/druid** ("Nissa Revane"). She is **supporting / healing** the ascent as the session ends mid-assault.
+
+### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26)
+- ⭐ **Brings [[Vitu-Ghazi]] to the victory.** When [[Nicol Bolas|Bolas]] falls, the **Great Tree of [[Vitu-Ghazi]] marches up** to the battlefield with Nissa (riding/steering it), **Myra Deathbloom**, and **Saskia Vostavo** — the Selesnya arriving for the close of the war. Nissa is among the allies celebrating Ravnica's salvation as [[Niv-Mizzet]] declares peace.
+
 ## Key Quotes
 
 **NISSA** · Transcript 02 · [Serious]
@@ -73,3 +79,5 @@ Extremely laid-back, perpetually baked ("operational" baseline, per [[Rin]]'s In
 - [[PP_02_072725_I_Cant_Rebuild_You]]
 - [[PP_17_040226_The_Guildpact_Reborn]]
 - [[PP_18_040526_Pacts_and_Power]]
+- [[PP_19_041926_Hi_Im_Ogre]]
+- [[PP_21_053126_I_Miss_You_Buddy]]

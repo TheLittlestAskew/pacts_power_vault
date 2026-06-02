@@ -1,7 +1,7 @@
 ---
 type: location
 region: "Golgari district, Tenth District, Ravnica"
-status: "Active (Nicol Bolas's seat during the siege)"
+status: "Fallen — site of [[Nicol Bolas|Bolas]]'s defeat at the summit (PP 21, 05/31/26)"
 first_appearance: "Transcript 03 (08/10/25)"
 ---
 
@@ -22,6 +22,10 @@ A towering black pyramid. A circular aperture opens at its apex, through which [
 
 - **[[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26):** **A path in is opened.** [[Niv-Mizzet]]'s council directive is to confront [[Nicol Bolas|Bolas]] *directly* at the Citadel — but the army can't punch through in time, so the party builds [[Dalya Bara|Dahlia]]'s **[[The Drillinator|Drillinator]]** and frees the ancient Rotworms at the **[[The Rot Warren|Rot Warren]]**. With the Rotworms freed, **[[Steve]] + [[Yarod Votsavo]] can now tunnel a straight path to the Citadel** — setting up the final assault. The Citadel still stands; the session ends poised to drill in.
 
+- **[[PP_19_041926_Hi_Im_Ogre|PP 19 — Hi, I'm Ogre]] (04/19/26):** **Breached — the party reaches the summit.** The Citadel is detailed here as a **400-ft tiered black pyramid** with **8–10-ft steps**, [[Nicol Bolas|Bolas]] on his throne at the apex beneath a blinding-white **ball of harvested sparks** he is **siphoning** (it outlines/empowers him, making him **invulnerable** while he feeds — [[Varis Aestra|Varis]]'s nat-20 Scorching Ray dissipated). **[[Liliana Vess|Liliana]]** stands beside him with the **[[The Chain Veil|Chain Veil]]**, marionetting the **3 remaining God-Eternals** ([[God-Eternal Bontu|Bontu]]/[[God-Eternal Rhonas|Rhonas]]/+1). The coalition holds a **beachhead** at the tunnel mouth ([[Niv-Mizzet]]'s distraction, Golgari Rotworms, Izzet mech-suits, [[Myconids|myconid]] spore-clouds, Rakdos strafing, [[Dalya Bara|Dahlia]] + myconids) while the party **Pass-Without-a-Trace climbs**, throws Eternals off the steps, and rides **[[Ugin]] ("Eugene")** up. Atop it, **[[Ogre]] plunged into the spark-ball → his apotheosis** (reunion with [[Ur-Ogre-lan]]). **Summit breached, but the Citadel/Bolas stand** — the session ends mid-assault; the kill is the **finale (05/31)**. *(Do not import a finale outcome here.)*
+
+- **[[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26): ⭐ THE FINALE — Bolas falls at the summit.** The campaign's last battle plays out atop the Citadel: [[Nicol Bolas|Bolas]] (Dragon-God, near-untouchable while siphoning) is worn down by the whole coalition — [[Liliana Vess|Liliana]]'s flipped God-Eternals draining him, **[[Ogre]] (now [[Ur-Ogre-lan]]) pushing the spark-orb away to choke the siphon**, [[Orphea "Orphie" Levistus|Orphie]]'s **[[HellSmasher]]**, dragon-[[Varis Aestra|Varis]], [[Teferi]], [[Rakdos]]/[[A Shady Individual|Penny]], and [[Molly]]. **[[Sanis Reylana|Sanis]]'s Hail of Thorns + Ava's Longbow breaks the spark-tether**; the orb destabilizes and **[[Aphonexa]] sacrifices herself** to release it safely. Bolas's spark is harvested by the God-Eternals and **[[Ugin]] seals his soul into the [[Dragonhedron]]**, self-exiling as warden. The party **climbs down into a city full of cheering and lanterns** — Bolas defeated, the Citadel's reign over. The epilogue moves to **[[Ogre's Traveling Tavern|Ogre's Traveling Tavern]]** in the Rakdos district. ✅ **Bolas defeated & contained. Multiverse saved. No PC deaths.**
+
 ## Related
 - [[Nicol Bolas]]
 - [[Niv-Mizzet]]
@@ -40,3 +44,10 @@ A towering black pyramid. A circular aperture opens at its apex, through which [
 - [[PP_15_022226_Reforging_the_Guildpact]]
 - [[PP_17_040226_The_Guildpact_Reborn]]
 - [[PP_18_040526_Pacts_and_Power]]
+- [[Liliana Vess]]
+- [[Ur-Ogre-lan]]
+- [[Ugin]]
+- [[Dragonhedron]]
+- [[Aphonexa]]
+- [[PP_19_041926_Hi_Im_Ogre]]
+- [[PP_21_053126_I_Miss_You_Buddy]]

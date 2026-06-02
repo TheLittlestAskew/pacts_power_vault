@@ -40,6 +40,9 @@ A stone ring containing **ten guild seats** around a central **pedestal**. The c
 - **The surfaced Maze's End hosts the grand council.** The ten-guild **ritual die/seats** are now at the **surface central plaza** (the spot where [[Jace Beleren|Jace]] gave his Session-1 speech — full circle). **[[Niv-Mizzet]]** (gargantuan again) places a claw on the central die and the ten guild seats channel a **prismatic guild-beacon**; every standing guild's representatives converge and **put their forces' energies on the die to formally unite against [[Nicol Bolas|Bolas]]** — **[[Benji]] gestures [[Sanis Reylana|Sanis]]** to the **Dimir** die (he carries Lazav within). **[[Teferi]]** arrives here with the **[[Zhalfir army]].**
 - Niv's directive from this seat: confront [[Nicol Bolas|Bolas]] **directly at his [[Bolas's Citadel|Citadel]]** — the party departs to find a tunnel route in (the [[The Drillinator|Drillinator]] / freed Rotworms).
 
+### [[PP_19_041926_Hi_Im_Ogre|PP 19 — Hi, I'm Ogre]] (04/19/26)
+- **The regroup point before the final climb.** A comedy of planeswalking lands the party back at Maze's End to **[[Niv-Mizzet]]** — only [[Sanis Reylana|Sanis]] succeeds first (nat 20); the others follow his etheric trail (with advantage). Here Niv warns this is *"a fight for the future of this plane,"* grants the party a pick of **personal allies** ([[A Shady Individual|Penny]], [[Molly]], [[Nissa]]) for the ascent, and relays Dimir intel (Bolas's forces dwindling, God-Eternals pulled back, [[Liliana Vess|Liliana]] atop the Citadel). From here the party heads **up the Rotworm tunnel to [[Bolas's Citadel]]** for the final assault.
+
 ## Related
 - [[Implicit Maze]]
 - [[Guildpact]]
@@ -53,3 +56,5 @@ A stone ring containing **ten guild seats** around a central **pedestal**. The c
 - [[PP_15_022226_Reforging_the_Guildpact]]
 - [[PP_16_031326_A_Scared_Child]]
 - [[PP_17_040226_The_Guildpact_Reborn]]
+- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_19_041926_Hi_Im_Ogre]]

@@ -3,9 +3,9 @@ type: npc
 race: God-Eternal (undead deity)
 class: Unknown (god-warrior)
 affiliation: "Nicol Bolas / The Second Sun"
-status: "Active (deployed to the Boros/Izzet front)"
+status: "Liliana's ally — helped harvest [[Nicol Bolas|Bolas]]'s spark in the finale (PP 21); freed of the Chain Veil and turned on Bolas (PP 20)"
 first_appearance: "PP 14 — Hold the Wall (02/13/26)"
-location: "The Izzet/Boros front line, Tenth District, Ravnica"
+location: "The summit of [[Bolas's Citadel]], Tenth District, Ravnica"
 aliases: [Kefnet, "Khephnet", "God-Eternal Kefnet"]
 ---
 
@@ -29,6 +29,14 @@ A god-tier ranged threat in Bolas's invasion. In [[PP_14_021326_Hold_the_Wall|PP
 - Threw a **golden god-metal spear** at dragon-[[Varis Aestra|Varis]]; **[[Sanis Reylana|Sanis]]'s** blessed Hail-of-Thorns arrow **knocked it off course (−2 DC)**, and Varis saved (Dex save adv 20 → 30 force, immune).
 - Still standing at session's end alongside [[God-Eternal Bontu|Bontu]], [[God-Eternal Rhonas|Rhonas]], and [[Nicol Bolas|Bolas]] as the party breaks off the held wall.
 
+### [[PP_20_051426_I_Just_Need_Your_Soul|PP 20 — I Just Need Your Soul]] (05/14/26)
+- **Confirmed the third marionetted God-Eternal.** Recalled to the summit of [[Bolas's Citadel]], Kefnet (the bird-god) is one of the **3 remaining God-Eternals marionetted by [[Liliana Vess|Liliana]]** via the [[The Chain Veil|Chain Veil]] — resolving the S19 "unconfirmed third" flag (the trio is **Bontu / Rhonas / Kefnet**; [[God-Eternal Oketra|Oketra]] downed). During the standoff he **lobs AoE feather-blasts** while [[God-Eternal Bontu|Bontu]] duels [[Molly]] and [[God-Eternal Rhonas|Rhonas]] rains artillery.
+- **⭐ TURNED on Bolas.** With [[Liliana Vess|Liliana]] freed (Ogre breaks the Chain Veil's grip; [[Varis Aestra|Varis]] rewrites her contract to [[Rinestra "Rin" Genleth|Rin]]), she **flips Kefnet — with [[God-Eternal Bontu|Bontu]] and [[God-Eternal Rhonas|Rhonas]] — against [[Nicol Bolas|Bolas]]** as the session ends. **Re-aimed at Bolas for the finale (05/31).** *(Do not import the finale.)*
+
+### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26) — ⭐ HARVESTS BOLAS'S SPARK
+- **Drains the dragon through the final battle.** Under [[Liliana Vess|Liliana]]'s command, Kefnet (with [[God-Eternal Bontu|Bontu]] and [[God-Eternal Rhonas|Rhonas]]) **steadily drains [[Nicol Bolas|Bolas]]'s power** during the summit war of attrition.
+- **⭐ Harvests his spark.** When Bolas falls (siphon broken by [[Sanis Reylana|Sanis]]), Liliana's **Lazotep-plated God-Eternals absorb his spark** — Kefnet among them. The flipped army wins the day.
+
 ## Relationships
 - [[Nicol Bolas]] / [[The Second Sun]] — Serves Bolas's invasion of Ravnica.
 - [[God-Eternal Bontu]] — Fellow God-Eternal shelling the same front.
@@ -44,4 +52,9 @@ A god-tier ranged threat in Bolas's invasion. In [[PP_14_021326_Hold_the_Wall|PP
 - [[God-Eternal Bontu]]
 - [[God-Eternal Rhonas]]
 - [[God-Eternal Oketra]]
+- [[Liliana Vess]]
+- [[Molly]]
+- [[Bolas's Citadel]]
 - [[PP_14_021326_Hold_the_Wall]]
+- [[PP_20_051426_I_Just_Need_Your_Soul]]
+- [[PP_21_053126_I_Miss_You_Buddy]]
