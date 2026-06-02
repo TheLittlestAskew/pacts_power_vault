@@ -9,7 +9,7 @@ party_level: 11
 
 # PP_17 — The Guildpact Reborn
 
-> Working from the **raw** transcript (no separate "-Corrected" version). No spell-check pass (per Taylor). **Title is a working placeholder — pending Taylor's pick (see end).**
+> Working from the **raw** transcript (no separate "-Corrected" version). No spell-check pass (per Taylor). Title **"The Guildpact Reborn"** confirmed by Taylor.
 > **Numbering:** filed **Session 17 / PP_17**.
 > ⚠️ **Speaker labels in the raw transcript are unreliable** — the auto-transcriber repeatedly mis-tags Sanis's *Ava's Longbow* shots as "Rin," and Rin's *Mass Cure Wounds / Bless / Channel Divinity* as "Orphie." Attribution below is corrected against the **DDB roll log** and each PC's class kit.
 
