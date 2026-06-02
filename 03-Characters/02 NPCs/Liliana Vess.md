@@ -29,6 +29,12 @@ Claiming a "little birdie" (a vision of [[Ugin]]) told her a god's apotheosis wo
 - Arrived **by portal** at the [[Reylana mansion|Reylana Estate]] (Golgari war camp) and went inside with [[Vraska]].
 - Overheard by the hidden party through a vent — and **winked at them** (she knows they're there; the double-agent ambiguity continues). Her exchange with Vraska confirmed the **Rakdos invasion was thwarted**, **[[Borborygmos]] roused**, the [[Simic Combine|Simic]] still loyal with the [[Immortal Sun]], **[[Tezzeret]] dead**, **[[Kaya Cassir|Kaya]] dealt with**, and the **Golgari flanking march through hollow [[Orzhov Syndicate|Orzhov]]**.
 
+### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+- **Named in [[Vraska]]'s dying words** as the endgame linchpin: *"This isn't the last of it, Bolas. The power he granted me wasn't enough. **In the end, it's all up to Liliana.**"* The clue points the campaign's resolution at Liliana — the bound double-agent under [[Nicol Bolas\|Bolas]]'s [[The Chain Veil\|chain veil]] contract — flagged as an endgame thread. (Liliana herself does not appear on-screen this session.)
+
+### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+- **Status update via [[Teferi]] (off-screen).** In Teferi's Gatewatch briefing at the grand council, Liliana is reported **working for [[Nicol Bolas|Bolas]]** — using **necromancy + the [[The Chain Veil|Chain Veil]]** (possibly the hand **animating the [[Eternals]]**) — *"but also not,"* reaffirming the bound-double-agent ambiguity. Consistent with the Vraska clue (*"it's all up to Liliana"*); she remains the endgame linchpin. (Does not appear on-screen.)
+
 ## Relationships
 - [[Nicol Bolas]] — Contracted to him via the chain veil; a bound (claimed reluctant) double agent.
 - [[Chandra Nalaar]] — Betrayed her at [[Strixhaven]] (as "Onyx"); pure enmity.
@@ -44,3 +50,5 @@ Claiming a "little birdie" (a vision of [[Ugin]]) told her a god's apotheosis wo
 - [[Vraska]]
 - [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
+- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_18_040526_Pacts_and_Power]]

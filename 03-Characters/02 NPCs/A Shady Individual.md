@@ -23,6 +23,9 @@ A Rakdos contact and a candidate **Rakdos representative/token** for the [[Niv-M
 - **Defended a coven of blood witches** ritually trying to wake **[[Rakdos]]** (his giant caged heart) while Rin's Wall of Fire incinerated 100+ Eternals.
 - The effort **woke Rakdos** — *"The show shall begin."* The eavesdropped [[Liliana Vess|Liliana]]/[[Vraska]] conversation later confirmed the **Rakdos invasion was thwarted** with help from "an Aasimar ghost conjuring a wall of flame" (Rin's dream was real) — making Penny a confirmed Rakdos asset.
 
+### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+- **At the grand council** of all ten guilds (surfaced [[Maze's End]]), Penny appears in the contingent the session note groups with **[[House Dimir|Dimir]]** ([[Hikara]], Penny, [[Benji]]) as the guilds channel their forces onto the ritual die to unite against [[Nicol Bolas|Bolas]]. (⚠ Note: Penny is the party's **[[Cult of Rakdos|Rakdos]]** contact elsewhere in the vault; her grouping with the Dimir reps this session may be a raw-transcript attribution quirk — flagged, not resolved.)
+
 ## Relationships
 - [[Rakdos]] — Held a Rakdos-transferred demon contract; defends his rousing.
 - [[Rinestra "Rin" Genleth|Rin]] — Dream-ally in waking Rakdos.
@@ -35,3 +38,4 @@ A Rakdos contact and a candidate **Rakdos representative/token** for the [[Niv-M
 - [[Liliana Vess]]
 - [[The Chain Veil]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
+- [[PP_18_040526_Pacts_and_Power]]

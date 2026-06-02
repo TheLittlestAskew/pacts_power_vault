@@ -26,10 +26,13 @@ As of [[PP_03_081025_Thats_Why_No_One_Will_Remember_Your_Name|Transcript 03]], t
 - **Pre-Transcript:** Party's traveling home/base since the early sessions.
 - **[[PP_02_072725_I_Cant_Rebuild_You|Transcript 02]] (07/27/25):** Used as a flying battle-vehicle in "Operation Celery"; destroyed by God-Eternal [[God-Eternal Oketra|Oketra]].
 - **[[PP_03_081025_Thats_Why_No_One_Will_Remember_Your_Name|Transcript 03]] (08/10/25):** Confirmed destroyed; belongings still inside the wreck.
+- **[[PP_12_011126_The_Masquerade_Auction|PP 12]] (01/11/26):** **"Ogre's Tavern 2"** — an **upgraded Airstream recreation** (better etheric battery/ovens; "a Cadillac to the old Honda CRV") — surfaced as **Item 1 at the [[Krenko Incorporated]] auction.** [[Varis Aestra|Varis]] **won it back for 41,000 gp** (reopened Orzhov bank funds) after a bidding war vs [[Isiah Ja-Faank|Isaiah]] and a purse-throwing goblin lady, ending the brawl with Hold Person. Whether it's the salvaged original or a true replica is left open in-fiction ("who's to say?"). **Restores the party's mobile-base motif (now upgraded).**
 
 ## Related
 - [[Ogre]]
 - [[Scrappy]]
 - [[The Breakfast Club]]
 - [[God-Eternal Oketra]]
+- [[Krenko Incorporated]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
+- [[PP_12_011126_The_Masquerade_Auction]]

@@ -58,6 +58,12 @@ Grandiose, cheerful, and theatrical — greets a desperate fight as "the fanfare
 - Urged the party to **hear [[Liliana Vess\|Liliana]] out** during the confrontation.
 - **Tackled away from the fight** with [[Chandra Nalaar\|Chandra]]; Liliana **dimension-doored** them both to the Great Tree of [[Vitu-Ghazi]], **tasking Isiah to care for the unconscious Chandra** and to take [[Nissa]] to the [[Simic Combine]] (where surviving [[Flameseekers of Truth]] are experimented on). Separated from the main party.
 
+### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+- Resurfaced at the **[[Krenko Incorporated]] masquerade auction** in Ixalan garb, going by the alias **"Johnny,"** blitzed on the bar's **paralysis cocktails** (*"The cocktail of paralysis — it really makes my fingers tingle."*) and IDed by [[Rinestra "Rin" Genleth\|Rin]] (Insight 28).
+- Accompanied by **[[Kwatli Pakal]]** (going by **"Jareth Wig"**), revealed as an Ixalan ruler in disguise. (One of the **two jet-black-masked figures** anonymously sent [[Sanis Reylana\|Sanis]] a **sleep-spiked drink** — Rin sniffed it out, Medicine 30.)
+- **Bid on Item 1, "Ogre's Tavern 2"** against the goblin lady and [[Varis Aestra\|Varis]]; the **goblin lady hurled her ~50-lb money handbag** and knocked him **off the box-seat balcony** ([[Orphea "Orphie" Levistus\|Orphie]] caught the handbag, Athletics 27, and kept it). The two brawled.
+- **Frozen by [[Varis Aestra\|Varis]]'s upcast Hold Person** (subtle-cast on both him and the goblin lady; both failed DC 17), ending the fight and clearing Varis's winning 41,000 gp bid.
+
 ## Key Quotes
 
 > **Transcript 04 (08/26/25) — Mid-battle, atop Niv-Mizzet's body**
@@ -72,4 +78,7 @@ Grandiose, cheerful, and theatrical — greets a desperate fight as "the fanfare
 - [[Eighth Precinct Jail]]
 - [[Bone Mine]]
 - [[Niv-Mizzet]]
+- [[Kwatli Pakal]]
+- [[Krenko Incorporated]]
 - [[PP_04_082625_The_Spark_and_the_Swarm]]
+- [[PP_12_011126_The_Masquerade_Auction]]

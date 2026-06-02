@@ -22,6 +22,9 @@ A Gruul fixture and a candidate **Gruul representative/token** for the [[Niv-Miz
 - Appeared in [[Ogre]]'s concurrent prophetic dream of [[The Red Wastes]], egging Ogre on as he rallied the deposed [[Borborygmos]].
 - After Ogre crotch-punched [[Domri Rade]], cheered him: *"You lit the fire, homie. Keep the trees burning now."*
 
+### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+- **At the grand council** of all ten guilds (surfaced [[Maze's End]]), Sharpdog and his "cabbage-stink barbarians" arrive with [[Borborygmos]] to represent the **[[Gruul Clans]]** — putting Gruul's forces on the ritual die to formally unite against [[Nicol Bolas|Bolas]]. (Orphie's POV: *"Sharpdog and his cabbage-stink barbarians."*)
+
 ## Relationships
 - [[Borborygmos]] — Co-consolidated Gruul power; backs his return.
 - [[Domri Rade]] — Rival new leader.
@@ -33,3 +36,4 @@ A Gruul fixture and a candidate **Gruul representative/token** for the [[Niv-Miz
 - [[Borborygmos]]
 - [[Domri Rade]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
+- [[PP_18_040526_Pacts_and_Power]]

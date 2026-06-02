@@ -34,6 +34,11 @@ Skittish and apologetic but sincere. [[Rin]] (Insight 26+) read her as meaning w
 - Took Scrappy's reins and ran off toward the Izzet Guild "with alarming speed for her body"
 - ⚠ Transcript renders her name inconsistently this session ("Vrul," "Rula," and once "Brula Galadora"); corrected to the canonical **Brula**. The surname "Galadora" (single occurrence) is unconfirmed and not adopted.
 
+### [[PP_07_100525_The_Reylana_Infiltration|PP 7 — The Reylana Infiltration]] (10/05/25)
+- Found imprisoned in a cell beneath the [[Reylana mansion|Reylana Estate]] (now a Golgari war camp), beaten and with her powers suppressed. [[Orphea "Orphie" Levistus|Orphie]] kicked the cell door off (Athletics 22).
+- Revealed to be one of the **[[Flesh-golem sisters]]** — her **arm fell off and regrew**, marking her as a flesh-golem "soul sister" of the same line as [[Salena|Selena]] (and a possible blood relation of [[Sanis Reylana|Sanis]]); her "father" was the doctor the party killed, and she has **no mother** ([[Sanis Reylana|Sanis]]/[[Rin]] Insight 21). *(This retroactively contextualizes her T03 were-zombie reading.)*
+- A **necromantic arcane shell** (Arcana 17) blocked her transforming; [[Ogre]]'s Dispel Magic (L3, 15) **failed** to break it. The party **freed her** and sent her to stealth out to the [[Selesnya Conclave]].
+
 ## Relationships
 - [[Salena|Selena]] — Fellow were-zombie; sent by/connected to her.
 - [[Sanis Reylana|Sanis]] — Delivered the bone and the message about his sister.
@@ -44,4 +49,7 @@ Skittish and apologetic but sincere. [[Rin]] (Insight 26+) read her as meaning w
 - [[Bone Mine]]
 - [[Sanis Reylana]]
 - [[Strixhaven]]
+- [[Flesh-golem sisters]]
+- [[Reylana mansion]]
 - [[PP_03_081025_Thats_Why_No_One_Will_Remember_Your_Name]]
+- [[PP_07_100525_The_Reylana_Infiltration]]

@@ -26,6 +26,10 @@ The ancestral mentor figure of the Levistus line. In dreams she meets Orphie acr
 - Stated she "only sleeps with demons," implying Orphie's **demonic ancestor** is among her past lovers (named candidates — Malthagor, Jetmir, Belzenlok, Carter, "Face me" — were a **bit**; none confirmed canon).
 - Left Orphie waking **tipsy**.
 
+### [[PP_16_031326_A_Scared_Child|PP 16 — A Scared Child]] (03/13/26)
+- **Prayed to — and silent.** At [[Maze's End]], dragged into the [[Augur of Bolas|"Ogre of Bolas"]]'s smog and reliving a **childhood-abuse flashback** (her father's pre-reconciliation echo scolding her), [[Orphea "Orphie" Levistus|Orphie]] did something she almost never does: instead of reaching for the rage, she **reached for Athena and asked for help** (*"Help."*).
+- **No help came.** The roll came up empty (**d4 = 1 — "no help comes"**); for the first time, the prayer went unanswered. A rare "the god is silent" beat — Orphie fled the mist as "a scared child." (Whether Athena's silence is meaningful or simply the dice is left open.)
+
 ## Relationships
 - [[Orphea "Orphie" Levistus|Orphie]] — Descendant; ancestral mentor.
 - [[Blazebringer]] — Wielded it before Orphie.
@@ -37,3 +41,4 @@ The ancestral mentor figure of the Levistus line. In dreams she meets Orphie acr
 - [[Hazoret]]
 - [[Dominaria]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
+- [[PP_16_031326_A_Scared_Child]]

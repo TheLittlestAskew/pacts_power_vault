@@ -30,8 +30,11 @@ The [[Selesnya Conclave]] serves as neutral ground. The [[Orzhov Syndicate]] has
 | Session | Event |
 |---|---|
 | Early Session 16 | Tenth District split revealed after the party woke from their coma |
+| Transcript 08 (10/19/25) | The party infiltrated the Second Sun's underwater [[Simic Combine\|Simic]] facility ([[Second Sun Labs]]) — confirmed as the **[[Nicol Bolas\|Bolas]] monstrosity factory** building **[[Eternals\|Eternal]]-plated [[Zombie-Simic mutants]]**. Run by [[Lord Reylana]] & [[Lady Reylana]] (who weaponized [[Salena\|Selena]]) and [[Prime Speaker Megandar]] of the Simic. Confrontation tipped into combat (cliffhanger). |
 
 ## Related
 
 - [[Campaign Dashboard]]
 - [[Tenth District]]
+- [[Second Sun Labs]]
+- [[PP_08_101925_Blood_Runs_Thicker_Than_Water]]

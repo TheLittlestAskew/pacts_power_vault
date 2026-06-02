@@ -42,6 +42,14 @@ Pragmatic, overworked, wry under pressure. Greets the party warmly as familiar f
 - Waved the party through the lines with a resigned **"good luck"**, knowing they'd go regardless
 - Gave a scouting report: the [[Eternals]] front line had **pulled back** after the party's help downing [[God-Eternal Oketra\|Oketra]], but the [[Golgari Swarm\|Golgari]] district is densely populated and heavily damaged
 
+### [[PP_14_021326_Hold_the_Wall|PP 14 — Hold the Wall]] (02/13/26)
+- **Held the Bulwark.** Found on the [[Izzet League|Izzet]]/[[Boros Legion|Boros]] battlements directing **Boros Angel Fire** and **Izzet artillery** against the Eternal **pyramids** climbing the wall; the party landed beside her and joined the defense.
+- Her line held through the God-Eternal spear-barrage ([[God-Eternal Bontu|Bontu]]/[[God-Eternal Kefnet|Kefnet]]) and a friendly-fire beam from [[Nicol Bolas|Bolas]], stabilizing once **[[Kwatli Pakal|Jareth]]'s [[Ixalan]] armies** and **[[Narset]]'s dragons** arrived. A Boros Angel saluted dragon-[[Varis Aestra\|Varis]] for clearing pyramids off the wall.
+- Stands as the [[Boros Legion]]'s candidate representative for the Guildpact ritual.
+
+### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+- **At the grand council** of all ten guilds (surfaced [[Maze's End]]), Molly attends for the **[[Boros Legion]]** alongside the angelic guildmaster **[[Aurelia]]** as the guilds put their forces on the ritual die to formally unite against [[Nicol Bolas|Bolas]].
+
 ## Key Quotes
 
 **MOLLY** · Transcript 02 · [Serious]
@@ -54,4 +62,7 @@ Pragmatic, overworked, wry under pressure. Greets the party warmly as familiar f
 - [[Boros Legion]]
 - [[The Breakfast Club]]
 - [[The Second Sun]]
+- [[Aurelia]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
+- [[PP_14_021326_Hold_the_Wall]]
+- [[PP_18_040526_Pacts_and_Power]]

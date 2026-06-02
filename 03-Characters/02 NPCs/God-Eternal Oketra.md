@@ -41,6 +41,9 @@ A 60-ft hulking figure wielding a longbow with white-fletched arrows. Wears heav
 - Killed by the party (with [[Steve]], [[Chandra Nalaar|Chandra]], and [[Molly]]'s Skyknights): grappled/restrained by dragon-[[Varis Aestra|Varis]] and Steve, armor sabotaged by [[Ogre]]
 - [[Ogre]] harvested her soul through [[Witch]]; [[Orphea "Orphie" Levistus|Orphie]] carved her name into the prone god's thigh
 
+### [[PP_14_021326_Hold_the_Wall|PP 14 — Hold the Wall]] (02/13/26)
+- **Referenced (deceased).** As [[Nicol Bolas]] deployed the surviving God-Eternals **[[God-Eternal Bontu|Bontu]]**, **[[God-Eternal Kefnet|Kefnet]]**, and **[[God-Eternal Rhonas|Rhonas]]**, the note reaffirms **Oketra was killed earlier and [[Ogre]] holds her essence** — the only God-Eternal the party has felled.
+
 ## Key Quotes
 
 **SAMUT (about Oketra)** · Transcript 02 · [Threat / Important to Story]
@@ -51,5 +54,9 @@ A 60-ft hulking figure wielding a longbow with white-fletched arrows. Wears heav
 - [[Nicol Bolas]]
 - [[The Second Sun]]
 - [[Samut]]
+- [[God-Eternal Bontu]]
+- [[God-Eternal Kefnet]]
+- [[God-Eternal Rhonas]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
 - [[PP_03_081025_Thats_Why_No_One_Will_Remember_Your_Name]]
+- [[PP_14_021326_Hold_the_Wall]]

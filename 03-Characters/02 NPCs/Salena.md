@@ -53,8 +53,16 @@ Sister to [[Sanis Reylana|Sanis]] of the [[Reylana Family]].
 - She **revives the Myconid colony** (incl. [[Thal]]), **blesses every PC**, and pulls [[Sanis Reylana\|Sanis]] aside to **absolve him** of guilt for her death — materializing briefly for a hug and granting a one-time **"seed of renewal"** (Revivify-type cast).
 - **Bound to the [[Bone Mine]]** physically, but her blessing travels with the party. This resolves the death→return arc: Early-S4 death → were-zombie rebirth → **divine ascension as [[Aphonexa]]**. See **[[Aphonexa]]** for her divine page.
 
+### [[PP_08_101925_Blood_Runs_Thicker_Than_Water|PP 8 — Blood Runs Thicker Than Water]] (10/19/25)
+- **Her murderer named.** In the underwater [[Second Sun Labs]], **[[Lord Reylana]] confessed to killing her deliberately, as part of the plan** — *"That was part of the plan, you imbecile… I killed Selena."* Her **Reylana blood** is why they turned her into a **were-zombie**, "the most powerful weapon to come out of the [[Golgari Swarm|Golgari]] Guild" and "a precious tool to [[Nicol Bolas|Bolas]]."
+- The party **hid that she ascended** to [[Aphonexa]] — letting Lord Reylana think she is still on his side / a usable weapon.
+- This resolves the long-standing "what caused her Early-S4 death" thread: it was an **engineered filicide** to forge a Reylana-blooded were-zombie weapon. (Earlier, [[Sanis Reylana|Sanis]] blamed [[Isiah Ja-Faank]] — that connection is recontextualized by the Reylana plan.)
+
 ## Related
 - [[Aphonexa]]
+- [[Lord Reylana]]
+- [[Lady Reylana]]
+- [[Second Sun Labs]]
 - [[Thal]]
 - [[Bone Mine]]
 - [[Sanis Reylana]]

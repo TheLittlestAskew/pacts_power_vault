@@ -111,6 +111,161 @@ Campaign-wide tracker of artifacts, items, and significant objects: owner, state
 | [[The Chain Veil]] | [[Liliana Vess]] | Liliana's artifact — a veil of chains that controls the dead; bound to her by a demon→[[Nicol Bolas\|Bolas]] contract; deflected [[Chandra Nalaar\|Chandra]]'s Scorching Ray. | Transcript 06 (09/17/25) |
 | Dimension-door scroll | Spent ([[Liliana Vess]]) | Used to escape with [[Chandra Nalaar\|Chandra]], [[Isiah Ja-Faank]], and the [[Eternals]] (→ [[Vitu-Ghazi]]). | Transcript 06 (09/17/25) |
 
+## Transcript 07 (10/05/25) — [[PP_07_100525_The_Reylana_Infiltration|The Reylana Infiltration]]
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| Potion of Command Undead | [[Ogre]] | **Gained.** Left in a [[Reylana mansion\|Reylana Estate]] cell by the unseen "Time Lord" benefactors with a note: *"Thought y'all might need this."* [[Ogre]] retrieved the picnic basket via Mage Hand (Sleight of Hand 13). | Transcript 07 (10/05/25) |
+| Selesnya amulet | [[Rin]] | **Recovered** — she had given it away at some point and got it back; it serves as her **Selesnya token** for the [[Niv-Mizzet]] revival ritual. | Transcript 07 (10/05/25) |
+| Invisibility gauntlets | Party | Used to hide from the Reylana guards. A **failed activation = blinded 1 min + the gauntlet breaks**; **[[Rin]]'s gauntlet broke** this session. | Transcript 07 (10/05/25) |
+| Reylana family necklace | [[Sanis Reylana\|Sanis]] | Functions as the **key** to the hidden basement door beneath the [[Reylana mansion\|Reylana Estate]]. | Transcript 07 (10/05/25) |
+| Stolen Golgari battle-plan intel | [[Sanis Reylana\|Sanis]] / [[Rin]] | The Golgari's planned **flanking march route through the hollow [[Orzhov Syndicate\|Orzhov]] district**, salvaged from Lord Reylana's study (memorizing the full plans failed, Int nat-1). | Transcript 07 (10/05/25) |
+| [[Blazebringer]] | [[Orphea "Orphie" Levistus\|Orphie]] | **Lore reveal:** partly forged of **Amonkhet / [[Hazoret]] metal** (per [[Athena]]) — why it never rusts or breaks. No state change. | Transcript 07 (10/05/25) |
+| Dragon Spirit Box | [[Varis Aestra\|Varis]] | [[Ugin]] confirmed "you do have Niv-Mizzet with you" — the box is required at the Nexus / [[Implicit Maze]]. | Transcript 07 (10/05/25) |
+
+## Transcript 08 (10/19/25) — [[PP_08_101925_Blood_Runs_Thicker_Than_Water|Blood Runs Thicker Than Water]]
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[Mizzium Apparatus]] | [[Varis Aestra\|Varis]] | Used to cast **Water Breathing** on the whole party (24h) for the underwater infiltration (29). | Transcript 08 (10/19/25) |
+| Water Breathing (24h buff) | Party | Active party-wide buff from Varis's [[Mizzium Apparatus]]; lets the group operate in the flooded [[Second Sun Labs]]. | Transcript 08 (10/19/25) |
+| Second Sun SOPs / code of conduct | (Facility) | Read under intimidation (13); notably **lacks any "respect coworkers" clause** — used as leverage against the researchers on [[Carl]]'s behalf. Not taken. | Transcript 08 (10/19/25) |
+| Anchovy pizza | (Discarded) | **Improvised weapon** — [[Orphea "Orphie" Levistus\|Orphie]] slapped it down the lead researcher's face (unarmed strike 30; *"don't clean that one up"*). | Transcript 08 (10/19/25) |
+| The Niv-Mizzet box (Dragon Spirit Box) | Party / [[Varis Aestra\|Varis]] | Still carried; not used this session. | Transcript 08 (10/19/25) |
+
+> *No formal loot acquired — an infiltration/confrontation session ending pre-combat.*
+
+## Transcript 09 / [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10]] (11/30/25) — What Are You Waiting For, Sanis?
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[Lord Raylana Specter]] | [[Ogre]] (via Witch-blade / [[Leather Daddy Game Boy]]) | **Acquired.** [[Lord Reylana\|Lord Raylana]]'s reaped soul, bound by [[Ogre]] on the killing blow and **commanded to protect [[Sanis Reylana\|Sanis]]** (*"Protect your son from your wife"*). A new guardian/combat asset. | PP 10 (11/30/25) |
+| [[Leather Daddy Game Boy]] (LDGB) | [[Ogre]] | **Channel for the soul-reaping** — processed [[Lord Reylana\|Lord Raylana]]'s spirit before Ogre expelled it as the bound [[Lord Raylana Specter\|Specter]]. Keeps accumulating powerful spirits. | PP 10 (11/30/25) |
+| [[Blazebringer]] | [[Orphea "Orphie" Levistus\|Orphie]] | Used to **smash [[Vuthala]]'s tube** (freeing him) and as Orphie's main melee weapon; also **thrown** at the parents (with daggers). Recovered after the throws. | PP 10 (11/30/25) |
+| Orphie's battle-axe (thrown) | [[Orphea "Orphie" Levistus\|Orphie]] | **Thrown** at Lord Raylana (44 dmg) along with daggers, then **reclaimed from his corpse**. Retained. | PP 10 (11/30/25) |
+| Reylana family short sword | (Lost in the flood) | [[Lord Reylana\|Lord Raylana]]'s weapon (bore the Reylana crest); **lost** in the flooded/collapsed lab. | PP 10 (11/30/25) |
+| Potion of Healing | [[Sanis Reylana\|Sanis]] | **Spent** — self-heal (2d4+2 = 5). | PP 10 (11/30/25) |
+| [[Vuthala]] (rescued ally, not loot) | Party | **Freed & recruited**; reverted to merfolk, unconscious, carried out by the party. | PP 10 (11/30/25) |
+
+> Note: the [[Second Sun Labs]] **collapsed** after the fight (cause unknown — not the party; [[Carl]] suspected). No facility loot recovered.
+
+## [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| 5 Healing Potions (2d4+2) | Party (1 each) | **Gained** — a gift from [[Benji]]. | PP 11 (12/14/25) |
+| 5 Superior Healing Potions (8d4+8) | Party (1 each) | **Gained** — [[Sanis Reylana\|Sanis]] redeemed the Aestra family's "premium tier insurance" at the [[Selesnyan Conclave\|Conclave]] doctor. | PP 11 (12/14/25) |
+| 200 gp (auction fund) | Party | **Gained** — donated by [[Saskia]] & [[Myra]] toward buying the [[Immortal Sun]] (Plan A). | PP 11 (12/14/25) |
+| Varis's Orzhov amulet | → [[Benji]] | **Given** to Benji as a token of trust for the guild fundraising canvass. | PP 11 (12/14/25) |
+| Aestra sending stone | [[Varis Aestra\|Varis]] | **Gained** — contact stone to coordinate the [[First Church of Orzhov]] bank reopening with his parents. | PP 11 (12/14/25) |
+| "The Sultry Simic Maiden" (signed) | [[Varis Aestra\|Varis]] → [[Saskia]] | **Gifted** to Saskia; [[Sanis Reylana\|Sanis]] is its canonical author. | PP 11 (12/14/25) |
+| [[Sword of Feast and Famine]] hilt | [[Ogre]]/party | **Retained** — [[Krenko]] wants it back; party declined to surrender it without the [[Immortal Sun]] (blade broken; Ogre's Witch summons it to hand regardless). | PP 11 (12/14/25) |
+| "Sis" / [[Leather Daddy Game Boy]] (LDGB) | [[Ogre]] | **Disputed** — [[Benji]] asserts it is partly **Dimir property** (*"I'll need that at some point"*); Ogre refused. No state change. | PP 11 (12/14/25) |
+| [[Vuthala]] (rescued ally, not loot) | → [[Selesnyan Conclave\|Selesnya Conclave]] (via [[Benji]]) | **Handed off** to recover off-screen. | PP 11 (12/14/25) |
+| [[Immortal Sun]] | [[Krenko]] (target) | **Located** — held by Krenko at [[Krenko Incorporated]]; to be **auctioned tonight** to the highest bidder. | PP 11 (12/14/25) |
+
+## [[PP_12_011126_The_Masquerade_Auction|PP 12]] / Transcript 11 (01/11/26) — The Masquerade Auction
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| First Bank of [[Orzhov Syndicate\|Orzhov]] / [[Pecunia]] vault | [[Varis Aestra\|Varis]] (bonded) | **Reopened.** [[Varis Aestra\|Varis]] reinstated the bank via the [[Pecunia]] Grand Vault portal and **bonded to its debt-magic** — can **conjure gold / issue loans at will.** Vault reserve ~100k gp (the rest consumed by the [[Eternals]]); **−41,000 gp** for "Ogre's Tavern 2" → **~59,000 gp remaining.** | PP 12 (01/11/26) |
+| Diamond (Chromatic Orb component) + ~5 jewelry pieces | [[Varis Aestra\|Varis]] | **Recovered** from the Aestra family quarters at the [[First Church of Orzhov]] (Investigation nat 20). | PP 12 (01/11/26) |
+| Orzhov loan-agreement document | [[Varis Aestra\|Varis]] | **Recovered** — Varis reads it by touch; recipient a "random Joe Schmo." Part of his innate bank-knowledge bonding. | PP 12 (01/11/26) |
+| [[Ava's Longbow of Power]] | [[Sanis Reylana\|Sanis]] (loaned by [[Ava]]) | **Loaned** — the copper dragon [[Ava]]'s gold-accented longbow, lent for the heist (she hissed at his Perun's-Last-Word bow but lent hers). | PP 12 (01/11/26) |
+| "Ogre's Tavern 2" (upgraded Airstream) | Party | **Won at auction for 41,000 gp** (Orzhov bank funds) — an upgraded recreation of [[Ogre's Traveling Tavern\|Ogre's Tavern]]; restores the party's mobile base. | PP 12 (01/11/26) |
+| Goblin lady's money-handbag (~50 lb) | [[Orphea "Orphie" Levistus\|Orphie]] | **Caught & kept** (Athletics 27) after the goblin lady hurled it at [[Isiah Ja-Faank\|Isaiah]]. | PP 12 (01/11/26) |
+| Rekka's "tap-it" token | [[Rinestra "Rin" Genleth\|Rin]] | **Gained** — given by covert ally [[Rekka]] "for if things go down" at the auction. | PP 12 (01/11/26) |
+| [[Immortal Sun]] | [[Krenko]] (being stolen) | **Final auction lot** in a covered, chain-hung cage; **Plan A (buy) now unaffordable** (~59k < Sun); contested by multiple parties — the **heist is underway** (cliffhanger). | PP 12 (01/11/26) |
+| [[Sword of Feast and Famine]] hilt | [[Ogre]]/party | **Still retained** — [[Kiku]] reiterated the demand for the hilt; party has not surrendered it. | PP 12 (01/11/26) |
+
+## [[PP_13_012526_Fucking_Barbarians|PP 13]] / Transcript 12 (01/25/26) — Fucking Barbarians
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| Shreds of the First [[Guildpact]] (display case) | Party ([[Rinestra "Rin" Genleth\|Rin]]) | **Acquired** — Rin Hold-Personed [[Krenko]] and **stole the entire display case** of Guildpact shreds (a tattered, millennia-old tome useful to **reforge the Guildpact**). | PP 13 (01/25/26) |
+| [[Immortal Sun]] | [[Narset]] / [[Ravnica Trading Incorporated]] (off-plane) | **Taken off Ravnica** — Narset bombed the caged Sun free and escaped to take it off-plane → **planeswalking restored.** No longer on the plane. | PP 13 (01/25/26) |
+| "Ogre's Tavern 2" (Airstream) | Party | **Recovered** by [[Ava]] during the escape (keys in hand: *"took you long enough"*); flown out on dragon-[[Varis Aestra\|Varis]]. To be taken to the [[Izzet League]] (with [[Scrappy]]). | PP 13 (01/25/26) |
+| Vraska's head | Spent | Taken by [[Orphea "Orphie" Levistus\|Orphie]] as a petrification trophy → claimed by [[Sanis Reylana\|Sanis]] (compelled) → **disintegrated** as [[Yarod Votsavo\|Golgari-Lich]] tribute (*"pact fulfilled"*). | PP 13 (01/25/26) |
+| [[Mizzium Apparatus]] / Elysium gauntlet | [[Varis Aestra\|Varis]] → lent to [[Rinestra "Rin" Genleth\|Rin]] | **Lent** mid-fight; DM hand-waved attunement (anyone can cast off their own class list) — Rin cast **Greater Restoration** (nat-20→34) through it to self-cure petrification. **Flagged OP/game-breaking.** | PP 13 (01/25/26) |
+| Potion of Haste | Spent | Gift from [[Kalmar]]; **chugged by [[Varis Aestra\|Varis]]** before going full dragon. | PP 13 (01/25/26) |
+| [[Sword of Feast and Famine]] hilt | Lost / left behind | **Dropped on [[Krenko]]** (bonk prone, 10 dmg) and surrendered/lost in the chaos. | PP 13 (01/25/26) |
+| Diamond + family jewelry | [[Varis Aestra\|Varis]] | Jewelry returned to his mother; [[Varis Aestra\|Varis]] **keeps the diamond.** | PP 13 (01/25/26) |
+| Orzhov vault (~100k gp) / [[Pecunia]] | [[Orzhov Syndicate\|Orzhov]] (Aestras) | Reserve to restart loans; **[[Lord Aestra]] installed as bank manager**; refugees returning to reopen the guild. | PP 13 (01/25/26) |
+
+## [[PP_14_021326_Hold_the_Wall|PP 14]] / Transcript 13 (02/13/26) — Hold the Wall
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| Shreds of the First [[Guildpact]] (display case) | Party ([[Rinestra "Rin" Genleth\|Rin]]) | **Now key to the Leylines.** Confirmed this session that the shreds (with the [[Niv-Mizzet]] box) are needed to **reforge the Guildpact and stabilize the unraveling [[Leylines]]** — not just win the war. Counted among [[Ogre]]'s "MacGuffins." | PP 14 (02/13/26) |
+| [[Black Lotus]] | [[Ogre]] | **Re-framed** as a **"conditional wish spell"** — the condition is **unknown** ("must be strong enough to use it"). A flagged finale wildcard. Still in Ogre's bag. | PP 14 (02/13/26) |
+| [[God-Eternal Oketra\|Oketra]]'s essence | [[Ogre]] (via [[Leather Daddy Game Boy]]) | **Reaffirmed held** — Ogre carries the only felled God-Eternal's essence, as Bolas now fields [[God-Eternal Bontu\|Bontu]], [[God-Eternal Kefnet\|Kefnet]], [[God-Eternal Rhonas\|Rhonas]]. | PP 14 (02/13/26) |
+| [[Witch]] familiar-blade → **"Dusk"** | [[Ogre]] | **Renamed "Dusk"** (post-darkness, "less emo"; was Witch/Dawn). Cosmetic rebrand; no mechanical change. | PP 14 (02/13/26) |
+| [[Mizzium Apparatus]] / Elysium gauntlet | [[Rinestra "Rin" Genleth\|Rin]] | **Still on Rin** ([[Varis Aestra\|Varis]] has been a dragon since S13) — full cleric-list access via the un-attuned gauntlet (flagged OP). | PP 14 (02/13/26) |
+| God-metal spears ([[God-Eternal Bontu\|Bontu]]/[[God-Eternal Kefnet\|Kefnet]]) | The God-Eternals (enemy) | Forged of Amonkhet **[[god-metal]]**; **teleport back** to the wielder after each throw (can't easily be captured). [[Ogre]]'s angle: ride one home to the god. | PP 14 (02/13/26) |
+| [[Dahlia Barra\|Dahlia]]'s mech battle-suit | [[Dalya Bara\|Dahlia]] ([[Izzet League]]) | A working Izzet **"Emla"/Emrakul-inspired prototype** (energy sword-whip, ~50-ft aetheric slam) — *"it's a prototype, I can make more"* (Orphie wants one). Not party loot. | PP 14 (02/13/26) |
+
+> *No new loot acquired — a defensive-battle session.*
+
+## [[PP_15_022226_Reforging_the_Guildpact|PP 15]] / Transcript 14 (02/22/26) — Reforging the Guildpact
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[Black Lotus]] | [[Ogre]] | **EXPENDED.** Held up over the [[Maze's End]] pedestal; [[Ogre]] **wished a new [[Guildpact]] into being** and the wish **finally took** (the condition was being "powerful enough") — **petals unfurled and disintegrated.** Spent. | PP 15 (02/22/26) |
+| [[Firemind Vessel]] (Niv-Mizzet's soul; = the Dragon Spirit Box) | [[Sanis Reylana\|Sanis]] | **Consumed/transformed.** Rose to the pedestal, opened, and **formed the ceiling revival portal** — [[Niv-Mizzet]] revives through it (full dragon). | PP 15 (02/22/26) |
+| Shreds of the First [[Guildpact]] (9 seals) + [[Benji]]'s **Dimir pin** | Party → the [[Maze's End]] pedestal | **Placed as the ritual focus** — the Dimir pin (the 10th guild token, yanked off [[Benji]]) pinned through the shreds. **Consumed into the new Guildpact.** | PP 15 (02/22/26) |
+| [[Jace Beleren\|Jace]]'s old paper (his S01 speech/list) | [[Orphea "Orphie" Levistus\|Orphie]] → the pedestal | **Placed on the pedestal** (carried since Session 1). | PP 15 (02/22/26) |
+| Sanis's Orzhov amulet | [[Sanis Reylana\|Sanis]] | **Retrieved from [[Benji]]** as he departed. | PP 15 (02/22/26) |
+| [[Mizzium Apparatus]] / Elysium gauntlet | [[Varis Aestra\|Varis]] | **Returned to Varis** — he dropped dragon form to enter the maze (had been on [[Rinestra "Rin" Genleth\|Rin]] since S13). | PP 15 (02/22/26) |
+| +5 temporary HP (Blue/Wits trial) | Party | Granted via [[Orphea "Orphie" Levistus\|Orphie]]'s bonus **"letter E"** riddle answer. | PP 15 (02/22/26) |
+
+## [[PP_16_031326_A_Scared_Child|PP 16]] / Transcript 15 (03/13/26) — A Scared Child
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[Firemind Vessel]] (revival portal) | (At [[Maze's End]]) | **Active conduit** — the ceiling portal stays open; [[Ogre]] keeps **pulling [[Niv-Mizzet]] through** (claw → arm). | PP 16 (03/13/26) |
+| [[Ava's Longbow of Power]] | [[Sanis Reylana\|Sanis]] | Main weapon vs. the [[Augur of Bolas\|Augur]] (fired from cover, 27 to-hit). Still on loan from [[Ava]]. | PP 16 (03/13/26) |
+| [[Mizzium Apparatus]] / Elysium gauntlet | [[Varis Aestra\|Varis]] | With Varis (returned in S15) as he "started blasting" (Fireball / Scorching Ray / Mind Sliver — all **absorbed** by the boss). | PP 16 (03/13/26) |
+| "Dusk" points → **Shield Bracer (+3 AC)** | [[Ogre]] | **Shifted his blade ("Dusk")'s points to a Shield Bracer for +3 AC**; then cast **Shadow of Moil** (shadow-wreathed form). | PP 16 (03/13/26) |
+| [[Orphea "Orphie" Levistus\|Orphie]]'s max HP | [[Orphea "Orphie" Levistus\|Orphie]] | **−22 (to a 41 max)** from the Augur's draining mist — **persists until Greater Restoration.** | PP 16 (03/13/26) |
+
+> *No loot acquired — a single-encounter (continued boss fight) session.*
+
+## [[PP_17_040226_The_Guildpact_Reborn|PP 17]] / Transcript 16 (04/02/26) — The Guildpact Reborn
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| Shrinking mushroom | [[Ogre]] | **One CONSUMED** — fed to the half-emerged [[Niv-Mizzet]] to shrink him (gargantuan → **Large**) and speed his birth ("saved about 18 seconds"). The gambit that **won the fight.** Ogre still has more. | PP 17 (04/02/26) |
+| [[Niv-Mizzet]]'s decagon crest | [[Niv-Mizzet]] | **MANIFESTED** — a 10-sided chest crest bearing **all 10 guild colors**; the embodiment of the reforged [[Living Guildpact]]. Absorbed the [[Augur of Bolas\|Augur]]'s black mana on the kill. (Niv's, **not** [[Ogre]]'s — his wish to "be one too" went unfulfilled.) | PP 17 (04/02/26) |
+| [[Ava's Longbow of Power]] | [[Sanis Reylana\|Sanis]] | Used vs. the [[Augur of Bolas\|Augur]] — **arrows absorbed and fired back** at him (18 piercing + 14 necrotic). Still on loan from [[Ava]]. | PP 17 (04/02/26) |
+| [[Blazebringer]] | [[Orphea "Orphie" Levistus\|Orphie]] | Mainstay vs. the Augur — **fire-slashes illuminate/erode** its incorporeal body (reckless, tattoo active). 28/26 to-hit; 18/14 dmg. | PP 17 (04/02/26) |
+| "Dusk" (Ogre's blade/familiar) | [[Ogre]] | Active via **Shadow of Moil**; **Hexblade's Curse** retaliation absorbs a chunk of the Augur's mana. | PP 17 (04/02/26) |
+| [[Firemind Vessel]] / Dragon Spirit Box | (At [[Maze's End]]) | **Purpose fulfilled** — [[Niv-Mizzet]] fully reborn; the vessel's revival role is complete. | PP 17 (04/02/26) |
+| Spell slots / rage (Leyline grab) | [[Ogre]] / [[Varis Aestra\|Varis]] / [[Rinestra "Rin" Genleth\|Rin]] / [[Orphea "Orphie" Levistus\|Orphie]] | **RESTORED** by grabbing the recharging [[Leylines]] — Ogre (highest slots ×3), Varis (a slot), Rin (a slot, barely, 2 exhaustion deep), Orphie (expended **rage** back). | PP 17 (04/02/26) |
+| [[Sanis Reylana\|Sanis]]'s top spell slots | [[Sanis Reylana\|Sanis]] | **LOST (permanent) + 3 levels of exhaustion** — hesitated and **failed** the Leyline-grab Con save on a **black-and-green** Leyline. Carries into S18. | PP 17 (04/02/26) |
+| [[Orphea "Orphie" Levistus\|Orphie]]'s max HP (−22 / 41) | [[Orphea "Orphie" Levistus\|Orphie]] | **RESTORED on the long rest** (the S16 mist drain undone; no Greater Restoration needed). | PP 17 (04/02/26) |
+
+> *No conventional loot acquired — a single-encounter climax + denouement. The "reward" is the **spell-slot / rage restoration** from the Leylines (and, for [[Sanis Reylana\|Sanis]], exhaustion + lost slots).*
+
 ## Archivist Notes
 
 - **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. **Transcript 02 (07/27/25) is the transformation event** (Ball fused into Pip's Game Boy → LDGB). Transcript 01 captures it at the Ball stage; older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.

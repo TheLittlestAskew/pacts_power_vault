@@ -125,6 +125,144 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Rinestra "Rin" Genleth\|Rin]] | "Have we made a God here?" | Important to Story |
 | [[Chandra Nalaar]] | "You betrayed all of us just to save your own ass." | Serious |
 
+## Transcript 07 (10/05/25) — [[PP_07_100525_The_Reylana_Infiltration|The Reylana Infiltration]]
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Athena]] | "Don't touch the oil. The oil is bad." | Important to Story / Funny |
+| [[Ugin]] | "You must turn into dragon form during the final battle. After all, this is a brother's war of dragons in the end." | Important to Story / Dramatic |
+| [[Sharp Dog]] | "You lit the fire, homie. Keep the trees burning now." | Banter |
+| Cell note (benefactor) | "Thought y'all might need this." | Important to Story |
+| Hidden-door inscription | "That which is dead may never die, but those who seek life shall live eternal." | Serious / Lore |
+| [[Rinestra "Rin" Genleth\|Rin]] | "Rakdos, of all times for you to sleep — this is one of the biggest stages you can be the most entertaining to your guild." | Banter |
+| [[Rakdos]] | "The show shall begin." | Dramatic |
+| [[Sanis Reylana\|Sanis]] | "It's worse than I thought it was going to be." | Poignant |
+| [[Vraska]] | "It's basically a ghost town — pun intended." | DM Quip / Threat |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "We don't kink-shame in this family." | Funny |
+
+## Transcript 08 (10/19/25) — [[PP_08_101925_Blood_Runs_Thicker_Than_Water|Blood Runs Thicker Than Water]]
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Lord Reylana]] | "Blood runs thicker than water." | Threat / Important to Story |
+| [[Lord Reylana]] | "It was only a matter of time, son." | Dramatic |
+| [[Lord Reylana]] | "That was part of the plan, you imbecile… I killed Selena." | Serious / Important to Story |
+| [[Sanis Reylana\|Sanis]] | "No, I'm gonna stick with my actual family." | Poignant |
+| [[Sanis Reylana\|Sanis]] | "Idiot, I'm already dead." | Funny |
+| [[Carl]] | "I clean your messes, so you better respect that." | Poignant / Funny |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "Hey, Carl, don't clean that one up." | Funny / Iconic |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "Who are your parents? Because y'all weren't raised right." | Funny |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "Are we getting audited right now?" / "I don't know. Yes. Maybe." | Funny |
+
+## Transcript 09 / [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10]] (11/30/25) — What Are You Waiting For, Sanis?
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Lord Reylana]] | "Don't you know, Sanis, son, that blood runs thicker than water?" | Threat / Important to Story |
+| [[Lord Reylana]] (flashback) | "What are you waiting for, Sanis? Kill him. Do it." | Serious / Important to Story |
+| [[Lord Reylana]] | "Where do you think we got this power?" | Dramatic |
+| [[Lord Reylana]] | "This is what true pain feels like." | Threat |
+| [[Lady Reylana]] | "I always knew you had good aim, son." | Poignant |
+| [[Ogre]] (to the Specter) | "Protect your son from your wife." | Iconic / Important to Story |
+| [[Rinestra "Rin" Genleth\|Rin]] (to Lady Raylana) | "You don't get to [touch] your son anymore. You're not his family. We are." | Poignant |
+| [[Sanis Reylana\|Sanis]] | "They've been more of a family to me than you have. You killed my sister." | Poignant |
+| [[Aphonexa]] | "It seems like you need some help." | Important to Story |
+| [[Orphea "Orphie" Levistus\|Orphie]] (to Vuthala) | "I want you to remember that you're more scared of me than you are of them." | Funny / Banter |
+| [[Orphea "Orphie" Levistus\|Orphie]] (to a parent) | "I want that back when I'm done. I mean, you'll be dead, but I'm just telling you, I want them back." | Funny |
+
+## [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Krenko]] (letter) | "Come talk before I sell the sun to a dragoner." | Important to Story |
+| [[Kiku]] | "Everyone knows you can't just buy the sun. The sun is too big." | DM Quip / Funny |
+| [[Kiku]] | "Krenko is a very, very busy man." | Funny |
+| [[Lord Raylana Specter]] | "Even in death, you still may serve." | Serious / Important to Story |
+| [[Lord Raylana Specter]] | "Things don't always turn out how you want them to, do they?" | Poignant |
+| "Sis" ([[Pippi]]) | "You're not my dad. Nobody owns me. I own myself." | Funny / Important to Story |
+| [[Sanis Reylana\|Sanis]] | "This letter is a binding contract. It's written down and signed." | Banter |
+| [[Orphea "Orphie" Levistus\|Orphie]] (to the messenger) | "If I find out that you told anybody we were here, I'll kill you. Bye." | Funny / Threat |
+| [[Ogre]] | "If you like Sis so much, you align yourself with Sis." | Banter |
+
+## [[PP_12_011126_The_Masquerade_Auction|PP 12]] / Transcript 11 (01/11/26) — The Masquerade Auction
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Kaya Cassir\|Kaya]] | "I opened everything up. Everything. The spirits, the vaults, everything unbound. And now it's all gone." | Serious / Important to Story |
+| [[Kaya Cassir\|Kaya]] | "He promised me he could save my home. He promised me." | Poignant |
+| [[Kaya Cassir\|Kaya]] (dying) | "The account closes, the balance transfers, we depart, but the interest remains." | Dramatic / Important to Story |
+| [[Varis Aestra\|Varis]] (ritual) | "By ledger written in bone and gold, the debts and interest laid upon me shall draw, connect to those below." | Important to Story |
+| [[Krenko]] | "Don't blow your load on the first item. Highest bidder wins." | DM Quip / Funny |
+| [[Krenko]] | "You think that you can try and kill me or manipulate the stage? No, it will not work." | Threat |
+| [[Ogre]] (to [[Ava]]) | "If we get the shiny ball, then the shiny things you have can stay shiny." | Funny / Banter |
+| [[Isiah Ja-Faank\|Isaiah]] | "The cocktail of paralysis — it really makes my fingers tingle." | Funny |
+| [[Rinestra "Rin" Genleth\|Rin]] (to the manager) | "When someone's life is in danger, anonymity goes out the window." | Banter |
+
+## [[PP_13_012526_Fucking_Barbarians|PP 13]] / Transcript 12 (01/25/26) — Fucking Barbarians
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Vraska]] (dying) | "This isn't the last of it, Bolas… In the end, it's all up to Liliana." | Dramatic / Important to Story |
+| [[Vraska]] | "What the **** is wrong with these people?" / "Fucking barbarians." | Funny / Threat |
+| [[Yarod Votsavo\|Golgari Lich]] (in Sanis) | "Pact fulfilled." | Important to Story |
+| [[Sanis Reylana\|Sanis]] | "I had to have the head." | Funny / Serious |
+| [[Orphea "Orphie" Levistus\|Orphie]] (to Vraska) | "Tell them that in hell — he's joining you there." | Threat |
+| [[Rinestra "Rin" Genleth\|Rin]] (to Krenko) | "You really need to get some fire safety put in place. This is absolutely atrocious." | Funny |
+| [[Janna]] | "Janna smash!" | Funny |
+| [[Ava]] | "Took you long enough." / "At least someone appreciates my work." | Banter |
+| [[Nicol Bolas\|Bolas]] | "NO!" | Threat (cliffhanger) |
+
+## [[PP_14_021326_Hold_the_Wall|PP 14]] / Transcript 13 (02/13/26) — Hold the Wall
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Nicol Bolas\|Bolas]] | "Enough games, enough is enough — it is time to be done with this!" | Threat / Important to Story |
+| [[Rinestra "Rin" Genleth\|Rin]] | "Just a member of The Breakfast Club who very much enjoys playing with light and fire." | Banter |
+| [[Rinestra "Rin" Genleth\|Rin]] (Holy Word) | "Fuck zombies." | Funny |
+| [[Dalya Bara\|Dahlia]] | "Feel the power of 9.8 meters per second squared." | Funny / DM Quip |
+| [[Kwatli Pakal\|Jareth]] | "Could always use some more friends, right?" | Important to Story |
+| [[Kwatli Pakal\|Jareth]] | "Immortal Sun gone, planeswalkers off Ravnica, Bolas throwing a hissy fit — everything's going as planned." | Important to Story |
+| [[Orphea "Orphie" Levistus\|Orphie]] (to Dahlia) | "It's so rude for you to be here doing this in front of me knowing that I can't have [one] right now." | Funny |
+| [[Sanis Reylana\|Sanis]] | "We're fucked, aren't we, guys?" | Funny |
+| [[Ogre]] | "Glad I made friends with that tree." | Funny / Important to Story |
+
+## [[PP_15_022226_Reforging_the_Guildpact|PP 15]] / Transcript 14 (02/22/26) — Reforging the Guildpact
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| Maze ledger-stone | "Hatred is the truest ledger of the soul. Speak what you despise most and learn what still owns you." | Important to Story / Lore |
+| [[Niv-Mizzet]] | "I would be remiss if I said that I didn't miss you and your friends." | Poignant |
+| [[Ogre]] | "Hi, Jace, I'm Ogre." *(to Niv-Mizzet)* | Funny |
+| [[Sanis Reylana\|Sanis]] | "Look who I found." | Funny |
+| [[Varis Aestra\|Varis]] | "It always pays to jump through a portal." | Funny |
+| [[Ogre]] | "I wish for a new pact." | Important to Story |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "If you're a cop, you have to tell me if you're Will Smith immediately. It's the law." | Funny |
+| [[Rinestra "Rin" Genleth\|Rin]] | "This is not an IKEA — it should come with instructions." | Banter |
+
+## [[PP_16_031326_A_Scared_Child|PP 16]] / Transcript 15 (03/13/26) — A Scared Child
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Rinestra "Rin" Genleth\|Rin]] | "Wait — I'm the freaking champion of Dol Arrah." | Poignant / Important to Story |
+| [[Orphea "Orphie" Levistus\|Orphie]] (to [[Athena]]) | "Help." *(and no help comes)* | Poignant / Serious |
+| Orphie's father's echo | "You're always rushing in… it's going to hurt you one day." | Serious |
+| [[Varis Aestra\|Varis]] | "I started blasting." | Funny |
+| [[Ogre]] | "Once I get that mouth out, it's going to become way faster." | Funny / Important to Story |
+| [[Sanis Reylana\|Sanis]] | "I am so tired of these fucking people coming back every time." | Poignant |
+
+## [[PP_17_040226_The_Guildpact_Reborn|PP 17]] / Transcript 16 (04/02/26) — The Guildpact Reborn
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Niv-Mizzet]] (helium voice) | "Oh, thanks — I think that would have taken at least another 18 seconds for me to pop through, but now I'm here." | Funny / Important to Story |
+| [[Rinestra "Rin" Genleth\|Rin]] (to [[Ogre]]) | "You shove the mushroom in his fucking mouth. That is how you won this." | Funny / Important to Story |
+| [[Niv-Mizzet]] (to Rin) | "Another dragon on my plane?" | Funny |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "The universe has provided something to hit… need, need dopamine immediately." | Funny / Character |
+| [[Sanis Reylana\|Sanis]] (OOC, on failing the Leyline) | "I want to kill myself. Why am I the only one that failed?" | Funny / Painful |
+| [[Niv-Mizzet]] | "There is no undo button… we technically do have one, but I don't think we want to use it." | Serious / Lore |
+| [[Ogre]] | "I'm just as good as Niv-Mizzet. I'm gonna hold on." | Character (hubris) |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "We touched the butt. And survived." | Funny (session-closer) |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

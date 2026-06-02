@@ -27,6 +27,9 @@ The party previously helped [[Borborygmos]] and Sharp Dog consolidate control ov
 - [[Ogre]] **restored his confidence** (gave him his leathers as a cover), then sprinted down to **punch [[Domri Rade]] in the crotch** to rally support; a nat-20 told Ogre the dream "was connected with more."
 - The eavesdropped [[Liliana Vess|Liliana]]/[[Vraska]] conversation **confirmed the dream was real**: Borborygmos has **roused** after "being punched in the gruul jewel with a makeshift cup," the Gruul front is losing momentum for Bolas, and [[Domri Rade]] is opposed by the old guard. (This partly substantiates his "active Gruul ally" status — he is rallying support again.)
 
+### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+- **At the grand council.** Borborygmos attends the **grand council of all ten guilds** at the surfaced [[Maze's End]] alongside [[Sharp Dog]], representing the **[[Gruul Clans]]** as they put their forces on the ritual die to formally unite against [[Nicol Bolas|Bolas]]. (Reinforces his "active Gruul ally / leader" status from T07 — the Gruul are firmly in the coalition.)
+
 ## Relationships
 - [[Gruul Clans]] — Leader (status disputed; see flag).
 - Sharp Dog — Gruul lieutenant; co-consolidated power with Borborygmos.
@@ -39,3 +42,4 @@ The party previously helped [[Borborygmos]] and Sharp Dog consolidate control ov
 - [[Sharp Dog]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
+- [[PP_18_040526_Pacts_and_Power]]

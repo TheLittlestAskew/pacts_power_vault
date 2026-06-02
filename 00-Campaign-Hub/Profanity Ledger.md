@@ -100,6 +100,131 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 **Session 06 total:** ~11 (Gabe 3, Rachel 3, Bri 3, Taylor 2).
 
+### Transcript 07 (10/05/25) — [[PP_07_100525_The_Reylana_Infiltration|The Reylana Infiltration]]
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Chet (Ogre, mixed) | Fuck / shit | ~6 | Dream Gruul rehab banter; the "gruul jewel" crotch-punch; infiltration reactions |
+| Gabe (Sanis, mixed) | Fuck / shit | ~6 | Reacting to the desecrated estate, the cells, and the Lich-pact reveal |
+| Taylor (Orphie, mixed) | Fuck / shit | ~5 | Dream banter with Athena; kicking in Brula's door; the stabbing |
+| Rachel (Rin, mixed) | Fuck / damn | ~4 | The Rakdos dream; the broken gauntlet; guild-recruitment strategizing |
+| Vincent (Varis, mixed) | Damn / shit | ~2 | The Ugin lore-dump; the dragon-form prophecy |
+
+> Heavy OOC banter throughout; **most censored in the source audio.** Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+**Session 07 total:** ~23 (Chet 6, Gabe 6, Taylor 5, Rachel 4, Vincent 2).
+
+### Transcript 08 (10/19/25) — [[PP_08_101925_Blood_Runs_Thicker_Than_Water|Blood Runs Thicker Than Water]]
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Rachel (Rin, mixed) | Fuck / shit / damn | ~6 | Championing [[Carl]]; the vivarium horrors; the rising-tide / fire-disadvantage scouting |
+| Taylor (Orphie, mixed) | Fuck / shit | ~5 | The pizza-slap; the auditor bluff; the [[Lord Reylana\|Reylana]] confrontation; the double nat-1 initiative |
+| Gabe (Sanis, mixed) | Fuck / shit | ~3 | Confronting his parents; renouncing the family |
+| Chet (Ogre, mixed) | Fuck / shit | ~2 | Infiltration banter |
+| Vincent (Varis, mixed) | Damn | ~1 | The underwater facility / Water Breathing |
+
+> Counts approximate (audio partly auto-censored). Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+**Session 08 total:** ~17 (Rachel 6, Taylor 5, Gabe 3, Chet 2, Vincent 1).
+
+### Transcript 09 / [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10]] (11/30/25) — What Are You Waiting For, Sanis?
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis, mixed) | Fuck / shit | ~8 | The flashback; confronting/killing his parents; combat |
+| Chet (Ogre, mixed) | Fuck / shit | ~6 | Gallows-humor combat banter; the soul-reaping; tanking to 3 HP |
+| Rachel (Rin, mixed) | Fuck / damn | ~6 | Keeping the party alive; the rising tide; the collapse |
+| Taylor (Orphie, mixed) | Fuck / shit | ~5 | Playing hurt; freeing Vuthala; throwing weapons at the parents |
+| Vincent (Varis, mixed) | Damn | ~2 | Dragon-form artillery; the escape |
+
+> Heavy combat banter; audio partly auto-censored. Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+**Session 09/PP 10 total:** ~27 (Gabe 8, Chet 6, Rachel 6, Taylor 5, Vincent 2).
+
+### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis, mixed) | Fuck / shit | ~6 | The Kiku stonewall / failed parlay; the ghost-dad watch; heist planning |
+| Taylor (Orphie, mixed) | Fuck / shit | ~4 | Carrying sick Rin; the messenger threat; the auction absurdity |
+| Chet (Ogre, mixed) | Fuck / shit | ~3 | The "Sis"/Dimir-property pushback; planeswalker recruiting; the joint |
+| Vincent (Varis, mixed) | Damn / shit | ~2 | The blimp / Immortal Sun reveal; family reunion / bank planning |
+
+> A social/logistics session (no combat); counts approximate, partly auto-censored. **[[Rinestra "Rin" Genleth\|Rin]] (Rachel) out of commission all session — no recorded profanity.** Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_12_011126_The_Masquerade_Auction|PP 12]] / Transcript 11 (01/11/26) — The Masquerade Auction
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Rachel (Rin, mixed) | Fuck / shit / damn | ~6 | The void Orzhov / Kaya's death; the spiked-drink callout; the auction absurdity (Rin awake again this session) |
+| Gabe (Sanis, mixed) | Fuck / shit | ~5 | The dead district; borrowing Ava's bow; the anonymous spiked drink; the auction |
+| Taylor (Orphie, mixed) | Fuck / shit | ~5 | Standing over Kaya's corpse; catching the goblin handbag; the brawl |
+| Chet (Ogre, mixed) | Fuck / shit | ~3 | Mercy-killing Kaya; recruiting Ava; befriending Kalmar |
+| Vincent (Varis, mixed) | Damn / shit | ~2 | "The account" bonding; conjuring gold; the bidding war |
+
+> A roleplay/caper session (no combat); counts approximate, partly auto-censored. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_13_012526_Fucking_Barbarians|PP 13]] / Transcript 12 (01/25/26) — Fucking Barbarians
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Taylor (Orphie, mixed) | Fuck / shit | ~9 | Blind-tanking the gorgon; the void-energy AoE; the decapitation; combat reactions |
+| Gabe (Sanis, mixed) | Fuck / shit | ~7 | Guiding blind Orphie; the pact-voice; taking Vraska's head; the dhampir merge |
+| Rachel (Rin, mixed) | Fuck / damn | ~7 | Petrification (nat-1); clawing back; stealing the shreds; the fire-safety rant |
+| Chet (Ogre, mixed) | Fuck / shit | ~4 | The electrified Sun cage; bonking Krenko; the blimp |
+| Vincent (Varis, mixed) | Damn / shit | ~3 | Dragon artillery; the killing tail; the Bolas devastation |
+
+> A big-combat session (the burning auction); audio partly auto-censored, counts approximate. Notable in-character: [[Vraska]]'s "Fucking barbarians." Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_14_021326_Hold_the_Wall|PP 14]] / Transcript 13 (02/13/26) — Hold the Wall
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis, mixed) | Fuck / shit | ~7 | Holding the wall; the spear-deflect; the Leyline dread (*"We're fucked, aren't we, guys?"*) |
+| Rachel (Rin, mixed) | Fuck / damn | ~6 | Wall of Fire / Holy Word (*"fuck zombies"*); the Leyline-crisis Arcana reads; the beheaded soldier |
+| Taylor (Orphie, mixed) | Fuck / shit | ~5 | Raging on the battlements; the mech-suit envy at [[Dalya Bara\|Dahlia]] |
+| Chet (Ogre, mixed) | Fuck / shit | ~3 | The spear-deflect; "MacGuffins"; the awakening tree |
+| Vincent (Varis, mixed) | Damn / shit | ~3 | Tanking the god-spears; the Force-Breath barrage; the crater |
+
+> A big-combat (montage) wall-defense session; audio partly auto-censored, counts approximate. Largely in-character. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_15_022226_Reforging_the_Guildpact|PP 15]] / Transcript 14 (02/22/26) — Reforging the Guildpact
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Rachel (Rin) | mixed | ~6 | The trials / the IKEA gripe; the Leyline-corruption reads |
+| Taylor (Orphie) | mixed | ~6 | Yanking Benji's pin; the trials; the exhaustion grind |
+| Gabe (Sanis) | mixed | ~4 | Carrying the Vessel; the boss wearing his parents' faces |
+| Vincent (Varis) | mixed | ~3 | The drive-by; dropping dragon form |
+| Chet (Ogre) | mixed | ~2 | The Black Lotus wish; jumping the portal |
+
+> Approximate (raw transcript, no spell-check; partly auto-censored). Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_16_031326_A_Scared_Child|PP 16]] / Transcript 15 (03/13/26) — A Scared Child
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis) | mixed | ~6 | The boss; *"I am so tired of these fucking people coming back every time"* |
+| Taylor (Orphie) | mixed | ~5 | Dragged into the smog; the flashback; fleeing the mist |
+| Rachel (Rin) | mixed | ~4 | The shadow-echo bully; the radiant-AoE turn |
+| Chet (Ogre) | mixed | ~3 | Hauling Niv through the portal; the smog |
+| Vincent (Varis) | mixed | ~2 | "I started blasting"; the energy-absorption |
+
+> A single-chamber boss-fight session, played on **Roll20** (raw transcript, no spell-check). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
+### [[PP_17_040226_The_Guildpact_Reborn|PP 17]] / Transcript 16 (04/02/26) — The Guildpact Reborn
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis) | mixed | ~6 | The boss reflecting his arrows; failing the Leyline grab (*"why am I the only one that failed?"*) |
+| Taylor (Orphie) | mixed | ~6 | Charging the boss; the "April Fools dice"; *"we touched the butt"* |
+| Rachel (Rin) | mixed | ~5 | *"You shove the mushroom in his fucking mouth"*; the exhaustion-deep Leyline grab |
+| Chet (Ogre) | mixed | ~3 | The mushroom gambit; the Leyline grab (*"just as good as Niv-Mizzet"*) |
+| Vincent (Varis) | mixed | ~2 | Rays getting absorbed; the Leyline grab |
+
+> Heavy mostly during the stalactite/Leyline tension and OOC tangents (raw transcript, no spell-check; partly auto-censored). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]
