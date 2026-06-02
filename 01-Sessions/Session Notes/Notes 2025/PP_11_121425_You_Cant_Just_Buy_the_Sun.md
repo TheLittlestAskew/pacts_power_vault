@@ -2,14 +2,14 @@
 type: session
 session_number: 11
 play_date: 12/14/25
-title: The Immortal Sun Goes to Auction
+title: You Can't Just Buy the Sun
 transcript: "[[11-121425-Pacts-Corrected]]"
-party_level: 11
+party_level: 10
 ---
 
-# PP_11 — The Immortal Sun Goes to Auction
+# PP_11 — You Can't Just Buy the Sun
 
-> Working from the existing corrected transcript. No new spell-check pass (per Taylor). Title provisional — pending Taylor's selection.
+> Working from the existing corrected transcript. No new spell-check pass (per Taylor). Title confirmed by Taylor.
 > **Numbering note:** corrected file is prefixed `11-121425`; its source frontmatter reads `10-121425-Pacts.md`. Filed **Session 11** to match the corrected-file prefix and the PP_## series (the +1 offset traces to the 10/26 duplicate slot). See [[PP_10_113025_What_Are_You_Waiting_For_Sanis]].
 
 ## 1. Session Metadata
@@ -18,7 +18,7 @@ party_level: 11
 |---|---|
 | Session # | 11 |
 | Real-world play date | 12/14/25 |
-| Party level | 11 *(inferred — unchanged; no combat/level-up — flagged)* |
+| Party level | 10 *(corrected — level 10 through S12; reached 11 at the S13 milestone, per S16)* |
 | In-game location | Surface of the [[Simic Combine\|Simic]]-district lake → [[Tin Street]] (10th District) rooftop → **Krenko HQ / Krenko Incorporated** (underground) → the **[[Selesnya Conclave]]** refugee camp |
 | Present (PCs) | [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] (+ [[Rinestra "Rin" Genleth\|Rin]], **asleep/sick the entire session** — carried in Orphie's pack) |
 | Companions | Lord Raylana **Specter** (Ogre's, ~24h timer); [[Vuthala]] (handed off) |

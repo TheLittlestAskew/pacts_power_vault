@@ -106,7 +106,13 @@ async function upsertRolls(rows) {
   let inserted = 0;
   for (let i = 0; i < rows.length; i += BATCH) {
     const chunk = rows.slice(i, i + BATCH);
-    await supabaseRequest('ddb_rolls', 'POST', chunk);
+    // Upsert against the composite unique key (not the PK), so re-seeing an
+    // already-synced roll merges instead of throwing a 23505 duplicate-key 409.
+    await supabaseRequest(
+      'ddb_rolls?on_conflict=campaign_id,roll_id,roll_type,dice_notation',
+      'POST',
+      chunk
+    );
     inserted += chunk.length;
     if (rows.length > BATCH) {
       log(`  ↳ Upserted ${inserted}/${rows.length} rolls...`);

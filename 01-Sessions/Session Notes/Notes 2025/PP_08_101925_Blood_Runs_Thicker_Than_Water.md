@@ -4,7 +4,7 @@ session_number: 8
 play_date: 10/19/25
 title: Blood Runs Thicker Than Water
 transcript: "[[08-101925-Pacts-Corrected]]"
-party_level: 11
+party_level: 10
 ---
 
 # PP_08 — Blood Runs Thicker Than Water
@@ -17,7 +17,7 @@ party_level: 11
 |---|---|
 | Session # | 08 |
 | Real-world play date | 10/19/25 |
-| Party level | 11 *(inferred — party references leveling up "weeks ago"; exact level unconfirmed — flagged)* |
+| Party level | 10 *(corrected — party was level 10 through S12; the S13 milestone took them to 11, per S16's confirmation)* |
 | In-game location | A **[[Simic Combine\|Simic]] underwater research facility** (the [[Second Sun]] labs): airlock → reef area → vivarium / specimen room → the inner office where the [[Reylana Estate\|Reylanas]] sit |
 | Present (PCs) | [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Rinestra "Rin" Genleth\|Rin]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] |
 | Companion PCs | (none active) |

@@ -4,7 +4,7 @@ session_number: 10
 play_date: 11/30/25
 title: What Are You Waiting For, Sanis?
 transcript: "[[10-113025-Pacts-Corrected]]"
-party_level: 11
+party_level: 10
 ---
 
 # PP_10 — What Are You Waiting For, Sanis?
@@ -18,7 +18,7 @@ party_level: 11
 |---|---|
 | Session # | 10 |
 | Real-world play date | 11/30/25 |
-| Party level | 11 *(inferred — 5th-level spell slots in use; exact level unconfirmed — flagged)* |
+| Party level | 10 *(corrected — level 10 through S12; reached 11 at the S13 milestone, per S16)* |
 | In-game location | The final chamber of the **[[Simic Combine\|Simic]] underwater laboratory** (six specimen tubes; a raised dais/platform; flooding throughout) → escape to the surface of the [[Simic Combine\|Simic]]-district lake |
 | Present (PCs) | [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Rinestra "Rin" Genleth\|Rin]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] |
 | Allies gained mid-fight | [[Vuthala]] (freed from his tube; recruited) |
