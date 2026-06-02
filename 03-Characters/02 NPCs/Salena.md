@@ -11,6 +11,8 @@ location: "The Bone Mine essence pit (submerged/ascending)"
 
 Sister to [[Sanis Reylana|Sanis]] of the [[Reylana Family]].
 
+> 📌 **Origin (DM #Lore Dump):** **Salena Reylana** was originally a **player character** (played by "Salena," PC portrait Chandra Nalaar) before becoming the DM-run NPC the vault tracks here. This explains the "shares a name with a PC/NPC" note in the source and her central, deeply-arced role.
+
 ## Status
 
 - **Early Session 4:** Killed during the aftermath of the [[Guildpact]] shattering. [[Sanis Reylana|Sanis]] and [[Varis Aestra|Varis]] had led her to safety (Varis gave her invisibility powder), but she died in the chaos. Her death hardened Sanis.

@@ -6,12 +6,12 @@ affiliation: "Cult of Rakdos (Rakdos contract)"
 status: "Alive"
 first_appearance: "Early sessions (as 'A Shady Individual'); named as Penny"
 location: "The Rakdos Carnarium, Ravnica"
-aliases: ["Penny"]
+aliases: ["Penny", "Ena Virmys", "Ena \"Penny\" Virmys"]
 ---
 
 # A Shady Individual
 
-The party's nickname **"Penny"** for a Rakdos-aligned contractor first met as "a shady individual." She once held a **demon contract** that [[Rakdos]] later **transferred** — a contract repeatedly contrasted (T06) with [[Liliana Vess|Liliana]]'s far stricter [[The Chain Veil|chain-veil]] pact to [[Nicol Bolas|Bolas]].
+The party's nickname **"Penny"** — full name **Ena "Penny" Virmys** (per the DM #Lore Dump, 06/18/23) — for a Rakdos-aligned contractor first met as "a shady individual." She once held a **demon contract** that [[Rakdos]] later **transferred** — a contract repeatedly contrasted (T06) with [[Liliana Vess|Liliana]]'s far stricter [[The Chain Veil|chain-veil]] pact to [[Nicol Bolas|Bolas]].
 
 ## Campaign Role
 A Rakdos contact and a candidate **Rakdos representative/token** for the [[Niv-Mizzet]] revival ritual. Defends the Cult of Rakdos's interests and the rousing of their sleeping demon-god.

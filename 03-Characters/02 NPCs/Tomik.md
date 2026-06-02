@@ -11,7 +11,7 @@ location: "Ravnica"
 # Tomik
 
 ## Description / Appearance
-Human. Affiliated with the [[Orzhov Syndicate]]. Married to [[Ral Zarek]].
+Human. Full name **Tomik Vrona** (per the DM #Lore Dump, 04/06/25). Affiliated with the [[Orzhov Syndicate]]. Married to [[Ral Zarek]].
 
 ## Relationships
 - [[Ral Zarek]] — Husband. Ral mentioned Tomik during the Session 01 briefing at the [[Fortress of Nivix]].

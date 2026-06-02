@@ -11,7 +11,7 @@ aliases: []
 
 # Domri Rade
 
-A planeswalker and the **new leader of the [[Gruul Clans]]**, having displaced [[Borborygmos]]. Originally a Bolas-aligned contender whose faction the party once helped remove; by T07 he holds Gruul leadership but is opposed by the old guard.
+A planeswalker and the **new leader of the [[Gruul Clans]]**, having displaced [[Borborygmos]]. Originally a Bolas-aligned contender whose faction the party once helped remove; by T07 he holds Gruul leadership but is opposed by the old guard. Per the DM **#Lore Dump**, Domri (the **Gruul Guildleader**) **stabbed both [[Gideon“Blackblade” Jura|Gideon "Blackblade" Jura]] and [[Ajani Goldmane]]** — two planeswalker heroes — underscoring his violence on the wider board.
 
 ## Campaign Role
 The disputed face of Gruul leadership during the war. Reported overthrown of [[Borborygmos]] (per [[Ral Zarek]], T01); confirmed in power in T07 but with shaky support — "promising but opposed by the old guard." His standing matters for the [[Niv-Mizzet]] revival ritual, since the party needs a Gruul representative.
@@ -28,6 +28,8 @@ The disputed face of Gruul leadership during the war. Reported overthrown of [[B
 - [[Borborygmos]] — Rival; deposed him, now being challenged back.
 - [[Sharp Dog]] — Old-guard Gruul backing Borborygmos.
 - [[Nicol Bolas]] — Formerly aligned.
+- [[Gideon“Blackblade” Jura|Gideon "Blackblade" Jura]] — Stabbed him (DM #Lore Dump).
+- [[Ajani Goldmane]] — Stabbed him (DM #Lore Dump).
 
 ## Related
 - [[Gruul Clans]]

@@ -13,6 +13,8 @@ aliases: ["the VSCO girls", "high gal pals", "the bimbos from the factory"]
 
 One half of the laid-back "weed-girl" duo (with **[[Myra]]**) long associated with [[Nissa]] at the [[Selesnyan Conclave|Selesnya Conclave]]. Generous, perpetually relaxed, and — as of PP 11 — helping run the Conclave's refugee **intake tents** while the war floods the camp with the displaced.
 
+> ⚠ **DM #Lore Dump (possible canon name/affiliation):** the DM source lists **"Saskia vod Savo"** under **[[Golgari Swarm|Golgari]]** — a member of the **[[Family vod Savo]]** line (the same family name as the Golgari Lich **[[Yarod Votsavo]]** / *"Yorvo Vod Savo"*). She may be this Saskia under her full name, or a distinct Golgari NPC sharing the first name. **Flagged for DM confirmation; the Selesnya "weed-girl" portrayal above is left intact.**
+
 ## Campaign Role
 
 A friendly fixture of the [[Selesnyan Conclave|Conclave]] who smokes with [[Nissa]] and offers easy generosity. In PP 11 she and [[Myra]] donate to the party's auction war-chest and help staff the [[Vitu-Ghazi]] refugee intake — small-scale mutual aid amid the larger war.

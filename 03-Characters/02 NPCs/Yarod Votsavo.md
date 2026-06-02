@@ -41,6 +41,7 @@ The dormant obligation carried inside [[Sanis Reylana\|Sanis]] since his resurre
 - [[Szadek]] — The Dimir Guildmaster spirit the Lich infused into Sanis.
 - [[Argo Lot]] — The essence the Lich implanted into Sanis.
 - [[Golgari Swarm]] — His guild (first Guild Leader / lich; now leader again, succeeding [[Vraska]], PP 18).
+- [[Family vod Savo]] — His family line: his raw-transcript alias *"Yorvo Vod Savo"* = **vod Savo**. Per the DM #Lore Dump, [[Myra|Myra Deathbloom]] and [[Saskia|Saskia vod Savo]] are named vod Savo / Golgari kin.
 - [[Steve]] — The Rotworm he rides; together they lead the freed ancient Rotworms (PP 18).
 
 ## Related
