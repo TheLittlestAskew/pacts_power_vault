@@ -6,12 +6,14 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 | Speaker (Player) | Total |
 |---|---|
-| Taylor | 21 |
-| Rachel | 15 |
-| Bri (guest) | 13 |
-| Gabe | 13 |
+| Taylor | 23 |
+| Rachel | 18 |
+| Gabe | 16 |
+| Bri (guest) | 16 |
 | Chet | 12 |
 | Vincent | 4 |
+
+> Totals through Transcript 06 (09/17/25).
 
 > ⚠️ Transcript 03 counts are **approximate** — the battle audio is heavily auto-censored/bleeped, so exact words/frequencies could not always be confirmed.
 
@@ -84,6 +86,19 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 > Heavy OOC banter session (curse-off during the ceiling collapse). Audio partly auto-censored; counts approximate.
 
 **Session 05 total:** ~23 (Taylor 5, Rachel 5, Bri 4, Gabe 4, Chet 3, Vincent 2).
+
+### Transcript 06 (09/17/25) — [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Soul Integrated Soul Storage, Get It Right]]
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis, mixed) | Fuck / shit | ~3 | Reacting to the ascension and the Liliana standoff |
+| Rachel (Rin, mixed) | Fuck / damn | ~3 | Lecturing Liliana on her contract choices; the war widening |
+| Bri (Chandra, guest) | Fuck / ass | ~3 | "You betrayed all of us just to save your own ass"; combat curses at Liliana |
+| Taylor (Orphie, mixed) | Shit / damn | ~2 | The decapitation threat; reacting to Liliana's escape |
+
+> Roleplay/exposition session; partly auto-censored. Counts approximate.
+
+**Session 06 total:** ~11 (Gabe 3, Rachel 3, Bri 3, Taylor 2).
 
 ## Related
 - [[Campaign Dashboard]]

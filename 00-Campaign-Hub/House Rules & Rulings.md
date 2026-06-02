@@ -68,6 +68,14 @@ DM rulings and table conventions, logged by session. These are Chris's in-the-mo
 | Double crit + Brutal Critical | [[Orphea "Orphie" Levistus\|Orphie]]'s two natural 20s plus Great Weapon Master's bonus attack and **Brutal Critical** (extra weapon die on a melee crit, gained at level 9) totaled **114 damage** in one turn. |
 | Tasting the essence pit | Drinking the raw marrow-pit essence forced a **Con save**; [[Ogre]] failed (13) and took **59 radiant damage**, dropping unconscious (no resistance; not raging). |
 
+## Transcript 06 (09/17/25) — [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Soul Integrated Soul Storage, Get It Right]]
+
+| Ruling | Detail |
+|---|---|
+| Aphonexa's boons (homebrew) | Ascended [[Salena\|Selena]] ([[Aphonexa]]) granted each PC a **blessing-spore** and gave [[Sanis Reylana\|Sanis]] a one-time **"seed of renewal"** — a free Revivify-type cast (revivify / prolong life / grant rest). DM-granted boons; exact mechanics left open. |
+| Roleplay session — no initiative | The [[Liliana Vess\|Liliana]] confrontation resolved through dialogue and her scroll-powered escape; **no combat initiative** was rolled despite [[Chandra Nalaar\|Chandra]]'s Scorching Ray (deflected) and 4th-level Fireball. |
+| Chain-veil contract (lore ruling) | [[Liliana Vess\|Liliana]]'s [[The Chain Veil\|chain veil]] is bound by a contract — originally to demons, reassigned to [[Nicol Bolas\|Bolas]] — that is **stronger and stricter** than the demon contract that bound [[Penny]] (which [[Rakdos]] once transferred); the consequence of breaking it is unknown. |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

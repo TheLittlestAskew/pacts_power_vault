@@ -6,9 +6,9 @@ aliases:
 race: Human
 class: Planeswalker (Pyromancer)
 affiliation: "Gatewatch / Party ally; founder of the Flameseekers of Truth"
-status: "Alive (recovering; scarred); traveling with the party as a recurring guest companion (T04)"
+status: "Alive but KO'd (T06) — carried by [[Liliana Vess|Liliana]] to Vitu-Ghazi; separated from the main party"
 first_appearance: "Early Session 4 (Spring Festival)"
-location: "Traveling with the party (Tenth District battlefield, en route to the Bone Mine) — T04"
+location: "Great Tree of [[Vitu-Ghazi]] (Selesnya Conclave), unconscious — T06"
 ---
 
 # Chandra Nalaar
@@ -51,6 +51,7 @@ Chandra knows the enemy's spark-harvesting method: the **[[Elder Spell]]**, cast
 | Transcript 03 (08/10/25) | Rescued and flown to [[Vitu-Ghazi]]; revealed the [[Strixhaven]] / [[Flameseekers of Truth]] / [[Onyx]] story and the [[Elder Spell]] + [[Spark-Harvester Trident]] |
 | Transcript 04 (08/26/25) | Recovered enough to travel with the party; [[Nissa]] slipped her an **extra Potion of Superior Healing** (a blushing, romantic beat). At [[Niv-Mizzet]]'s corpse she recognized her rescuer **[[Isiah Ja-Faank]]** and **leapt down (Fly) to fight back-to-back with him**, slinging fire — over the party's objections, on the principle of repaying the man who freed her from prison. |
 | Transcript 05 (09/07/25) | Traveled to the [[Bone Mine]]; opened the fight by Fireballing [[Tezzeret]] — **her torturer** — but was **dominated by him** (failed Wis save w/ disadvantage) and forced to Fireball the party before breaking free, then helped kill him (Scorching Ray; "You bastard, you made me hurt them"). Wracked with guilt afterward ("I don't deserve healing"). Learned from [[Isiah Ja-Faank]] that [[Onyx\|Professor Onyx]] doomed the [[Flameseekers of Truth]]. |
+| Transcript 06 (09/17/25) | **Recognized the unmasked [[Liliana Vess\|Liliana]]** (= the "[[Onyx]]" who betrayed her) on sight and attacked — Scorching Ray (deflected by the [[The Chain Veil\|chain veil]]), grapple/headbutts, then a 4th-level **Fireball**. Liliana **dimension-doored her away unconscious** to the Great Tree of [[Vitu-Ghazi]] with [[Isiah Ja-Faank]], tasking them to take [[Nissa]] to the [[Simic Combine]] (surviving Flameseekers experimented on there). **Separated from the main party.** |
 
 ## Key Quotes
 

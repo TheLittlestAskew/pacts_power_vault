@@ -145,7 +145,7 @@ Notable rolls:
 
 **Alternate names in play:** "Franco"/"Cranko"/"Crinkle" ([[Krenko]]); "the shiny ball"/"unkillable sphere"/"Son of Sam"(misspeak) (the [[Immortal Sun]]); "old Nibby/Nivi" ([[Niv-Mizzet]]); "Johnny" ([[Isiah Ja-Faank\|Isaiah]]'s alias); "Ogre's Tavern 2"/"Uger's Tubern" (the auctioned Airstream replica); "Greg"/"roll for Gregs" (OOC running gag about the LDGB's contents); "the account" (Varis's new Orzhov bonding).
 
-**Masquerade attire (flavor):** Orphie — black tuxedo, half-up locks, Zorro mask; Rin — red Victorian skirt/top, dragon-and-suns mask (à la [[Dolora]]); Varis — black robes, purple/silver flame trim, off-white mask; Ogre — rainbow suit, 5–6 stacked masks; Sanis — all-black suit + ski mask.
+**Masquerade attire (flavor):** Orphie — black tuxedo, half-up locks, Zorro mask; Rin — red Victorian skirt/top, dragon-and-suns mask (à la [[Dol Arrah]]); Varis — black robes, purple/silver flame trim, off-white mask; Ogre — rainbow suit, 5–6 stacked masks; Sanis — all-black suit + ski mask.
 
 ## 8. Archivist Notes
 

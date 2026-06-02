@@ -51,12 +51,13 @@ Sharp, moody, family-scarred. Sanis carries deep wounds from witnessing [[Salena
 | [[Flame Arrows]] (on quiver) | Cast by [[Varis Aestra\|Varis]]; ~12 arrows +1d6 white [[Ugin]] fire (carried from T02 into T03) |
 | Freeze-dried Snickerdoodle cookies | Hoarded healing treats (from Orphie's mom); 2 remaining after T03 |
 | Mushroom-grown bone | Given by [[Brula]] in T03; points to [[Salena\|Selena]] at the [[Bone Mine]] |
+| [[Aphonexa]]'s "seed of renewal" | One-time free Revivify-type cast (revivify / prolong / rest), granted by his ascended sister (T06) |
 
 ## Key Relationships
 
 | Character | Relationship |
 |---|---|
-| [[Salena]] | Sister. Died in Early Session 4 — but **present and apparently alive during the Transcript 01 Ghost Mind descent** (confirmed same character per Taylor). Mechanism of her return is unestablished; flagged for DM confirmation. |
+| [[Salena]] | Sister. Died Early Session 4; returned as a were-zombie; **ascended to [[Aphonexa]], goddess of rebirth (T06)**. She absolved him of guilt for her death and granted a one-time "seed of renewal" — a profound closure to his core wound. |
 | [[Ogre]] | Banter partner |
 | [[Rinestra "Rin" Genleth\|Rin]] | Mutual grounding |
 | [[Isiah Ja-Faank]] | **Actively blames him for [[Salena\|Selena]]'s death** ("He got my sister killed. He's the reason she died," T04). Distrusts him even as Isiah joins the party. |
@@ -86,6 +87,7 @@ The Reylana family is wealthy and has an estate ([[Reylana Mansion\|Reylana mans
 | Transcript 03 (08/10/25) | Received a mushroom-grown bone from [[Brula]] and word that his sister **[[Salena\|Selena]] is hurt and recovering at the [[Bone Mine]]** — a new personal hook. |
 | Transcript 04 (08/26/25) | Cast **Pass Without a Trace** (+10 stealth, no magical tracking) for the trip toward the [[Bone Mine]]; **found the [[Spark-Harvester Trident\|Spark Harvester]]** on a fallen [[Eternal]] (Investigation 22) and handed it off. Voiced open blame toward [[Isiah Ja-Faank]] for [[Salena\|Selena]]'s death even as Isiah joined the party. |
 | Transcript 05 (09/07/25) | Drove the [[Salena\|Selena]] rescue at the [[Bone Mine]]: consulted [[Szadek]] ("Daddy") in his mind for a way to save her (answer: "go to the Source"); donated blood to her cure. **Identified [[Tezzeret]]** as the cyborg corrupting the pits (History nat 20). Cast **Phantasmal Force** on Tezzeret (an illusion of him dying over and over in the crystal tower) and guarded Selena; confirmed [[Ogre]] would survive the pit-taste (Medicine nat 20). **Pushed Selena into the essence pit** to support her choice to ascend ("It was her decision and that's all that matters"). |
+| Transcript 06 (09/17/25) | His ascended sister **[[Salena\|Selena]] → [[Aphonexa]]** pulls him aside, **absolves him** of guilt for her death (*"It's not your fault… don't beat yourself up over it"*), materializes briefly for a hug, and grants him a one-time **"seed of renewal"** (free Revivify-type cast). A profound closure beat for his core wound. |
 | Transcript 11 (01/11/26) | Used his family's "insurance" to acquire superior health potions for the party |
 
 ## Key Quotes

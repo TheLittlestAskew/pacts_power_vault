@@ -3,9 +3,9 @@ type: npc
 race: Unknown
 class: "Fighter-type (fiery greatsword)"
 affiliation: "Independent; ally of Chandra Nalaar"
-status: "Alive — joined the party (T04)"
+status: "Alive — separated from the main party (T06): left at Vitu-Ghazi to care for unconscious [[Chandra Nalaar|Chandra]]"
 first_appearance: "Early Session 3 (Eighth Precinct Jail); Lore Dump 2023"
-location: "Tenth District battlefield (en route to the Bone Mine with the party)"
+location: "Great Tree of [[Vitu-Ghazi]] — T06"
 aliases: [Isiah, Isaiah]
 ---
 
@@ -53,6 +53,10 @@ Grandiose, cheerful, and theatrical — greets a desperate fight as "the fanfare
 - **Knocked unconscious the instant he touched the [[Leather Daddy Game Boy]]** (overwhelmed by its god-souls); [[Chandra Nalaar\|Chandra]] doodled a monocle/mustache/unibrow on his face while he was out; he woke later muttering "cheesecake"
 - In the [[Tezzeret]] fight, cleaved corrupted Myconids apart with his fiery longsword ("that is how you grill mushrooms"), suffering exhaustion
 - Stayed "in solidarity" as the marrow pits collapsed (produced an umbrella)
+
+### [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Transcript 06 — Soul Integrated Soul Storage, Get It Right]] (09/17/2025)
+- Urged the party to **hear [[Liliana Vess\|Liliana]] out** during the confrontation.
+- **Tackled away from the fight** with [[Chandra Nalaar\|Chandra]]; Liliana **dimension-doored** them both to the Great Tree of [[Vitu-Ghazi]], **tasking Isiah to care for the unconscious Chandra** and to take [[Nissa]] to the [[Simic Combine]] (where surviving [[Flameseekers of Truth]] are experimented on). Separated from the main party.
 
 ## Key Quotes
 

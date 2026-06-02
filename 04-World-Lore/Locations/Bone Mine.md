@@ -1,7 +1,7 @@
 ---
 type: location
 region: "Golgari district (Tenth District), Ravnica"
-status: "Myconid colony cavern intact; the marrow/essence pits collapsed & sealed (T05, 09/07/25)"
+status: "Myconid colony cavern intact; marrow/essence pits collapsed & sealed (T05); now the seat of the ascended goddess [[Aphonexa]] (T06)"
 first_appearance: "Referenced earlier; resurfaced Transcript 03 (08/10/25); on-site Transcript 05 (09/07/25)"
 ---
 
@@ -34,7 +34,12 @@ The party finally reached and entered the Bone Mine.
 - The party killed Tezzeret at the marrow pits; **Selena submerged in the essence pit** and the **corruption was purged** (the pool turned white-purple).
 - The marrow pits then **collapsed and sealed** as the party escaped. The Myconid colony cavern remains; all Myconids were left unconscious, with an ethereal white-eyed figure (Selena, ascended) standing over [[Thal]].
 
+## Transcript 06 (09/17/25) — Aphonexa's Ascension
+
+The T05 stinger figure is revealed as [[Salena\|Selena]], **ascended to [[Aphonexa]], goddess of rebirth**. She **revives the Myconid colony** (incl. [[Thal]]) and blesses the party, and is now **bound to the Bone Mine as her seat of power** (her blessing travels with the party). [[Pippi]] ("Sis") reveals she was a **portal to the Nexus**. The party is confronted here by **[[Liliana Vess]]** (unmasked from "Professor [[Onyx]]"), who delivers the central revive-[[Niv-Mizzet]] quest before dimension-dooring away with [[Chandra Nalaar\|Chandra]] and [[Isiah Ja-Faank]].
+
 ## Related
+- [[Aphonexa]]
 - [[Thal]]
 - [[Tezzeret]]
 - [[Eternals]]

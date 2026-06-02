@@ -15,6 +15,7 @@ A massive tree with interior rooms (including private care rooms). During the si
 
 ## Notable Events
 - **Transcript 03 (08/10/25):** The party flew the rescued [[Chandra Nalaar|Chandra]] here for care. [[Nissa]] intook Chandra in a private room inside the tree; Chandra revealed her [[Strixhaven]] backstory and the [[Elder Spell]]. [[Brula]] arrived here to deliver the mushroom-bone and news of [[Salena|Selena]] at the [[Bone Mine]].
+- **Transcript 06 (09/17/25):** Closing stinger — [[Liliana Vess]] dimension-doors here with an unconscious [[Chandra Nalaar|Chandra]] and [[Isiah Ja-Faank]], deposits them at the tree, and tasks Isiah with caring for Chandra (and taking [[Nissa]] to the [[Simic Combine]]).
 
 ## Related
 - [[Selesnya Conclave]]

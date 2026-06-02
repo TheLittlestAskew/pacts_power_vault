@@ -6,7 +6,7 @@
 >
 > **Source authority:** Campaign source files > Pacts & Power Spelling Guide > Ravnica Spelling Guide > Official MTG/WotC sources > D&D 5E sources. DM rulings (Chris) override all other sources.
 >
-> **Last updated:** 2026-05-16
+> **Last updated:** 2026-06-01 (added finale terms: God-Eternals, Orogalan, Aphanexa, HellSmasher)
 
 ---
 
@@ -45,6 +45,8 @@
 | Immortal Sun | Immortal Son, Eternal Sun, Eternal Son | Traps planeswalkers on a plane. "Sun" not "Son." |
 | The Second Sun | Second Son | Campaign enemy faction. "Sun" not "Son." |
 | Kaya Cassir | Kaeya, Kayakasir, Kaia | Planeswalker ghost assassin. "Kaya" is acceptable shorthand. |
+| HellSmasher | Hell Smasher, Hell's Masher, Hellsmasher | Blazebringer's final form, a fiery maul (PP_21). "Hellraiser" is the *unchosen* sword form — do not conflate. |
+| Dragon Spirit Box | Dragonhedron, Dragon Hedron | Varis's Hedron; became Nicol Bolas's soul-prison (PP_21). |
 
 ---
 
@@ -72,6 +74,10 @@
 | Teysa Karlov | Taysa, Teresa Karlov | Orzhov noble. |
 | Isperia | Isperea, Esperia | Former Azorius sphinx guildmaster. |
 | Borborygmos | Barbara Rigmos, Borberigmos | Gruul clan leader. |
+| Bontu | Bantu, Bantou | God-Eternal of Amonkhet (Bolas's army). NOTE: do NOT correct "Mardu"→Bontu; "Mardu" is a canonical Tarkir clan. |
+| Rhonas | Ronas, Rhona | God-Eternal of Amonkhet. |
+| Kefnet | Khephnet, Kevnit, Kevnet, Kefnut | God-Eternal of Amonkhet (the bird god). |
+| Oketra | Oketrah, Aketra | God-Eternal of Amonkhet. Downed S19. |
 
 ---
 
@@ -145,7 +151,10 @@
 | Steve | — | Golgari Rotworm. Befriended by Ogre. |
 | Lavinia | Lavina | Azorius administrator. |
 | Krenko | Crenko | Goblin NPC. |
-| Dolora | Dol Ara, Dora, Dolores | Rin's patron deity (Light Domain); source of her radiant/Channel Divinity power. Confirmed spelling. |
+| Dol Arrah | Dolorah, Dolora, Dol Ara, Dolara, Tolara, Dora, Dolores | Rin's patron deity — Eberron Sovereign Host (light, sun, honor); source of her radiant / Channel Divinity power. **Canonical confirmed by Taylor 2026-06-01** (long mis-transcribed "Dolora"/"Dolorah"). |
+| Ur-Ogre-lan | Orogalan, Ogorgalon, Arogalin, Arugalon, Orogalon, Rogalan, Aroglon | Halfling god of death; **Ogre's** true self (PP_19+). **Canonical confirmed by Taylor 2026-06-01.** Merged-Ogre nicknames (Roguelin, Ogrelin, Oglin) intentional. **DISTINCT from Argo Lot** (below) — do NOT merge (confirmed 2026-06-01). |
+| Argo Lot | a roguelot, Argolot | Death-god **shard bound to Sanis** via the Golgari Lich pact ("Zaddy Daddy"); source of his dhampir power (PP_07–13). **DISTINCT from Ur-Ogre-lan** — a separate entity (confirmed by Taylor 2026-06-01). |
+| Aphonexa | Aphanexa, Aphenexa, Aphinexa, Afonexa, Aphonexet, Aphanexus | Goddess of rebirth; Selena ascended (PP_06+). **Canonical confirmed by Taylor 2026-06-01.** |
 
 ---
 
@@ -210,6 +219,8 @@
 9. **Ghost Mind spirits (Eleni, Gavril, Vula, Sarin, The Whisper Mask, The Veil):** Leave as-is.
 10. **Hikara:** Confirmed canonical. Do not correct.
 11. **Orphea vs Orphie:** Both correct. Only correct "Orphiea"/"Orphieus" → "Orphea."
+12. **"Mardu":** Do NOT correct to "Bontu." "Mardu" is a canonical Tarkir clan (Mardu Horde). The God-Eternal was only loosely called "Mardu" in PP_20 dialogue; handle that contextually in notes, not by global rule.
+13. **Orogalan nicknames:** "Urogalan," "Roguelin," "Ogrelin," "Oglin" are intentional in-jokes for the merged Ogre. PRESERVE. Only correct the clear mis-hears (Ogorgalon, Arogalin, Arugalon, Orogalon) → "Orogalan."
 
 ---
 

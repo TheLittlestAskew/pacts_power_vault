@@ -98,6 +98,19 @@ Campaign-wide tracker of artifacts, items, and significant objects: owner, state
 | Myconid essence / marrow pits | [[Bone Mine]] | [[Tezzeret]] had installed pumps + a black portal **corrupting** the ancient essence pits for [[Nicol Bolas\|Bolas]]. After his death the corruption was **purged** (pool turned white-purple) and the pits **collapsed/sealed**. | Transcript 05 (09/07/25) |
 | [[Tezzeret]]'s soul | — | [[Ogre]] tried to claim it via Accursed Specter but **could not** (he didn't land the killing blow and had spent his bonus action). | Transcript 05 (09/07/25) |
 
+## Transcript 06 (09/17/25) — [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Soul Integrated Soul Storage, Get It Right]]
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[Aphonexa]]'s blessing (spore/energy boon) | [[Orphie]], [[Ogre]], [[Rin]], [[Varis Aestra\|Varis]] | Green-purple blessing-spore bestowed on each PC by ascended [[Salena\|Selena]] ([[Aphonexa]]). Travels with the party though she is bound to the [[Bone Mine]]. | Transcript 06 (09/17/25) |
+| [[Aphonexa]]'s "seed of renewal" | [[Sanis Reylana\|Sanis]] | A one-time free cast (Revivify-type: revivify / prolong / rest), granted with a materialized hug + tear and Aphonexa's absolution. | Transcript 06 (09/17/25) |
+| The box (Niv-Mizzet revival) | Party ([[Rin]]) | Confirmed in the party's possession; **required to revive [[Niv-Mizzet]]** at the center of the Leylines (per [[Liliana Vess\|Liliana]]/[[Ugin]]). | Transcript 06 (09/17/25) |
+| "Sis" / Soul Integrated Soul Storage (was [[Pippi]]) | [[Ogre]] (pack/device) | [[Pippi]] reawakened and rebranded; revealed she was once a **portal to the Nexus** — she can guide the party to the center of the Leylines. | Transcript 06 (09/17/25) |
+| [[The Chain Veil]] | [[Liliana Vess]] | Liliana's artifact — a veil of chains that controls the dead; bound to her by a demon→[[Nicol Bolas\|Bolas]] contract; deflected [[Chandra Nalaar\|Chandra]]'s Scorching Ray. | Transcript 06 (09/17/25) |
+| Dimension-door scroll | Spent ([[Liliana Vess]]) | Used to escape with [[Chandra Nalaar\|Chandra]], [[Isiah Ja-Faank]], and the [[Eternals]] (→ [[Vitu-Ghazi]]). | Transcript 06 (09/17/25) |
+
 ## Archivist Notes
 
 - **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. **Transcript 02 (07/27/25) is the transformation event** (Ball fused into Pip's Game Boy → LDGB). Transcript 01 captures it at the Ball stage; older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.

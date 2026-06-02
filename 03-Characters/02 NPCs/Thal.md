@@ -2,7 +2,7 @@
 type: npc
 race: Myconid (Sovereign / colony leader)
 affiliation: "The Bone Mine Myconid colony"
-status: "Alive — unconscious (T05 stinger)"
+status: "Alive — revived by [[Aphonexa]] (T06); full name Thal Oram"
 first_appearance: "Earlier Bone Mine visit; named Transcript 05 (09/07/25)"
 location: "The Bone Mine (Myconid colony cavern)"
 ---
@@ -22,7 +22,12 @@ A large Myconid distinct from his five lesser colony-mates; the [[Bone Mine]]'s 
 - Warned the party that **[[Tezzeret]]** (a "human machine, arms of metal") was at the marrow/essence pits **corrupting the colony's essence**, and pointed them down the tunnels to confront him.
 - After the party purged the corruption and the pits collapsed, the party returned to find **all Myconids unconscious** — and an **ethereal white-eyed figure standing over Thal's body** (implied [[Salena|Selena]], ascended). Session-ending stinger.
 
+### [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Transcript 06 — Soul Integrated Soul Storage, Get It Right]] (09/17/2025)
+- **Revived** by the ascended [[Salena\|Selena]] ([[Aphonexa]]) along with the rest of his colony; rises and kneels. **Full name given:** **Thal Oram**.
+- **Proclaims her divinity:** *"All hail Aphonexa, goddess of rebirth."* His colony becomes Aphonexa's worshippers.
+
 ## Relationships
+- [[Aphonexa]] — Revived him; he proclaimed her goddess. (Was [[Salena\|Selena]].)
 - [[Salena|Selena]] — Saved her life with the essence; she submerged in his colony's pit and ascended.
 - [[The Breakfast Club]] — Allied; guided them to Tezzeret.
 - [[Tezzeret]] — Corrupted his colony's essence pits for [[Nicol Bolas|Bolas]].

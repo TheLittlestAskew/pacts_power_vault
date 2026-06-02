@@ -52,10 +52,10 @@ This session runs in **three movements**:
 
 ### C. The Myconids & the Rot Warren (after the rest)
 - They wake to find **Dahlia and the drill gone** — she left early for the Rot Warren ("the ref farm"), leaving a note: *"Hi Breakfast Club, couldn't wait… —D."* They follow the bored tunnel.
-- **The Myconid misunderstanding:** Dahlia's drill bored **straight through the Myconid colony** — the purple myconids who worship **[[Aphanexa]]** (the god the party *created*). The myconids attacked; **one was killed, one badly injured.** The head priest demands **"a like for like."**
+- **The Myconid misunderstanding:** Dahlia's drill bored **straight through the Myconid colony** — the purple myconids who worship **[[Aphonexa]]** (the god the party *created*). The myconids attacked; **one was killed, one badly injured.** The head priest demands **"a like for like."**
   - Rin stabilizes the injured one. To revive the dead one she casts **Raise Dead** through **[[Varis Aestra\|Varis]]'s Mizzium Gauntlet** (unknown spell → Arcana check). **First attempt botches** — the gauntlet wild-magics into **Cloudkill**, poisoning Rin (21) and Varis.
   - **[[Varis Aestra\|Varis]], as the [[Orzhov Syndicate\|Orzhov]] Guild leader, *loans Rin a 5th-level spell slot*** — a binding **pact of power, to be repaid** — and the table notes this is the **first time in three years the phrase "Pacts and Power" has been spoken in-session.**
-  - **Second attempt succeeds** — Rin revives the myconid. The priest kneels; the colony hails the party as **"the chosen" of Aphanexa** (its creators). Head priest **"Eddie"** volunteers to guide them.
+  - **Second attempt succeeds** — Rin revives the myconid. The priest kneels; the colony hails the party as **"the chosen" of Aphonexa** (its creators). Head priest **"Eddie"** volunteers to guide them.
 - **The Rot Warren battle:** a bowl-valley sealed by a **force-field dome** powered by **6 pylons** (Lazotep + Mizzium), each guarded by **2 Eternals**, caging the Rotworms.
   - Ogre fumbles the drill controls (stalls it). **[[Teferi]] polymorphs [[Orphea "Orphie" Levistus\|Orphie]] into a T-Rex** (her second time — *"I am a T-Rex forever"*), and she joyfully bites/tail-swipes pylons (Str 27, Int 2, "the happiest T-Rex").
   - **Fireballs** (Rin, Varis), **Eldritch Blast** (Ogre — a **nat-20 crit**), **Shatter** (Ogre), **Lightning Arrow** (Sanis, via Ava's Longbow), and the **T-Rex** demolish all **6 pylons + their Eternals**. The **force field drops.**
@@ -65,7 +65,7 @@ This session runs in **three movements**:
 - ✅ **Unite the guilds** against Bolas (council ritual on the die).
 - ✅ **Build the Drillinator** (core stabilized via Ogre's soul-magic + god metal; bit smoothed).
 - ✅ **Free the Rot Warren** (6 pylons + Eternals destroyed; Rotworms released).
-- ✅ **Right the Myconid wrong** (Rin's Raise Dead) — party reaffirmed as **Aphanexa's "chosen."**
+- ✅ **Right the Myconid wrong** (Rin's Raise Dead) — party reaffirmed as **Aphonexa's "chosen."**
 - **In progress / next:** reconvene with **[[Niv-Mizzet]]**, then **tunnel to Bolas's Citadel** for the final confrontation. **[[Rinestra "Rin" Genleth\|Rin]] owes [[Varis Aestra\|Varis]]/the Orzhov a 5th-level spell slot** (pact debt).
 
 **Themes & Emotional Beats.** **Coalition and cost.** The grand council is the campaign's "everyone shows up" payoff — every guild, ally, and old friend (even Carl) rallied. Against that scale, the comedy of **exhaustion** (the party literally too tired to fight a war) keeps it human. The **Myconid restitution** + the **Orzhov spell-loan** crystallize the title: power here is always *borrowed, bargained, owed.* And Orphie's **T-Rex** is pure catharsis after S16–17's trauma — joy as recovery.
@@ -80,14 +80,14 @@ This session runs in **three movements**:
 | [[Niv-Mizzet]] | Convenes the council; sets the "confront Bolas" directive | Living Guildpact; waiting at the plaza |
 | [[Dalia Bara]] | Builds/drives the Drillinator; caffeine-fueled; "safety is second" | Ally (Izzet leader) |
 | Steve the Rotworm / [[Yarok\|Yarod Votsavo]] | The tunnel route; Golgari leadership; brethren freed | Allies — ready to tunnel to Bolas |
-| Eddie (Myconid head priest) | Demands "a like for like"; guides party to the Rot Warren | Reconciled; party = Aphanexa's "chosen" |
+| Eddie (Myconid head priest) | Demands "a like for like"; guides party to the Rot Warren | Reconciled; party = Aphonexa's "chosen" |
 | [[Carl]] | The Simic crab the party doomed — now de-facto Simic rep | Ally (tragicomic) |
 | [[Teferi]] | Brings the Zhalfir army; lore-keeper; polymorphs Orphie | Departs to the Zhalfir front (reach via Sending) |
 
 **Reputation & Relationships.**
 - **[[Sanis Reylana\|Sanis]] ↔ Dimir/Golgari:** gestured to the **Dimir** die by Benji (Lazav within him), even as his **Golgari pact** (post-Vraska) is fulfilled with Yarod's leadership.
 - **[[Varis Aestra\|Varis]] ↔ Orzhov:** exercises **guild-leader power** to loan Rin a spell slot — a literal pact.
-- **[[Rinestra "Rin" Genleth\|Rin]] ↔ the Myconids:** her Raise Dead cements the party's standing as Aphanexa's chosen; she muses about becoming Izzet's "safety inspector" post-war.
+- **[[Rinestra "Rin" Genleth\|Rin]] ↔ the Myconids:** her Raise Dead cements the party's standing as Aphonexa's chosen; she muses about becoming Izzet's "safety inspector" post-war.
 - **Party ↔ [[Teferi]]:** warm reunion; Orphie forgives him on learning *he's* the one who first made her a T-Rex.
 
 ## 5. Artifacts (Loot & Items)
@@ -153,14 +153,14 @@ This session runs in **three movements**:
 - **The board is set for the finale.** Coalition united, drill built, Rotworm highway opened — the **next session tunnels to Bolas's Citadel** for the confrontation. The campaign is in its **final arc** (multiple players/Teferi call it "the finale").
 - **Ogre's soul/death magic is mechanically central** — it's what stabilized the Eternal-soul core ("felt right"). Tie this to his corrupted-by-Bolas powers (S18 recap) and his unfulfilled "be a Guildpact" wish — his arc with death/soul magic is building to *something*.
 - **The Orzhov spell-loan ("Pacts and Power")** is now an established mechanic — and Ogre immediately jokes about **"banking a spell slot with the Azorius,"** flagging it'll be (comedically) abused. **Rin owes a 5th-level slot.**
-- **[[Aphanexa]]** (the party-created god) has a **worshipping Myconid colony**; the party are its **"chosen"/creators** — a faction/asset for the finale.
+- **[[Aphonexa]]** (the party-created god) has a **worshipping Myconid colony**; the party are its **"chosen"/creators** — a faction/asset for the finale.
 - **Gatewatch status** (per Teferi): **Ajani** alive; **Gideon** missing (went after Chandra to Strixhaven, unseen since the Beacon); **Liliana** working for Bolas (necromancy + **Chain Veil** — possibly animating the Eternals) "but also not"; **Nissa** present; **Kaya** and the "ghost assassin" dead. **[[Teferi]]** seeking more Gatewatch aid.
 - **God-Eternal Kefnet** (Amonkhet) battles Tarkir dragons overhead; **3 Eternal Gods** loose in Ravnica.
 
 **Continuity Flags / Missing Info / Ambiguities.**
 - ⚠️ **Transcript labels unreliable** — Ogre's lines frequently tagged "DM"; PC swaps common. Attributions reconciled vs. the DDB log.
 - ⚠️ **Guild leadership to record:** **[[Varis Aestra\|Varis]] = Orzhov Guild leader**; **[[Yarok\|Yarod Votsavo]] = Golgari leader** (riding Steve); **[[Dalia Bara]] = Izzet**; **[[Carl]] = de-facto Simic**; **[[Sanis Reylana\|Sanis]]** tied to the **Dimir** seat (Lazav within). Confirm/standardize spellings across vault.
-- ⚠️ **Spellings to confirm (raw):** **[[Aphanexa]]** ("Aphonexa/Aphenexa"), **[[Yarok\|Yarod Votsavo]]** ("Yirad/Urod Votsavo"), **[[Dalia Bara]]** ("Dahlia/Barra"), **[[Vitu-Ghazi]]**, "Zhalfir" (Teferi's plane), "Lazotep," "Mizzium," "Kefnet."
+- ⚠️ **Spellings to confirm (raw):** **[[Aphonexa]]** ("Aphonexa/Aphenexa"), **[[Yarok\|Yarod Votsavo]]** ("Yirad/Urod Votsavo"), **[[Dalia Bara]]** ("Dahlia/Barra"), **[[Vitu-Ghazi]]**, "Zhalfir" (Teferi's plane), "Lazotep," "Mizzium," "Kefnet."
 - **Level 12 confirmed** (Orphie 125 HP w/ Toughness). Frontmatter set to `12`.
 - **Heavy OOC excluded** per house rules (extensive anime/lit tangents — Flowers for Algernon, MHA, Naruto; Doctor Who/TARDIS bits; college football; cats/cars). **Scheduling (final-arc cadence):** next **Sunday 04/19**, then **Thu 05/14**, then **Sun 05/31**; Teferi may not return before the campaign ends (getting married ~6 weeks out).
 

@@ -13,6 +13,7 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | Transcript 03 (08/10/25) | 61 | ~40 | [[Sanis Reylana\|Sanis]] (20) |
 | Transcript 04 (08/26/25) | 16 | ~10 | [[Ogre]] (7) |
 | Transcript 05 (09/07/25) | ~85 | ~15 | [[Orphea "Orphie" Levistus\|Orphie]] (~43) |
+| Transcript 06 (09/17/25) | 8 | ~5 ([[Rin]] Arcana/History ×4; [[Chandra Nalaar\|Chandra]] grapple) | [[Sanis Reylana\|Sanis]] (4) |
 
 ## Per-Character DDB Rolls
 

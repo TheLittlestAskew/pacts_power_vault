@@ -3,7 +3,7 @@ type: npc
 race: AI / ghost-construct
 class: Companion
 affiliation: "Ogre / The Breakfast Club"
-status: "Inert (recovering) inside the Leather Daddy Game Boy"
+status: "Reawakened as 'Sis' / Soul Integrated Soul Storage (T06); revealed as a former portal to the Nexus"
 first_appearance: "Pre-Transcript 02 (created by Dalya Bara)"
 location: "Leather Daddy Game Boy (Ogre's possession)"
 aliases: [Pip]
@@ -27,6 +27,10 @@ Created by [[Dalya Bara]] alongside related ghost-spirits ("siblings/cousins"). 
 - When [[Ogre]] brought the Ball into contact with Pip's Game Boy, the Ball **merged into the console** → the **[[Leather Daddy Game Boy]]** (death magic + Ghost Mind souls + Pip fused into one entity). Pip's screen flashed a shocked face, then went dark — **rendered unconscious/inert**, needing time to recover ([[Rin]] Arcana 23)
 - A separate **soulless clone** of Pip (personality + memories + knowledge, no soul) exists; [[Dalya Bara]] installed one copy in **[[EMLA]]**, and [[Rin]] holds a spare clone
 - The party privately resolved not to let Dalya hunt for a soul to complete the clone
+
+### [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Transcript 06 — Soul Integrated Soul Storage, Get It Right]] (09/17/2025)
+- **Reawakened** inside [[Ogre]]'s device, rebranded **"Sis" / Soul Integrated Soul Storage** (*"You can call me Soul Integrated Soul Storage. Get it right."*).
+- Revealed she was once a **portal to the Nexus** — the center of the Leylines / the [[Implicit Maze]], not just "the moon" — and can **guide the party there** for the [[Niv-Mizzet]] revival. A key plot vehicle for the central quest.
 
 ## Relationships
 - [[Ogre]] — Owner/companion; deeply attached (distressed when Pip went inert).

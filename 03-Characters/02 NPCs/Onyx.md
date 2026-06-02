@@ -22,7 +22,11 @@ The party does **not** recognize the name "Onyx." The DM gated a recall check be
 ## Update — Transcript 05 (09/07/25)
 [[Isiah Ja-Faank]] (who fought alongside [[Chandra Nalaar|Chandra]] in the [[Flameseekers of Truth]]) confirmed that after Chandra's capture, **"Professor Onyx" snitched on everyone** — revealing the Flameseekers' identities to [[Nicol Bolas|Bolas]], after which none of them made it out. This corroborates Chandra's betrayal account and deepens Onyx's role as a Bolas-aligned informant. (Still not connected to [[Liliana Vess]] by the party in-fiction.)
 
+## Update — Transcript 06 (09/17/25) — REVEALED
+At the [[Bone Mine]], "Professor Onyx" **drops the disguise**: she is **[[Liliana Vess]]**, the black-robed [[Gatewatch]] betrayer now serving [[Nicol Bolas\|Bolas]] (identified via the [[The Chain Veil\|chain veil]]; [[Rin]] History 19). The party now knows the connection **in-fiction**. "Professor Onyx" is retired as a disguise/alias — see **[[Liliana Vess]]** for her full page.
+
 ## Relationships
+- [[Liliana Vess]] — **IS** Liliana (Onyx was her disguise; revealed T06).
 - [[Chandra Nalaar]] — Betrayed her at Strixhaven.
 - [[Strixhaven]] — Setting of the betrayal.
 - [[Liliana Vess]] — See archivist cross-reference above.

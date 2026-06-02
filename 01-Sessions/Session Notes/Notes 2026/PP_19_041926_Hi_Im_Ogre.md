@@ -38,11 +38,11 @@ And then Ogre — our chaos goblin, our mascot, the one who runs face-first into
 
 ### A. Regroup & request allies
 - A comedy of **planeswalking** — only **[[Sanis Reylana\|Sanis]]** succeeds first (**nat 20**); the others follow his etheric trail (with advantage) back to **[[Niv-Mizzet]]** at Maze's End. (Even **[[Orphea "Orphie" Levistus\|Orphie]]**, barely arcane, manages it.)
-- Niv warns this is **"a fight for the future of this plane,"** and grants the party a pick of **personal allies** to help them ascend (everyone else is committed to the front line). They choose **Penny** (Rin — to close her Bolas-tied arc), **Molly** (Sanis — paladin, his love interest), and **Nissa Revane** (Ogre — healer/druid). **[[Sanis Reylana\|Sanis]]'s call to his sister-goddess [[Aphanexa]] goes unanswered.**
+- Niv warns this is **"a fight for the future of this plane,"** and grants the party a pick of **personal allies** to help them ascend (everyone else is committed to the front line). They choose **Penny** (Rin — to close her Bolas-tied arc), **Molly** (Sanis — paladin, his love interest), and **Nissa Revane** (Ogre — healer/druid). **[[Sanis Reylana\|Sanis]]'s call to his sister-goddess [[Aphonexa]] goes unanswered.**
 - Intel from the Dimir: **Bolas's forces are dwindling**, he's pulled back the **God-Eternals**, and **[[Liliana Vess]]** is atop the Citadel with him.
 
 ### B. The journey (a full-campaign recap) & the oppressive fog
-- The long tunnel walk is staged as a **highlight reel of the entire campaign** (Tenth Street High detention; the library hag; Ogre's Traveling Tavern; the Guildpact breaking & Jace's spark harvested; sparks unlocked at Nivix; Sanis's death → dhampir; saving Penny from a Bolas contract → Rakdos; Ixalan/the Immortal Sun/killing Aklazotz; Tarkir/restoring Ugin & the dragons; the Bone Mine; **Selena ascended to [[Aphanexa]]**; Tezzeret killed; the Simic confrontation; the Tenth District heist). Each PC has a quiet pre-battle moment (**[[Orphea "Orphie" Levistus\|Orphie]]** channeling Athena through Blazebringer; **[[Rinestra "Rin" Genleth\|Rin]]** a mantra to **[[Dolora\|Dolorah]]**; **[[Varis Aestra\|Varis]]** attuning to **Ugin** — who whispers *"I will come when the time is right"*).
+- The long tunnel walk is staged as a **highlight reel of the entire campaign** (Tenth Street High detention; the library hag; Ogre's Traveling Tavern; the Guildpact breaking & Jace's spark harvested; sparks unlocked at Nivix; Sanis's death → dhampir; saving Penny from a Bolas contract → Rakdos; Ixalan/the Immortal Sun/killing Aklazotz; Tarkir/restoring Ugin & the dragons; the Bone Mine; **Selena ascended to [[Aphonexa]]**; Tezzeret killed; the Simic confrontation; the Tenth District heist). Each PC has a quiet pre-battle moment (**[[Orphea "Orphie" Levistus\|Orphie]]** channeling Athena through Blazebringer; **[[Rinestra "Rin" Genleth\|Rin]]** a mantra to **[[Dol Arrah]]**; **[[Varis Aestra\|Varis]]** attuning to **Ugin** — who whispers *"I will come when the time is right"*).
 - Entering Bolas's **oppressive fog**, anxious/intrusive thoughts gnaw at everyone; **[[Niv-Mizzet]]** looks haggard. **[[Ogre]] and Dusk are notably unfazed** — *"they did this arc already"* (his power came from grief).
 
 ### C. The assault on the Citadel
@@ -50,19 +50,19 @@ And then Ogre — our chaos goblin, our mascot, the one who runs face-first into
 - Atop the **400-ft tiered black pyramid**: **[[Nicol Bolas\|Bolas]] on his throne** beneath a blinding-white **ball of harvested sparks**, **siphoning** it into himself; **[[Liliana Vess]]** (the **Chain Veil** over her face) **marionettes the 3 remaining God-Eternals** (Bontu, Ronas, +1; **Oketra already downed**).
 - The party **Pass-Without-a-Trace** up the pyramid (8–10-ft steps), carrying Rin on Orphie's back. **Molly** + Boros griffin-riders duel the God-Eternals overhead (most griffins shot from the sky; Molly eventually grapples **Bontu** down onto the pyramid).
 - **Step skirmishes:** a squad of 5 Eternals ambushes — **[[Ogre]]** Mage-Hand/Eldritch-Blasts and **[[Orphea "Orphie" Levistus\|Orphie]]** *throws* them off the pyramid; **[[Varis Aestra\|Varis]]** Thunderwaves one off; **[[Sanis Reylana\|Sanis]]** longbows the last. **Ronas** rains arrows (Sanis fails a **nat-1** Dex save → 27 piercing).
-- **Running gag:** **[[Rinestra "Rin" Genleth\|Rin]]'s Divine Intervention NEVER works** — she rolls 90/75/45/75 (needs ≤12) all session; **[[Dolora\|Dolorah]] stays silent.**
+- **Running gag:** **[[Rinestra "Rin" Genleth\|Rin]]'s Divine Intervention NEVER works** — she rolls 90/75/45/75 (needs ≤12) all session; **[[Dol Arrah]] stays silent.**
 - To speed the climb, **[[Varis Aestra\|Varis]] summons Ugin** ("Eugene," a Draconic Spirit, 60-ft fly) and the party rides up. At the top: **[[Ogre]]** Mage-Hands Liliana (she's unmoved by the Chain Veil's power), **[[Orphea "Orphie" Levistus\|Orphie]]** strikes her (little effect — Liliana just *nods*), **[[Sanis Reylana\|Sanis]]** support-fires Molly's fight with **Lightning Arrow**, and **[[Varis Aestra\|Varis]] Scorching-Rays Bolas directly** (**nat-20**) — but the rays **dissipate**; Bolas is **outlined/empowered by the spark energy** and effectively invulnerable *while he siphons.*
 
 ### D. Climax — Ogre's apotheosis
 - **[[Ogre]] Dimension-Doors above the spark-ball and plunges Dusk into it to absorb the power** (precedent: he's drained gods/souls before). He takes **65 + 74 radiant** → **falls unconscious / "dies."**
-- He wakes in a **memory** — the forest, picking mushrooms with his adoptive father **Rod** — then **planeswalks (NAT 20)** not to the Blind Eternities but to the **seats of the halfling pantheon.** There, **Rogalan** (the halfling **god of death**, nearly disintegrated to ash by Bolas's corruption — only his face left) reveals the truth: ***"You are me and I am you."*** Eons ago the god removed a part of himself — **his heart**, the icon of love and passion — and splayed it into the world to live mortal lives **as Ogre.**
-- **[[Ogre]] planeswalks *into* Rogalan's body** (occupying the same space — *"Steven Universe putting his heart back in"*). The **souls Ogre has absorbed reconstitute the god's body**; memories flood in (the pantheon council, ferrying the dead, his own birth). **Ogre and Rogalan become one** — **Ogre is now whole: the halfling god of death, Bolas's corruption purged.**
+- He wakes in a **memory** — the forest, picking mushrooms with his adoptive father **Rod** — then **planeswalks (NAT 20)** not to the Blind Eternities but to the **seats of the halfling pantheon.** There, **Ur-Ogre-lan** (the halfling **god of death**, nearly disintegrated to ash by Bolas's corruption — only his face left) reveals the truth: ***"You are me and I am you."*** Eons ago the god removed a part of himself — **his heart**, the icon of love and passion — and splayed it into the world to live mortal lives **as Ogre.**
+- **[[Ogre]] planeswalks *into* Ur-Ogre-lan's body** (occupying the same space — *"Steven Universe putting his heart back in"*). The **souls Ogre has absorbed reconstitute the god's body**; memories flood in (the pantheon council, ferrying the dead, his own birth). **Ogre and Ur-Ogre-lan become one** — **Ogre is now whole: the halfling god of death, Bolas's corruption purged.**
 - He planeswalks back beside **[[Varis Aestra\|Varis]]** — now **older, bearded, wise, and calm** (no longer chaotic): ***"Hi, I'm Ogre."*** **Session ends here** (Bolas still siphoning; Liliana still up — the confrontation resumes at the finale).
 
 **Quests / Objectives.**
 - ✅ **Reach Bolas's Citadel** and **breach the summit** (allies holding the beachhead; party at the top).
 - 🔶 **Defeat [[Nicol Bolas\|Bolas]]** — *unresolved* (he's invulnerable while siphoning the sparks; this is the **finale**).
-- ✅ **[[Ogre]] made whole** — reunited with **Rogalan**; ascended to (his true self as) the halfling god of death.
+- ✅ **[[Ogre]] made whole** — reunited with **Ur-Ogre-lan**; ascended to (his true self as) the halfling god of death.
 - **Open:** **[[Liliana Vess]]** + the Chain-Veil-controlled **God-Eternals** still active; **Molly** fighting Bontu; **the spark-ball** must likely be dealt with to make Bolas vulnerable.
 
 **Themes & Emotional Beats.** **Culmination and revelation.** The recap-montage frames the whole campaign as "The Breakfast Club" arriving at its summit. The climb is a war-of-attrition set-piece (throw, dodge, climb), threaded with each PC reaching for their patron — and **Rin's unanswered prayers** as a quiet ache. Then the gut-punch: **Ogre, the comic-relief chaos goblin, is revealed as a god's severed heart** — the most love-coded organ — sent out to *live and feel.* His becoming-whole reframes every "he is me and me is him" beat (back to S16) and recolors the team's mascot as something sacred.
@@ -80,12 +80,12 @@ And then Ogre — our chaos goblin, our mascot, the one who runs face-first into
 | [[Liliana Vess]] | **Chain Veil** — marionettes the God-Eternals | Active antagonist (unfazed by the party) |
 | [[Nicol Bolas]] | Siphoning the harvested **sparks**; near-invulnerable | The finale's boss (untouched) |
 | Rod | Ogre's adoptive father (in memory/vision) | Vision |
-| **Rogalan** | The halfling **god of death** — revealed as **Ogre's true whole self** | Reunited with Ogre |
+| **Ur-Ogre-lan** | The halfling **god of death** — revealed as **Ogre's true whole self** | Reunited with Ogre |
 
 **Reputation & Relationships.**
-- **[[Ogre]] ↔ Rogalan / divinity:** the reveal recontextualizes Ogre entirely — *he is the death god's heart*, now made whole.
-- **[[Sanis Reylana\|Sanis]] ↔ Molly:** he risks her (Lightning Arrow AoE) to support her fight; she yells *"keep going, it's okay."* (His sister **[[Aphanexa]]** doesn't answer his call.)
-- **[[Rinestra "Rin" Genleth\|Rin]] ↔ [[Dolora\|Dolorah]]:** repeated unanswered Divine Intervention — a faith strained at the threshold.
+- **[[Ogre]] ↔ Ur-Ogre-lan / divinity:** the reveal recontextualizes Ogre entirely — *he is the death god's heart*, now made whole.
+- **[[Sanis Reylana\|Sanis]] ↔ Molly:** he risks her (Lightning Arrow AoE) to support her fight; she yells *"keep going, it's okay."* (His sister **[[Aphonexa]]** doesn't answer his call.)
+- **[[Rinestra "Rin" Genleth\|Rin]] ↔ [[Dol Arrah]]:** repeated unanswered Divine Intervention — a faith strained at the threshold.
 - **[[Varis Aestra\|Varis]] ↔ Ugin:** summons "Eugene" (Ugin's spirit) as transport/aid; Ugin promises to "come when the time is right."
 
 ## 5. Artifacts (Loot & Items)
@@ -122,14 +122,14 @@ And then Ogre — our chaos goblin, our mascot, the one who runs face-first into
 | [[Ogre]] | Eldritch Blast to hit (1d20+6) | 21 / 21 / 19 | Knocking Eternals off the pyramid |
 | [[Ogre]] | Constitution saves (1d20+8) | **12 / 12** (fail) | The spark-plunge — 65 + 74 radiant ("I am unconscious") |
 | [[Ogre]] | Healing Word (8d4+2) | 20 | Free heal during the long-walk "short rest" |
-| [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) — *off-DDB* | 90 / 75 / 45 / 75 (all fail) | Dolorah never answers (the session's running gag) |
+| [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) — *off-DDB* | 90 / 75 / 45 / 75 (all fail) | Dol Arrah never answers (the session's running gag) |
 
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim):
 | Speaker | Quote | Tag |
 |---|---|---|
-| Rogalan (to Ogre) | "You are me and I am you." | Dramatic / Important to Story |
+| Ur-Ogre-lan (to Ogre) | "You are me and I am you." | Dramatic / Important to Story |
 | [[Ogre]] (returning, as a god) | "Hi, I'm Ogre." | Funny / Poignant |
 | [[Ogre]] (plunging into the sparks) | "Look at all this power — I'm gonna steal it, I'm gonna use it to save my friends." | Important to Story |
 | [[Niv-Mizzet]] | "What we are heading into is a fight for the future of this plane." | Dramatic |
@@ -138,20 +138,20 @@ And then Ogre — our chaos goblin, our mascot, the one who runs face-first into
 
 **Profanity Record** (approx., by player): Gabe/Sanis ~7, Rachel/Rin ~6, Taylor/Orphie ~5, Ogre ~3, Vince/Varis ~2.
 
-**Alternate names in play:** **"Eugene"** = **Ugin** (Varis's Draconic Spirit); **"Rogalan / Arugalon / Aroglon / Zaddy Daddy"** = the halfling **god of death** (= Ogre); **"the chain veil / chainmail mask"** = **[[Liliana Vess]]'s** Chain Veil; **"Buddy"** = Molly's griffin; **"Dolorah / Dolora"**; **"Calcifer"** (the table's affectionate read on the new whole-Ogre — Howl's Moving Castle).
+**Alternate names in play:** **"Eugene"** = **Ugin** (Varis's Draconic Spirit); **"Ur-Ogre-lan / Arugalon / Aroglon / Zaddy Daddy"** = the halfling **god of death** (= Ogre); **"the chain veil / chainmail mask"** = **[[Liliana Vess]]'s** Chain Veil; **"Buddy"** = Molly's griffin; **"Dolorah / Dolora"** = mis-transcriptions of **[[Dol Arrah]]** (Rin's deity); **"Calcifer"** (the table's affectionate read on the new whole-Ogre — Howl's Moving Castle).
 
 ## 8. Archivist Notes
 
 **Patterns / Progress / Future Implications.**
-- ⭐ **THE BIG REVEAL: [[Ogre]] is the halfling god of death (Rogalan).** He was the god's **heart**, cut out eons ago and sent to live mortal lives. He's now **whole** — older, wise, **Bolas's corruption purged**. This retroactively explains his soul/death magic, his god-absorptions, and the S16 "he is me and me is him" foreshadowing. **Major character page update for Ogre.**
+- ⭐ **THE BIG REVEAL: [[Ogre]] is the halfling god of death (Ur-Ogre-lan).** He was the god's **heart**, cut out eons ago and sent to live mortal lives. He's now **whole** — older, wise, **Bolas's corruption purged**. This retroactively explains his soul/death magic, his god-absorptions, and the S16 "he is me and me is him" foreshadowing. **Major character page update for Ogre.**
 - **The finale (05/31) is the Bolas confrontation.** Standing problems for next session: **Bolas is invulnerable while siphoning the spark-ball** (the ball likely must be disrupted — Ogre just plunged into it); **[[Liliana Vess]]** + Chain-Veil **God-Eternals** still up; **Molly** mid-duel with Bontu.
-- **Rin's faith arc** — Dolorah's total silence all session is pointed; watch whether it pays off (or breaks) in the finale. Rin senses her "time on this plane" may be ending.
+- **Rin's faith arc** — Dol Arrah's total silence all session is pointed; watch whether it pays off (or breaks) in the finale. Rin senses her "time on this plane" may be ending.
 - **Allies in play for the finale:** Penny, Molly, Nissa + Niv-Mizzet + the whole coalition holding the ground.
 
 **Continuity Flags / Missing Info / Ambiguities.**
 - ⚠️ **Transcript labels unreliable** — Ogre's lines frequently tagged "DM" (his apotheosis dialogue especially). Reconciled vs. the DDB log.
 - ⚠️ **God-Eternal roster:** **Oketra downed** (earlier, by Ogre); remaining are **Bontu, Ronas**, and a third (name unconfirmed in transcript — "Mardu"/"Bot 2" appear as garbles). Confirm the third's name.
-- ⚠️ **Spellings to confirm (raw):** **Rogalan/Arugalon**, **[[Liliana Vess]]**, "Chain Veil," **[[Aphanexa]]**, **Ronas/Bontu**, "Nissa Revane." Left as-is per "no spell check."
+- ⚠️ **Spellings to confirm (raw):** **Ur-Ogre-lan/Arugalon**, **[[Liliana Vess]]**, "Chain Veil," **[[Aphonexa]]**, **Ronas/Bontu**, "Nissa Revane." Left as-is per "no spell check."
 - **DDB coverage** = 4 PCs (Ogre, Orphie, Sanis, Varis); **Rin physical/off-DDB** this session (not a sync gap).
 - **Session ends mid-assault** — do not import Bolas's defeat or any finale outcomes here; they belong to **PP_20 (05/31)**.
 - **Heavy OOC excluded** (long ice-cream-sandwich tangent; Studio Ghibli/*Howl's Moving Castle*; Final Fantasy). **Scheduling:** next **Thu 05/14** (8:30 ET), **finale Sun 05/31**; a **new campaign** starts **06/14** (Taylor's birthday).

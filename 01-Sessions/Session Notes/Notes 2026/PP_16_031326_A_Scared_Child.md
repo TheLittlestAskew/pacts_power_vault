@@ -46,7 +46,7 @@ Through the fight:
 - **[[Sanis Reylana\|Sanis]]** shoots with **Ava's Longbow** (using cover) and casts **Confusion** on the shadow-echoes (DC 18 — they fail; lash out randomly), saved from an opportunity-attack by [[Ogre]]'s **Cutting Words + Mage Hand**.
 - **[[Varis Aestra\|Varis]]** throws **Fireball**, a **4th-level Scorching Ray** (29 fire, quickened), and **Mind Sliver** — but the Augur **absorbs** the fire/psychic energy (black mist billowing from it).
 - **[[Orphea "Orphie" Levistus\|Orphie]]** has a brutal arc: dragged into the smog, her **max HP cut by 22** (to 41 max), she relives a **genuine childhood-abuse flashback** and — instead of raging — **prays to [[Athena]] for help**. The roll comes up empty (d4 = 1): ***"no help comes."*** She flees the mist as "a scared child," declining to fight further (a deliberate, in-character choice).
-- **[[Rinestra "Rin" Genleth\|Rin]]** delivers the **turning point**: terrified by her bully's echo, she remembers *"I'm the champion of [[Dolora\|Dolorah]],"* slams the ground with **Channel Divinity** (30-ft radiant AoE, **28 dmg**) — **evaporating every shadow-echo** and **dispelling the black smog** cloaking the Augur (radiant light routs the dark). The Augur is visible and exposed.
+- **[[Rinestra "Rin" Genleth\|Rin]]** delivers the **turning point**: terrified by her bully's echo, she remembers *"I'm the champion of [[Dol Arrah]],"* slams the ground with **Channel Divinity** (30-ft radiant AoE, **28 dmg**) — **evaporating every shadow-echo** and **dispelling the black smog** cloaking the Augur (radiant light routs the dark). The Augur is visible and exposed.
 
 The Augur **shrieks** (party-wide Con-save force damage), and the shriek **shakes the ceiling's stalactites** — threatening a collapse next round. **Session ends mid-fight** (a late weeknight): the **[[Augur of Bolas]] is hurt but standing** (absorbing energy), **[[Niv-Mizzet]] is still only partway through the portal**, and **falling stalactites loom.** [[Orphea "Orphie" Levistus\|Orphie]] ends drained (reduced max HP, no Greater Restoration available).
 
@@ -115,7 +115,7 @@ The Augur **shrieks** (party-wide Con-save force damage), and the shriek **shake
 **Quote Board** (verbatim, in-world):
 | Speaker | Quote | Tag |
 |---|---|---|
-| [[Rinestra "Rin" Genleth\|Rin]] | "Wait — I'm the freaking champion of Dolorah." | Poignant / Important to Story |
+| [[Rinestra "Rin" Genleth\|Rin]] | "Wait — I'm the freaking champion of Dol Arrah." | Poignant / Important to Story |
 | [[Orphea "Orphie" Levistus\|Orphie]] (to Athena) | "Help." *(and no help comes)* | Poignant / Serious |
 | Orphie's father's echo | "You're always rushing in… it's going to hurt you one day." | Serious |
 | [[Varis Aestra\|Varis]] / [[DM]] | "I started blasting." | Funny |
@@ -132,7 +132,7 @@ The Augur **shrieks** (party-wide Con-save force damage), and the shriek **shake
 - **The hatred shed in S15 is the weapon in S16** — the Augur literalizes each PC's worst memory. Expect the *resolution* to mirror the *trial* (facing, not fleeing, the hatred — as Rin did).
 - **[[Niv-Mizzet]]'s revival is gated by this fight** — once the dragon's mouth/head clears, the balance should shift (Ogre's line). The reforge isn't complete until Niv is through.
 - **Orphie's trauma is explicitly canon** (childhood abuse, PTSD, unanswered [[Athena]] prayer) — a significant, raw character beat for her arc; and a rare "the god is silent" moment.
-- **Rin's catharsis** reframes the healer as a frontline force (champion of [[Dolora]]).
+- **Rin's catharsis** reframes the healer as a frontline force (champion of [[Dol Arrah]]).
 - **The Augur absorbs energy** — a mechanical hint that brute force alone may not win (radiant/light worked; consider the Leyline/Bolas-corruption angle).
 - The **stalactite collapse** is the next hazard.
 
@@ -140,7 +140,7 @@ The Augur **shrieks** (party-wide Con-save force damage), and the shriek **shake
 - ⚠️ **PARTY LEVEL CORRECTION:** the DM explicitly confirms the party is **level 11** this session ("you guys just hit 11"; Orphie's ~63 max HP fits lvl-11 barbarian). The S13 milestone level-up was **to 11, not 12** — **PP_13, PP_14, PP_15 frontmatter/notes are being corrected from 12 → 11.** (The project file's "current level 12" is a *later/present-day* level, not yet reached in-session.)
 - ⚠️ **No DDB rolls (Roll20 session)** — Roll20 rolls never sync to D&D Beyond, so this is a **permanent gap, not pending data** (re-verified 2026-06-01 after the sync rebuild). The roll log here is reconstructed from the transcript only; figures are approximate.
 - **Boss fight unresolved** — outcomes (Augur's defeat, Niv's full revival, the stalactite collapse) belong to the next session; do not import them here.
-- **Raw transcript** — spellings to confirm: **[[Augur of Bolas]]**, **[[Niv-Mizzet]]**, **[[Dolora\|Dolorah]]**, **[[Firemind Vessel]]**, "Shadow of Moil" (the spell). Canonical/transcript forms used; transcript left as-is per "no spell check."
+- **Raw transcript** — spellings to confirm: **[[Augur of Bolas]]**, **[[Niv-Mizzet]]**, **[[Dol Arrah]]**, **[[Firemind Vessel]]**, "Shadow of Moil" (the spell). Canonical/transcript forms used; transcript left as-is per "no spell check."
 - **Orphie's −22 max HP** persists until **Greater Restoration** (not currently prepared) — carry into the next session.
 - Heavy OOC content (D&D Beyond/Roll20 tech troubleshooting, real-world/scheduling chatter) **excluded** per house rules. Scheduling note: the DM can't do Mar 22; next session set for **Apr 2** (week of Apr 19 also on the calendar).
 

@@ -2,7 +2,7 @@
 type: npc
 tag: status-discrepancy
 affiliation: "Reylana Family / the Bone Mine Myconids"
-status: "Alive — were-zombie; ascended/transformed at the Bone Mine essence pit (T05, 09/07/25)"
+status: "Ascended → [[Aphonexa]], goddess of rebirth (T06, 09/17/25); physically bound to the Bone Mine"
 first_appearance: "Early sessions"
 location: "The Bone Mine essence pit (submerged/ascending)"
 ---
@@ -48,7 +48,13 @@ Sister to [[Sanis Reylana|Sanis]] of the [[Reylana Family]].
 - **Stinger:** after the fight, an **ethereal white-eyed figure** stood over the unconscious [[Thal]] — implied to be Selena, **ascended** ("the mushroom queen now"). Her exact new nature is unresolved.
 - This largely resolves the long-standing "death/return" flag: her Early-Session-4 death led to a **were-zombie rebirth** (via the Bone Mine pits), and she has now ascended further.
 
+### [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Transcript 06 — Soul Integrated Soul Storage, Get It Right]] (09/17/2025)
+- **Ascension confirmed.** The T05 ethereal white-eyed figure is Selena, fully **ascended**. The party helps her choose a new name; she takes **[[Aphonexa]]**, goddess of rebirth and patron of the Myconids. ([[Rin]]'s Arcana 26 reads the visible figure as a *projection* of immense, unlocatable power — she no longer "feels right" as Selena.)
+- She **revives the Myconid colony** (incl. [[Thal]]), **blesses every PC**, and pulls [[Sanis Reylana\|Sanis]] aside to **absolve him** of guilt for her death — materializing briefly for a hug and granting a one-time **"seed of renewal"** (Revivify-type cast).
+- **Bound to the [[Bone Mine]]** physically, but her blessing travels with the party. This resolves the death→return arc: Early-S4 death → were-zombie rebirth → **divine ascension as [[Aphonexa]]**. See **[[Aphonexa]]** for her divine page.
+
 ## Related
+- [[Aphonexa]]
 - [[Thal]]
 - [[Bone Mine]]
 - [[Sanis Reylana]]

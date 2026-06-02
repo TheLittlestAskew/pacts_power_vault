@@ -188,7 +188,7 @@ Notable rolls:
 
 **Continuity Flags / Missing Info / Ambiguities.**
 - **Party level** unstated; carried as **10**. No level-up — flagged.
-- Name spellings to confirm against the dictionary: **[[Brula Galadora]]** (Brula/Bruley/Brule), **[[Argo Lot]]** ("a roguelot"/"Argo Lot"), **[[Aphonexa]]** (Aphenexa/Aphanexa), **[[Hazoret]]** ("Hazaret/has-already"), **[[Vitu-Ghazi]]** ("Vitagazi"), **[[Wayport]]**, the **[[Golgari Lich]]** (unnamed here). Canonical forms used in notes; transcript left as-is per "no spell check."
+- Name spellings to confirm against the dictionary: **[[Brula Galadora]]** (Brula/Bruley/Brule), **[[Argo Lot]]** ("a roguelot"/"Argo Lot"), **[[Aphonexa]]** (Aphenexa/Aphonexa), **[[Hazoret]]** ("Hazaret/has-already"), **[[Vitu-Ghazi]]** ("Vitagazi"), **[[Wayport]]**, the **[[Golgari Lich]]** (unnamed here). Canonical forms used in notes; transcript left as-is per "no spell check."
 - Athena lists candidate demon-ancestor names (Malthagor, Jetmir, Belzenlok, Carter, "Face me"…) as a **bit** — none confirmed as Orphie's ancestor. Logged as ambiguous, not canon.
 - The **inscription** ("that which is dead may never die…") is quoted verbatim; its in-world source/meaning is unestablished.
 - **Combat at the cliffhanger is unresolved** — initiative is recorded; outcomes belong to S08. Do not import S08 results here (no session contamination).

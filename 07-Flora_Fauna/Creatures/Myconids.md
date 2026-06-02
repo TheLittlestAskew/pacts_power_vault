@@ -2,7 +2,7 @@
 type: creature
 classification: Fungal humanoid (plant)
 affiliation: "The Bone Mine colony (neutral/ally); some corrupted by Nicol Bolas"
-status: "Active (colony intact but left unconscious, T05)"
+status: "Active — revived & now worship [[Aphonexa]] (T06)"
 first_appearance: "Earlier Bone Mine visit; on-page Transcript 05 (09/07/25)"
 location: "The Bone Mine (Golgari district, Tenth District)"
 threat_level: "Low (normal colony) / High (corrupted)"
@@ -31,7 +31,12 @@ The Myconids **arose when a chemical from the Bone Mine's plant life mixed with 
 - **Three corrupted giant Myconids** guarded [[Tezzeret]] at the marrow pits and fought the party (necrotic miasma; tough but felled by Orphie, Varis's bite/claws, Ogre's Witch, Rin's Fireball, and Isiah).
 - After the pits were purged and collapsed, the **entire colony was left unconscious**, with an ethereal white-eyed figure (Selena, ascended) over [[Thal]].
 
+### [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Transcript 06 — Soul Integrated Soul Storage, Get It Right]] (09/17/2025)
+- **The colony is revived** by the ascended [[Salena\|Selena]] ([[Aphonexa]]) — including members dead before the party arrived. They rise and **kneel**; [[Thal]] (Thal Oram) proclaims her *"goddess of rebirth."*
+- The Myconids become **[[Aphonexa]]'s worshippers**, with her as their patron deity bound to the [[Bone Mine]].
+
 ## Related
+- [[Aphonexa]]
 - [[Bone Mine]]
 - [[Thal]]
 - [[Salena]]

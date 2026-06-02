@@ -109,6 +109,22 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] | "We can't abandon her again." | Poignant |
 | [[Ogre]] | "No hesitation, all action." | Banter |
 
+## Transcript 06 (09/17/25) — [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right|Soul Integrated Soul Storage, Get It Right]]
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Thal]] | "All hail Aphonexa, goddess of rebirth." | Dramatic / Important to Story |
+| [[Aphonexa]] | "That name. It's been quite some time since I've been called that." | Poignant |
+| [[Aphonexa]] | "I think I can help people. I think with the power that I have, I can help people." | Poignant |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "With great power comes great responsibility." / "This guy named Ben. I think he's dead now." | Funny |
+| [[Aphonexa]] (to [[Sanis Reylana\|Sanis]]) | "It's not your fault for what happened to me. Don't beat yourself up over it." | Poignant |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "I've already removed somebody's head today, and I imagine it wouldn't be difficult to do it again." | Threat / Funny |
+| "Sis" ([[Pippi]]) | "You can call me Soul Integrated Soul Storage. Get it right." | Funny |
+| [[Rinestra "Rin" Genleth\|Rin]] | "There is always truth in every lie." | Serious |
+| [[Rinestra "Rin" Genleth\|Rin]] (to [[Liliana Vess\|Liliana]]) | "You don't go to a different mob to get another contract done. That's just not how it works." | Funny / Banter |
+| [[Rinestra "Rin" Genleth\|Rin]] | "Have we made a God here?" | Important to Story |
+| [[Chandra Nalaar]] | "You betrayed all of us just to save your own ass." | Serious |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

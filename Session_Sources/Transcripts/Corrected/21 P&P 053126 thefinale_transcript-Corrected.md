@@ -1,3 +1,18 @@
+---
+source: 21 P&P 053126 thefinale_transcript.md (Raw)
+corrected: true
+correction_date: 2026-06-02
+corrections_applied: 38
+---
+
+# 21 P&P 053126 thefinale_transcript (Corrected)
+
+> Spelling normalized per campaign spelling dictionary.
+> Verbatim transcript text preserved except for proper noun corrections.
+> Total corrections: 38 (Artifacts: 16, Characters: 21, Locations: 1)
+
+---
+
 # Pacts & Power Session Transcript
 # Transcribed: 2026-06-02T02:55:18.633Z
 # Audio duration: 284 minutes
@@ -7,7 +22,7 @@
 
 ---
 
-[00:00:04] SPEAKER A: These conditions off of God Eternal, and you see Liliana with a flourish, um, sends the God Eternals over at Bolas, and thud, thud, as you guys hear, um, the God Eternals, uh, rush over to Bolas. You see Kefnet flying in, going for an aerial attack, and Bantu and Ronas, each with their weapons, go to try and stab Bolas.
+[00:00:04] SPEAKER A: These conditions off of God Eternal, and you see Liliana with a flourish, um, sends the God Eternals over at Bolas, and thud, thud, as you guys hear, um, the God Eternals, uh, rush over to Bolas. You see Kefnet flying in, going for an aerial attack, and Bontu and Rhonas, each with their weapons, go to try and stab Bolas.
 
 [00:00:40] SPEAKER B: Um, test, test. Okay, sorry.
 
@@ -279,9 +294,9 @@
 
 [00:26:26] SPEAKER A: Um, oh, it definitely does hit the God Eternals.
 
-[00:26:29] SPEAKER E: Can I, can I Silvery Barbs for one of the God Eternals? Um, sure, let's do Bantu. So he just has to— so he— so Nicol Bolas re-rolls. Yep. You know, I will, uh, add in on that. I'll, uh, do it for— what is it— Ronas.
+[00:26:29] SPEAKER E: Can I, can I Silvery Barbs for one of the God Eternals? Um, sure, let's do Bontu. So he just has to— so he— so Nicol Bolas re-rolls. Yep. You know, I will, uh, add in on that. I'll, uh, do it for— what is it— Rhonas.
 
-[00:26:55] SPEAKER A: Ronas. Okay, so I did the re-roll for Bantu, and I'll do the re-roll for, uh, Ronas. Yeah, so am I doing my math correctly here? Uh, that is a reroll 37 and a 38. Okay, uh, so I'm gonna roll damage here.
+[00:26:55] SPEAKER A: Rhonas. Okay, so I did the re-roll for Bontu, and I'll do the re-roll for, uh, Rhonas. Yeah, so am I doing my math correctly here? Uh, that is a reroll 37 and a 38. Okay, uh, so I'm gonna roll damage here.
 
 [00:27:24] SPEAKER E: Uh, but, uh, before I do that, uh, oh, I don't have to pick them. Uh, guess what? Um, I'm trying to remember names.
 
@@ -303,7 +318,7 @@
 
 [00:28:09] SPEAKER E: Yeah, but so Orphie, you now have initiative, you now have advantage. It doesn't have to be a creature I'm saving, it can just be anybody.
 
-[00:28:17] SPEAKER A: Okay, so Mrs. Ogre, but you see, if I want to No, give it to me. You see that Bolas lashes out with, uh, his free claw, misses Ogre. Um, uh, just Ogre kind of dodges out of the way, but cleaves, um, Mardu, Ronas, and Kefnet that are surrounding him currently, dealing, uh, 25 points a piercing plus 6 psychic, um, and then he is going to make his other attack. That's a nat 20. I'm gonna roll damage. Oh, that's, uh Kind of a low roll there, but that's, that's okay.
+[00:28:17] SPEAKER A: Okay, so Mrs. Ogre, but you see, if I want to No, give it to me. You see that Bolas lashes out with, uh, his free claw, misses Ogre. Um, uh, just Ogre kind of dodges out of the way, but cleaves, um, Mardu, Rhonas, and Kefnet that are surrounding him currently, dealing, uh, 25 points a piercing plus 6 psychic, um, and then he is going to make his other attack. That's a nat 20. I'm gonna roll damage. Oh, that's, uh Kind of a low roll there, but that's, that's okay.
 
 [00:29:18] SPEAKER B: I'm already sick of your shit.
 
@@ -497,7 +512,7 @@
 
 [00:42:15] SPEAKER C: Uh, that is a nope, so we're just gonna leave it at that. Sure, that was a nat 1.
 
-[00:42:22] SPEAKER A: Oh, okay, that's fine. Yeah, Dolorah is not listening in this moment.
+[00:42:22] SPEAKER A: Oh, okay, that's fine. Yeah, Dol Arrah is not listening in this moment.
 
 [00:42:27] SPEAKER C: Well, I wasn't trying to Divine Intervention, I was just trying to Arcana check the ball.
 
@@ -937,7 +952,7 @@
 
 [01:23:44] SPEAKER C: Um, yes, roll them for the, for the helpful NPCs, please.
 
-[01:23:50] SPEAKER A: You see, uh, Liliana with her hand outstretched, bloodied You see actually she's lost one of her fingers, uh, uh, cuts all over her face as she manipulates the Eternals. And you see, uh, Bantu bite, uh, whole dragon scales off of Bolas. Uh, you see Ronas getting in there, uh, here and there between the, um, chinks in Bolas's dragon scale. Kefnet completely misses, uh, but for the other two gods, uh, you see them getting in there, and with each hit you see, um, anyone that wants to give me an Insight check that's currently facing Bolas?
+[01:23:50] SPEAKER A: You see, uh, Liliana with her hand outstretched, bloodied You see actually she's lost one of her fingers, uh, uh, cuts all over her face as she manipulates the Eternals. And you see, uh, Bontu bite, uh, whole dragon scales off of Bolas. Uh, you see Rhonas getting in there, uh, here and there between the, um, chinks in Bolas's dragon scale. Kefnet completely misses, uh, but for the other two gods, uh, you see them getting in there, and with each hit you see, um, anyone that wants to give me an Insight check that's currently facing Bolas?
 
 [01:24:36] SPEAKER E: I'll do it.
 
@@ -951,7 +966,7 @@
 
 [01:25:07] SPEAKER E: Um, oil—
 
-[01:25:11] SPEAKER A: black blood, Teferi. Um, as you see, um, uh, as Bantu and Ronas begin to stab and bite at him, uh, with that Insight check above a 15, you see energy begin to drain from Bolas. Um, and, uh, that is all I'm gonna say on that. Uh, but with that, it is Nicol Bolas's turn.
+[01:25:11] SPEAKER A: black blood, Teferi. Um, as you see, um, uh, as Bontu and Rhonas begin to stab and bite at him, uh, with that Insight check above a 15, you see energy begin to drain from Bolas. Um, and, uh, that is all I'm gonna say on that. Uh, but with that, it is Nicol Bolas's turn.
 
 [01:25:42] SPEAKER E: Legendary action.
 
@@ -1067,7 +1082,7 @@
 
 [01:36:49] SPEAKER B: Uh, she's gonna look down at Blazebringer and say like I've had a good time with the axe. The axe fits me, but I've always wanted a hammer. Let's try something new. And she'll reach for the hammer.
 
-[01:37:16] SPEAKER A: As you grab the hammer and pick it up you see that its form, uh, begins to change. And as you kind of toss it from hand to hand, uh, it begins to feel more light, uh, and more tight in your hands. Athena looks at you and says, that is a great choice. Hammers are not only used for, uh, battle, for, uh, clearing the way, clearing the path, smashing walls and tearing down what needs to be broken, but also for building and for creating, uh, great weapons and forging great alliances. Uh, what you hold in your hands right now, Athena, is Blazebringer's— one of Blazebringer's final forms, Hellsmasher.
+[01:37:16] SPEAKER A: As you grab the hammer and pick it up you see that its form, uh, begins to change. And as you kind of toss it from hand to hand, uh, it begins to feel more light, uh, and more tight in your hands. Athena looks at you and says, that is a great choice. Hammers are not only used for, uh, battle, for, uh, clearing the way, clearing the path, smashing walls and tearing down what needs to be broken, but also for building and for creating, uh, great weapons and forging great alliances. Uh, what you hold in your hands right now, Athena, is Blazebringer's— one of Blazebringer's final forms, HellSmasher.
 
 [01:38:23] SPEAKER B: Oh hell yes.
 
@@ -1075,7 +1090,7 @@
 
 [01:38:29] SPEAKER B: Uh, I think Orphie's gonna look down and go, if I get out of here today, I'd like— I think, I think I'd like to create maybe just as much as I would like to destroy.
 
-[01:38:48] SPEAKER A: With that, Athena says, um, the greatest bonds can be forged with a hammer. And with that, she steps forward, embraces you, pulls you back out And you find yourself back behind the column gripping that potion. But not only that, now a battle hammer, red, fiery. You see flames licking the top of it, light in your hands. Hellsmasher, uh, I know it might be a little bit for you to handle, but it is now a d20. And instead of +8, it's a +10.
+[01:38:48] SPEAKER A: With that, Athena says, um, the greatest bonds can be forged with a hammer. And with that, she steps forward, embraces you, pulls you back out And you find yourself back behind the column gripping that potion. But not only that, now a battle hammer, red, fiery. You see flames licking the top of it, light in your hands. HellSmasher, uh, I know it might be a little bit for you to handle, but it is now a d20. And instead of +8, it's a +10.
 
 [01:39:37] SPEAKER B: So I'm sorry, what? It's, uh, okay, hold on, just give me a second.
 
@@ -1147,7 +1162,7 @@
 
 [01:46:03] SPEAKER C: Hell—
 
-[01:46:03] SPEAKER B: Hell Smasher? Uh, we'll say Hellraiser for now.
+[01:46:03] SPEAKER B: HellSmasher? Uh, we'll say Hellraiser for now.
 
 [01:46:19] SPEAKER E: So yeah, and that fixed value box is just— he said 10, so just whatever the difference is between that and strength.
 
@@ -1257,23 +1272,23 @@
 
 [01:56:43] SPEAKER B: No, they, they— I always got caught. They never thought that was a signature. It was— I mean, we were, we elementary school, my cursive was horrendous. It still is, actually. That's fair.
 
-[01:57:00] SPEAKER A: Amazing. Um, okay, looks like everyone's back. Everyone ready to keep going? Uh, Taylor, you got the, uh, Hell Smasher weapon all set?
+[01:57:00] SPEAKER A: Amazing. Um, okay, looks like everyone's back. Everyone ready to keep going? Uh, Taylor, you got the, uh, HellSmasher weapon all set?
 
 [01:57:15] SPEAKER B: I was gonna ask you Uh, yeah, hold on, I gotta change the name to Hell.
 
 [01:57:19] SPEAKER A: Yeah, because it's a hammer and it smashes hell.
 
-[01:57:21] SPEAKER B: It doesn't— that's a good point. I, I put Hellraiser because I said, was it Hell Smasher? And then I wasn't sure.
+[01:57:21] SPEAKER B: It doesn't— that's a good point. I, I put Hellraiser because I said, was it HellSmasher? And then I wasn't sure.
 
 [01:57:29] SPEAKER A: Is it— if you took the sword, it would have been Hellraiser.
 
 [01:57:32] SPEAKER B: Oh cool, it wouldn't have been— it was never gonna be the sword.
 
-[01:57:37] SPEAKER A: Uh, I think we have a PetSmart scenario here though. Is it Hell Smasher or Hell's Masher? I don't know, but I hardly know her.
+[01:57:37] SPEAKER A: Uh, I think we have a PetSmart scenario here though. Is it HellSmasher or HellSmasher? I don't know, but I hardly know her.
 
 [01:57:50] SPEAKER B: Smash. Oh my God, I hardly know her.
 
-[01:57:54] SPEAKER A: Nice. Um, but all right, Orphie, Hell Smasher in your hands, ready to go. What do you do?
+[01:57:54] SPEAKER A: Nice. Um, but all right, Orphie, HellSmasher in your hands, ready to go. What do you do?
 
 [01:58:04] SPEAKER B: That wasn't my whole action.
 
@@ -1357,7 +1372,7 @@
 
 [02:01:59] SPEAKER B: Very specifically, his pinky toe. Yeah, nice. I know he doesn't have human feet, but like the one that looks the shortest.
 
-[02:02:07] SPEAKER A: First, yeah, you, you get after it on his smallest dragon claw on his feet, and you absolutely bruise it to bits. Um, the armor on it, the dragon scale on it just chipping off, uh, the flesh under it being charred by Hell Smasher. Um, doing What was that, 66 points of damage? Yes, yes, I did this to myself. Uh, Orphie getting a great bit of damage in and then tucking behind the pillar, uh, worried about your life. Um, but cool, it is Molly's turn. I'm gonna roll this dice. Okay, that is 2 successes.
+[02:02:07] SPEAKER A: First, yeah, you, you get after it on his smallest dragon claw on his feet, and you absolutely bruise it to bits. Um, the armor on it, the dragon scale on it just chipping off, uh, the flesh under it being charred by HellSmasher. Um, doing What was that, 66 points of damage? Yes, yes, I did this to myself. Uh, Orphie getting a great bit of damage in and then tucking behind the pillar, uh, worried about your life. Um, but cool, it is Molly's turn. I'm gonna roll this dice. Okay, that is 2 successes.
 
 [02:03:05] SPEAKER C: Oh, hell yes! You're rolling at 20.
 
@@ -1403,7 +1418,7 @@
 
 [02:05:29] SPEAKER B: Okay.
 
-[02:05:31] SPEAKER A: Um, so what do you mean? Fight back against Dolorah.
+[02:05:31] SPEAKER A: Um, so what do you mean? Fight back against Dol Arrah.
 
 [02:05:41] SPEAKER C: I think, yeah, this is right. So I'm gonna be casting Mass Cure Wounds, uh, at level 6. So that is going to— Molly is going to get healed, Orphie is going to get healed, myself is going to get healed. Uh, Ogre, how are you doing?
 
@@ -2093,7 +2108,7 @@
 
 [02:55:49] SPEAKER B: Rin. Okay.
 
-[02:55:51] SPEAKER C: I think this is going to be Rin's final shot. Um, she is going to pray again to her god, uh, who doesn't seem to want to answer. And legit, I feel like Rin will be starting an atheist club if this doesn't work out, or very much questioning her entire existence. Um, Rin, just like you, like anyone who is potentially watching Rin, like She was like doing a bunch of healing and everything and set out a Sacred Flame and whatnot, and then she's like back to praying again and is like, Dolorah, I am your champion. I am literally doing what you have sent me out to do and getting rid of the darkness. Please answer my call so I can help be the per— like, be the champion you're wanting me to be and help these people and get rid of the darkness.
+[02:55:51] SPEAKER C: I think this is going to be Rin's final shot. Um, she is going to pray again to her god, uh, who doesn't seem to want to answer. And legit, I feel like Rin will be starting an atheist club if this doesn't work out, or very much questioning her entire existence. Um, Rin, just like you, like anyone who is potentially watching Rin, like She was like doing a bunch of healing and everything and set out a Sacred Flame and whatnot, and then she's like back to praying again and is like, Dol Arrah, I am your champion. I am literally doing what you have sent me out to do and getting rid of the darkness. Please answer my call so I can help be the per— like, be the champion you're wanting me to be and help these people and get rid of the darkness.
 
 [02:56:41] SPEAKER B: Please. Can I give her the help action vibe?
 
@@ -2193,7 +2208,7 @@
 
 [03:01:42] SPEAKER C: Okay, good. Glad for that.
 
-[03:01:47] SPEAKER A: So, uh, nicely done. Great turn doing cleric things, healing people. Exactly what you should be doing. Um, and be careful from Dolorah, but yes, Dolorah hates me, I guess.
+[03:01:47] SPEAKER A: So, uh, nicely done. Great turn doing cleric things, healing people. Exactly what you should be doing. Um, and be careful from Dol Arrah, but yes, Dol Arrah hates me, I guess.
 
 [03:02:00] SPEAKER C: Um, I also get to do Sacred Flame as a free action, so DC, uh, 17 saving throw.
 
@@ -2385,7 +2400,7 @@
 
 [03:15:20] SPEAKER D: Uh, yeah, yeah, I'm yelling at the sky. Selena, now would be nice. Please help. Anybody? Steve?
 
-[03:15:28] SPEAKER A: Somebody on that 19 roll, you feel where your now ascended, uh, sister Aphenexa, goddess of rebirth, uh, Selena, where she touched you on your chest and blessed you with her godly powers. You feel a warmth there, and as you call out to her asking for her help you feel it getting red hot, and all of you guys that are here feel another presence along with you, and you hear it go, don't worry, all will be safe. And right below the blue orb, you guys see a kind of small figure with a mushroom cloak, uh, mycelium, um, coming out of her neck and a hood over her face. And you see as she takes it off— Sanis, it is your sister. Nicol Bolas has another hedgefruit disintegrate!
+[03:15:28] SPEAKER A: Somebody on that 19 roll, you feel where your now ascended, uh, sister Aphonexa, goddess of rebirth, uh, Selena, where she touched you on your chest and blessed you with her godly powers. You feel a warmth there, and as you call out to her asking for her help you feel it getting red hot, and all of you guys that are here feel another presence along with you, and you hear it go, don't worry, all will be safe. And right below the blue orb, you guys see a kind of small figure with a mushroom cloak, uh, mycelium, um, coming out of her neck and a hood over her face. And you see as she takes it off— Sanis, it is your sister. Nicol Bolas has another hedgefruit disintegrate!
 
 [03:16:43] SPEAKER C: No, we actually like this one!
 
@@ -2419,7 +2434,7 @@
 
 [03:20:04] SPEAKER B: where the fuck is Niv-Mizzet, by the way?
 
-[03:20:09] SPEAKER A: Uh, due to, uh, Aphonexet stabilizing the lattice and letting the sparks go, you now behold Nicol Bolas in front of you and a very angry Liliana Vess standing right above his throat. And you see her pointing at Nicol Bolas and the God Eternals about to chow down. What do you guys do?
+[03:20:09] SPEAKER A: Uh, due to, uh, Aphonexa stabilizing the lattice and letting the sparks go, you now behold Nicol Bolas in front of you and a very angry Liliana Vess standing right above his throat. And you see her pointing at Nicol Bolas and the God Eternals about to chow down. What do you guys do?
 
 [03:20:32] SPEAKER B: I, I take a picture, pull up my phone, videotape it.
 
@@ -2657,7 +2672,7 @@
 
 [03:41:27] SPEAKER B: Hey, I'm so pissed that I never—
 
-[03:41:30] SPEAKER C: I never called down Dolorah. I was hoping to do it at least once.
+[03:41:30] SPEAKER C: I never called down Dol Arrah. I was hoping to do it at least once.
 
 [03:41:33] SPEAKER B: I'm so mad at your dice. I'm mad. I'm so mad at your dice.
 
@@ -2801,7 +2816,7 @@
 
 [03:53:08] SPEAKER C: I don't even remember the 420 session.
 
-[03:53:11] SPEAKER A: Yeah, you were our trip sitter for our— we all trip. We went to your house. That sounds awesome. Was it in the blister coils? I think so.
+[03:53:11] SPEAKER A: Yeah, you were our trip sitter for our— we all trip. We went to your house. That sounds awesome. Was it in the Blistercoils? I think so.
 
 [03:53:28] SPEAKER B: I don't remember.
 
@@ -2941,7 +2956,7 @@
 
 [04:02:14] SPEAKER D: Under—
 
-[04:02:15] SPEAKER A: with rolling a 2 on your Divine Intervention, as you sit around the tavern calling upon, uh, Dolorah over and over again, trying to get their attention and help. And now, after the danger is over, you call upon them and they come and they just go, no, we, uh We're having a party now.
+[04:02:15] SPEAKER A: with rolling a 2 on your Divine Intervention, as you sit around the tavern calling upon, uh, Dol Arrah over and over again, trying to get their attention and help. And now, after the danger is over, you call upon them and they come and they just go, no, we, uh We're having a party now.
 
 [04:02:42] SPEAKER C: You could have come sooner.
 
