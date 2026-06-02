@@ -225,6 +225,19 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > Heavy mostly during the stalactite/Leyline tension and OOC tangents (raw transcript, no spell-check; partly auto-censored). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
+### [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+
+| Speaker | Word(s) | Frequency (approx.) | Context |
+|---|---|---|---|
+| Gabe (Sanis) | mixed | ~6 | The grand council; the Dimir die; the Rot Warren assault |
+| Taylor (Orphie) | mixed | ~6 | The exhaustion grind; the Cloudkill misfire; the T-Rex joy |
+| Rachel (Rin) | mixed | ~6 | The gauntlet wild-magic / Cloudkill; the Raise Dead "Pacts and Power" loan |
+| Dan (Teferi) | mixed | ~4 | Guest player — arriving late ("the party"); the Gatewatch briefing; the T-Rex polymorph |
+| Chet (Ogre) | mixed | ~3 | The caffeine pills; soul-imbuing the core; fumbling the drill |
+| Vincent (Varis) | mixed | ~2 | The Orzhov spell-loan; the Cloudkill backsplash |
+
+> The campaign's "everyone shows up" council + a workshop comedy + a dungeon assault (raw transcript, no spell-check; partly auto-censored). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

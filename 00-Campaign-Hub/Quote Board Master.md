@@ -263,6 +263,19 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Ogre]] | "I'm just as good as Niv-Mizzet. I'm gonna hold on." | Character (hubris) |
 | [[Orphea "Orphie" Levistus\|Orphie]] | "We touched the butt. And survived." | Funny (session-closer) |
 
+## [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Niv-Mizzet]] | "From where it began, it shall end." | Dramatic / Important to Story |
+| [[Varis Aestra\|Varis]] / [[DM]] | "Pacts and power." *(the campaign name, said in-session for the first time in 3 years)* | Important to Story / Meta |
+| [[Dalya Bara\|Dahlia]] | "This is **work candy, not fun candy.**" | Funny |
+| [[Orphea "Orphie" Levistus\|Orphie]] (as T-Rex) | "I am a T-Rex **forever**. You can never take this away from me." | Funny / Poignant |
+| [[Dalya Bara\|Dahlia]] | "Safety is second." / "Sleep's for the dead." | Funny (Izzet ethos) |
+| [[Teferi]] | "It's very odd as a time wizard to be late to the party." | Funny |
+| [[Orphea "Orphie" Levistus\|Orphie]] | "We're the party. The party doesn't start till we walk in." | Funny |
+| [[Eddie]] (Myconid priest) | "One of our kind has been killed. A like for like is required." | Serious |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

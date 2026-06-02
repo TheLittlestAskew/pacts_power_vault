@@ -266,6 +266,23 @@ Campaign-wide tracker of artifacts, items, and significant objects: owner, state
 
 > *No conventional loot acquired — a single-encounter climax + denouement. The "reward" is the **spell-slot / rage restoration** from the Leylines (and, for [[Sanis Reylana\|Sanis]], exhaustion + lost slots).*
 
+## [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+
+### New & Changed Items
+
+| Item | Owner / Custodian | State / Change | Session |
+|---|---|---|---|
+| [[The Drillinator]] | [[Dalya Bara\|Dahlia]] / party transport | **BUILT & operational.** Lazotep-plated bit + a **lightning + extracted-Eternal-soul core**; the core wouldn't mix ("oil and water") until reinforced with the party's **[[god-metal]]** surfactant plate and harmonized by **[[Ogre]]'s Spirits of Death** (his soul-magic the key); six combined efforts stabilized it. Drove the Rot Warren assault, then tunnels on to [[Bolas's Citadel]]. | PP 18 (04/05/26) |
+| **"God metal"** ([[god-metal]] / [[Tezzeret]]-hazoretium) | Consumed into the Drillinator | **EXPENDED** — the party's leftover stock forged into the Drillinator core's stabilizing surfactant plate. | PP 18 (04/05/26) |
+| Mizzium Gauntlet | [[Varis Aestra\|Varis]] (lent to [[Rinestra "Rin" Genleth\|Rin]]) | Lent to Rin to cast **Raise Dead** (unknown spell → Arcana). **Wild-magic misfire → Cloudkill** (poisoned Rin 21 + Varis) on the first attempt; succeeded on the second. | PP 18 (04/05/26) |
+| **5th-level spell slot (Orzhov pact loan)** | [[Varis Aestra\|Varis]] → [[Rinestra "Rin" Genleth\|Rin]] | **NEW DEBT.** Varis, as [[Orzhov Syndicate\|Orzhov]] Guild leader, **loaned Rin a 5th-level slot** to complete the Raise Dead — a binding **pact of power, to be repaid** (the "Pacts and Power" beat). **Rin owes a 5th-level slot.** | PP 18 (04/05/26) |
+| **Bone Staff** (necromancer's) | [[Sanis Reylana\|Sanis]] | Re-examined a **4th time** — still **does nothing notable** (inert). | PP 18 (04/05/26) |
+| Freeze-dried Snickerdoodle cookies | [[Sanis Reylana\|Sanis]] | Ate some mid-battle ("die happy") — a few left. | PP 18 (04/05/26) |
+| Caffeine pills ("work candy") | [[Dalya Bara\|Dahlia]] → party | Dahlia's stimulant pills — **each removes 1 level of exhaustion** ("work candy, not fun candy"); used to revive the wrecked party (Sanis 3 / Rin 2 exhaustion from S17). | PP 18 (04/05/26) |
+| [[Ava's Longbow of Power]] | [[Sanis Reylana\|Sanis]] | **Lightning Arrow (48 lightning)** — overcharged/exploded a Rot Warren pylon. Still on loan from [[Ava]]. | PP 18 (04/05/26) |
+
+> *No conventional loot — the gains are **strategic**: the Drillinator built, the ancient Rotworms freed, the ten-guild coalition + the [[Zhalfir army]] united, and a tunnel route opened to [[Bolas's Citadel]].*
+
 ## Archivist Notes
 
 - **[[Leather Daddy Ball]] / [[Leather Daddy Game Boy]]:** Confirmed (per Taylor) to be the same artifact at different stages — the Ball transforms into the Game Boy. **Transcript 02 (07/27/25) is the transformation event** (Ball fused into Pip's Game Boy → LDGB). Transcript 01 captures it at the Ball stage; older vault pages (Dashboard, [[Ogre]]) reference the later Game Boy (LDGB) stage.

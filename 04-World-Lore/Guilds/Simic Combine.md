@@ -2,7 +2,7 @@
 type: faction
 guild_color: Green/Blue
 domain: Biomancy
-status: Hostile / Unrecruited
+status: Friendly (de-facto — PP 18; Carl the de-facto leader at the grand council)
 ---
 
 # Simic Combine
@@ -24,8 +24,10 @@ The Simic have had limited direct interaction with [[The Breakfast Club]]. Their
 | Transcript 07 (10/05/25) | Rin identified Simic as one of the hardest guilds to recruit a representative from |
 | Transcript 08 (10/19/25) | Party reached the Simic at last: infiltrated an **underwater Simic research facility** ([[Second Sun Labs]]) run with the [[Second Sun]], building **[[Eternals\|Eternal]]-plated [[Zombie-Simic mutants]]** for [[Nicol Bolas\|Bolas]]. Met **[[Prime Speaker Megandar]]** (Simic leader; canon/spelling flagged); befriended the janitor [[Carl]] (gilled, from a "Zonath 3" Zonot). Confrontation with the [[Lord Reylana\|Reylanas]] tipped into combat — Simic gap still unresolved (cliffhanger). |
 | [[PP_10_113025_What_Are_You_Waiting_For_Sanis\|PP 10]] (11/30/25) | The party **destroyed the [[Lord Reylana\|Reylanas]]** in the flooding [[Second Sun Labs\|Simic lab]] and **freed the [[Ixalan]] merfolk captive [[Vuthala]]**, but the **lab fully collapsed** (cause unknown — not the party; [[Carl]] suspected) and they escaped to the surface of the Simic-district lake. **The Simic guild token for the [[Niv-Mizzet]] revival ritual is still unsecured** — the gap remains open. |
+| [[PP_18_040526_Pacts_and_Power\|PP 18]] (04/05/26) | **[[Carl]] becomes the de-facto Simic leader.** At the grand council of all ten guilds, the gilled janitor the party once befriended/doomed **shuffles in as the only Simic present** — *"if he's here, he's the guild leader."* He puts Simic's energies on the ritual die, **filling the long-open Simic gap** for the coalition against [[Nicol Bolas\|Bolas]] (tragicomically). |
 
 ## Related
+- [[Carl]]
 
 - [[Campaign Dashboard]]
 - [[Second Sun Labs]]

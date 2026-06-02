@@ -177,6 +177,21 @@ Running tracker of notable spell and special-ability usage, by session.
 
 > **Note (PP 17):** The headline "spell" is [[Niv-Mizzet]]'s reborn **all-color mana claw** ending the [[Augur of Bolas\|Augur]]. The party's slot/rage economy is reset by the **Leyline grab** (a save-gated recharge with a permanent downside for Sanis). The fight's mechanical lesson — **light/fire/radiant** beats the energy-sponge boss — is confirmed (Varis's one landing ray, Orphie's fire-slashes).
 
+## [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+
+> **60 DDB rolls — all five PCs on DDB.** [[Teferi]] (guest) rolled off-DDB (transcript-only).
+
+| Character | Spell / Ability | Outcome |
+|---|---|---|
+| [[Rinestra "Rin" Genleth\|Rin]] | **Raise Dead** (via [[Varis Aestra\|Varis]]'s Mizzium Gauntlet, on a **loaned 5th-level slot**) | **The title beat.** Unknown spell cast through the gauntlet (Arcana). **First attempt botched → wild-magic Cloudkill** (poisoned her 21 + Varis); **second attempt revived** the slain [[Myconids\|myconid]]. Powered by Varis's **Orzhov spell-loan** ("**Pacts and Power**"). Also stabilized the injured myconid + **Fireballed** Rot Warren pylons. |
+| [[Varis Aestra\|Varis]] | **Orzhov spell-slot loan** / **Fireball** | As [[Orzhov Syndicate\|Orzhov]] leader, **loaned Rin a 5th-level slot** (binding pact). **Fireballs (29/34)** blew pylons + evaporated [[Eternals]]; **Fireballed** the god-metal plate during the Drillinator build; **Arcana nat-20 (28)** reading the core. |
+| [[Ogre]] | **Spirits of Death** (soul/death magic) / **Eldritch Blast** / **Shatter** | **Imbued the [[god-metal]] plate with Spirits of Death** — the **surfactant** that harmonized the [[The Drillinator\|Drillinator]]'s lightning + Eternal-soul core (*"it feels right"*), the linchpin of the stabilization. In the Rot Warren: **Eldritch Blast nat-20 crit** + **Shatter (13 thunder)** on the pylons. (Fumbled the drill-pilot Int checks.) |
+| [[Sanis Reylana\|Sanis]] | **Lightning Arrow** ([[Ava's Longbow of Power]]) | **48 lightning** — overcharged/exploded a pylon (+AoE). |
+| [[Orphea "Orphie" Levistus\|Orphie]] | **T-Rex form** ([[Teferi]]'s Polymorph) | **Bite (43) + tail-swipe (23)** smashing pylons & Eternals (Str 27, Int 2 — "the happiest T-Rex"). |
+| [[Teferi]] | **Polymorph** / **Minor Illusion** / **Fire Bolt** | Polymorphed Orphie into a **T-Rex**; cast a **minor illusion of "Isaiah's face"** on the drill bit (to motivate hammering); **Fire Bolt (22)** shattered the final pylon. |
+
+> **Note (PP 18):** The headline is the **Orzhov spell-loan** ("Pacts and Power") enabling [[Rinestra "Rin" Genleth\|Rin]]'s **Raise Dead** (after a Cloudkill misfire) — the campaign's literal title-mechanic, established here. Mechanically central too: [[Ogre]]'s **soul/death magic** as the **surfactant** that harmonizes the Drillinator core. Combined party damage (Fireball / Eldritch Blast crit / Shatter / Lightning Arrow / T-Rex / Teferi's Fire Bolt) dropped all 6 Rot Warren pylons.
+
 ## Related
 - [[Campaign Dashboard]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]

@@ -24,6 +24,7 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[PP_15_022226_Reforging_the_Guildpact\|PP 15]] / Transcript 14 (02/22/26) | ~34 | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Sanis Reylana\|Sanis]] Arcana/Perception transcript-only) | skill-challenge trials (Dex checks; Con saves vs exhaustion) |
 | [[PP_16_031326_A_Scared_Child\|PP 16]] / Transcript 15 (03/13/26) | **0 (Roll20 — no DDB data)** | **all (entire session transcript-only)** | boss fight (Roll20 — rolls don't sync to DDB) |
 | [[PP_17_040226_The_Guildpact_Reborn\|PP 17]] / Transcript 16 (04/02/26) | **50** | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Varis Aestra\|Varis]] **on Roll20** — transcript-only) | [[Orphea "Orphie" Levistus\|Orphie]] / [[Ogre]] / [[Sanis Reylana\|Sanis]] (the three on DDB) |
+| [[PP_18_040526_Pacts_and_Power\|PP 18]] (04/05/26) | **60** | light (**all 5 PCs on DDB this session** — Orphie, Ogre, Sanis, Varis, Rin; [[Teferi]] guest rolled off-DDB) | full party (all five) |
 
 ## Per-Character DDB Rolls
 
@@ -316,6 +317,27 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Varis Aestra\|Varis]] | Scorching Ray / Fireball — *transcript* | 13 + 10 + 9 + **20 fire** | 4 of 5 rays **absorbed**; the fifth lands |
 
 > **Roll note (PP 17):** **50 DDB rolls** on 2026-04-02 (Ogre/Orphie/Sanis); Rin & Varis on **Roll20** (transcript-only). Initiative (carried from S16): [[Sanis Reylana\|Sanis]] → [[Orphea "Orphie" Levistus\|Orphie]] → [[Augur of Bolas\|Augur]] → [[Rinestra "Rin" Genleth\|Rin]] → [[Ogre]] → [[Varis Aestra\|Varis]] → [[Niv-Mizzet]] (end of order). Party **LEVELS TO 12** (end of session — S18 onward is level 12).
+
+## Notable Rolls — [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26)
+
+> **60 DDB rolls** logged for 2026-04-05, covering **all five PCs** (Orphie, Ogre, Sanis, Varis, Rin) — DDB sync working for everyone this session. **[[Teferi]] (guest) rolled off-DDB** (transcript-only).
+
+| Character | Roll | Result | Note |
+|---|---|---|---|
+| [[Ogre]] | Eldritch Blast to hit (1d20+6) | **26** [nat 20] | **Crit** on an Eternal at the force field (2d10+1d10 dmg) |
+| [[Orphea "Orphie" Levistus\|Orphie]] | T-Rex bite (4d12+7) | **43** | Chomps an Eternal to scrap (also a **23** tail-swipe) |
+| [[Sanis Reylana\|Sanis]] | Lightning Arrow ([[Ava's Longbow of Power]]) | **48 lightning** | Overcharges & explodes a pylon (+AoE) |
+| [[Varis Aestra\|Varis]] | Fireball (8d6+4) | **29** / **34** | Blows pylons; evaporates their Eternals |
+| [[Ogre]] | Shatter (5d8) | **13 thunder** | Finishing a stubborn pylon |
+| [[Varis Aestra\|Varis]] | Arcana (1d20+8) | **28** [nat 20] | Reading the drill core / the pylons |
+| [[Varis Aestra\|Varis]] | Constitution save (1d20+8) | 27 [19] | Resisting Rin's misfired Cloudkill |
+| [[Ogre]] | Persuasion (1d20+10) | 29 [19] | The caffeine-pill scene |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Insight (1d20+8) | 27 [19] | Reading [[Dalya Bara\|Dahlia]]'s nervousness over the core |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Stealth (1d20+2) | **3** [nat 1] | Approaching the Myconid cavern (cancels a teammate's nat-20) |
+| [[Rinestra "Rin" Genleth\|Rin]] | Raise Dead via gauntlet — *transcript* | fail → **success** (2nd try, loaned slot) | Revives the slain [[Myconids\|myconid]] (Cloudkill misfire first) |
+| [[Teferi]] | Fire Bolt (3d10) — *transcript* | **22** | Shatters the final pylon |
+
+> **Roll note (PP 18):** **60 DDB rolls** on 2026-04-05 — **all five PCs on DDB** (an unusual full-party sync, like PP 13). [[Teferi]] (guest player **Dan**) rolled **off-DDB** (transcript-only). Party plays at **level 12** (leveled at the end of S17). No PC downed in the Rot Warren assault.
 
 ## Related
 - [[Campaign Dashboard]]

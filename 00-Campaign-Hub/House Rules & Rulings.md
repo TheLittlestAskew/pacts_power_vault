@@ -179,6 +179,19 @@ DM rulings and table conventions, logged by session. These are Chris's in-the-mo
 | Prayer/d4 callback (resolved as luck) | Continues the S16 "prayer-as-a-d4" beat in reverse — Orphie's **reckless engagement** this session is framed as her *choosing to fight* rather than rolling for divine aid; no new mechanic, but the contrast is noted. |
 | Milestone level-up (11 → 12) | The DM **awards level 12 at session's end** (played at 11). This is the **true level-12 milestone** — **S18 onward is level 12** (consistent with the corrected S13→11 / S17→12 table). |
 
+## [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+
+> **Platform note:** **60 DDB rolls** logged on 2026-04-05, covering **all five PCs** (Orphie, Ogre, Sanis, Varis, Rin) — DDB sync working for everyone this session. **[[Teferi]] (guest)** rolled **off-DDB** (transcript-only).
+
+| Ruling | Detail |
+|---|---|
+| Caffeine pills = exhaustion removal | [[Dalya Bara\|Dahlia]]'s **caffeine pills ("work candy, not fun candy")** each **remove 1 level of exhaustion** — used to revive the wrecked party ([[Sanis Reylana\|Sanis]] 3 / [[Rinestra "Rin" Genleth\|Rin]] 2 exhaustion from the S17 Leyline grab) without a long rest. |
+| Casting an unknown spell via the gauntlet (Arcana) | [[Rinestra "Rin" Genleth\|Rin]] could attempt **Raise Dead** (a spell she doesn't know) through [[Varis Aestra\|Varis]]'s **Mizzium Gauntlet** by making an **Arcana check.** A botch triggered a **wild-magic misfire → Cloudkill** (poisoned Rin 21 + Varis), then a second attempt **succeeded.** |
+| The Orzhov spell-loan ("Pacts and Power") | As **[[Orzhov Syndicate\|Orzhov]] Guild leader**, [[Varis Aestra\|Varis]] can **loan another caster one of his spell slots** as a **binding pact, to be repaid** — the literal "**Pacts and Power**" mechanic (the campaign's name, spoken in-session for the first time in 3 years). [[Rinestra "Rin" Genleth\|Rin]] used a loaned **5th-level slot** to finish Raise Dead and now **owes a 5th-level slot.** (Established as a recurring, comedically-abusable mechanic — Ogre immediately joked about "banking a slot with the Azorius.") |
+| Drill-pilot skill checks | Driving the **[[The Drillinator\|Drillinator]]** is gated on **Intelligence checks** — [[Ogre]] **fumbled** them and **stalled the drill** mid-assault. |
+| Soul-magic as core surfactant | [[Ogre]]'s **Spirits of Death** (soul/death magic), imbued into the **[[god-metal]]** plate, served as the **surfactant** harmonizing the otherwise-incompatible ("oil and water") **lightning + Eternal-soul** core — a narrative crafting ruling: **six combined efforts** (skill checks/spells) stabilized it. |
+| Polymorph → T-Rex (guest-cast) | [[Teferi]] **polymorphed [[Orphea "Orphie" Levistus\|Orphie]] into a T-Rex** (Str 27, Int 2 — "the happiest T-Rex"), enabling her **bite (4d12+7)** and tail-swipe multiattack on the pylons. (Her second time; a recurring fan-favorite use.) |
+
 ## Related
 - [[Campaign Dashboard]]
 - [[Vault Sync Status]]

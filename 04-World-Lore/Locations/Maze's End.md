@@ -36,6 +36,10 @@ A stone ring containing **ten guild seats** around a central **pedestal**. The c
 - **The Leyline grab.** Reborn Niv gathered all ten [[Leylines]] to recharge; the party grabbed on too (Con saves) — [[Ogre]], [[Varis Aestra|Varis]], [[Rinestra "Rin" Genleth|Rin]], [[Orphea "Orphie" Levistus|Orphie]] benefited (restored slots/rage); **[[Sanis Reylana|Sanis]] failed** (3 exhaustion + lost top slots).
 - **Exit.** Niv **glyphed the ritual die/platform** and **teleported the party** (through the Blind Eternities) to the **surface central plaza.** The party leaves Maze's End — quest complete.
 
+### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+- **The surfaced Maze's End hosts the grand council.** The ten-guild **ritual die/seats** are now at the **surface central plaza** (the spot where [[Jace Beleren|Jace]] gave his Session-1 speech — full circle). **[[Niv-Mizzet]]** (gargantuan again) places a claw on the central die and the ten guild seats channel a **prismatic guild-beacon**; every standing guild's representatives converge and **put their forces' energies on the die to formally unite against [[Nicol Bolas|Bolas]]** — **[[Benji]] gestures [[Sanis Reylana|Sanis]]** to the **Dimir** die (he carries Lazav within). **[[Teferi]]** arrives here with the **[[Zhalfir army]].**
+- Niv's directive from this seat: confront [[Nicol Bolas|Bolas]] **directly at his [[Bolas's Citadel|Citadel]]** — the party departs to find a tunnel route in (the [[The Drillinator|Drillinator]] / freed Rotworms).
+
 ## Related
 - [[Implicit Maze]]
 - [[Guildpact]]
