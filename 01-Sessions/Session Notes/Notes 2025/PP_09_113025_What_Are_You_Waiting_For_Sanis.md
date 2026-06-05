@@ -1,41 +1,41 @@
 ---
 type: session
-session_number: 10
+session_number: 9
 play_date: 11/30/25
 title: What Are You Waiting For, Sanis?
-transcript: "[[10-113025-Pacts-Corrected]]"
+transcript: "[[09-113025-Pacts-Corrected]]"
 party_level: 10
 ---
 
-# PP_10 — What Are You Waiting For, Sanis?
+# PP_09 — What Are You Waiting For, Sanis?
 
 > Working from the existing corrected transcript. No new spell-check pass (per Taylor). Title confirmed by Taylor.
-> **Numbering note:** This corrected file is prefixed `10-113025`, but its own source frontmatter reads `09-113025-Pacts.md`. In true play sequence this is the next session after S08 (10/19) — there was **no campaign session on 10/26** (that slot = the duplicate transcript / the PAX Unplugged one-shot). Numbered **Session 10** here to match the corrected-file prefix and the existing PP_## series. See Archivist Notes.
+> **Numbering note (resolved 2026-06-05):** Filed **Session 9** — the next session after S08 (10/19). The 10/26 "session 9" transcript was confirmed a duplicate transcription of S08's audio (zero DDB rolls on 10/26; identical content; quarantined in `Session_Sources/Transcripts/Duplicates/`), so the archive-wide +1 offset was removed. Corrected transcript renamed `10-113025` → `09-113025-Pacts-Corrected.md`, now matching its source `09-113025-Pacts.md`. See Archivist Notes.
 
-## 1. Session Metadata
+## Section 1 — Session Metadata
 
 | Field | Value |
 |---|---|
-| Session # | 10 |
+| Session # | 9 |
 | Real-world play date | 11/30/25 |
-| Party level | 10 *(corrected — level 10 through S12; reached 11 at the S13 milestone, per S16)* |
+| Party level | 10 *(corrected — level 10 through S11; reached 11 at the S12 milestone, per S15)* |
 | In-game location | The final chamber of the **[[Simic Combine\|Simic]] underwater laboratory** (six specimen tubes; a raised dais/platform; flooding throughout) → escape to the surface of the [[Simic Combine\|Simic]]-district lake |
 | Present (PCs) | [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Rinestra "Rin" Genleth\|Rin]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] |
 | Allies gained mid-fight | [[Vuthala]] (freed from his tube; recruited) |
 | Key NPCs | **[[Lord Reylana\|Lord Modest Raylana]]** (killed), **[[Lady Reylana\|Lady Hyena Raylana]]** (killed), [[Aphonexa]] (divine intervention), [[Argo Lot]] ("Zaddy") |
 | DDB rolls | ~140 on 2025-11-30 (Orphie, Ogre, Varis; one [[Sanis Reylana\|Sanis]] potion roll; **Rin entirely off-DDB**) |
 
-## 2. Orphie POV Overview
+## Section 2 — Orphie's POV Overview
 
 I came to this fight sick as a dog and I would not have missed it for the world, because Sanis needed every one of us standing between him and the people who made him. They were monsters in evening wear, his mother and father, waltzing on a dais while green and black death poured off them and old music played, like murdering their own daughter was a thing you could dance to. The father reached into my friend's head and dragged up a memory I'll never unsee in his face: a little boy, five years old, a bow too big for his hands, made to put two arrows into the kind soul who used to cook his meals. That is the man they raised him to be, and he became someone better anyway. That's the whole miracle of Sanis.
 
 So we drowned them in their own house of horrors. I cracked open a tank and pulled out an old, annoying friend, looked him dead in his hollow eyes and told him he was more afraid of me than of them, and welcome back to the right side. I couldn't reach the bastards through the rising water, so I threw everything I had, daggers, my own axe, anything not nailed down, and let it rain. Ogre tanked their cruelty until he was nearly nothing and laughed the whole way, then dug his blade into the father's chest and pulled his soul out, and made that ghost kneel and guard the very son he tortured. And when the mother lunged for Sanis one last time, his sister reached down out of godhood to steady his hand, and he ran her through with a fencer's flourish and a clean heart. They both said sorry as they died. Too late. We rode the father's corpse out through a hole in the sky as the whole drowned lab folded in on itself behind us. I ended the day at full health and full of spite. Good day.
 
-## 3. Session Analysis
+## Section 3 — Session Analysis
 
 > Picks up the **S08 (10/19) cliffhanger** directly — the DM's recap bridges from "blood runs thicker than water" straight into initiative. (The 10/26 transcript is a duplicate; no campaign session occurred between.)
 
-**Narrative Summary.**
+### Narrative Summary
 
 *Sanis's flashback (combat trigger).* As initiative opens, **[[Lord Reylana\|Lord Modest Raylana]]** lashes a green-purple beam at [[Sanis Reylana\|Sanis]] (Con save **nat 20** — shrugged off). The ray triggers a buried memory: **Sanis at age five**, handed a too-large bow and ordered by his father to execute a **blindfolded, hooded captive**. Unmasked, the man is a **beloved family servant** who cooked for and fed young Sanis — coerced by the **[[House Dimir\|Dimir]]** (who had taken his family hostage) into leaking Reylana secrets. Sanis, desperate for his father's approval, looses two arrows (7, 7) and kills him. Lord Reylana **disintegrates the body** with the same green-purple energy, praises Sanis ("good job… you did what was needed for the family"), and his mother slips him a **piece of chocolate** afterward. The origin of Sanis's trauma — and a visual link to the necromantic power his parents wield.
 
@@ -50,9 +50,12 @@ So we drowned them in their own house of horrors. I cracked open a tank and pull
 
 *Escape.* The lab fully floods. **[[Ogre]] Shatters the ceiling**; **[[Varis Aestra\|Varis]]** (dragon) sweeps Sanis, Rin, Orphie and the now-unconscious **[[Vuthala]]** (shrunk back to merfolk form) out through the gap; Ogre **surfs out on Lord Raylana's corpse** with the Specter alongside. The whole structure collapses behind them. Crucially, **the party did not cause the collapse** (Rin, Insight 14 — their fight shouldn't have brought the lab down; *something else* did). Running gag: they suspect **[[Carl]]** — the janitor they "radicalized" — blew it. They surface in the Simic-district lake.
 
-**Locations Visited.** Simic underwater laboratory (final chamber, flooding) → up through the cracked ceiling → surface of the Simic-district lake. (Flashback: the [[Reylana Estate]], ~years prior.)
+### Locations Visited
 
-**Quests / Objectives.**
+Simic underwater laboratory (final chamber, flooding) → up through the cracked ceiling → surface of the Simic-district lake. (Flashback: the [[Reylana Estate]], ~years prior.)
+
+### Quests / Objectives
+
 - **Completed:** Confront and defeat **[[Lord Reylana\|Lord Modest Raylana]]** & **[[Lady Reylana\|Lady Hyena Raylana]]** — Sanis's parents and the architects of Selena's weaponization. **Both dead.**
 - **Resolved/loot-of-the-soul:** **[[Ogre]] now controls Lord Raylana as a Specter** (bound via the Witch-blade / [[Leather Daddy Game Boy]]).
 - **Ally rescued:** **[[Vuthala]]** freed and unconscious in the party's care.
@@ -60,13 +63,18 @@ So we drowned them in their own house of horrors. I cracked open a tank and pull
 - **Still open:** The other captive specimens / "Selena sisters"; securing the **Simic** guild token for the ritual; the broader plane (Vraska, Liliana, the Orzhov flank, the Immortal Sun).
 - **Reinforced lore:** Lord Raylana's threats — *"the beginning of the end of the multiverse"*; **[[Nicol Bolas\|Bolas]] and [[Vraska]] will soon rule Ravnica**; all planeswalkers are trapped, sparks being harvested.
 
-**Themes & Emotional Beats.** The session is **Sanis's reckoning**: the childhood-murder flashback; choosing his found family over blood; his ascended sister steadying his hand to kill their mother; both parents' too-late *"I'm sorry."* Cruelty as performance (the waltz, the music, "this is what true pain feels like"). Ogre's gallows-humor invincibility and the dark justice of enslaving the abuser's soul to guard his victim. Solidarity (Orphie playing hurt; Rin keeping everyone alive). Labor radicalization as a recurring gag (Carl).
+### Themes & Emotional Beats
 
-## 4. Character Activity
+The session is **Sanis's reckoning**: the childhood-murder flashback; choosing his found family over blood; his ascended sister steadying his hand to kill their mother; both parents' too-late *"I'm sorry."* Cruelty as performance (the waltz, the music, "this is what true pain feels like"). Ogre's gallows-humor invincibility and the dark justice of enslaving the abuser's soul to guard his victim. Solidarity (Orphie playing hurt; Rin keeping everyone alive). Labor radicalization as a recurring gag (Carl).
 
-**Party Structure & Subgroups.** Single party (all five) + **[[Vuthala]]** (turned ally mid-fight) + **Lord Raylana Specter** (Ogre's, from the killing blow). [[Aphonexa]] intervened remotely for one roll.
+## Section 4 — Character Activity
 
-**NPCs.**
+### Party Structure & Subgroups
+
+Single party (all five) + **[[Vuthala]]** (turned ally mid-fight) + **Lord Raylana Specter** (Ogre's, from the killing blow). [[Aphonexa]] intervened remotely for one roll.
+
+### NPCs
+
 | NPC | Role this session | Status |
 |---|---|---|
 | [[Lord Reylana\|Lord Modest Raylana]] | Sanis's father; dancing necromancer; transformed into a were-zombie; Bolas/Vraska loyalist | **Killed** (Ogre) → bound **Specter** ("protect your son from your wife") |
@@ -76,14 +84,15 @@ So we drowned them in their own house of horrors. I cracked open a tank and pull
 | [[Argo Lot]] ("Zaddy"/"Zadik") | Death-god essence in Sanis; granted "Perun's Last Word" rerolls/help when begged | Bound to Sanis |
 | [[Carl]] | Not present in the fight (other side of the door); **suspected** of blowing up the lab | Whereabouts unknown (suspected saboteur) |
 
-**Reputation & Relationships.**
+### Reputation & Relationships
+
 - **Sanis ↔ his parents:** fully severed — he helps kill them; the flashback exposes a lifetime of abuse. His found family physically shields him throughout.
 - **Sanis ↔ Aphonexa/Selena:** profound — his dead-turned-divine sister intervenes to help him kill their mother.
 - **Party ↔ Vuthala:** old Ixalan acquaintance re-recruited (Orphie's intimidation + appeal turns him).
 - **Ogre ↔ Lord Raylana:** captor/captive in death — the father's soul now serves Ogre and guards Sanis.
 - **Party ↔ Carl:** the radicalized-janitor gag deepens (suspected lab demolition).
 
-## 5. Artifacts (Loot & Items)
+## Section 5 — Artifacts (Loot & Items)
 
 | Item | State / Change | Holder |
 |---|---|---|
@@ -95,18 +104,24 @@ So we drowned them in their own house of horrors. I cracked open a tank and pull
 | Potion of Healing | Used by Sanis (2d4+2 = 5) | Spent |
 | Thrown weapons (daggers, battle-axe) | Hurled at the parents; Orphie reclaimed her battle-axe from Lord Raylana's corpse | [[Orphea "Orphie" Levistus\|Orphie]] |
 
-## 6. Logs
+## Section 6 — Logs
 
-**Encounter — The Drowning Lab: Lord & Lady Raylana.**
+### Encounters
+
+**The Drowning Lab: Lord & Lady Raylana**
 - **Party:** [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]] (+ Witch/Dawn blade), [[Rinestra "Rin" Genleth\|Rin]] (winged), [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] (→ dragon) + [[Vuthala]] (turned mid-fight) + Lord Raylana Specter (from the kill).
 - **Enemies:** **[[Lord Reylana\|Lord Modest Raylana]]** (necromancer → were-zombie: paralysis, black necrotic rays, necrotic ground-AoE, grapple, regeneration via Lady's heals), **[[Lady Reylana\|Lady Hyena Raylana]]** (invisible/teleporting dual-dagger striker, poison, crit-machine), **4 were-zombie** specimens (one turned by Vuthala; 3 more from tubes).
 - **Hazard:** water rising from hip-deep to fully submerged over ~10 rounds; alarms; ceiling collapse.
 - **Key beats:** Sanis's nat-20 Con save opens the flashback; Ogre **counterspells** the parents' biggest plays (incl. Lady's spell on Sanis); Varis's **7-missile Magic Missile** breaks Lord's paralysis-concentration; Orphie **frees & recruits Vuthala**; Lord **transforms** to a were-zombie and necrotic-bombs the room; **Ogre reaps Lord Raylana** into a guardian Specter; **Aphonexa** grants Sanis advantage to **kill Lady Raylana**; escape through the Shattered ceiling.
 - **Outcome:** **Total party victory; no deaths.** Both Raylana parents dead. Vuthala rescued. Lab collapses (cause unknown). Lowest HP: Ogre 3, Sanis 4.
 
-**Initiative (carried from S08; order this session):** [[Rinestra "Rin" Genleth\|Rin]] → [[Lord Reylana\|Lord Raylana]] → [[Varis Aestra\|Varis]] → [[Ogre]] → [[Lady Reylana\|Lady Raylana]] → [[Sanis Reylana\|Sanis]] → [[Vuthala]] (added) → [[Orphea "Orphie" Levistus\|Orphie]] (last). ~8–10 rounds.
+### Initiative
 
-**Full Roll Log (DDB cross-reference).** ~140 DDB rolls on 2025-11-30 ([[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Varis Aestra\|Varis]] + one [[Sanis Reylana\|Sanis]] potion roll). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB** — her spells (Bless, Channel Divinity, Mass Cure Wounds, Warding Flare, Sacred Flame, healing) are all `transcript-only`. Most of [[Sanis Reylana\|Sanis]]'s bow attacks are also `transcript-only`.
+[[Rinestra "Rin" Genleth\|Rin]] → [[Lord Reylana\|Lord Raylana]] → [[Varis Aestra\|Varis]] → [[Ogre]] → [[Lady Reylana\|Lady Raylana]] → [[Sanis Reylana\|Sanis]] → [[Vuthala]] (added) → [[Orphea "Orphie" Levistus\|Orphie]] (last). ~8–10 rounds.
+
+### Full Roll Log
+
+~140 DDB rolls on 2025-11-30 ([[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Varis Aestra\|Varis]] + one [[Sanis Reylana\|Sanis]] potion roll). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB** — her spells (Bless, Channel Divinity, Mass Cure Wounds, Warding Flare, Sacred Flame, healing) are all `transcript-only`. Most of [[Sanis Reylana\|Sanis]]'s bow attacks are also `transcript-only`.
 
 Notable rolls:
 | Character | Roll | Result | Context |
@@ -139,9 +154,11 @@ Notable rolls:
 - [[Varis Aestra\|Varis]] — 0
 - [[Vuthala]] — 0
 
-## 7. Quotes & Language
+## Section 7 — Quotes & Language
 
-**Quote Board** (verbatim, in-world):
+### Quote Board
+
+(verbatim, in-world):
 | Speaker | Quote | Tag |
 |---|---|---|
 | [[Lord Reylana\|Lord Raylana]] | "Don't you know, Sanis, son, that blood runs thicker than water?" | Threat / Important to Story |
@@ -156,13 +173,18 @@ Notable rolls:
 | [[Orphea "Orphie" Levistus\|Orphie]] (to Vuthala) | "I want you to remember that you're more scared of me than you are of them." | Funny / Banter |
 | [[Orphea "Orphie" Levistus\|Orphie]] (to a parent) | "I want that back when I'm done. I mean, you'll be dead, but I'm just telling you, I want them back." | Funny |
 
-**Profanity Record** (approx., heavy combat banter): Gabe/Sanis ~8, Chet/Ogre ~6, Rachel/Rin ~6, Taylor/Orphie ~5, Vince/Varis ~2.
+### Profanity Record
 
-**Alternate names in play:** "Zaddy Daddy"/"Zadik" ([[Argo Lot]]); "Daddy Raylana"/"Zombo dad"/"Papa Raylana" (Lord Raylana); the **Witch / Dawn** (Ogre's blade entities); "the bone zone"-style gallows humor ("clap his cheeks"); "we radicalized him" (Carl).
+(approx., heavy combat banter): Gabe/Sanis ~8, Chet/Ogre ~6, Rachel/Rin ~6, Taylor/Orphie ~5, Vince/Varis ~2.
 
-## 8. Archivist Notes
+### Alternate Names in Play
 
-**Patterns / Progress / Future Implications.**
+"Zaddy Daddy"/"Zadik" ([[Argo Lot]]); "Daddy Raylana"/"Zombo dad"/"Papa Raylana" (Lord Raylana); the **Witch / Dawn** (Ogre's blade entities); "the bone zone"-style gallows humor ("clap his cheeks"); "we radicalized him" (Carl).
+
+## Section 8 — Archivist Notes
+
+### Patterns, Progress & Future Implications
+
 - **Sanis's parental arc resolves in blood** — but the emotional cost (the flashback, the mother's "I'm sorry," killing family with his god-sister's help) will reverberate.
 - **Ogre's soul-reaping** escalates: he now fields **Lord Raylana as a Specter** and the **LDGB** keeps accumulating powerful spirits — a growing, ominous asset.
 - **The lab's true demolisher is unknown** — flagged as an open thread (Carl? a third party? the Second Sun cleaning up?).
@@ -170,8 +192,9 @@ Notable rolls:
 - **Bolas/Vraska endgame restated:** all planeswalkers trapped, sparks harvesting, "the beginning of the end." Ties back to the Immortal Sun (Simic) and the guild-token race.
 - **Aphonexa actively intervenes** in mortal affairs now — a divine ally who can tip key moments.
 
-**Continuity Flags / Missing Info / Ambiguities.**
-- **Numbering:** corrected file = `10-113025`; its source frontmatter = `09-113025-Pacts.md`; play sequence = next after S08 (no 10/26 campaign session). Filed as **Session 10** per Taylor's corrected-file prefix and the PP_## series. The 10/26 slot (the duplicate transcript / PAX Unplugged one-shot) has **no PP page**. Revisit if Taylor wants a PP_09.
+### Continuity Flags, Missing Info & Ambiguities
+
+- **Numbering (resolved 2026-06-05):** filed as **Session 9 / PP_09** — Taylor confirmed the 10/26 "session 9" transcript is a duplicate transcription of S08's audio (no campaign session on 10/26; zero DDB rolls that day; duplicate quarantined in `Session_Sources/Transcripts/Duplicates/`). The whole series was renumbered −1 (old PP_10–PP_21 → PP_09–PP_20); corrected file renamed `10-113025` → `09-113025-Pacts-Corrected.md`, matching its source `09-113025-Pacts.md`.
 - **Party level** unstated; **5th-level spell slots** confirm a level-up since S05 (10). Recorded as **11 (inferred)** — flag.
 - Spellings to confirm vs. the dictionary: **[[Lord Reylana\|Lord Modest Raylana]]** and **[[Lady Reylana\|Lady Hyena Raylana]]** (first/given names appear here; transcript renders Raylana/Rana/Rihanna/Rilana — canonical "Reylana"/"Raylana"), **[[Vuthala]]** (Vthala/Futhala/Muzala/Luthala — Ixalan), **[[Argo Lot]]** ("Zaddy/Zadik"), "**Perun's Last Word**" (Sanis's invocation of Argo Lot — verify name), the **Witch/Dawn** blades.
 - The mother's repeated **"I'm sorry"** and Ogre's counterspell of her spell on Sanis imply she was **conflicted/coerced** — logged as implied, not confirmed.
@@ -180,6 +203,6 @@ Notable rolls:
 
 ## Related
 - [[Campaign Dashboard]]
-- [[10-113025-Pacts-Corrected]]
+- [[09-113025-Pacts-Corrected]]
 - [[PP_08_101925_Blood_Runs_Thicker_Than_Water]]
 - [[Vault Sync Status]]

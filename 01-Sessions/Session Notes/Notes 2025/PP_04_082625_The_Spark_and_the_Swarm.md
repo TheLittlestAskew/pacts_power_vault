@@ -11,7 +11,7 @@ party_level: 10
 
 > Spelling normalized per campaign spelling dictionary. Verbatim transcript text unchanged.
 
-## 1. Session Metadata
+## Section 1 — Session Metadata
 
 | Field | Value |
 |---|---|
@@ -24,7 +24,7 @@ party_level: 10
 | Key NPCs | [[Brula]], [[Nissa]], [[Molly]], [[Clarissa]], [[Isiah Ja-Faank]] (joins party) |
 | DDB rolls archived | 16 (all 2025-08-26; archive synced through 2026-04-22) |
 
-## 2. Orphie POV Overview
+## Section 2 — Orphie's POV Overview
 
 The smoke hadn't even finished clearing from our crash before the war started asking for more of us. Rin had stitched me back together, and I'd hauled her and Sanis out of the wreck still breathing, which is the only tally I actually care about. Behind the lines we got a breath to bleed less; the green woman who can't take her eyes off Chandra pressed healing into our hands like it was nothing, and Brula went sprinting off with poor rattling Scrappy to get him mended and, gods willing, to land one good hit on Ral for me. I've wanted to deck that idiot for ages, and now I finally feel justified about it.
 
@@ -32,22 +32,30 @@ Then it was back out onto the field to dig our tavern's corpse out of an endless
 
 We went looking for Selena and found something worse and stranger: the Firemind's broken body, swarmed, with that grinning jackass Isiah standing guard on top of it like it was a party he was hosting. Chandra threw herself down to fight at his side before any of us could say a word — debts make people stupid. Varis cleared the dead in one breath, Ogre pulled the dragon's whole roaring soul into that box on Varis's back through some half-asleep finger-painting, and just like that we're carrying a god's last fire with us. Now we're bound for the Bone Zone with Isiah cheerfully in tow, Sanis quietly hating him the whole way, and Selena still out there hurt. Same as ever. People are always dying. We just keep walking toward the next thing.
 
-## 3. Session Analysis
+## Section 3 — Session Analysis
 
-**Narrative Summary.** The party regroups behind the [[Tenth District]] front lines at the [[Selesnya Conclave]] after slaying [[God-Eternal Oketra]] and watching [[Nicol Bolas]] kill [[Niv-Mizzet]]. [[Nissa]] heals the group and distributes Potions of Superior Healing; [[Brula]] takes the failing mechanical horse [[Scrappy]] to the [[Izzet League]] (to be delivered to [[Dalya Bara\|Dahlia]], explicitly **not** [[Ral Zarek\|Ral]]). The party crosses the now-fortified front lines (passing [[Boros Legion]] officer [[Molly]]) to recover the wreck of [[Ogre's Traveling Tavern]] from an endless smoke bottle, salvaging the bottle, the Drawer of Holding, and the tavern sign — but leaving the immovable rod lodged where it sits. Near their [[Sunhome]] apartment the [[Gruul Clans\|Gruul]]–[[Boros Legion\|Boros]] line buckles; a Gruul ogre's boulder nearly hits the building. They give the Drawer of Holding to their evacuating roommate [[Clarissa]] and send her to the Conclave. En route to the [[Bone Mine]] to rescue the injured [[Salena\|Selena]], [[Varis Aestra\|Varis]] spots Niv-Mizzet's corpse swarmed by [[Eternals]] and defended by [[Isiah Ja-Faank]] — the man who broke [[Chandra Nalaar\|Chandra]] out of prison. The party joins the fight, Varis clears the Eternals, and using the **Dragon Spirit Box** they absorb Niv-Mizzet's essence ([[Ogre]] acting as the conduit via a vision of connect-the-dots). They loot a **[[Spark-Harvester Trident\|Spark Harvester]]** from a fallen Eternal and depart for the "Bone Zone" with Isiah now in tow.
+### Narrative Summary
 
-**Session Setting.** Active war zone, Tenth District of [[Ravnica]], in the aftermath of repelling Bolas's Eternal assault. Some in-game time has passed; the allied front lines ([[Boros Legion|Boros]], [[Selesnya Conclave|Selesnya]], [[Izzet League|Izzet]]) are reinforcing with [[EMLA]] units and Boros Angels.
+The party regroups behind the [[Tenth District]] front lines at the [[Selesnya Conclave]] after slaying [[God-Eternal Oketra]] and watching [[Nicol Bolas]] kill [[Niv-Mizzet]]. [[Nissa]] heals the group and distributes Potions of Superior Healing; [[Brula]] takes the failing mechanical horse [[Scrappy]] to the [[Izzet League]] (to be delivered to [[Dalya Bara\|Dahlia]], explicitly **not** [[Ral Zarek\|Ral]]). The party crosses the now-fortified front lines (passing [[Boros Legion]] officer [[Molly]]) to recover the wreck of [[Ogre's Traveling Tavern]] from an endless smoke bottle, salvaging the bottle, the Drawer of Holding, and the tavern sign — but leaving the immovable rod lodged where it sits. Near their [[Sunhome]] apartment the [[Gruul Clans\|Gruul]]–[[Boros Legion\|Boros]] line buckles; a Gruul ogre's boulder nearly hits the building. They give the Drawer of Holding to their evacuating roommate [[Clarissa]] and send her to the Conclave. En route to the [[Bone Mine]] to rescue the injured [[Salena\|Selena]], [[Varis Aestra\|Varis]] spots Niv-Mizzet's corpse swarmed by [[Eternals]] and defended by [[Isiah Ja-Faank]] — the man who broke [[Chandra Nalaar\|Chandra]] out of prison. The party joins the fight, Varis clears the Eternals, and using the **Dragon Spirit Box** they absorb Niv-Mizzet's essence ([[Ogre]] acting as the conduit via a vision of connect-the-dots). They loot a **[[Spark-Harvester Trident\|Spark Harvester]]** from a fallen Eternal and depart for the "Bone Zone" with Isiah now in tow.
 
-**Locations Visited.** [[Selesnya Conclave]] (behind lines) → central [[Tenth District]] front lines / tavern crash site → [[Sunhome]] apartment exterior → open battlefield at Niv-Mizzet's corpse (en route to the [[Bone Mine]] / [[Golgari Swarm]]).
+### Session Setting
 
-**Quests / Objectives.**
+Active war zone, Tenth District of [[Ravnica]], in the aftermath of repelling Bolas's Eternal assault. Some in-game time has passed; the allied front lines ([[Boros Legion|Boros]], [[Selesnya Conclave|Selesnya]], [[Izzet League|Izzet]]) are reinforcing with [[EMLA]] units and Boros Angels.
+
+### Locations Visited
+
+[[Selesnya Conclave]] (behind lines) → central [[Tenth District]] front lines / tavern crash site → [[Sunhome]] apartment exterior → open battlefield at Niv-Mizzet's corpse (en route to the [[Bone Mine]] / [[Golgari Swarm]]).
+
+### Quests / Objectives
+
 - **Active – Main:** Reach the [[Bone Mine]] and rescue [[Salena\|Selena]] (injured; felt a "pull" to go there).
 - **Advanced:** Recovered party assets (smoke bottle, Drawer of Holding, tavern sign) from the wreck.
 - **New:** Absorbed [[Niv-Mizzet]]'s essence into the Dragon Spirit Box — effect TBD.
 - **New:** Recovered a [[Spark-Harvester Trident\|Spark Harvester]] (Bolas's spark-ripping device) to be examined at the [[Izzet League]].
 - **Offscreen:** [[Scrappy]] sent to the Izzet League for repair, to be given to [[Dalya Bara\|Dahlia]]; [[Clarissa]] evacuating to the [[Selesnya Conclave]] with the Drawer.
 
-**Scene / Timeline Breakdown.**
+### Scene / Timeline Breakdown
+
 1. Recap & regroup at the Conclave; Scrappy's condition; Brula takes Scrappy to Izzet (and to punch Ral).
 2. Nissa heals the party; Potions of Superior Healing distributed (Chandra gets an extra).
 3. Cross to the fortified front lines; Molly waves them through.
@@ -56,13 +64,18 @@ We went looking for Selena and found something worse and stranger: the Firemind'
 6. Travel toward the Bone Mine; Sanis casts Pass Without a Trace; Varis spots Niv-Mizzet's corpse and Isiah.
 7. Encounter at Niv's body; absorb the Firemind; loot the Spark Harvester; Isiah joins. Session ends.
 
-**Themes & Emotional Beats.** Found-family gallows humor amid a literal war zone; Orphie's protective scorekeeping ("I saved both Rin and Sanis"); grief deflected through jokes; loyalty and debt (Chandra repaying Isiah at her own risk); Sanis's unresolved grief and blame toward Isiah for his sister's death; the bittersweet loss of the tavern and Clarissa's quiet exhaustion.
+### Themes & Emotional Beats
 
-## 4. Character Activity
+Found-family gallows humor amid a literal war zone; Orphie's protective scorekeeping ("I saved both Rin and Sanis"); grief deflected through jokes; loyalty and debt (Chandra repaying Isiah at her own risk); Sanis's unresolved grief and blame toward Isiah for his sister's death; the bittersweet loss of the tavern and Clarissa's quiet exhaustion.
 
-**Party Structure & Subgroups.** Largely together all session. Brief functional split: [[Brula]] leads [[Scrappy]] off to the [[Izzet League]]; the party stays as one unit otherwise. [[Chandra Nalaar\|Chandra]] acts independently at the encounter (leaps to Isiah against the group's wishes).
+## Section 4 — Character Activity
 
-**NPCs.**
+### Party Structure & Subgroups
+
+Largely together all session. Brief functional split: [[Brula]] leads [[Scrappy]] off to the [[Izzet League]]; the party stays as one unit otherwise. [[Chandra Nalaar\|Chandra]] acts independently at the encounter (leaps to Isiah against the group's wishes).
+
+### NPCs
+
 | NPC | Affiliation | Action this session | Status |
 |---|---|---|---|
 | [[Brula]] | [[Golgari Swarm]] | Delivered Selena's whereabouts (Bone Mine, injured); took Scrappy to Izzet for repair/delivery to [[Dalya Bara\|Dahlia]]; left to "punch Ral" | Departed, ally |
@@ -74,14 +87,15 @@ We went looking for Selena and found something worse and stranger: the Firemind'
 | [[Ral Zarek\|Ral]] | [[Izzet League]] | (Offscreen) target of party ire; Brula to confront | — |
 | [[Salena\|Selena]] | — | (Offscreen) injured at the [[Bone Mine]]; rescue objective | At risk |
 
-**Reputation & Relationships.**
+### Reputation & Relationships
+
 - **Chandra ↔ Nissa:** romantic undertone reinforced (extra potion; Nissa blushes).
 - **Chandra ↔ Isiah:** strong loyalty/debt (he broke her out of prison); she fights at his side.
 - **Party ↔ Isiah:** divided. Rin neutral-positive (helpful, competent); Orphie thinks him a jackass but not evil; **Sanis actively blames him for his sister's death**.
 - **Party ↔ Ral Zarek:** openly hostile.
 - **Party ↔ Clarissa:** affectionate but strained; she's stepping back.
 
-## 5. Artifacts (Loot & Items)
+## Section 5 — Artifacts (Loot & Items)
 
 | Item | State / Change | Possessor / Location |
 |---|---|---|
@@ -96,19 +110,27 @@ We went looking for Selena and found something worse and stranger: the Firemind'
 | Bone with mushroom (from Brula, prev. session) | Selena clue | [[Sanis Reylana\|Sanis]] |
 | [[Scrappy]] | Badly damaged; sent for repair | En route to Izzet League (via Brula) |
 
-## 6. Logs
+## Section 6 — Logs
 
-**Encounter — Defending Niv-Mizzet's Corpse / Absorbing the Firemind**
+### Encounters
+
+**Defending Niv-Mizzet's Corpse / Absorbing the Firemind**
 - **Party:** [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Rin]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] (dragon form), [[Chandra Nalaar\|Chandra]]. **Ally:** [[Isiah Ja-Faank]].
 - **Enemies:** A horde of [[Eternals]] (Bolas's undead; "armor" is metal painted directly onto their skin).
 - **Setting:** Open battlefield atop/around Niv-Mizzet's body, en route to the [[Bone Mine]].
 - **Key beats:** Varis's Force Breath (65 dmg) evaporates **18 Eternals** in one 60-ft cone; Isiah beheads Eternals with a flaming greatsword; Chandra slings fire back-to-back with him; Ogre reaps souls with his returning [[Witch]] (Hexblade) weapon; Orphie mows down Eternals while Rin (Sacred Flame/holy words) and Sanis support. Varis's Arcana (22) ignites the absorption; Ogre, tethered to the Dragon Spirit Box, enters a white-out vision, "connect-the-dots" draws the party (with a big dragon = Varis), and pulls the tether — Niv-Mizzet's essence is sucked into the box. A shockwave knocks the remaining Eternals back. Party loots a Spark Harvester; Isiah joins.
 
-**Initiative.** No formal initiative; DM ran it as informal/theater-of-the-mind combat (no init rolls logged).
+### Initiative
 
-**Encounter Summary.** Decisive party victory; ~18+ Eternals destroyed (Varis's breath) plus others felled by the group; no party casualties; major narrative gain (Niv-Mizzet's essence captured; Spark Harvester recovered; Isiah recruited).
+No formal initiative; DM ran it as informal/theater-of-the-mind combat (no init rolls logged).
 
-**Full Roll Log** — DDB archive cross-referenced to transcript. ✅ = matched; modifiers on `custom`/`roll` entries not captured by DDB but reconciled to the announced total.
+### Encounter Summary
+
+Decisive party victory; ~18+ Eternals destroyed (Varis's breath) plus others felled by the group; no party casualties; major narrative gain (Niv-Mizzet's essence captured; Spark Harvester recovered; Isiah recruited).
+
+### Full Roll Log
+
+— DDB archive cross-referenced to transcript. ✅ = matched; modifiers on `custom`/`roll` entries not captured by DDB but reconciled to the announced total.
 
 | ET time | Character | Action | Type | Notation | Total | Dice | Context | Match |
 |---|---|---|---|---|---|---|---|---|
@@ -152,9 +174,11 @@ We went looking for Selena and found something worse and stranger: the Firemind'
 - [[Chandra]] — 0 (slinging fire spells beside Isaiah, but no specific kill narrated)
 - [[Rin]] — 0 (support only — Sacred Flame / holy words from the back)
 
-## 7. Quotes & Language
+## Section 7 — Quotes & Language
 
-**Quote Board** (verbatim, in-world):
+### Quote Board
+
+(verbatim, in-world):
 | Time | Speaker | Quote | Tag |
 |---|---|---|---|
 | 00:33:14 | [[Orphea "Orphie" Levistus\|Orphie]] | "We can rebuild it. We have the technology." | Funny |
@@ -167,18 +191,24 @@ We went looking for Selena and found something worse and stranger: the Firemind'
 | 01:24:48 | [[Ogre]] | "The bone zone. You want to come with us?" | Funny |
 | 01:02:44 | [[Chandra Nalaar\|Chandra]] | "Who the fuck says I'm dying, bitch?" | Banter / Threat |
 
-**Profanity Record** (this session; campaign totals in [[Profanity Ledger]]). Approx. per-player: **Taylor** ~4, **Bri** ~5, **Rachel** ~3, **Chet** ~3, **Gabe** ~2, **Vincent** ~1 (+ DM/Chris ~3, tracked separately). Largely in-character. Notable: Chandra's "dummy thick…ass clapping" line.
+### Profanity Record
 
-**Alternate Title Options suggested in play:** "The Bone Zone" (Ogre/party shorthand for the [[Bone Mine]]/[[Golgari Swarm|Golgari]] destination).
+(this session; campaign totals in [[Profanity Ledger]]). Approx. per-player: **Taylor** ~4, **Bri** ~5, **Rachel** ~3, **Chet** ~3, **Gabe** ~2, **Vincent** ~1 (+ DM/Chris ~3, tracked separately). Largely in-character. Notable: Chandra's "dummy thick…ass clapping" line.
 
-## 8. Archivist Notes
+### Alternate Names in Play
 
-**Patterns / Progress / Future Implications.**
+"The Bone Zone" (Ogre/party shorthand for the [[Bone Mine]]/[[Golgari Swarm|Golgari]] destination).
+
+## Section 8 — Archivist Notes
+
+### Patterns, Progress & Future Implications
+
 - The party now carries [[Niv-Mizzet]]'s essence in the Dragon Spirit Box (no felt power change yet) — open question of what [[Varis Aestra\|Varis]] gains, and how it feeds the **Revive Niv-Mizzet** quest.
 - A [[Spark-Harvester Trident\|Spark Harvester]] is in party hands; Varis notes a harvested spark still routes to [[Nicol Bolas\|Bolas]] — a moral/tactical thread; ties to the **Stop the Spark Harvesting** quest.
 - [[Isiah Ja-Faank]] joining sets up Sanis-vs-Isiah tension (sister's death). Watch for escalation.
 
-**Continuity Flags / Missing Info / Ambiguities.**
+### Continuity Flags, Missing Info & Ambiguities
+
 - **[[Chandra Nalaar\|Chandra]] (Bri)** is a recurring guest companion, not a permanent roster member — tracked by name, kept off the core party roster.
 - **Brula vs "Brula Galadora":** first name confirmed "[[Brula]]" (T03 self-introduction); surname "Galadora" appears only once (00:01:27) — unconfirmed transcription artifact, not canonized.
 - **"Skarrg, she's so badass" (00:23:33):** Rin's line; [[Skaarg]] is canonically a [[Gruul Clans|Gruul]] *location*, contextually odd as an exclamation. Left as-is, flagged.

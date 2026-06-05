@@ -1,7 +1,7 @@
 ---
 type: artifact
-affiliation: "Demons (original) → [[Nicol Bolas]] → **rewritten & bound to [[Rin]]/Ravnica** ([[Varis Aestra|Varis]], PP 20)"
-status: "Borne by [[Liliana Vess]]; contract rewritten — demon + Bolas overlays erased (PP 20)"
+affiliation: "Demons (original) → [[Nicol Bolas]] → **rewritten & bound to [[Rin]]/Ravnica** ([[Varis Aestra|Varis]], PP 19)"
+status: "Borne by [[Liliana Vess]]; contract rewritten — demon + Bolas overlays erased (PP 19)"
 first_appearance: "[[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right]] (09/17/25)"
 ---
 
@@ -18,7 +18,7 @@ The veil carries a **binding contract**. It originally belonged to **demons**; L
 
 ## The True Nature & the Rewrite
 
-### [[PP_20_051426_I_Just_Need_Your_Soul|PP 20 — I Just Need Your Soul]] (05/14/26)
+### [[PP_19_051426_I_Just_Need_Your_Soul|PP 19 — I Just Need Your Soul]] (05/14/26)
 - **What it really is (Rin's nat-20 Arcana, recalling lore from her cursed [[Tarkir]] book):** the Chain Veil is a **demon-contract artifact bound to 5 death-demons** — whoever bears it is **contracted and cursed**, and **it cannot be removed.** Liliana traded her contract to Bolas (as [[Penny]] once did with [[Rakdos]]). The party realized the Veil's *control* could be broken another way (decapitate the head inside the cowl — or sever the grip directly).
 - **The grip broken:** [[Ogre]] (now [[Ur-Ogre-lan]], the halfling death-god) **siphoned [[Liliana Vess|Liliana]]'s soul** with **Duskblade** (15 psychic + a 31-to-hit for 27), and the damage **shattered the Chain Veil's control** — Liliana snapped lucid and the God-Eternals froze.
 - **⭐ The contract REWRITTEN.** **[[Varis Aestra|Varis]], as the [[Orzhov Syndicate|Orzhov]] Guildmaster (Arcana 27), erased both the demon contract and Bolas's overlay** and **transferred the binding to [[Rinestra "Rin" Genleth|Rin]]** — Liliana now serves Rin/Ravnica until Rin releases her. **Strong protective clauses** bar her from being used "**as a vessel, weapon, sacrifice, or bargaining token without consent.**" Varis sealed it by burning the old contracts away in **white-and-black Orzhov flame.** The Veil's curse-architecture is now a **shield** for its bearer rather than a leash.
@@ -32,4 +32,4 @@ The veil carries a **binding contract**. It originally belonged to **demons**; L
 - [[Rin]]
 - [[Varis Aestra]]
 - [[PP_06_091725_Soul_Integrated_Soul_Storage_Get_It_Right]]
-- [[PP_20_051426_I_Just_Need_Your_Soul]]
+- [[PP_19_051426_I_Just_Need_Your_Soul]]

@@ -4,7 +4,7 @@ race: Angel
 class: Guildmaster / commander
 affiliation: "Boros Legion"
 status: "Alive — at the grand council"
-first_appearance: "PP 18 — Pacts and Power (04/05/26)"
+first_appearance: "PP 17 — Pacts and Power (04/05/26)"
 location: "Central plaza (surfaced Maze's End), Ravnica"
 aliases: ["Aurelia"]
 ---
@@ -20,7 +20,7 @@ The Boros representative at the campaign's "everyone shows up" council. Stands a
 
 ## Key Events
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - Attended the **grand council** at the surfaced [[Maze's End]] convened by **[[Niv-Mizzet]]** (the [[Living Guildpact]]) — representing the **[[Boros Legion]]** alongside [[Molly]].
 - Joined all ten guilds in **channeling their forces onto the ritual die** to formally unite against [[Nicol Bolas|Bolas]].
 
@@ -33,4 +33,4 @@ The Boros representative at the campaign's "everyone shows up" council. Stands a
 - [[Boros Legion]]
 - [[Molly]]
 - [[Niv Mizzet]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_17_040526_Pacts_and_Power]]

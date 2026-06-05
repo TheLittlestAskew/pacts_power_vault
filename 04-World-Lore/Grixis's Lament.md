@@ -17,8 +17,8 @@ aliases: ["the rune bracers"]
 - **Last Grasp:** *"??? Ogre will find out."* — an unrevealed third property.
 
 ## Campaign Role
-The likely in-fiction basis for the **"Shield Bracer (+3 AC)"** the vault tracks for Ogre — the *Tip the Scales* redistribution matches the +3 bonus Ogre shifts toward AC in combat (e.g. the **Dusk → Shield Bracer** loadout from PP 16). The Grixis (crimson/blue/black) coloring fits Ogre's death-magic, Eldritch-Blast fighting style.
+The likely in-fiction basis for the **"Shield Bracer (+3 AC)"** the vault tracks for Ogre — the *Tip the Scales* redistribution matches the +3 bonus Ogre shifts toward AC in combat (e.g. the **Dusk → Shield Bracer** loadout from PP 15). The Grixis (crimson/blue/black) coloring fits Ogre's death-magic, Eldritch-Blast fighting style.
 
 ## Related
 - [[Ogre]]
-- [[PP_16_031326_A_Scared_Child]]
+- [[PP_15_031326_A_Scared_Child]]

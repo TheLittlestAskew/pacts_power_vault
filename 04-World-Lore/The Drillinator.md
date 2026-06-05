@@ -1,8 +1,8 @@
 ---
 type: artifact
 affiliation: "Izzet League ([[Dalya Bara|Dahlia]]'s build); party transport"
-status: "Built & operational — stabilized PP 18 (04/05/26); core harmonized by Ogre's soul-magic + god metal"
-first_appearance: "PP 18 — Pacts and Power (04/05/26)"
+status: "Built & operational — stabilized PP 17 (04/05/26); core harmonized by Ogre's soul-magic + god metal"
+first_appearance: "PP 17 — Pacts and Power (04/05/26)"
 aliases: ["the Drillinator", "Dahlia's drill", "the drill"]
 ---
 
@@ -22,7 +22,7 @@ The Izzet payoff of the "god metal" the party had been carrying since the God-Et
 
 ## Key Events
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - **Built & stabilized** in Dahlia's Izzet workshop: the unstable lightning/Eternal-soul core was harmonized by **[[Ogre]]'s Spirits of Death** + the **[[god-metal]]** surfactant plate (Orphie hammering with [[Blazebringer]], Varis Fireballing); **six combined efforts** stabilized it. The bit was smoothed (Teferi's "Isaiah's face" illusion + Sanis's pep talk).
 - **Drove to the [[The Rot Warren|Rot Warren]]** ([[Dalya Bara|Dahlia]] driving — she left early, note: *"Hi Breakfast Club, couldn't wait… —D."*), boring **straight through the [[Myconids|Myconid]] colony** (killing one myconid → Rin's Raise Dead restitution).
 - At the Rot Warren, [[Ogre]] **fumbled the controls** (stalled the drill) during the force-field assault; once the **6 pylons** fell, the freed Rotworms could **tunnel a path to [[Bolas's Citadel]].**
@@ -35,4 +35,4 @@ The Izzet payoff of the "god metal" the party had been carrying since the God-Et
 - [[Steve]]
 - [[Eternals]]
 - [[Bolas's Citadel]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_17_040526_Pacts_and_Power]]

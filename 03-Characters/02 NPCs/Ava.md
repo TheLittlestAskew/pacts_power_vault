@@ -4,7 +4,7 @@ race: Copper Dragon
 class: Unknown
 affiliation: "Party ally (Immortal Sun heist)"
 status: "Alive (ally)"
-first_appearance: "PP 12 — The Masquerade Auction (01/11/26)"
+first_appearance: "PP 11 — The Masquerade Auction (01/11/26)"
 location: "[[Tin Street]] sewers (her lair), 10th District, Ravnica"
 aliases: []
 ---
@@ -21,13 +21,13 @@ A heist asset, won over by [[Ogre]]'s circular "the shiny ball makes things not 
 
 ## Key Events
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+### [[PP_11_011126_The_Masquerade_Auction|PP 11 — The Masquerade Auction]] (01/11/26)
 - Found in her **[[Tin Street]] sewer hoard** (in child form). [[Ogre]] talked her into the heist (Persuasion 28) with the logic *"if we get the shiny ball, then the shiny things you have can stay shiny."*
 - **Terms:** she keeps any *other* shiny loot she finds (not the [[Immortal Sun]]); **condition:** the party must **never tell [[Niv-Mizzet]] ("old Nibby") she is here.**
 - **Lent [[Sanis Reylana|Sanis]] her [[Ava's Longbow of Power]]** (a gold dragon-accented bow) — she hissed at his Perun's-Last-Word bow but lent her own.
 - At the masquerade, **split off into the crowd** as the party fanned out for coverage.
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - **Set the diversion fire** at the back of the auction building (the behind-stage explosion that, with [[Varis Aestra\|Varis]]'s Fireball, set the amphitheater ablaze).
 - **Recovered [[Ogre]]'s Tavern 2** (the Airstream) and met the fleeing party with the keys in hand: *"Took you long enough." / "At least someone appreciates my work."* Her work enabled the clean getaway on dragon-Varis's back.
 
@@ -41,5 +41,5 @@ A heist asset, won over by [[Ogre]]'s circular "the shiny ball makes things not 
 - [[Tin Street]]
 - [[Immortal Sun]]
 - [[Krenko Incorporated]]
-- [[PP_12_011126_The_Masquerade_Auction]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_11_011126_The_Masquerade_Auction]]
+- [[PP_12_012526_Fucking_Barbarians]]

@@ -58,7 +58,7 @@ Grandiose, cheerful, and theatrical — greets a desperate fight as "the fanfare
 - Urged the party to **hear [[Liliana Vess\|Liliana]] out** during the confrontation.
 - **Tackled away from the fight** with [[Chandra Nalaar\|Chandra]]; Liliana **dimension-doored** them both to the Great Tree of [[Vitu-Ghazi]], **tasking Isiah to care for the unconscious Chandra** and to take [[Nissa]] to the [[Simic Combine]] (where surviving [[Flameseekers of Truth]] are experimented on). Separated from the main party.
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+### [[PP_11_011126_The_Masquerade_Auction|PP 11 — The Masquerade Auction]] (01/11/26)
 - Resurfaced at the **[[Krenko Incorporated]] masquerade auction** in Ixalan garb, going by the alias **"Johnny,"** blitzed on the bar's **paralysis cocktails** (*"The cocktail of paralysis — it really makes my fingers tingle."*) and IDed by [[Rinestra "Rin" Genleth\|Rin]] (Insight 28).
 - Accompanied by **[[Kwatli Pakal]]** (going by **"Jareth Wig"**), revealed as an Ixalan ruler in disguise. (One of the **two jet-black-masked figures** anonymously sent [[Sanis Reylana\|Sanis]] a **sleep-spiked drink** — Rin sniffed it out, Medicine 30.)
 - **Bid on Item 1, "Ogre's Tavern 2"** against the goblin lady and [[Varis Aestra\|Varis]]; the **goblin lady hurled her ~50-lb money handbag** and knocked him **off the box-seat balcony** ([[Orphea "Orphie" Levistus\|Orphie]] caught the handbag, Athletics 27, and kept it). The two brawled.
@@ -81,4 +81,4 @@ Grandiose, cheerful, and theatrical — greets a desperate fight as "the fanfare
 - [[Kwatli Pakal]]
 - [[Krenko Incorporated]]
 - [[PP_04_082625_The_Spark_and_the_Swarm]]
-- [[PP_12_011126_The_Masquerade_Auction]]
+- [[PP_11_011126_The_Masquerade_Auction]]

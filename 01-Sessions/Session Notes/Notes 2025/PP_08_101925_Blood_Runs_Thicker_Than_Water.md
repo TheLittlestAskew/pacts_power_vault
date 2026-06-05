@@ -11,7 +11,7 @@ party_level: 10
 
 > Working from the existing corrected transcript. No new spell-check pass (per Taylor). Title provisional — pending Taylor's selection.
 
-## 1. Session Metadata
+## Section 1 — Session Metadata
 
 | Field | Value |
 |---|---|
@@ -24,17 +24,19 @@ party_level: 10
 | Key NPCs | [[Carl]] (janitor), [[Larissa]] (gatekeeper, offscreen), [[Prime Speaker Megandar]] (Simic leader), [[Vuthala]] (captive, in a tube), **[[Lord Reylana]] & [[Lady Reylana]]** (Sanis's parents) |
 | DDB rolls | 34 on 2025-10-19 (Orphie, Ogre, Varis logged; **Rin and Sanis both off-DDB this session**) |
 
-## 2. Orphie POV Overview
+## Section 2 — Orphie's POV Overview
 
 We walked into a drowned house of horrors with the tide creeping up our chests, and the only decent soul in the whole place was the man with the mop. Carl. He cleans up after monsters and lets them treat him like he's furniture, and I wasn't having it. My parents were cruel in a hundred ways, but even they drilled into me that you treat the one who carries out the trash like a person. So when the lab coats laughed at him and threw their food at his feet, I picked their greasy little pizza up off the water and smeared it down the smug one's face, and told Carl to leave that one. We propped that man up until he stood a head taller. Sometimes that's the whole job, reminding someone they're worth more than the people above them say.
 
 But the deeper we waded, the worse it got. Tanks of half-finished people, crab-armed and shark-mouthed, dead flesh stitched onto the living, and one of them beating on the glass begging us for help. And at the heart of it, behind a polite little office door, Sanis's own mother and father, sitting pretty while they manufacture nightmares for the Dragon. His father said it to his face, proud as anything: that he killed Selena on purpose, that her own family's blood is what made her the perfect weapon, and that he'd be happy to do the same to his son. He told Sanis to come home, to choose blood over the family he actually built. Sanis crossed his arms and chose us. "Blood runs thicker than water," the old man sneered, like that's the whole saying and like it ends in his favor. It doesn't. I poked my head in to say hello to Mr. Reylana just as the world tipped into a fight. My dice betrayed me, but it doesn't matter. I have been wanting to put my fist through one of these well-dressed butchers for a long time, and now I finally get to.
 
-## 3. Session Analysis
+## Section 3 — Session Analysis
 
 > ⚠️ **Continuity gap (flagged):** This transcript opens already inside the Simic facility ("successfully have persuaded [[Larissa]]… to let [[Carl]] give you guys a tour"). The **S07 cliffhanger (two Golgari guards in Lord Reylana's study)** is *not depicted or resolved here*, and the transit from the [[Reylana Estate]] to this underwater facility is not shown. The Reylanas oversee this lab and appear in it, so the locations are linked — but the bridge is off-transcript. Logged as-is; see Archivist Notes.
 
-**Narrative Summary.** Having (offscreen) talked past the gatekeeper [[Larissa]], the party tours a **[[Simic Combine\|Simic]] underwater research facility** with **[[Carl]]**, a meek aquatic janitor (from "Zonath 3," gilled). The rooms imitate open water — a **reef area** (waist/chest-deep, tide rising with the moons) and a **vivarium** of specimen tubes: octopus-, crab-, and shark-hybrid Simic mutants, many patched with **undead flesh** (the [[Eternals|Eternal]]-plated "monstrosities" the S07 intel described). [[Varis Aestra\|Varis]] casts **Water Breathing** (via his **[[Mizzium Apparatus]]**, 29) on the whole party (24h).
+### Narrative Summary
+
+Having (offscreen) talked past the gatekeeper [[Larissa]], the party tours a **[[Simic Combine\|Simic]] underwater research facility** with **[[Carl]]**, a meek aquatic janitor (from "Zonath 3," gilled). The rooms imitate open water — a **reef area** (waist/chest-deep, tide rising with the moons) and a **vivarium** of specimen tubes: octopus-, crab-, and shark-hybrid Simic mutants, many patched with **undead flesh** (the [[Eternals|Eternal]]-plated "monstrosities" the S07 intel described). [[Varis Aestra\|Varis]] casts **Water Breathing** (via his **[[Mizzium Apparatus]]**, 29) on the whole party (24h).
 
 [[Carl]] is nervous to enter the next room — the scientists mock him. [[Rinestra "Rin" Genleth\|Rin]] and [[Orphea "Orphie" Levistus\|Orphie]] champion him ("you hold this building together… you should be the highest-paid person here"), and he finds the courage to give the full tour. In the vivarium the [[Second Sun]] researchers jeer at Carl and throw anchovy pizza at his feet. [[Orphea "Orphie" Levistus\|Orphie]] picks it up and **slaps it down the lead scientist's face** (unarmed strike, nat-effective 30 — "improvised weapon"), telling Carl *"don't clean that one up."* She then weaponizes bureaucracy: demands their **SOPs / code of conduct**, threatens to overturn trash and report the mess to "the managers" (intimidation 13), backing the researchers down.
 
@@ -42,22 +44,30 @@ A captive **crab-humanoid** pounds a tube, mouthing *"help me."* The party (hold
 
 **The confrontation.** Lord Reylana greets his son coldly: *"It was only a matter of time, son."* He belittles Sanis's "powerless friends" and the party's "niceness," crediting the Reylana rise through the Golgari to *his* ruthless decisions. Pressed about [[Salena\|Selena]], he confirms the session's gut-punch: **he killed Selena deliberately, as part of the plan** — she carries **Reylana blood**, which is *why* they turned her into a **were-zombie**, "the most powerful weapon to come out of the Golgari Guild" and "a precious tool to Bolas." (The party tacitly hides that Selena ascended — "let him think she's still on his side.") He offers Sanis one last chance to **join them**; Sanis refuses: *"No, I'm gonna stick with my actual family."* Lord Reylana: *"Blood runs thicker than water."* He threatens to raise Sanis's corpse into service — Sanis: *"Idiot, I'm already dead."* **Combat is triggered and initiative rolled — deferred to next session (second consecutive cliffhanger).**
 
-**Locations Visited.** Simic facility airlock → **reef area** → **vivarium / specimen room** → inner **office/meeting platform** (the Reylanas). All underwater, tide rising throughout (chest-to-shoulder depth by session's end).
+### Locations Visited
 
-**Quests / Objectives.**
+Simic facility airlock → **reef area** → **vivarium / specimen room** → inner **office/meeting platform** (the Reylanas). All underwater, tide rising throughout (chest-to-shoulder depth by session's end).
+
+### Quests / Objectives
+
 - **Advanced:** Reach the **[[Simic Combine\|Simic]]** — one of the two missing guild gaps for the Niv-Mizzet ritual — and address the **Flameseeker/experiment** thread (S06: Liliana said survivors were being experimented on here). Confirmed: the lab manufactures Eternal-plated mutants for **Bolas**/the [[Second Sun]].
 - **New (emotional/plot core):** **[[Lord Reylana]] orchestrated Selena's death** to forge a Reylana-blooded were-zombie weapon for Bolas. Direct confrontation now underway.
 - **New thread:** Captive specimens begging for rescue (the crab-humanoid; **[[Vuthala]]** recognized).
 - **New ally:** **[[Carl]]** the janitor (befriended/empowered).
 - **Open:** Whether the party can secure the **Simic token/representative** for the ritual amid open conflict.
 
-**Themes & Emotional Beats.** Dignity and class (championing the janitor against the "lab rats"); family as choice vs. blood (Sanis publicly choosing the Breakfast Club over the Reylana name); the industrialized horror of the Simic labs; a father's pride in filicide; Orphie's barely-contained rage finally being given a target.
+### Themes & Emotional Beats
 
-## 4. Character Activity
+Dignity and class (championing the janitor against the "lab rats"); family as choice vs. blood (Sanis publicly choosing the Breakfast Club over the Reylana name); the industrialized horror of the Simic labs; a father's pride in filicide; Orphie's barely-contained rage finally being given a target.
 
-**Party Structure & Subgroups.** Single group; [[Sanis Reylana\|Sanis]] operates separately on the ceiling (spider/fighter climb) for much of the infiltration. [[Ogre]] tries a low approach (between the legs) as Sanis goes high.
+## Section 4 — Character Activity
 
-**NPCs.**
+### Party Structure & Subgroups
+
+Single group; [[Sanis Reylana\|Sanis]] operates separately on the ceiling (spider/fighter climb) for much of the infiltration. [[Ogre]] tries a low approach (between the legs) as Sanis goes high.
+
+### NPCs
+
 | NPC | Role this session | Status |
 |---|---|---|
 | [[Carl]] | Aquatic janitor (from "Zonath 3"); mocked by scientists; befriended & emboldened by the party | Ally; alive |
@@ -69,13 +79,14 @@ A captive **crab-humanoid** pounds a tube, mouthing *"help me."* The party (hold
 | [[Lady Reylana]] | Sanis's mother; seated with Lord Reylana | Hostile (combat imminent) |
 | Second Sun researchers | Rude lab staff building mutants; humiliated by Orphie | Hostile-adjacent |
 
-**Reputation & Relationships.**
+### Reputation & Relationships
+
 - **Sanis ↔ his parents:** open rupture — he renounces them to their faces and sides with the party. Confirmation his father murdered Selena by design.
 - **Party ↔ Carl:** earnest new friendship; the party requests a photo of Carl (running gag/keepsake).
 - **Party ↔ Second Sun/Simic:** open hostility; the auditor ruse collapses.
 - **Party ↔ Vuthala:** old [[Ixalan]] acquaintance found imprisoned — a rescue hook.
 
-## 5. Artifacts (Loot & Items)
+## Section 5 — Artifacts (Loot & Items)
 
 | Item | State / Change | Holder |
 |---|---|---|
@@ -86,11 +97,14 @@ A captive **crab-humanoid** pounds a tube, mouthing *"help me."* The party (hold
 
 *No formal loot acquired — this is an infiltration/confrontation session ending pre-combat.*
 
-## 6. Logs
+## Section 6 — Logs
 
-**Encounters.** No combat resolved. The session ends with initiative rolled against **[[Lord Reylana]], [[Lady Reylana]]**, [[Prime Speaker Megandar]], and the Simic facility — combat held for next session. (The only physical "attack" was Orphie's comedic pizza-slap on a researcher, unarmed-strike to-hit **30**.)
+### Encounters
 
-**Initiative (cliffhanger, rolled end of session; combat in S09):**
+No combat resolved. The session ends with initiative rolled against **[[Lord Reylana]], [[Lady Reylana]]**, [[Prime Speaker Megandar]], and the Simic facility — combat held for next session. (The only physical "attack" was Orphie's comedic pizza-slap on a researcher, unarmed-strike to-hit **30**.)
+
+### Initiative
+
 | Character | Initiative | Note |
 |---|---|---|
 | [[Varis Aestra\|Varis]] | 12 | |
@@ -99,9 +113,13 @@ A captive **crab-humanoid** pounds a tube, mouthing *"help me."* The party (hold
 | [[Rinestra "Rin" Genleth\|Rin]] | (off-DDB; not recorded) | |
 | [[Sanis Reylana\|Sanis]] | (off-DDB; not recorded) | |
 
-**Encounter Summary.** A social-infiltration session: empowering [[Carl]], humiliating the [[Second Sun]] researchers, a failed "auditor" bluff, and the reveal of [[Lord Reylana]]/[[Lady Reylana]] as the architects of Selena's weaponization. Rising water (a hazard for the next fight — Rin notes "water did not do well with fire," and pre-scouts the 60-ft distance and ~5–8 ft depth to the Reylanas' dry platform). Ends pre-combat.
+### Encounter Summary
 
-**Full Roll Log (DDB cross-reference).** 34 DDB rolls on 2025-10-19 ([[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Varis Aestra\|Varis]]). **[[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] rolled entirely off-DDB** — their rolls below are `transcript-only`.
+A social-infiltration session: empowering [[Carl]], humiliating the [[Second Sun]] researchers, a failed "auditor" bluff, and the reveal of [[Lord Reylana]]/[[Lady Reylana]] as the architects of Selena's weaponization. Rising water (a hazard for the next fight — Rin notes "water did not do well with fire," and pre-scouts the 60-ft distance and ~5–8 ft depth to the Reylanas' dry platform). Ends pre-combat.
+
+### Full Roll Log
+
+34 DDB rolls on 2025-10-19 ([[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Varis Aestra\|Varis]]). **[[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] rolled entirely off-DDB** — their rolls below are `transcript-only`.
 
 Notable rolls:
 | Character | Roll | Result | Context |
@@ -125,9 +143,11 @@ Notable rolls:
 
 - No combat this session — no kills recorded. (Initiative was rolled at the very end against the [[Lord Reylana|Reylanas]]/[[Prime Speaker Megandar]], but the DM explicitly deferred the fight to next session; Orphie's anchovy-pizza face-slap was a humiliation, not a kill.)
 
-## 7. Quotes & Language
+## Section 7 — Quotes & Language
 
-**Quote Board** (verbatim, in-world):
+### Quote Board
+
+(verbatim, in-world):
 | Speaker | Quote | Tag |
 |---|---|---|
 | [[Lord Reylana]] | "Blood runs thicker than water." | Threat / Important to Story |
@@ -140,20 +160,26 @@ Notable rolls:
 | [[Orphea "Orphie" Levistus\|Orphie]] | "Who are your parents? Because y'all weren't raised right." | Funny |
 | [[Orphea "Orphie" Levistus\|Orphie]] | "Are we getting audited right now?" / "I don't know. Yes. Maybe." | Funny |
 
-**Profanity Record** (approx.): Rachel/Rin ~6, Taylor/Orphie ~5, Gabe/Sanis ~3, Chet/Ogre ~2, Vince/Varis ~1.
+### Profanity Record
 
-**Alternate names in play:** "Rebecca" (Orphie's improvised fake name for Rin during the auditor bluff); "the lab rats" (the Second Sun researchers); "Carl the Jenner/janitor" (the scientists' mockery).
+(approx.): Rachel/Rin ~6, Taylor/Orphie ~5, Gabe/Sanis ~3, Chet/Ogre ~2, Vince/Varis ~1.
 
-## 8. Archivist Notes
+### Alternate Names in Play
 
-**Patterns / Progress / Future Implications.**
+"Rebecca" (Orphie's improvised fake name for Rin during the auditor bluff); "the lab rats" (the Second Sun researchers); "Carl the Jenner/janitor" (the scientists' mockery).
+
+## Section 8 — Archivist Notes
+
+### Patterns, Progress & Future Implications
+
 - **Two unresolved combat cliffhangers now stacked:** S07's Golgari-study guards (never shown resolved) and S08's Reylana-parents/Simic fight. Expect S09 to open in the Simic facility combat.
 - **The Reylana parents are major antagonists** and personally tied to Selena's murder and the were-zombie weapon program — a deeply personal arc for [[Sanis Reylana\|Sanis]].
 - **The Simic labs** are confirmed as the Bolas/Second Sun monstrosity factory (Eternal-plated mutants; the [[Immortal Sun]] referenced in S07 powers their work). The captive specimens (incl. **[[Vuthala]]**) and possibly surviving **Flameseekers** are a rescue objective.
 - **Carl** is a low-stakes but strong relationship beat — a likely recurring ally and the party's moral compass moment.
 - **Rising water** sets up an environmental-hazard fight where Rin's fire/radiant kit is disadvantaged.
 
-**Continuity Flags / Missing Info / Ambiguities.**
+### Continuity Flags, Missing Info & Ambiguities
+
 - **Continuity gap:** The S07 study-guard combat and the transit to this facility are **not in this transcript**; S08 opens mid-tour. Do not invent the bridge. The [[Reylana Estate]] (Golgari) and this Simic facility are linked via the Reylanas, but the relationship/geography is unstated.
 - **Party level:** Players confirm they **leveled up "weeks ago"** ([[Rinestra "Rin" Genleth\|Rin]]: "I get 2 level-5 spells now"); recorded here as **11 (inferred)**. Exact level and timing unconfirmed — flagged. (Project "current level 12" is the present-day level.)
 - Spellings to confirm vs. the dictionary: **[[Prime Speaker Megandar]]** (canonical Simic Prime Speakers are Vannifar/Vorel/Zegana — Megandar may be campaign-specific or misheard), **[[Vuthala]]** (Ixalan merfolk — verify), **[[Carl]]**'s origin "Zonath 3," **[[Larissa]]**, the **[[Second Sun]]** org. Canonical/transcript forms used; transcript left as-is per "no spell check."

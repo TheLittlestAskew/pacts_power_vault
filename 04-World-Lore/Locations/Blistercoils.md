@@ -2,7 +2,7 @@
 type: location
 category: District / Neighborhood
 status: "Active"
-first_appearance: "PP 13 — Fucking Barbarians (01/25/26)"
+first_appearance: "PP 12 — Fucking Barbarians (01/25/26)"
 location: "Ravnica"
 aliases: ["Blister Coils"]
 ---
@@ -19,9 +19,9 @@ Little is established on-screen beyond it being [[Janna]]'s home turf. Her refus
 
 ## Key Events
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - Named as the home district of **[[Janna]]**, the halfling girl who crashed [[Krenko]]'s auction and tagged along with the party. She refuses to go back, and is instead parked at the [[Selesnyan Conclave]] medicine workshop.
 
 ## Related
 - [[Janna]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_12_012526_Fucking_Barbarians]]

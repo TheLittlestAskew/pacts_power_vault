@@ -11,7 +11,7 @@ party_level: 10
 
 > Working from the existing corrected transcript. No new spell-check pass (per Taylor). Title confirmed by Taylor.
 
-## 1. Session Metadata
+## Section 1 — Session Metadata
 
 | Field | Value |
 |---|---|
@@ -24,15 +24,15 @@ party_level: 10
 | Key NPCs | [[Aphonexa]] (dream), [[Ugin]] (dream), [[Athena]] (dream), [[Borborygmos]]/[[Sharp Dog]]/[[Domri Rade]] (dream), [[Penny]]/[[Rakdos]] (dream), [[Brula Galadora]], [[Vraska]], [[Liliana Vess\|Liliana]], [[Thal]] |
 | DDB rolls | 22 on 2025-10-05 (Ogre, Orphie, Sanis, Varis logged; **Rin entirely off-DDB**) |
 
-## 2. Orphie POV Overview
+## Section 2 — Orphie's POV Overview
 
 We slept in the mushroom god's house because it was the safest roof left in a city that's been gutted, and the dreams came for all of us. Mine put me across a counter from my own ancestor, Athena, swimming in pints with Blazebringer on her back like she'd never set it down. She told me the axe has lasted hundreds of years because it's part-forged from some far-off metal, that it'll never rust the way I never will. She told me my path mirrors hers, that I'll walk strange skies and meet demons I might be related to, and she told me a thing I'm carrying like a splinter: there's an oil out on some other world that doesn't wash off, that's eaten whole planes, and that it once killed Ogre dead. Don't touch the oil. I made her promise me twice and I'll make him promise it back.
 
 We woke knowing what the war actually needs from us: ten guilds, ten tokens or ten people, brought to the heart of the city's hidden lines to drag a dead dragon back into the world. And we went straight into the worst of it, Sanis's own childhood home, turned into a war camp with his family's name still on the gate. We crept through the basement he used to hide in as a boy and found cells where the playroom used to be. We found a girl who looks like Selena, who looks like Sanis, whose arm comes off in your hand and grows back, one of a whole line of stolen sisters. We freed her. We pressed our ears to a vent and heard the metal-faced witch and the snake-haired queen trade notes on how they mean to march through a hollowed-out ghost district and gut our allies from the soft side. Then a blade found me in the dark because I was a half-second too slow, and I stood there and let it go through me without a sound, because Sanis needed us quiet more than I needed to swing. It's in me now, that wound and that information both. Next time the quiet ends.
 
-## 3. Session Analysis
+## Section 3 — Session Analysis
 
-**Narrative Summary.**
+### Narrative Summary
 
 *Rest & the four dreams.* Battered after the Bone Mine, the party beds down in [[Thal]]'s Myconid cavern. [[Ogre]] dispatches two lingering, harmless [[Eternals]] outside ("back to the blind eternity"; 9 + 15 psychic) and casts **Shatter** (L3, 22) to widen the cave mouth (now large-creature sized). On watch rotation, **every PC dreams — and the dreams prove to be real, happening *now*:**
 - **[[Ogre]] → the [[Gruul Clans\|Gruul]] red wastes.** He finds **[[Borborygmos]]** (deposed former Gruul leader) humiliated and depressed — the new leader **[[Domri Rade]]** smashed his "cup." [[Sharp Dog]] (the perpetually-stoned Gruul) eggs him on. Ogre restores Borborygmos's confidence (gives him his leathers as a cover) and then sprints down to **punch Domri Rade in the crotch** (Eldritch Blast 22 hits; 9 uppercut). Sharp Dog: *"You lit the fire, homie. Keep the trees burning."* A nat-20 tells Ogre it was a dream "connected with more."
@@ -57,9 +57,12 @@ The party then enters the now-empty ritual room, finds a vent, and **eavesdrops 
 
 Vraska gets word of the basement transformation attempt and calls the guards. The party snaps on **invisibility gauntlets** (a failed activation = blinded 1 min + the gauntlet breaks — Rin's breaks). They hide in **Lord Reylana's study**; Sanis & Rin try to memorize the battle plans (Int nat-1/advantage 7 — fail) but salvage **the route the Golgari intend to take through Orzhov**. Sanis half-remembers (forgotten lore): his **Dhampir powers** came from the **[[Golgari Lich]]** (Vraska's predecessor) who implanted **[[Argo Lot]]**'s head/essence into him and bound him by pact to **kill [[Vraska]]**. Guards enter; Orphie fails to slip aside (Acrobatics 8), is brushed, then **stabbed** (Con save 9 — fails, makes a sound). **Combat is triggered and initiative rolled — but deferred to next session (cliffhanger).**
 
-**Locations Visited.** [[Bone Mine]] Myconid cavern → (dream realms: Gruul red wastes, [[Reylana Estate]] vision, [[Ugin]]'s meditation realm, the Rakdos Carnarium, [[Athena]]'s/Orphie's apartment) → [[Golgari Swarm\|Golgari]] District & [[Wayport]] streets → [[Reylana Estate]] (basement, cell corridor, ritual room, Lord Reylana's study).
+### Locations Visited
 
-**Quests / Objectives.**
+[[Bone Mine]] Myconid cavern → (dream realms: Gruul red wastes, [[Reylana Estate]] vision, [[Ugin]]'s meditation realm, the Rakdos Carnarium, [[Athena]]'s/Orphie's apartment) → [[Golgari Swarm\|Golgari]] District & [[Wayport]] streets → [[Reylana Estate]] (basement, cell corridor, ritual room, Lord Reylana's study).
+
+### Quests / Objectives
+
 - **Defined in full:** The **Niv-Mizzet revival ritual** — bring a representative or token from each of the **10 guilds** to the **Nexus / center of the [[implicit maze]]**. (Ugin.)
 - **Route step:** Reach the **First Church of [[Orzhov Syndicate\|Orzhov]]** so "Sis" can recalibrate its portal to the maze entrance.
 - **New (urgent intel):** The Golgari/Bolas forces plan a **major offensive through the deserted Orzhov district** to flank the Alliance. Party now knows the route.
@@ -68,13 +71,18 @@ Vraska gets word of the basement transformation attempt and calls the guards. Th
 - **Prophecy:** [[Varis Aestra\|Varis]] **must take dragon form in the final battle** ("a brother's war of dragons").
 - **Open guild gaps:** Golgari and Simic representation for the ritual.
 
-**Themes & Emotional Beats.** Prophecy and agency (dreams that are *actually* happening — the party shapes the war in its sleep); legacy (Athena ↔ Orphie; Blazebringer's deep history; "restore the family to glory"); the desecration of home (Sanis's childhood estate as a war camp and a clone-lab); restraint as heroism (Orphie taking a blade silently so the group stays hidden); the cost-of-power motif extended (the oil, the suppressed flesh-golem girls).
+### Themes & Emotional Beats
 
-## 4. Character Activity
+Prophecy and agency (dreams that are *actually* happening — the party shapes the war in its sleep); legacy (Athena ↔ Orphie; Blazebringer's deep history; "restore the family to glory"); the desecration of home (Sanis's childhood estate as a war camp and a clone-lab); restraint as heroism (Orphie taking a blade silently so the group stays hidden); the cost-of-power motif extended (the oil, the suppressed flesh-golem girls).
 
-**Party Structure & Subgroups.** Single party throughout (Orphie, Ogre, Rin, Sanis, Varis + "Sis"). Dreams were individual but concurrent. Brula freed and sent solo to [[Selesnya Conclave]].
+## Section 4 — Character Activity
 
-**NPCs.**
+### Party Structure & Subgroups
+
+Single party throughout (Orphie, Ogre, Rin, Sanis, Varis + "Sis"). Dreams were individual but concurrent. Brula freed and sent solo to [[Selesnya Conclave]].
+
+### NPCs
+
 | NPC | Role this session | Status |
 |---|---|---|
 | [[Aphonexa]] | Sent Sanis the vision of the besieged estate | Divine, remote |
@@ -92,14 +100,15 @@ Vraska gets word of the basement transformation attempt and calls the guards. Th
 | [[Argo Lot]] | Ogre's father-essence; source of Sanis's Dhampir power via the Golgari Lich | Essence (in "Sis"; partly in Sanis) |
 | [[Golgari Lich]] | Vraska's predecessor; implanted Argo Lot into Sanis, pacted him to kill Vraska | (Recalled) |
 
-**Reputation & Relationships.**
+### Reputation & Relationships
+
 - **Party ↔ Golgari/Vraska/Liliana:** active enemies; the party is now inside their HQ with stolen intel.
 - **Sanis ↔ his family/home:** estate desecrated into a war camp and clone-lab; deep trauma; buried Lich-pact resurfacing.
 - **Orphie ↔ Athena:** ancestral mentorship; pride in the bloodline ("physical-violence type of glory").
 - **Party ↔ Brula:** new ally rescued; opens the "Selena sisters" thread.
 - **Party ↔ the unseen "Time Lord" benefactors:** continue leaving timely gifts (the Command Undead potion).
 
-## 5. Artifacts (Loot & Items)
+## Section 5 — Artifacts (Loot & Items)
 
 | Item | State / Change | Holder |
 |---|---|---|
@@ -111,9 +120,10 @@ Vraska gets word of the basement transformation attempt and calls the guards. Th
 | The Niv-Mizzet box (Ugin: "you do have Niv-Mizzet with you") | Confirmed carried; needed at the Nexus | Party ([[Varis Aestra\|Varis]]/Rin) |
 | Stolen battle-plan intel | The Golgari's planned **march route through Orzhov** (memorized) | [[Sanis Reylana\|Sanis]]/[[Rinestra "Rin" Genleth\|Rin]] |
 
-## 6. Logs
+## Section 6 — Logs
 
-**Encounters.**
+### Encounters
+
 | Encounter | Party/Allies | Enemies | Trigger | Outcome |
 |---|---|---|---|---|
 | Cave cleanup (Bone Mine exit) | [[Ogre]] (+ Witch) | 2 lingering mindless [[Eternals]] | Ogre dispatches them | Both slain (9 + 15 psychic); souls sent on |
@@ -121,11 +131,17 @@ Vraska gets word of the basement transformation attempt and calls the guards. Th
 | **Dream — Rakdos Carnarium** | [[Rinestra "Rin" Genleth\|Rin]], [[Penny]], blood witches | hordes of [[Eternals]] | Waking Rakdos | Wall of Fire kills 100+; **Rakdos roused; real** |
 | **Reylana study (cliffhanger)** | full party (invisible) | 2 Golgari guards (+ reinforcements coming) | Orphie stabbed, makes a sound | **Initiative rolled; combat deferred to S08** |
 
-**Initiative (cliffhanger, rolled end of session):** [[Varis Aestra\|Varis]] 19, [[Orphea "Orphie" Levistus\|Orphie]] 18 (advantage), [[Rinestra "Rin" Genleth\|Rin]] 17, [[Ogre]] 15. *(Combat resolves next session.)*
+### Initiative
 
-**Encounter Summary.** No full combat resolved this session — the only "live" fighting was Ogre clearing two near-dead Eternals. The dream-combats (Ogre vs. Domri; Rin's Wall of Fire) are narrated dream-actions that the eavesdropped Liliana/Vraska conversation confirms had **real-world effects**. The session closes mid-stealth with a triggered fight held for S08.
+[[Varis Aestra\|Varis]] 19, [[Orphea "Orphie" Levistus\|Orphie]] 18 (advantage), [[Rinestra "Rin" Genleth\|Rin]] 17, [[Ogre]] 15. *(Combat resolves next session.)*
 
-**Full Roll Log (DDB cross-reference).** 22 DDB rolls on 2025-10-05 (Ogre, Orphie, Sanis, Varis). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB** — all her rolls below are `transcript-only`. Ogre's combat/dream attacks and Dispel are also transcript-only.
+### Encounter Summary
+
+No full combat resolved this session — the only "live" fighting was Ogre clearing two near-dead Eternals. The dream-combats (Ogre vs. Domri; Rin's Wall of Fire) are narrated dream-actions that the eavesdropped Liliana/Vraska conversation confirms had **real-world effects**. The session closes mid-stealth with a triggered fight held for S08.
+
+### Full Roll Log
+
+22 DDB rolls on 2025-10-05 (Ogre, Orphie, Sanis, Varis). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB** — all her rolls below are `transcript-only`. Ogre's combat/dream attacks and Dispel are also transcript-only.
 
 Notable rolls:
 | Character | Roll | Result | Context |
@@ -168,9 +184,11 @@ Notable rolls:
 
 *(Reylana study cliffhanger: initiative was rolled but combat was explicitly deferred to next session — no kills this session.)*
 
-## 7. Quotes & Language
+## Section 7 — Quotes & Language
 
-**Quote Board** (verbatim, in-world):
+### Quote Board
+
+(verbatim, in-world):
 | Speaker | Quote | Tag |
 |---|---|---|
 | [[Athena]] | "Don't touch the oil. The oil is bad." | Important to Story / Funny |
@@ -184,13 +202,18 @@ Notable rolls:
 | [[Vraska]] | "It's basically a ghost town — pun intended." | DM Quip / Threat |
 | [[Orphea "Orphie" Levistus\|Orphie]] | "We don't kink-shame in this family." | Funny |
 
-**Profanity Record** (approx., heavy OOC banter throughout — most censored in source audio): Chet/Ogre ~6, Gabe/Sanis ~6, Taylor/Orphie ~5, Rachel/Rin ~4, Vince/Varis ~2.
+### Profanity Record
 
-**Alternate names in play:** "Sis"/"Soul Integrated Soul Storage" (was [[Pippi]]); "the gruul jewel(s)" (Borborygmos's groin/cup, recurring); "Zaddy/Zaddy Daddy" (the party's nickname for [[Argo Lot]]); "long rest" vs. Brula's "long sleep"; "the Time Lords" (the unseen picnic-basket benefactors).
+(approx., heavy OOC banter throughout — most censored in source audio): Chet/Ogre ~6, Gabe/Sanis ~6, Taylor/Orphie ~5, Rachel/Rin ~4, Vince/Varis ~2.
 
-## 8. Archivist Notes
+### Alternate Names in Play
 
-**Patterns / Progress / Future Implications.**
+"Sis"/"Soul Integrated Soul Storage" (was [[Pippi]]); "the gruul jewel(s)" (Borborygmos's groin/cup, recurring); "Zaddy/Zaddy Daddy" (the party's nickname for [[Argo Lot]]); "long rest" vs. Brula's "long sleep"; "the Time Lords" (the unseen picnic-basket benefactors).
+
+## Section 8 — Archivist Notes
+
+### Patterns, Progress & Future Implications
+
 - **The whole campaign objective is now concrete:** ten guild tokens/representatives → the Nexus/[[implicit maze]] → revive [[Niv-Mizzet]] → remake the [[Guildpact]]. Track the guild-token checklist (gaps: **Golgari, Simic**).
 - **Dreams are diegetic and consequential** — Rin woke Rakdos and Ogre rehabilitated the Gruul *in their sleep*, both confirmed by enemy intel. Expect more prophetic/cross-realm dreaming.
 - **Enemy battle plan exposed:** a flanking march through the emptied **Orzhov** district. The party holds the route — likely a race to warn the Alliance.
@@ -199,7 +222,8 @@ Notable rolls:
 - **Sanis's Lich-pact to kill Vraska** is now in play, inside Vraska's own HQ.
 - **Varis's dragon-form prophecy** sets up the finale.
 
-**Continuity Flags / Missing Info / Ambiguities.**
+### Continuity Flags, Missing Info & Ambiguities
+
 - **Party level** unstated; carried as **10**. No level-up — flagged.
 - Name spellings to confirm against the dictionary: **[[Brula Galadora]]** (Brula/Bruley/Brule), **[[Argo Lot]]** ("a roguelot"/"Argo Lot"), **[[Aphonexa]]** (Aphenexa/Aphonexa), **[[Hazoret]]** ("Hazaret/has-already"), **[[Vitu-Ghazi]]** ("Vitagazi"), **[[Wayport]]**, the **[[Golgari Lich]]** (unnamed here). Canonical forms used in notes; transcript left as-is per "no spell check."
 - Athena lists candidate demon-ancestor names (Malthagor, Jetmir, Belzenlok, Carter, "Face me"…) as a **bit** — none confirmed as Orphie's ancestor. Logged as ambiguous, not canon.

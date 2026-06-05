@@ -2,7 +2,7 @@
 type: location
 category: District / Marketplace
 status: "Active (Krenko's turf)"
-first_appearance: "Party backstory (Tin Street / 10th Street High); on-page PP 11 — You Can't Just Buy the Sun (12/14/25)"
+first_appearance: "Party backstory (Tin Street / 10th Street High); on-page PP 10 — You Can't Just Buy the Sun (12/14/25)"
 location: "10th District, Ravnica"
 aliases: ["10th Street", "Tit Street"]
 ---
@@ -19,11 +19,11 @@ A bustling 10th-District market street with deep significance to the party's bac
 
 ## Key Events
 
-### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11 — You Can't Just Buy the Sun]] (12/14/25)
+### [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10 — You Can't Just Buy the Sun]] (12/14/25)
 - The party **chased [[Krenko]]'s goblin-faced blimp** here after it stole the [[Immortal Sun]] — landing back in their old neighborhood.
 - Established as the site of **[[Krenko Incorporated]]** (Krenko's tower + underground city) and the **[[Immortal Sun]] auction**; the party long-rested on a Tin Street rooftop to case the HQ.
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+### [[PP_11_011126_The_Masquerade_Auction|PP 11 — The Masquerade Auction]] (01/11/26)
 - The **Tin Street sewers** are revealed as the **lair of [[Ava]]**, a copper dragon (in child form) hoarding gold; the party descended to recruit her for the [[Immortal Sun]] heist.
 - The **masquerade auction** at [[Krenko Incorporated]] (ballroom → amphitheater) played out here; the party won "Ogre's Tavern 2" for 41,000 gp as the Sun heist began.
 
@@ -33,5 +33,5 @@ A bustling 10th-District market street with deep significance to the party's bac
 - [[Tin Street High School library]]
 - [[Immortal Sun]]
 - [[Ava]]
-- [[PP_11_121425_You_Cant_Just_Buy_the_Sun]]
-- [[PP_12_011126_The_Masquerade_Auction]]
+- [[PP_10_121425_You_Cant_Just_Buy_the_Sun]]
+- [[PP_11_011126_The_Masquerade_Auction]]

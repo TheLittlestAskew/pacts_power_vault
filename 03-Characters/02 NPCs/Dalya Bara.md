@@ -39,15 +39,15 @@ Cheerful, enthusiastic, and a chaotic experimenter (adds "two or three, sometime
 ### [[PP_04_082625_The_Spark_and_the_Swarm|Transcript 04 — The Spark and the Swarm]] (08/26/2025)
 - **Designated recipient of [[Scrappy]]** — [[Brula]] was sent to bring the battered horse to the [[Izzet League]] to be fixed up and given specifically to Dalya ("give it to no one else"), explicitly **not** [[Ral Zarek\|Ral]]. (Resolves the prior Izzet-vs-Golgari drop-off question → Izzet/Dalya.) Off-screen.
 
-### [[PP_14_021326_Hold_the_Wall|PP 14 — Hold the Wall]] (02/13/26)
+### [[PP_13_021326_Hold_the_Wall|PP 13 — Hold the Wall]] (02/13/26)
 - **Mech-suit debut.** Arrived at the [[Boros Legion|Boros]]/[[Izzet League|Izzet]] front line piloting an **[[EMLA]]/Emrakul ("Emla")-inspired Izzet mech battle-suit** — an energy sword-whip and a ~50-ft aetheric slam (*"feel the power of 9.8 meters per second squared"*) — and **single-handedly plugged a wall breach.**
 - Called the suit a **prototype** (*"it's a prototype — I can make more"*), to [[Orphea "Orphie" Levistus\|Orphie]]'s loud mech-suit envy. A comedic rivalry over genuine camaraderie.
 - Stands as the [[Izzet League]]'s candidate representative/token for the Guildpact ritual.
 
-### [[PP_17_040226_The_Guildpact_Reborn|PP 17 — The Guildpact Reborn]] (04/02/26)
+### [[PP_16_040226_The_Guildpact_Reborn|PP 16 — The Guildpact Reborn]] (04/02/26)
 - **Confirmed [[Izzet League]] leader — Niv-endorsed.** When reborn **[[Niv-Mizzet]]** (the [[Living Guildpact]]) addressed the party at [[Maze's End]], they **validated the party's pick to replace [[Ral Zarek|Ral]] with Dahlia** as Izzet leader. The long-running "Dahlia would be a better guildmaster than Ral" thread pays off with the Parun's own blessing. (Off-screen — Dahlia herself was not present; Niv endorsed the call.)
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - **On-screen as Izzet leader — builds & drives the Drillinator.** Dahlia represents the **[[Izzet League]]** at the grand council (in a mech) and then leads the party through building her **[[The Drillinator|Drillinator]]**: a Lazotep-plated drill with a **lightning + extracted-Eternal-soul core** that wouldn't mix ("oil and water") and needed a **surfactant**, reinforced with the party's leftover **[[god-metal]]** ([[Tezzeret]]/hazoretium). **[[Ogre]]'s soul/death magic is what actually harmonized** the core; six combined efforts stabilized it.
 - **Caffeine-fueled, "safety is second."** Plies the wrecked party with **caffeine pills** (*"this is work candy, not fun candy"*) — each removes **1 level of exhaustion** — and refuses to rest (*"Safety is second." / "Sleep's for the dead."*). [[Orphea "Orphie" Levistus|Orphie]] reads her nervousness over the unstable core (Insight 27).
 - **Left early.** While the party took a long rest in her lab, Dahlia **left ahead for the [[The Rot Warren|Rot Warren]]** (which she calls *"the ref farm"*) with the drill, leaving a note: *"Hi Breakfast Club, couldn't wait… —D."* — then drove the Drillinator on the Rot Warren assault. (Confirmed **Izzet Guild leader** in the session's leadership flag.)
@@ -65,5 +65,5 @@ Cheerful, enthusiastic, and a chaotic experimenter (adds "two or three, sometime
 - [[god-metal]]
 - [[The Rot Warren]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
-- [[PP_17_040226_The_Guildpact_Reborn]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_16_040226_The_Guildpact_Reborn]]
+- [[PP_17_040526_Pacts_and_Power]]

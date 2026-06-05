@@ -1,8 +1,8 @@
 ---
 type: plane
 region: "A plane of the multiverse — dragon-clan world; [[Ugin]]'s plane"
-status: "Active — Varis departs to steward its dragons (PP 21); long referenced across the campaign"
-first_appearance: "Referenced throughout (Ugin's home, the dragon timelines, Narset's restored dragons, Ravnica Trading Inc.); Varis takes its dragon-mantle PP 21 — I Miss You, Buddy (05/31/26)"
+status: "Active — Varis departs to steward its dragons (PP 20); long referenced across the campaign"
+first_appearance: "Referenced throughout (Ugin's home, the dragon timelines, Narset's restored dragons, Ravnica Trading Inc.); Varis takes its dragon-mantle PP 20 — I Miss You, Buddy (05/31/26)"
 aliases: ["Tarkir"]
 ---
 
@@ -15,7 +15,7 @@ The wellspring of the dragon-power threaded through the party — [[Varis Aestra
 
 ## Key Events
 
-### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26)
+### [[PP_20_053126_I_Miss_You_Buddy|PP 20 — I Miss You, Buddy]] (05/31/26)
 - ⭐ **Varis's destiny.** Before sealing himself away with [[Nicol Bolas|Bolas]], **[[Ugin]] bestows on [[Varis Aestra|Varis]] the mantle of protecting and heralding the dragons of Tarkir** — an immense well of power and a call to the dragon plane.
 - **Epilogue:** Varis **hands the [[Orzhov Syndicate|Orzhov]] Guild to his adopted father** and **departs for Tarkir** to steward Ugin's dragons.
 
@@ -25,4 +25,4 @@ The wellspring of the dragon-power threaded through the party — [[Varis Aestra
 - [[Narset]]
 - [[Athena]]
 - [[Ravnica Trading Incorporated]]
-- [[PP_21_053126_I_Miss_You_Buddy]]
+- [[PP_20_053126_I_Miss_You_Buddy]]

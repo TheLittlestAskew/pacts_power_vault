@@ -43,7 +43,7 @@ Szadek founded House Dimir and was its first guildmaster. His history is deeply 
 - Because Sanis helped him become whole, **granted Sanis a power-up**: greater empathy (clicks with people more easily), thicker mental-palace walls (mental fortitude), the spell **Detect Thoughts** (one cast), and one additional effect still to be determined by the DM
 - Promised to try to be less "sassy" with Sanis going forward
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - **Origin retconned/confirmed:** Szadek's spirit is what the **[[Yarod Votsavo|Golgari Lich]]** (Yorvo Vod Savo) infused into [[Sanis Reylana\|Sanis]] to **resurrect him as a dhampir.** Szadek (the long-dead Dimir Guildmaster) is thus the dhampir engine inside Sanis.
 - With the Lich-pact fulfilled and **[[Argo Lot]] merging fully into Sanis**, Sanis becomes "just himself" — fully integrated. Szadek is now wholly **merged** into Sanis's realized dhampir self (no separate independent voice remains).
 
@@ -60,4 +60,4 @@ Szadek founded House Dimir and was its first guildmaster. His history is deeply 
 - [[Yarod Votsavo]]
 - [[Argo Lot]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_12_012526_Fucking_Barbarians]]

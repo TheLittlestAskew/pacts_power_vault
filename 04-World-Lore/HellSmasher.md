@@ -2,7 +2,7 @@
 type: artifact
 category: Weapon (maul / war-hammer)
 status: "Active — [[Orphea \"Orphie\" Levistus|Orphie]]'s weapon (Blazebringer's final form)"
-first_appearance: "PP 21 — I Miss You, Buddy (05/31/26)"
+first_appearance: "PP 20 — I Miss You, Buddy (05/31/26)"
 aliases: ["Hell Smasher", "Blazebringer (final form)"]
 ---
 
@@ -18,7 +18,7 @@ The weapon that ends the campaign in Orphie's hands. In the finale she uses it t
 
 ## Key Events
 
-### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26)
+### [[PP_20_053126_I_Miss_You_Buddy|PP 20 — I Miss You, Buddy]] (05/31/26)
 - ⭐ **Forged at the climax.** Reaching for [[Athena]] through her unanswered-prayer moment, [[Orphea "Orphie" Levistus|Orphie]] is pulled into a vision where Athena offers Blazebringer's final form — sword ("Hellraiser"), axe, or hammer. Orphie **chooses the hammer** — *"I've always wanted a hammer. Let's try something new."* — and Athena names it **HellSmasher** (a maul, **1d20 + 10**), teaching *"the greatest bonds can be forged with a hammer."*
 - **First swing — a crit.** Orphie returns to the fight and opens with HellSmasher to caving Bolas in (nat 19+20 → crit, 40 dmg; later 31/31/**66** including the gleeful pinky-toe smash).
 - **Epilogue:** Orphie sets out to find the **Ur-Dragon** (Bolas's progenitor), meaning to pass down the bloodline and the weapon — HellSmasher as the legacy of [[Athena]]'s line.
@@ -28,4 +28,4 @@ The weapon that ends the campaign in Orphie's hands. In the finale she uses it t
 - [[Blazebringer]]
 - [[Athena]]
 - [[Nicol Bolas]]
-- [[PP_21_053126_I_Miss_You_Buddy]]
+- [[PP_20_053126_I_Miss_You_Buddy]]

@@ -1,11 +1,11 @@
 ---
-source: 20 051426 P&P_transcript.md (Raw)
+source: 19 051426 P&P_transcript.md (Raw; renamed from 20 051426 in the 2026-06-05 renumber)
 corrected: true
 correction_date: 2026-06-02
 corrections_applied: 24
 ---
 
-# 20 051426 P&P_transcript (Corrected)
+# 19 051426 P&P_transcript (Corrected)
 
 > Spelling normalized per campaign spelling dictionary.
 > Verbatim transcript text preserved except for proper noun corrections.

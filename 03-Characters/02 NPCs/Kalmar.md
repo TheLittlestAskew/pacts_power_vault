@@ -4,7 +4,7 @@ race: Goliath (revealed doppelganger)
 class: Unknown
 affiliation: "Krenko Incorporated security (secretly in [[Narset]]'s crew)"
 status: "Alive"
-first_appearance: "PP 12 — The Masquerade Auction (01/11/26) (the doppelganger from a past one-shot)"
+first_appearance: "PP 11 — The Masquerade Auction (01/11/26) (the doppelganger from a past one-shot)"
 location: "[[Krenko Incorporated]] HQ, [[Tin Street]] (10th District)"
 aliases: []
 ---
@@ -21,12 +21,12 @@ An inside man for the Sun heist. [[Ogre]] befriends him on a chandelier perch at
 
 ## Key Events
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+### [[PP_11_011126_The_Masquerade_Auction|PP 11 — The Masquerade Auction]] (01/11/26)
 - **Befriended by [[Ogre]]** (Persuasion 23) on the ballroom chandelier; [[Ogre]] read him as **"a friend"** (Insight **nat 20**).
 - Revealed as the **doppelganger from a past one-shot** and as a member of **[[Narset]]'s crew**.
 - Disclosed Narset's plan — **steal the [[Immortal Sun]] to destroy it** (the party's own objective) — and that **his job is to let Narset in after the auction.**
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - Part of [[Narset]]'s crew during the successful Sun heist; **gave [[Varis Aestra\|Varis]] a Potion of Haste** (chugged before Varis went full dragon).
 - Confirmed a member of **[[Ravnica Trading Incorporated]]** — **[[Shaylin]]'s** Tarkir company / Narset's troop; the doppelganger backstory recapped ("locked the real one in a box"). Escaped with the crew. **Ally.**
 
@@ -43,5 +43,5 @@ An inside man for the Sun heist. [[Ogre]] befriends him on a chandelier perch at
 - [[Krenko Incorporated]]
 - [[Immortal Sun]]
 - [[Rekka]]
-- [[PP_12_011126_The_Masquerade_Auction]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_11_011126_The_Masquerade_Auction]]
+- [[PP_12_012526_Fucking_Barbarians]]

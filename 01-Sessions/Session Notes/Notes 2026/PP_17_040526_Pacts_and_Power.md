@@ -1,39 +1,39 @@
 ---
 type: session
-session_number: 18
+session_number: 17
 play_date: 04/05/26
 title: Pacts and Power
-transcript: "[[18 040526 P&P_transcript]]"
+transcript: "[[17 040526 P&P_transcript]]"
 party_level: 12
 ---
 
-# PP_18 — Pacts and Power
+# PP_17 — Pacts and Power
 
 > Working from the **raw** transcript (no separate "-Corrected" version). No spell-check pass (per Taylor). Title **"Pacts and Power"** confirmed by Taylor — fittingly, the campaign's own name, spoken in-session for the first time in 3 years (Varis's Orzhov spell-loan to Rin).
-> **Numbering:** filed **Session 18 / PP_18**.
+> **Numbering:** filed **Session 17 / PP_17**.
 > ⚠️ **Speaker labels unreliable** (the transcriber swaps PCs and folds Ogre's lines into "DM"). Attribution below is reconciled against the **DDB roll log** + class kits. **Guest player:** *Dan* returns as **[[Teferi]]** (Planeswalker / time wizard) — his 2nd table appearance.
 
-## 1. Session Metadata
+## Section 1 — Session Metadata
 
 | Field | Value |
 |---|---|
-| Session # | 18 |
+| Session # | 17 |
 | Real-world play date | 04/05/26 (Easter — the "Resurrection" session) |
-| Party level | **12** *(leveled at the end of S17; Orphie took **Toughness** → 125 max HP)* |
+| Party level | **12** *(leveled at the end of S16; Orphie took **Toughness** → 125 max HP)* |
 | In-game location | **Central plaza** (surfaced Maze's End) → **Dahlia's Izzet workshop** → the **Myconid colony** → the **Rot Warren** (Golgari spawning grounds) |
 | Present (PCs) | [[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Rinestra "Rin" Genleth\|Rin]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]] **+ guest [[Teferi]]** |
 | Key NPCs | **[[Niv-Mizzet]]** (Living Guildpact), **[[Dalia Bara]]** (Izzet leader, the drill), **Steve** the Rotworm + **[[Yarok\|Yarod Votsavo]]** (new Golgari leader), **Eddie** (Myconid head priest), **[[Carl]]** (de-facto Simic rep), a full council of guild leaders |
 | DDB rolls | **60 logged on 2026-04-05** — covering **all five PCs** (Orphie, Ogre, Sanis, Varis, Rin). **[[Teferi]] (guest) rolled off-DDB.** |
 
-## 2. Orphie POV Overview
+## Section 2 — Orphie's POV Overview
 
 Niv pulled the whole world together today. He lit up that beam and every guild that's still standing came stumbling into the plaza where it all went wrong — Sharpdog and his cabbage-stink barbarians, Carl the crab who we accidentally ruined the life of, and then a crack in the air and there's the time fairy, Teferi, dragging an army through behind him like it's nothing. For one minute it felt like maybe we're not losing. Then it was back to the grind — me half-dead and short twenty hit points, everybody too tired to stand, Dahlia shoving caffeine in our faces and a half-built drill that needs a god's worth of metal and a death-mage's whisper to hold together. So we built it. Ogre poured his little spirit-ghosts into the core and somehow that's what made it sing, and I beat a bar of god-metal into shape with my axe like a golf club, and then I finally — finally — got my eight hours.
 
 And then they left without us. Drilled a hole straight through the mushroom people's home, killed one of them, and Rin had to drag a soul back from the dead through Varis's gauntlet to make it right — first try it just farted out a poison cloud and nearly killed her, but Varis loaned her the power to do it, an honest-to-gods pact, the kind this whole mess is named after. And then the best part of any day I've ever had: the fairy turned me into a T-Rex again. I wasn't mad at a single soul in the world. I just bit pylons in half and swung my tail and grinned the way only the happiest dinosaur that ever lived could grin. We dropped the cage, we freed Steve's family, and now there's a straight line left to draw — right to Bolas.
 
-## 3. Session Analysis
+## Section 3 — Session Analysis
 
-> Direct continuation of S17: with **[[Niv-Mizzet]]** reborn and the party deposited in the surface plaza, the council convenes. **From where it began, it shall end.**
+> Direct continuation of S16: with **[[Niv-Mizzet]]** reborn and the party deposited in the surface plaza, the council convenes. **From where it began, it shall end.**
 
 This session runs in **three movements**:
 
@@ -61,20 +61,26 @@ This session runs in **three movements**:
   - **Fireballs** (Rin, Varis), **Eldritch Blast** (Ogre — a **nat-20 crit**), **Shatter** (Ogre), **Lightning Arrow** (Sanis, via Ava's Longbow), and the **T-Rex** demolish all **6 pylons + their Eternals**. The **force field drops.**
 - **Rotworms freed.** Steve + **Yarod Votsavo** surface — now they can rally the ancient Rotworms and **tunnel to Bolas's Citadel.** **[[Teferi]] is called to the Zhalfir front lines** and departs (reachable via *Sending*). **Session ends** poised for the final assault.
 
-**Quests / Objectives.**
+### Quests / Objectives
+
 - ✅ **Unite the guilds** against Bolas (council ritual on the die).
 - ✅ **Build the Drillinator** (core stabilized via Ogre's soul-magic + god metal; bit smoothed).
 - ✅ **Free the Rot Warren** (6 pylons + Eternals destroyed; Rotworms released).
 - ✅ **Right the Myconid wrong** (Rin's Raise Dead) — party reaffirmed as **Aphonexa's "chosen."**
 - **In progress / next:** reconvene with **[[Niv-Mizzet]]**, then **tunnel to Bolas's Citadel** for the final confrontation. **[[Rinestra "Rin" Genleth\|Rin]] owes [[Varis Aestra\|Varis]]/the Orzhov a 5th-level spell slot** (pact debt).
 
-**Themes & Emotional Beats.** **Coalition and cost.** The grand council is the campaign's "everyone shows up" payoff — every guild, ally, and old friend (even Carl) rallied. Against that scale, the comedy of **exhaustion** (the party literally too tired to fight a war) keeps it human. The **Myconid restitution** + the **Orzhov spell-loan** crystallize the title: power here is always *borrowed, bargained, owed.* And Orphie's **T-Rex** is pure catharsis after S16–17's trauma — joy as recovery.
+### Themes & Emotional Beats
 
-## 4. Character Activity
+**Coalition and cost.** The grand council is the campaign's "everyone shows up" payoff — every guild, ally, and old friend (even Carl) rallied. Against that scale, the comedy of **exhaustion** (the party literally too tired to fight a war) keeps it human. The **Myconid restitution** + the **Orzhov spell-loan** crystallize the title: power here is always *borrowed, bargained, owed.* And Orphie's **T-Rex** is pure catharsis after S15–17's trauma — joy as recovery.
 
-**Party Structure & Subgroups.** One large set-piece (council) → a workshop "build" interlude (skill checks, role-play) → a dungeon assault. **[[Teferi]]** floats as a knowledgeable guest, narrating MTG lore and enabling Orphie's T-Rex.
+## Section 4 — Character Activity
 
-**NPCs.**
+### Party Structure & Subgroups
+
+One large set-piece (council) → a workshop "build" interlude (skill checks, role-play) → a dungeon assault. **[[Teferi]]** floats as a knowledgeable guest, narrating MTG lore and enabling Orphie's T-Rex.
+
+### NPCs
+
 | NPC | Role this session | Status |
 |---|---|---|
 | [[Niv-Mizzet]] | Convenes the council; sets the "confront Bolas" directive | Living Guildpact; waiting at the plaza |
@@ -84,13 +90,14 @@ This session runs in **three movements**:
 | [[Carl]] | The Simic crab the party doomed — now de-facto Simic rep | Ally (tragicomic) |
 | [[Teferi]] | Brings the Zhalfir army; lore-keeper; polymorphs Orphie | Departs to the Zhalfir front (reach via Sending) |
 
-**Reputation & Relationships.**
+### Reputation & Relationships
+
 - **[[Sanis Reylana\|Sanis]] ↔ Dimir/Golgari:** gestured to the **Dimir** die by Benji (Lazav within him), even as his **Golgari pact** (post-Vraska) is fulfilled with Yarod's leadership.
 - **[[Varis Aestra\|Varis]] ↔ Orzhov:** exercises **guild-leader power** to loan Rin a spell slot — a literal pact.
 - **[[Rinestra "Rin" Genleth\|Rin]] ↔ the Myconids:** her Raise Dead cements the party's standing as Aphonexa's chosen; she muses about becoming Izzet's "safety inspector" post-war.
 - **Party ↔ [[Teferi]]:** warm reunion; Orphie forgives him on learning *he's* the one who first made her a T-Rex.
 
-## 5. Artifacts (Loot & Items)
+## Section 5 — Artifacts (Loot & Items)
 
 | Item | State / Change | Holder |
 |---|---|---|
@@ -103,15 +110,19 @@ This session runs in **three movements**:
 
 *No conventional loot — the gains are strategic (drill, freed Rotworms, allied coalition).*
 
-## 6. Logs
+## Section 6 — Logs
 
-**Encounter — The Rot Warren (force-field assault).**
+### Encounters
+
+**The Rot Warren (force-field assault)**
 - **Party:** all five + Teferi + the Drillinator (Dahlia driving).
 - **Objective/Enemy:** **6 pylons** (Lazotep/Mizzium) each guarded by **2 Eternals**, projecting a dome that cages the Rotworms.
 - **Key beats:** Ogre stalls the drill (failed Int checks); **Teferi polymorphs Orphie into a T-Rex**; coordinated **Fireballs / Eldritch Blast (nat-20 crit) / Shatter / Lightning Arrow / T-Rex multiattack** destroy all 6 pylons + Eternals.
 - **Outcome:** ✅ **Force field down; Rotworms freed.** No PC downed. Path to Bolas's Citadel now open.
 
-**Full Roll Log (DDB cross-reference).** **60 DDB rolls logged for 2026-04-05**, covering **all five PCs** (Orphie, Ogre, Sanis, Varis, Rin). **[[Teferi]] (guest) rolled off-DDB** — his figures are transcript-only. Selected notable rolls:
+### Full Roll Log
+
+**60 DDB rolls logged for 2026-04-05**, covering **all five PCs** (Orphie, Ogre, Sanis, Varis, Rin). **[[Teferi]] (guest) rolled off-DDB** — his figures are transcript-only. Selected notable rolls:
 
 | Character | Roll | Result | Context |
 |---|---|---|---|
@@ -125,7 +136,7 @@ This session runs in **three movements**:
 | [[Ogre]] | Persuasion (1d20+10) | 29 [19] | The caffeine-pill scene |
 | [[Orphea "Orphie" Levistus\|Orphie]] | Insight (1d20+8) | 27 [19] | Reading Dahlia's nervousness over the core |
 | [[Orphea "Orphie" Levistus\|Orphie]] | Stealth (1d20+2) | **3** [nat 1] | Approaching the Myconid cavern (cancels a teammate's nat-20) |
-| Party | Hit Dice (long rest) | various | S17's exhaustion/HP recovery |
+| Party | Hit Dice (long rest) | various | S16's exhaustion/HP recovery |
 | [[Rinestra "Rin" Genleth\|Rin]] | Raise Dead via gauntlet — *transcript* | fail → **success** (2nd try, loaned slot) | Revives the slain Myconid |
 | [[Teferi]] | Fire Bolt (3d10) — *transcript* | **22** | Shatters the final pylon |
 
@@ -139,9 +150,11 @@ This session runs in **three movements**:
 - [[Teferi]] — 1 (the final, 6th pylon, Fire Bolt) *(guest PC)*
 - [[Ogre]] — 0 (Eldritch Blast only bounced Eternals off the field; his Shatter left the last pylon standing)
 
-## 7. Quotes & Language
+## Section 7 — Quotes & Language
 
-**Quote Board** (verbatim):
+### Quote Board
+
+(verbatim):
 | Speaker | Quote | Tag |
 |---|---|---|
 | [[Niv-Mizzet]] | "From where it began, it shall end." | Dramatic / Important to Story |
@@ -153,21 +166,27 @@ This session runs in **three movements**:
 | [[Orphea "Orphie" Levistus\|Orphie]] | "We're the party. The party doesn't start till we walk in." | Funny |
 | Eddie (Myconid priest) | "One of our kind has been killed. A like for like is required." | Serious |
 
-**Profanity Record** (approx., by player): Gabe/Sanis ~6, Taylor/Orphie ~6, Rachel/Rin ~6, Dan/Teferi ~4, Ogre ~3, Vince/Varis ~2.
+### Profanity Record
 
-**Alternate names in play:** **"the time fairy / the fairy / Tafari"** = **[[Teferi]]**; **"the Drillinator"** = Dahlia's drill; **"Tezzy / hazoretium / god metal"** = **[[Tezzeret]]**-derived material; **"Mike / Mike-and-Ikes / clickers"** = the **Myconids** (vs. their priest **"Eddie"**); **"Nicholas / Nicol Paris Richie Bolas"** = **[[Nicol Bolas]]**; **"the ref farm"** = the Rot Warren; **"Steve"** = the (Golgari) Rotworm.
+(approx., by player): Gabe/Sanis ~6, Taylor/Orphie ~6, Rachel/Rin ~6, Dan/Teferi ~4, Ogre ~3, Vince/Varis ~2.
 
-## 8. Archivist Notes
+### Alternate Names in Play
 
-**Patterns / Progress / Future Implications.**
+**"the time fairy / the fairy / Tafari"** = **[[Teferi]]**; **"the Drillinator"** = Dahlia's drill; **"Tezzy / hazoretium / god metal"** = **[[Tezzeret]]**-derived material; **"Mike / Mike-and-Ikes / clickers"** = the **Myconids** (vs. their priest **"Eddie"**); **"Nicholas / Nicol Paris Richie Bolas"** = **[[Nicol Bolas]]**; **"the ref farm"** = the Rot Warren; **"Steve"** = the (Golgari) Rotworm.
+
+## Section 8 — Archivist Notes
+
+### Patterns, Progress & Future Implications
+
 - **The board is set for the finale.** Coalition united, drill built, Rotworm highway opened — the **next session tunnels to Bolas's Citadel** for the confrontation. The campaign is in its **final arc** (multiple players/Teferi call it "the finale").
-- **Ogre's soul/death magic is mechanically central** — it's what stabilized the Eternal-soul core ("felt right"). Tie this to his corrupted-by-Bolas powers (S18 recap) and his unfulfilled "be a Guildpact" wish — his arc with death/soul magic is building to *something*.
+- **Ogre's soul/death magic is mechanically central** — it's what stabilized the Eternal-soul core ("felt right"). Tie this to his corrupted-by-Bolas powers (S17 recap) and his unfulfilled "be a Guildpact" wish — his arc with death/soul magic is building to *something*.
 - **The Orzhov spell-loan ("Pacts and Power")** is now an established mechanic — and Ogre immediately jokes about **"banking a spell slot with the Azorius,"** flagging it'll be (comedically) abused. **Rin owes a 5th-level slot.**
 - **[[Aphonexa]]** (the party-created god) has a **worshipping Myconid colony**; the party are its **"chosen"/creators** — a faction/asset for the finale.
 - **Gatewatch status** (per Teferi): **Ajani** alive; **Gideon** missing (went after Chandra to Strixhaven, unseen since the Beacon); **Liliana** working for Bolas (necromancy + **Chain Veil** — possibly animating the Eternals) "but also not"; **Nissa** present; **Kaya** and the "ghost assassin" dead. **[[Teferi]]** seeking more Gatewatch aid.
 - **God-Eternal Kefnet** (Amonkhet) battles Tarkir dragons overhead; **3 Eternal Gods** loose in Ravnica.
 
-**Continuity Flags / Missing Info / Ambiguities.**
+### Continuity Flags, Missing Info & Ambiguities
+
 - ⚠️ **Transcript labels unreliable** — Ogre's lines frequently tagged "DM"; PC swaps common. Attributions reconciled vs. the DDB log.
 - ⚠️ **Guild leadership to record:** **[[Varis Aestra\|Varis]] = Orzhov Guild leader**; **[[Yarok\|Yarod Votsavo]] = Golgari leader** (riding Steve); **[[Dalia Bara]] = Izzet**; **[[Carl]] = de-facto Simic**; **[[Sanis Reylana\|Sanis]]** tied to the **Dimir** seat (Lazav within). Confirm/standardize spellings across vault.
 - ⚠️ **Spellings to confirm (raw):** **[[Aphonexa]]** ("Aphonexa/Aphenexa"), **[[Yarok\|Yarod Votsavo]]** ("Yirad/Urod Votsavo"), **[[Dalia Bara]]** ("Dahlia/Barra"), **[[Vitu-Ghazi]]**, "Zhalfir" (Teferi's plane), "Lazotep," "Mizzium," "Kefnet."
@@ -176,6 +195,6 @@ This session runs in **three movements**:
 
 ## Related
 - [[Campaign Dashboard]]
-- [[18 040526 P&P_transcript]]
-- [[PP_17_040226_The_Guildpact_Reborn]]
+- [[17 040526 P&P_transcript]]
+- [[PP_16_040226_The_Guildpact_Reborn]]
 - [[Vault Sync Status]]

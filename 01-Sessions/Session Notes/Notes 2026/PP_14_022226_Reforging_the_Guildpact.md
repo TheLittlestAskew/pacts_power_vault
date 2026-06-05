@@ -1,22 +1,22 @@
 ---
 type: session
-session_number: 15
+session_number: 14
 play_date: 02/22/26
 title: Reforging the Guildpact
-transcript: "[[15 022226 P&P_transcript]]"
+transcript: "[[14 022226 P&P_transcript]]"
 party_level: 11
 ---
 
-# PP_15 — Reforging the Guildpact
+# PP_14 — Reforging the Guildpact
 
 > Working from the **raw** transcript (no separate "-Corrected" version). No spell-check pass (per Taylor). Title confirmed by Taylor.
-> **Numbering:** filed **Session 15 / PP_15**.
+> **Numbering:** filed **Session 14 / PP_14**.
 
-## 1. Session Metadata
+## Section 1 — Session Metadata
 
 | Field | Value |
 |---|---|
-| Session # | 15 |
+| Session # | 14 |
 | Real-world play date | 02/22/26 |
 | Party level | 11 (no change; corrected from 12) |
 | In-game location | Aerial over Ravnica → **First Church of [[Orzhov Syndicate\|Orzhov]]** → the **[[Implicit Maze]]** (deep underground: Leyline moat, 5 color-trials, **Maze's End**) |
@@ -24,15 +24,15 @@ party_level: 11
 | Key NPCs | [[Benji]] (Dimir), [[Pippi\|Sis]], [[Lord Aestra]], **[[Niv-Mizzet]]** (reviving), the **"[[Ogre of Bolas]]"** (hatred-boss) |
 | DDB rolls | ~34 on 2026-02-22 (skill-challenge trials: Dex checks, Con saves vs exhaustion; Varis Force Breath 72) |
 
-## 2. Orphie POV Overview
+## Section 2 — Orphie's POV Overview
 
 We finally stopped slapping bandages on a bleeding world and went for the wound itself. The lines that hold this whole plane together are tearing, and the only stitch that mends them is the old pact between the ten guilds, remade. We had nine of the ten already, pressed into a ruined old book; the last we took the rude way, off the lapel of a man who wouldn't stop quoting his own bureaucracy at us while the sky fell. Then down we went, deeper than the moons, to a maze of gold ringed by a moat of raw, hungry magic. To cross it, the maze made each of us name the thing we hate most and mean it, and then it lifted that hate clean out of us, like setting down a stone I'd been carrying so long I forgot it was heavy. We ran a gauntlet of speed and order and riddles, and we held up a ceiling that wanted to crush us flat with nothing but our own stubbornness, which, lucky for the world, is the one thing we have in endless supply.
 
 At the heart of it sat ten empty thrones and a place for a soul. We laid down everything we'd carried, even a dead man's grocery list, and Ogre held up the cursed flower he's been waiting his whole life to be strong enough to wield, and he wished a new pact into being. The dragon's soul rose up and opened a door in the sky, and of course Ogre jumped straight through it, because of course he did, and came back dragging a god out of death by the hand. We are, against all sense, putting Niv-Mizzet back together. But the black line is poisoned, the Dragon's rot has gotten into the very bones of this place, and out of that poison and out of all the hate we left in the water, a thing rose up wearing every face I've ever despised. It is sprinting at us now, screaming. The dragon isn't all the way through. And the world will not wait for us to catch our breath.
 
-## 3. Session Analysis
+## Section 3 — Session Analysis
 
-**Narrative Summary.**
+### Narrative Summary
 
 *Assembling the ten guilds.* Rejecting "bandages on a gunshot wound," the party commits to **reforging the [[Guildpact]]** (the confirmed fix for the failing Leylines). Examining the **shreds of the First Guildpact**, [[Rinestra "Rin" Genleth\|Rin]] finds **9 of the 10 guild insignias** — the **[[House Dimir\|Dimir]]** is missing. They summon **[[Benji]]** (saying his name 3× — he comes for the now-bureaucratic, council-run Dimir), but he won't give a "legally binding" signature, so **[[Orphea "Orphie" Levistus\|Orphie]] yanks his Dimir lapel pin** (nat-20 Dex) and shoves him off dragon-[[Varis Aestra\|Varis]] ([[Ogre]] Feather-Falls him; Benji shadow-exits, resigned). The party now holds **all ten guild representations** (9 insignias + the Dimir pin).
 
@@ -51,9 +51,12 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 
 *The corruption & the boss.* [[Rinestra "Rin" Genleth\|Rin]] senses the **black Leyline is corrupted** by **miasma** (the same as [[Penny]]'s mark / the Second Sun / [[Nicol Bolas\|Bolas]]) — caused by **Bolas's Citadel** rising from the Golgari Swarm and tapping the Leylines (long-term fix: **destroy the Citadel**). As Niv is still mid-emergence (only a claw through), a **hatred-manifestation** coalesces in the entryway from the corrupted black Leyline + the hatreds the party shed: it wears **each PC's most-hated face** ([[Nicol Bolas\|Bolas]] for Ogre; school bullies for Rin & Varis; his parents for Sanis; tyrant politicians for Orphie). The DM dubs it the **"Ogre of Bolas."** It charges, shrieking, and hurls a black-energy ball that bursts into shards — **saving throws deferred to next session.** **Cliffhanger.**
 
-**Locations Visited.** Aerial Ravnica (the assembling of tokens; the drive-by) → First Church of [[Orzhov Syndicate\|Orzhov]] (basement portal) → the **[[Implicit Maze]]** (Leyline moat; Black/Red/White/Blue/Green trials; **Maze's End**).
+### Locations Visited
 
-**Quests / Objectives.**
+Aerial Ravnica (the assembling of tokens; the drive-by) → First Church of [[Orzhov Syndicate\|Orzhov]] (basement portal) → the **[[Implicit Maze]]** (Leyline moat; Black/Red/White/Blue/Green trials; **Maze's End**).
+
+### Quests / Objectives
+
 - **In progress / climactic:** **Reforge the [[Guildpact]] & revive [[Niv-Mizzet]]** — the campaign's central quest. The reforge ritual is *underway*; Niv is *mid-revival*.
 - **Completed:** acquire **all 10 guild tokens** (Dimir secured via Benji's pin).
 - **Completed:** clear the **five color-trials** of the [[Implicit Maze]].
@@ -61,13 +64,18 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 - **New (long-term):** the Leyline corruption is rooted in **Bolas's Citadel** — destroying it is the true cure.
 - **Reinforced:** [[Vitu-Ghazi]] rampaging; the Orzhov/front-line war continues off-screen.
 
-**Themes & Emotional Beats.** Naming and releasing what owns you (the Hatred trial — each PC's core wound spoken aloud and *lifted*); perseverance as the party's defining virtue (the Endurance trial; "our stubbornness is endless"); the long-awaited payoff of the Black Lotus and the Niv-Mizzet box; Ogre's specialness made plot-load-bearing (only he can cross to Niv); the cost of victory (the corruption literally weaponizes the hatreds they let go).
+### Themes & Emotional Beats
 
-## 4. Character Activity
+Naming and releasing what owns you (the Hatred trial — each PC's core wound spoken aloud and *lifted*); perseverance as the party's defining virtue (the Endurance trial; "our stubbornness is endless"); the long-awaited payoff of the Black Lotus and the Niv-Mizzet box; Ogre's specialness made plot-load-bearing (only he can cross to Niv); the cost of victory (the corruption literally weaponizes the hatreds they let go).
 
-**Party Structure & Subgroups.** Unified throughout. Briefly, **[[Ogre]] alone** crosses the ceiling portal to retrieve [[Niv-Mizzet]] (only he can). [[Varis Aestra\|Varis]] drops dragon form to enter the maze.
+## Section 4 — Character Activity
 
-**NPCs.**
+### Party Structure & Subgroups
+
+Unified throughout. Briefly, **[[Ogre]] alone** crosses the ceiling portal to retrieve [[Niv-Mizzet]] (only he can). [[Varis Aestra\|Varis]] drops dragon form to enter the maze.
+
+### NPCs
+
 | NPC | Role this session | Status |
 |---|---|---|
 | [[Benji]] | Summoned for the Dimir token; refused a signature; pin yanked & shoved off Varis | Departed (got his Orzhov amulet back from Sanis) |
@@ -77,13 +85,14 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 | **"[[Ogre of Bolas]]"** | Hatred-manifestation from the corrupted black Leyline + the party's shed hatreds | Hostile (attacking — cliffhanger) |
 | Great Tree of [[Vitu-Ghazi]] | Fully animate, rampaging at the Conclave | Active (off-screen) |
 
-**Reputation & Relationships.**
+### Reputation & Relationships
+
 - **Party ↔ Benji/Dimir:** strained-but-functional — they took what they needed by force (the pin) over his bureaucratic refusal.
 - **Party ↔ Niv-Mizzet:** warm reunion; the party is literally his resurrectors; **Ogre** singled out as "special."
 - **The party with itself:** the Hatred trial is a quiet character-deepening beat for all five (each core grievance named and released).
 - **Party ↔ Bolas:** the corruption confirms his rot is in the plane's bones; the Citadel is the true target.
 
-## 5. Artifacts (Loot & Items)
+## Section 5 — Artifacts (Loot & Items)
 
 | Item | State / Change | Holder |
 |---|---|---|
@@ -95,13 +104,19 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 | [[Mizzium Apparatus]]/Elysium gauntlet | Returned to [[Varis Aestra\|Varis]] (he's out of dragon form in the maze) | [[Varis Aestra\|Varis]] |
 | +5 temp HP (blue trial) | Granted to all (Orphie's "letter E" bonus) | Party |
 
-## 6. Logs
+## Section 6 — Logs
 
-**Encounters.** Two "live" combats: the **dragon-back drive-by** (~100 Eternals cleared; Varis Force Breath 72) and the cliffhanger **"[[Ogre of Bolas]]"** (saves deferred). The five trials are **skill-challenges**, not initiative combat (Dex checks for Haste; word/riddle puzzles for Order/Wits; **Con saves vs exhaustion** for Endurance).
+### Encounters
 
-**Initiative.** None resolved (the boss fight's initiative/saves carry to next session).
+Two "live" combats: the **dragon-back drive-by** (~100 Eternals cleared; Varis Force Breath 72) and the cliffhanger **"[[Ogre of Bolas]]"** (saves deferred). The five trials are **skill-challenges**, not initiative combat (Dex checks for Haste; word/riddle puzzles for Order/Wits; **Con saves vs exhaustion** for Endurance).
 
-**Full Roll Log (DDB cross-reference).** ~34 DDB rolls on 2026-02-22. Notable:
+### Initiative
+
+None resolved (the boss fight's initiative/saves carry to next session).
+
+### Full Roll Log
+
+~34 DDB rolls on 2026-02-22. Notable:
 | Character | Roll | Result | Context |
 |---|---|---|---|
 | [[Orphea "Orphie" Levistus\|Orphie]] | Dexterity (yank) | **nat 20 (22)** | Snatched Benji's Dimir pin |
@@ -124,11 +139,13 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 
 > The DM narrated a single collective kill — "you guys managed to take out like 100 Eternals in this one drive-by" — with **no per-character attribution**, so the ~100 kills are shared among the four who dealt damage (Sanis, Ogre, Rin, Varis). Orphie only "hurled insults" and dealt no damage.
 
-*(Combat 2 — the cliffhanger "[[Ogre of Bolas]]" — produced no kills: it begins as the session ends, with saving throws deferred to S16. The five color-trials are skill-challenges, not combat, and the Endurance crushing-ceiling is an environmental hazard, not an enemy killed.)*
+*(Combat 2 — the cliffhanger "[[Ogre of Bolas]]" — produced no kills: it begins as the session ends, with saving throws deferred to S15. The five color-trials are skill-challenges, not combat, and the Endurance crushing-ceiling is an environmental hazard, not an enemy killed.)*
 
-## 7. Quotes & Language
+## Section 7 — Quotes & Language
 
-**Quote Board** (verbatim, in-world):
+### Quote Board
+
+(verbatim, in-world):
 | Speaker | Quote | Tag |
 |---|---|---|
 | Maze ledger-stone | "Hatred is the truest ledger of the soul. Speak what you despise most and learn what still owns you." | Important to Story / Lore |
@@ -139,13 +156,18 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 | [[Orphea "Orphie" Levistus\|Orphie]] | "If you're a cop, you have to tell me if you're Will Smith immediately. It's the law." | Funny |
 | [[Rinestra "Rin" Genleth\|Rin]] | "This is not an IKEA — it should come with instructions." | Banter |
 
-**Profanity Record** (approx.): Rachel/Rin ~6, Taylor/Orphie ~6, Gabe/Sanis ~4, Vince/Varis ~3, Chet/Ogre ~2.
+### Profanity Record
 
-**Alternate names in play:** the **"[[Ogre of Bolas]]"** (the DM's name for the hatred-boss — instantly iconic); "the Wuborg/Woo-burg" (the WUBRG five colors); "Remus"/"Romulus" (Niv-Mizzet's "remiss" pun); "Sis" ([[Pippi]]).
+(approx.): Rachel/Rin ~6, Taylor/Orphie ~6, Gabe/Sanis ~4, Vince/Varis ~3, Chet/Ogre ~2.
 
-## 8. Archivist Notes
+### Alternate Names in Play
 
-**Patterns / Progress / Future Implications.**
+the **"[[Ogre of Bolas]]"** (the DM's name for the hatred-boss — instantly iconic); "the Wuborg/Woo-burg" (the WUBRG five colors); "Remus"/"Romulus" (Niv-Mizzet's "remiss" pun); "Sis" ([[Pippi]]).
+
+## Section 8 — Archivist Notes
+
+### Patterns, Progress & Future Implications
+
 - **The campaign's central quest is paying off live:** the **Guildpact is reforging** and **[[Niv-Mizzet]] is reviving** — both *in progress*, gated by the boss fight and the Leyline corruption.
 - **The Hatred trial** is a deliberate character study (each PC's core wound) — and it has *consequences*: the released hatreds feed the **"[[Ogre of Bolas]]"** boss.
 - **Bolas's Citadel = the Leyline's poison source.** Even a remade Guildpact may not fully heal the Leylines until the Citadel falls — likely the finale's objective.
@@ -153,16 +175,17 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 - **Black Lotus expended** — the "conditional wish" condition was *being strong enough* (level 12). Chekhov's gun fired.
 - **Vitu-Ghazi** still rampaging (unresolved); the front-line war ongoing.
 
-**Continuity Flags / Missing Info / Ambiguities.**
+### Continuity Flags, Missing Info & Ambiguities
+
 - **Raw transcript** (uncorrected). Spellings to confirm vs. dictionary: **[[Niv-Mizzet]]**, **[[Firemind Vessel]]** (the "Hedron"/dragon-spirit box), **[[Implicit Maze]]**, the **"[[Ogre of Bolas]]"**, **[[Pecunia]]**, **[[Vitu-Ghazi]]**, the WUBRG colors. Canonical/transcript forms used; transcript left as-is per "no spell check."
-- **Exhaustion:** [[Orphea "Orphie" Levistus\|Orphie]] & [[Rinestra "Rin" Genleth\|Rin]] enter the boss fight at **2 levels of exhaustion** (DM homebrew: clears on a long rest) — carry this into S16.
-- **Boss saving throws deferred** to S16 (the black-shard burst) — do not resolve here (no contamination).
+- **Exhaustion:** [[Orphea "Orphie" Levistus\|Orphie]] & [[Rinestra "Rin" Genleth\|Rin]] enter the boss fight at **2 levels of exhaustion** (DM homebrew: clears on a long rest) — carry this into S15.
+- **Boss saving throws deferred** to S15 (the black-shard burst) — do not resolve here (no contamination).
 - The exact **mechanism** of the reforge (why the Firemind Vessel + Black Lotus wish + the shreds combine) is largely narrated, not rules-defined — logged as told.
 - **Niv-Mizzet's form** at revival: emerged as a **full dragon** (not the humanoid the party expected) — flagged for the NPC page.
 - Heavy OOC content (a board-game-con recap, real-life chatter, exhaustion-rules talk) **excluded** per house rules. Next sessions: **Mar 8, Mar 22, Apr 5, Apr 19.**
 
 ## Related
 - [[Campaign Dashboard]]
-- [[15 022226 P&P_transcript]]
-- [[PP_14_021326_Hold_the_Wall]]
+- [[14 022226 P&P_transcript]]
+- [[PP_13_021326_Hold_the_Wall]]
 - [[Vault Sync Status]]

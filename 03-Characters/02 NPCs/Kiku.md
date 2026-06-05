@@ -4,7 +4,7 @@ race: Goblin
 class: Unknown
 affiliation: "Krenko Incorporated"
 status: "Alive"
-first_appearance: "PP 11 — You Can't Just Buy the Sun (12/14/25)"
+first_appearance: "PP 10 — You Can't Just Buy the Sun (12/14/25)"
 location: "[[Krenko Incorporated]] HQ, [[Tin Street]] (10th District)"
 aliases: []
 ---
@@ -21,13 +21,13 @@ Krenko Incorporated's front-office bureaucrat — the one who actually delivers 
 
 ## Key Events
 
-### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11 — You Can't Just Buy the Sun]] (12/14/25)
+### [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10 — You Can't Just Buy the Sun]] (12/14/25)
 - Greeted the party (after [[Rekka]] routed them in) from atop her oversized desk; refused to grant a meeting with [[Krenko]] (*"Krenko is a very, very busy man"*).
 - Revealed the **[[Immortal Sun]] will be auctioned tonight** alongside other lots (Temporal Spear, Hell Spear, an Izzet signet, etc.).
 - Clarified [[Krenko]]'s letter was a **parlay request, not a binding contract** — turning back [[Sanis Reylana\|Sanis]]'s argument (Persuasion nat 1).
 - Delivered the session's title line in banter: *"Everyone knows you can't just buy the sun. The sun is too big."*
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+### [[PP_11_011126_The_Masquerade_Auction|PP 11 — The Masquerade Auction]] (01/11/26)
 - **Opened the auction** at [[Krenko Incorporated]]; still **wants the [[Sword of Feast and Famine]] hilt** (which the party has not surrendered).
 
 ## Relationships
@@ -39,5 +39,5 @@ Krenko Incorporated's front-office bureaucrat — the one who actually delivers 
 - [[Krenko Incorporated]]
 - [[Immortal Sun]]
 - [[Sword of Feast and Famine]]
-- [[PP_11_121425_You_Cant_Just_Buy_the_Sun]]
-- [[PP_12_011126_The_Masquerade_Auction]]
+- [[PP_10_121425_You_Cant_Just_Buy_the_Sun]]
+- [[PP_11_011126_The_Masquerade_Auction]]

@@ -4,7 +4,7 @@ race: Halfling
 class: Unknown
 affiliation: "Unaffiliated (street kid from the Blistercoils)"
 status: "Alive (parked at the Selesnyan Conclave)"
-first_appearance: "PP 13 — Fucking Barbarians (01/25/26)"
+first_appearance: "PP 12 — Fucking Barbarians (01/25/26)"
 location: "[[Selesnyan Conclave]] medicine workshop, Ravnica"
 aliases: []
 ---
@@ -21,7 +21,7 @@ A stray-child hook acquired during the burning-auction escape. Janna refuses to 
 
 ## Key Events
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - Crashed the [[Krenko Incorporated]] auction from the **chandelier**, bidding against the party (and the masked pair) on the **shreds of the First [[Guildpact]]**.
 - **Tagged along** through the burning amphitheater and onto dragon-[[Varis Aestra\|Varis]]'s back during the escape, playing tag on his spine.
 - At the [[Selesnyan Conclave]], **refused to go home**; parked in the **medicine workshop** (her "Janna smash!" energy redirected to grinding herbs).
@@ -36,4 +36,4 @@ A stray-child hook acquired during the burning-auction escape. Janna refuses to 
 - [[Lance]]
 - [[Selesnyan Conclave]]
 - [[Krenko Incorporated]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_12_012526_Fucking_Barbarians]]

@@ -64,13 +64,13 @@ Common transcription error: "Eternels."
 - A force of Eternals assaulted the [[Bone Mine]] Myconid colony; **[[Salena|Selena]] slew hundreds of them single-handedly** (bone bow/claws; five pierced on one giant bone arrow). The approach field was carpeted with their corpses.
 - Three **mindless Eternals** were found digging at the collapsed mine entrance (reaped by [[Ogre]]); others lay dead inside without mushrooms growing on them (notably distinct from the mushroom-grown corpses).
 
-### [[PP_14_021326_Hold_the_Wall|PP 14 — Hold the Wall]] (02/13/26)
+### [[PP_13_021326_Hold_the_Wall|PP 13 — Hold the Wall]] (02/13/26)
 - **Horde at full scale.** **Millions of Eternals** poured from **portal-gates at [[Bolas's Citadel]]** against the [[Boros Legion|Boros]]/[[Izzet League|Izzet]] front and the [[Azorius Senate|Azorius]], climbing the walls in **pyramids** (siege formations).
 - Commanded by the **God-Eternals [[God-Eternal Bontu|Bontu]]** & **[[God-Eternal Kefnet|Kefnet]]** (Boros/Izzet front) and **[[God-Eternal Rhonas|Rhonas]]** (Azorius), each hurling teleporting [[god-metal]] spears.
 - Cut down en masse: [[Varis Aestra|Varis]]'s Force Breath (53) blew pyramids off the wall, [[Rinestra "Rin" Genleth|Rin]]'s Wall of Fire incinerated hundreds, Holy Word + [[Orphea "Orphie" Levistus|Orphie]]'s melee held gaps, and [[Ogre]] deflected [[God-Eternal Bontu|Bontu]]'s returning spear into ~25 of them. **[[Nicol Bolas|Bolas]] himself raked a beam across the field, vaporizing thousands of his own Eternals.**
 - The front line was ultimately **held** with the arrival of [[Narset]]'s dragons and [[Kwatli Pakal|Jareth]]'s Ixalan armies.
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - **Pylon guards at the [[The Rot Warren|Rot Warren]].** Twelve Eternals (**2 per pylon**, 6 pylons of Lazotep + Mizzium) guarded the **force-field dome** caging the ancient Rotworms in the Golgari spawning grounds. The party **destroyed all 6 pylons and their Eternals** — [[Teferi]]-polymorphed **T-Rex** [[Orphea "Orphie" Levistus|Orphie]] (bite 43, tail 23), [[Ogre]]'s **nat-20 crit Eldritch Blast** + Shatter, [[Rinestra "Rin" Genleth|Rin]]/[[Varis Aestra|Varis]] Fireballs, [[Sanis Reylana|Sanis]]'s **Lightning Arrow (48)**, and Teferi's Fire Bolt — dropping the dome.
 - **Eternal souls in the Drillinator.** Separately, **extracted Eternal souls** form the core of [[Dalya Bara|Dahlia]]'s **[[The Drillinator|Drillinator]]** (stabilized by [[Ogre]]'s death-magic + [[god-metal]]). Teferi reports **3 Eternal Gods** loose in Ravnica and [[God-Eternal Kefnet|Kefnet]] battling Tarkir dragons overhead; [[Liliana Vess|Liliana]] (Chain Veil) is possibly the hand **animating the Eternals.**
 
@@ -86,7 +86,7 @@ Common transcription error: "Eternels."
 - [[Amonkhet]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
-- [[PP_14_021326_Hold_the_Wall]]
+- [[PP_13_021326_Hold_the_Wall]]
 - [[The Rot Warren]]
 - [[The Drillinator]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_17_040526_Pacts_and_Power]]

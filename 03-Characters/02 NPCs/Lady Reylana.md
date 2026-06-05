@@ -3,7 +3,7 @@ type: npc
 race: Dark Elf (Drow) — presumed (Sanis's mother)
 class: Unknown
 affiliation: "Reylana Family / Golgari Swarm / Nicol Bolas / The Second Sun"
-status: "Dead — killed by [[Sanis Reylana|Sanis]] (PP 10, 11/30/25), with [[Aphonexa]]'s aid"
+status: "Dead — killed by [[Sanis Reylana|Sanis]] (PP 09, 11/30/25), with [[Aphonexa]]'s aid"
 first_appearance: "PP 8 — Blood Runs Thicker Than Water (10/19/25)"
 location: "[[Second Sun Labs]] (Simic underwater facility), Ravnica"
 aliases: ["Lady Reylana", "Sanis's mother"]
@@ -24,7 +24,7 @@ Co-architect (with Lord Reylana) of the Reylana-blooded were-zombie weapon progr
 - Present through the confrontation in which Lord Reylana confessed to murdering [[Salena|Selena]] by design and [[Sanis Reylana|Sanis]] renounced the family.
 - **Combat triggered, initiative rolled — deferred to the next session (cliffhanger).**
 
-### [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10 — What Are You Waiting For, Sanis?]] (11/30/25)
+### [[PP_09_113025_What_Are_You_Waiting_For_Sanis|PP 09 — What Are You Waiting For, Sanis?]] (11/30/25)
 - **Waltzed with [[Lord Reylana|Lord Modest]] on the dais** through the fight as an **invisible/teleporting dual-dagger striker** (poison, crit-machine) who twice nearly killed [[Ogre]] — both lethal crits negated by [[Rinestra "Rin" Genleth|Rin]]'s **Warding Flares**. In the flashback she is shown slipping young Sanis a **piece of chocolate** after his father forced him to kill the servant.
 - Healed her husband to sustain his were-zombie regeneration; aimed a powerful spell at Sanis that **[[Ogre]] Counterspelled** — as it failed she mouthed *"I'm sorry."*
 - Taunted Sanis in turn (*"I always knew you had good aim, son"*).
@@ -35,7 +35,7 @@ Co-architect (with Lord Reylana) of the Reylana-blooded were-zombie weapon progr
 - [[Lord Reylana]] — husband / co-conspirator
 - [[Salena|Selena]] — daughter, weaponized into a were-zombie
 - [[The Second Sun]] / [[Nicol Bolas]] — the program serves Bolas
-- [[Aphonexa]] — the daughter she helped weaponize; intervenes from godhood to help Sanis kill her (PP 10)
+- [[Aphonexa]] — the daughter she helped weaponize; intervenes from godhood to help Sanis kill her (PP 09)
 
 ## Related
 - [[Lord Reylana]]
@@ -44,4 +44,4 @@ Co-architect (with Lord Reylana) of the Reylana-blooded were-zombie weapon progr
 - [[Aphonexa]]
 - [[Second Sun Labs]]
 - [[PP_08_101925_Blood_Runs_Thicker_Than_Water]]
-- [[PP_10_113025_What_Are_You_Waiting_For_Sanis]]
+- [[PP_09_113025_What_Are_You_Waiting_For_Sanis]]

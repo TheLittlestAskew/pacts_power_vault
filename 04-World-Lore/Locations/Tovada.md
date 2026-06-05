@@ -2,7 +2,7 @@
 type: location
 category: Plane / Realm (lost)
 status: "Lost / inaccessible (stuck between reality and the ghostly realm)"
-first_appearance: "PP 12 — The Masquerade Auction (01/11/26)"
+first_appearance: "PP 11 — The Masquerade Auction (01/11/26)"
 location: "Between reality and the ghostly realm (Kaya's home plane)"
 aliases: ["Tavada", "Vada"]
 ---
@@ -19,7 +19,7 @@ Per the dying [[Kaya Cassir|Kaya]], Tovada is caught **between reality and the g
 
 ## Key Events
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+### [[PP_11_011126_The_Masquerade_Auction|PP 11 — The Masquerade Auction]] (01/11/26)
 - Named by the dying **[[Kaya Cassir|Kaya]]** as her home: *"stuck between reality and the ghostly realm; I was the only one who got out."*
 - Revealed as the lever **[[Nicol Bolas|Bolas]]** used to manipulate Kaya — his false promise to **save Tovada** led her to open the Orzhov vaults, dooming the district. An open thread.
 
@@ -27,4 +27,4 @@ Per the dying [[Kaya Cassir|Kaya]], Tovada is caught **between reality and the g
 - [[Kaya Cassir]]
 - [[Nicol Bolas]]
 - [[Orzhov Syndicate]]
-- [[PP_12_011126_The_Masquerade_Auction]]
+- [[PP_11_011126_The_Masquerade_Auction]]

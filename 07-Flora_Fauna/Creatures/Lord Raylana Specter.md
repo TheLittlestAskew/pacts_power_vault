@@ -3,7 +3,7 @@ type: creature
 classification: Specter (bound undead; reaped soul)
 affiliation: "Bound to [[Ogre]] (commanded to protect [[Sanis Reylana|Sanis]])"
 status: "Active — bound guardian Specter"
-first_appearance: "[[PP_10_113025_What_Are_You_Waiting_For_Sanis]] (11/30/25)"
+first_appearance: "[[PP_09_113025_What_Are_You_Waiting_For_Sanis]] (11/30/25)"
 location: "With the party (surfaced from the collapsed [[Second Sun Labs]])"
 aliases: ["Raylana Specter", "Lord Raylana's ghost", "the guardian Specter"]
 ---
@@ -22,12 +22,12 @@ A new bound combat asset for [[Ogre]] (alongside [[Witch]] and the [[Leather Dad
 
 ## Key Events
 
-### [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10 — What Are You Waiting For, Sanis?]] (11/30/25)
+### [[PP_09_113025_What_Are_You_Waiting_For_Sanis|PP 09 — What Are You Waiting For, Sanis?]] (11/30/25)
 - **Created this session.** After [[Ogre]] killed were-zombie [[Lord Reylana]] in the flooding [[Second Sun Labs]], he reaped the soul through the Witch-blade into the [[Leather Daddy Game Boy]] and **expelled it as a bound Specter**, commanding it *"Protect your son from your wife."*
 - The Specter (a younger form of the father) told [[Sanis Reylana|Sanis]] *"I'm sorry"*; Sanis flipped him off.
 - Escaped the collapsing lab alongside [[Ogre]], who rode out on Lord Raylana's corpse.
 
-### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11 — You Can't Just Buy the Sun]] (12/14/25)
+### [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10 — You Can't Just Buy the Sun]] (12/14/25)
 - On [[Sanis Reylana\|Sanis]]'s rooftop watch, the Specter (a "Zaddy"/"ghost dad"/"Inspector form") **attempted conversation** and offered hollow paternal advice from beyond the grave.
 - Revealed he **can see the pact threads** binding Sanis — the **pact to overthrow [[Vraska]]** — and noted the **[[Reylana mansion|Reylana Estate]] now passes to Vraska**, musing on the lineage and angling to "continue the lineage" / see the Vraska pact fulfilled. ([[Ogre]] later flags the **Vraska pact** as undug, important lore.)
 - Has a **~24-hour timer** as a bound asset. At session's end, **left behind** at the [[Selesnyan Conclave|Conclave]] to be peppered with questions by ~25 planeswalkers (comic relief).
@@ -45,4 +45,4 @@ A new bound combat asset for [[Ogre]] (alongside [[Witch]] and the [[Leather Dad
 - [[Sanis Reylana]]
 - [[Leather Daddy Game Boy]]
 - [[Witch]]
-- [[PP_10_113025_What_Are_You_Waiting_For_Sanis]]
+- [[PP_09_113025_What_Are_You_Waiting_For_Sanis]]

@@ -1,7 +1,7 @@
 ---
 type: location
 region: "Underwater [[Simic Combine|Simic]] research facility, Ravnica (tied to the [[Second Sun]])"
-status: "Active — Bolas/Second Sun monstrosity factory; party infiltrating (combat imminent, S08→S10)"
+status: "Active — Bolas/Second Sun monstrosity factory; party infiltrating (combat imminent, S08→S09)"
 first_appearance: "PP 8 — Blood Runs Thicker Than Water (10/19/25)"
 aliases: ["Simic underwater facility", "the Simic labs", "the Second Sun labs"]
 ---

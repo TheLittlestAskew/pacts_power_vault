@@ -3,9 +3,9 @@ type: npc
 race: Human
 class: Planeswalker
 affiliation: "Independent (formerly Obzedat enforcer)"
-status: "Dead (mercy-killed PP 12, 01/11/26; dispersed into the blind eternities — not captured)"
+status: "Dead (mercy-killed PP 11, 01/11/26; dispersed into the blind eternities — not captured)"
 first_appearance: "Pre-Session 01 (referenced in early sessions)"
-location: "Died at the First Church of [[Orzhov Syndicate|Orzhov]] (PP 12); home plane [[Tovada]] (lost)"
+location: "Died at the First Church of [[Orzhov Syndicate|Orzhov]] (PP 11); home plane [[Tovada]] (lost)"
 ---
 
 # Kaya Cassir
@@ -24,10 +24,10 @@ Kaya is a planeswalker with the ability to interact with and destroy ghosts. She
 ## Relationships
 - [[Sanis]] — Was magically tethered to him. Tether severed in Session 01.
 - [[Szadek]] — Killed him. Confirmed by Ghost Mind Glass Staircase.
-- [[Orzhov Syndicate]] — Former Obzedat enforcer; she unsealed its vaults and freed its spirits on Bolas's false promise (PP 12), dooming the district.
+- [[Orzhov Syndicate]] — Former Obzedat enforcer; she unsealed its vaults and freed its spirits on Bolas's false promise (PP 11), dooming the district.
 - [[Tovada]] — Her lost home plane; Bolas's promise to "save" it was the lever he used to manipulate her.
 - [[Nicol Bolas]] — Promised to save [[Tovada]]; betrayed her — his [[Eternals]] consumed the Orzhov she opened.
-- [[Ogre]] — Mercy-killed her (PP 12); her soul dispersed rather than entering his blade.
+- [[Ogre]] — Mercy-killed her (PP 11); her soul dispersed rather than entering his blade.
 
 ## Key Events
 
@@ -40,7 +40,7 @@ Kaya is a planeswalker with the ability to interact with and destroy ghosts. She
 ### [[PP_07_100525_The_Reylana_Infiltration|PP 7 — The Reylana Infiltration]] (10/05/25)
 - Per the [[Liliana Vess|Liliana]]/[[Vraska]] conversation the party overheard at the [[Reylana mansion|Reylana Estate]], Kaya has been **"dealt with" — alive but out of commission / incapacitated** ([[Rin]] Insight 28). Whereabouts and condition otherwise unspecified.
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12 — The Masquerade Auction]] (01/11/26)
+### [[PP_11_011126_The_Masquerade_Auction|PP 11 — The Masquerade Auction]] (01/11/26)
 - Found **dying on the marble steps of the First Church of [[Orzhov Syndicate|Orzhov]]** — half-ghostly, half-physical; her innate plane-shifting biology had been **severed** ([[Rin]], Arcana 24), leaving her at the brink of death.
 - **Confession:** she **"opened everything up"** — freed every Orzhov spirit and **unsealed the vaults** — because **[[Nicol Bolas|Bolas]] promised to save her home, [[Tovada]]**; instead his **[[Eternals]] consumed all the souls and magic**, hollowing the entire district into a void.
 - Named her lost home **[[Tovada]]** ("stuck between reality and the ghostly realm; I was the only one who got out").
@@ -52,10 +52,10 @@ Kaya is a planeswalker with the ability to interact with and destroy ghosts. She
 **KAYA CASSIR** · Session 01
 *"You did my job for me."*
 
-**KAYA CASSIR** · PP 12 (dying)
+**KAYA CASSIR** · PP 11 (dying)
 *"The account closes, the balance transfers, we depart, but the interest remains."*
 
-**KAYA CASSIR** · PP 12
+**KAYA CASSIR** · PP 11
 *"He promised me he could save my home. He promised me."*
 
 ## Related
@@ -66,4 +66,4 @@ Kaya is a planeswalker with the ability to interact with and destroy ghosts. She
 - [[Tovada]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
-- [[PP_12_011126_The_Masquerade_Auction]]
+- [[PP_11_011126_The_Masquerade_Auction]]

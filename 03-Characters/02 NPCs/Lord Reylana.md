@@ -3,7 +3,7 @@ type: npc
 race: Dark Elf (Drow) — presumed (Sanis's father)
 class: Unknown
 affiliation: "Reylana Family / Golgari Swarm / Nicol Bolas / The Second Sun"
-status: "Dead — killed by [[Ogre]] (PP 10, 11/30/25); soul reaped into a bound Specter"
+status: "Dead — killed by [[Ogre]] (PP 09, 11/30/25); soul reaped into a bound Specter"
 first_appearance: "Referenced in earlier sessions; on-screen PP 8 — Blood Runs Thicker Than Water (10/19/25)"
 location: "[[Second Sun Labs]] (Simic underwater facility); also the [[Reylana mansion|Reylana Estate]], Wayport"
 aliases: ["Lord Reylana", "Sanis's father", "the old man"]
@@ -29,7 +29,7 @@ A major antagonist and the personal architect of Sanis's core wound. He credits 
 - Offered [[Sanis Reylana|Sanis]] one last chance to **join the family**; when Sanis refused (*"I'm gonna stick with my actual family"*), sneered *"Blood runs thicker than water."* Threatened to raise Sanis's corpse into service; Sanis: *"Idiot, I'm already dead."*
 - **Combat triggered, initiative rolled — deferred to the next session (cliffhanger).**
 
-### [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10 — What Are You Waiting For, Sanis?]] (11/30/25)
+### [[PP_09_113025_What_Are_You_Waiting_For_Sanis|PP 09 — What Are You Waiting For, Sanis?]] (11/30/25)
 - **Triggered [[Sanis Reylana|Sanis]]'s buried memory** with an opening green-purple beam (Sanis Con save nat 20 — shrugged off the ray, but it surfaced the flashback). The flashback: a **five-year-old Sanis** handed a too-large bow and ordered by Lord Raylana to **execute a blindfolded, hooded captive** — revealed to be a **beloved family servant** (the man who cooked for and fed young Sanis), coerced by [[House Dimir|Dimir]] into leaking Reylana secrets. Sanis loosed two arrows (7, 7) and killed him; Lord Raylana **disintegrated the body** with the same green-purple energy and praised him: *"good job… you did what was needed for the family."* The origin of Sanis's core trauma.
 - In the flooding lab, **waltzed with [[Lady Reylana|Lady Hyena]] on the dais** to classical music, channeling black-and-green necrotic energy (a Briarwood-esque pair). Taunted Sanis (*"I always knew you were a failure"*) and pressed *"blood runs thicker than water,"* *"this is what true pain feels like."*
 - **Paralyzed** both Sanis and [[Ogre]] (failed Wis saves); hammered Sanis to **4/94**. His paralysis concentration was **broken** by [[Varis Aestra|Varis]]'s 7-missile Magic Missile (28 force, Silvery-Barbs-forced failed save).
@@ -46,13 +46,13 @@ A major antagonist and the personal architect of Sanis's core wound. He credits 
 > **PP 8 (10/19/25)**
 > "That was part of the plan, you imbecile… I killed Selena."
 
-> **PP 10 (11/30/25) — flashback**
+> **PP 09 (11/30/25) — flashback**
 > "What are you waiting for, Sanis? Kill him. Do it."
 
-> **PP 10 (11/30/25)**
+> **PP 09 (11/30/25)**
 > "Where do you think we got this power?"
 
-> **PP 10 (11/30/25)**
+> **PP 09 (11/30/25)**
 > "This is what true pain feels like."
 
 ## Relationships
@@ -62,8 +62,8 @@ A major antagonist and the personal architect of Sanis's core wound. He credits 
 - [[Nicol Bolas]] / [[The Second Sun]] — the were-zombie weapon serves Bolas
 - [[Prime Speaker Megandar]] / [[Simic Combine]] — co-operates the lab
 - [[Golgari Swarm]] — the family's power base
-- [[Ogre]] — his killer; now binds his soul as a guardian **Specter** (PP 10)
-- [[Aphonexa|Selena]] — the daughter he murdered; she reaches down from godhood to help kill her mother (PP 10)
+- [[Ogre]] — his killer; now binds his soul as a guardian **Specter** (PP 09)
+- [[Aphonexa|Selena]] — the daughter he murdered; she reaches down from godhood to help kill her mother (PP 09)
 
 ## Related
 - [[Lady Reylana]]
@@ -74,4 +74,4 @@ A major antagonist and the personal architect of Sanis's core wound. He credits 
 - [[The Second Sun]]
 - [[Leather Daddy Game Boy]]
 - [[PP_08_101925_Blood_Runs_Thicker_Than_Water]]
-- [[PP_10_113025_What_Are_You_Waiting_For_Sanis]]
+- [[PP_09_113025_What_Are_You_Waiting_For_Sanis]]

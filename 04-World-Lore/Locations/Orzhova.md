@@ -2,7 +2,7 @@
 type: location
 region: "Orzhov district, Tenth District, Ravnica"
 status: "The Orzhov cathedral-seat; the district is a war-front / void (see First Church of Orzhov)"
-first_appearance: "Referenced as the Orzhov cathedral; on-page front-line defense PP 15 (02/22/26)"
+first_appearance: "Referenced as the Orzhov cathedral; on-page front-line defense PP 14 (02/22/26)"
 aliases: ["Orzhova", "the Orzhov cathedral"]
 ---
 
@@ -14,7 +14,7 @@ The towering cathedral-seat of the **[[Orzhov Syndicate]]** in the Orzhov distri
 
 ## Key Events
 
-### [[PP_15_022226_Reforging_the_Guildpact|PP 15 — Reforging the Guildpact]] (02/22/26)
+### [[PP_14_022226_Reforging_the_Guildpact|PP 14 — Reforging the Guildpact]] (02/22/26)
 - **Front-line defense.** The party flew to the Orzhov district and did a **dragon-back drive-by killing ~100 [[Eternals]]** to buy **[[Lord Aestra]]**'s ragtag defense time, then used the **[[First Church of Orzhov]]** basement portal (recalibrated by [[Pippi|Sis]] from [[Pecunia]] to the [[Implicit Maze]]) to descend toward the Guildpact-reforging endgame.
 
 ## Related
@@ -24,4 +24,4 @@ The towering cathedral-seat of the **[[Orzhov Syndicate]]** in the Orzhov distri
 - [[Implicit Maze]]
 - [[Pecunia]]
 - [[Eternals]]
-- [[PP_15_022226_Reforging_the_Guildpact]]
+- [[PP_14_022226_Reforging_the_Guildpact]]

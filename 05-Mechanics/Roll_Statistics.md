@@ -16,15 +16,15 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | Transcript 06 (09/17/25) | 8 | ~5 ([[Rin]] Arcana/History ×4; [[Chandra Nalaar\|Chandra]] grapple) | [[Sanis Reylana\|Sanis]] (4) |
 | Transcript 07 (10/05/25) | 22 | ~12 ([[Rin]] **entirely off-DDB**; [[Ogre]] dream attacks + Dispel narrated) | [[Orphea "Orphie" Levistus\|Orphie]] |
 | Transcript 08 (10/19/25) | 34 | ~8 ([[Rin]] & [[Sanis Reylana\|Sanis]] **both entirely off-DDB**) | [[Orphea "Orphie" Levistus\|Orphie]] |
-| Transcript 09 / [[PP_10_113025_What_Are_You_Waiting_For_Sanis\|PP 10]] (11/30/25) | ~140 | ~20 ([[Rin]] **entirely off-DDB**; most [[Sanis Reylana\|Sanis]] bow attacks transcript-only) | [[Orphea "Orphie" Levistus\|Orphie]] / [[Ogre]] / [[Varis Aestra\|Varis]] |
-| [[PP_11_121425_You_Cant_Just_Buy_the_Sun\|PP 11]] / Transcript 10 (12/14/25) | 16 | light (social checks only — no combat) | — (social session) |
-| [[PP_12_011126_The_Masquerade_Auction\|PP 12]] / Transcript 11 (01/11/26) | 28 | moderate ([[Rinestra "Rin" Genleth\|Rin]] **entirely off-DDB**) | [[Ogre]] / [[Varis Aestra\|Varis]] / [[Orphea "Orphie" Levistus\|Orphie]] |
-| [[PP_13_012526_Fucking_Barbarians\|PP 13]] / Transcript 12 (01/25/26) | ~90 | light (**all 5 PCs on DDB this session**, incl. [[Rinestra "Rin" Genleth\|Rin]] — unusual) | full combat (all five) |
-| [[PP_14_021326_Hold_the_Wall\|PP 14]] / Transcript 13 (02/13/26) | 27 | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Sanis Reylana\|Sanis]] **largely off-DDB** — their Arcana/Faerie Fire/Wall of Fire/Holy Word/spear-deflect transcript-only) | [[Ogre]] (rest-heavy: Healing Words + hit dice) |
-| [[PP_15_022226_Reforging_the_Guildpact\|PP 15]] / Transcript 14 (02/22/26) | ~34 | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Sanis Reylana\|Sanis]] Arcana/Perception transcript-only) | skill-challenge trials (Dex checks; Con saves vs exhaustion) |
-| [[PP_16_031326_A_Scared_Child\|PP 16]] / Transcript 15 (03/13/26) | **0 (Roll20 — no DDB data)** | **all (entire session transcript-only)** | boss fight (Roll20 — rolls don't sync to DDB) |
-| [[PP_17_040226_The_Guildpact_Reborn\|PP 17]] / Transcript 16 (04/02/26) | **50** | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Varis Aestra\|Varis]] **on Roll20** — transcript-only) | [[Orphea "Orphie" Levistus\|Orphie]] / [[Ogre]] / [[Sanis Reylana\|Sanis]] (the three on DDB) |
-| [[PP_18_040526_Pacts_and_Power\|PP 18]] (04/05/26) | **60** | light (**all 5 PCs on DDB this session** — Orphie, Ogre, Sanis, Varis, Rin; [[Teferi]] guest rolled off-DDB) | full party (all five) |
+| Transcript 09 / [[PP_09_113025_What_Are_You_Waiting_For_Sanis\|PP 09]] (11/30/25) | ~140 | ~20 ([[Rin]] **entirely off-DDB**; most [[Sanis Reylana\|Sanis]] bow attacks transcript-only) | [[Orphea "Orphie" Levistus\|Orphie]] / [[Ogre]] / [[Varis Aestra\|Varis]] |
+| [[PP_10_121425_You_Cant_Just_Buy_the_Sun\|PP 10]] / Transcript 10 (12/14/25) | 16 | light (social checks only — no combat) | — (social session) |
+| [[PP_11_011126_The_Masquerade_Auction\|PP 11]] / Transcript 11 (01/11/26) | 28 | moderate ([[Rinestra "Rin" Genleth\|Rin]] **entirely off-DDB**) | [[Ogre]] / [[Varis Aestra\|Varis]] / [[Orphea "Orphie" Levistus\|Orphie]] |
+| [[PP_12_012526_Fucking_Barbarians\|PP 12]] / Transcript 12 (01/25/26) | ~90 | light (**all 5 PCs on DDB this session**, incl. [[Rinestra "Rin" Genleth\|Rin]] — unusual) | full combat (all five) |
+| [[PP_13_021326_Hold_the_Wall\|PP 13]] / Transcript 13 (02/13/26) | 27 | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Sanis Reylana\|Sanis]] **largely off-DDB** — their Arcana/Faerie Fire/Wall of Fire/Holy Word/spear-deflect transcript-only) | [[Ogre]] (rest-heavy: Healing Words + hit dice) |
+| [[PP_14_022226_Reforging_the_Guildpact\|PP 14]] / Transcript 14 (02/22/26) | ~34 | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Sanis Reylana\|Sanis]] Arcana/Perception transcript-only) | skill-challenge trials (Dex checks; Con saves vs exhaustion) |
+| [[PP_15_031326_A_Scared_Child\|PP 15]] / Transcript 15 (03/13/26) | **0 (Roll20 — no DDB data)** | **all (entire session transcript-only)** | boss fight (Roll20 — rolls don't sync to DDB) |
+| [[PP_16_040226_The_Guildpact_Reborn\|PP 16]] / Transcript 16 (04/02/26) | **50** | moderate ([[Rinestra "Rin" Genleth\|Rin]] & [[Varis Aestra\|Varis]] **on Roll20** — transcript-only) | [[Orphea "Orphie" Levistus\|Orphie]] / [[Ogre]] / [[Sanis Reylana\|Sanis]] (the three on DDB) |
+| [[PP_17_040526_Pacts_and_Power\|PP 17]] (04/05/26) | **60** | light (**all 5 PCs on DDB this session** — Orphie, Ogre, Sanis, Varis, Rin; [[Teferi]] guest rolled off-DDB) | full party (all five) |
 
 ## Per-Character DDB Rolls
 
@@ -166,7 +166,7 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 
 > **Roll note (T08):** 34 DDB rolls on 2025-10-19 ([[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Varis Aestra\|Varis]] logged). **[[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] rolled entirely off-DDB** — their rolls are transcript-only. Cliffhanger initiative (combat held to next session): [[Varis Aestra\|Varis]] 12, [[Ogre]] 10, [[Orphea "Orphie" Levistus\|Orphie]] 3 (double nat-1); Rin & Sanis not recorded (off-DDB). Party level this session: **10**.
 
-## Notable Rolls — Transcript 09 / PP 10 (11/30/25)
+## Notable Rolls — Transcript 09 / PP 09 (11/30/25)
 
 | Character | Roll | Result | Note |
 |---|---|---|---|
@@ -188,9 +188,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Mass Cure Wounds / Channel Divinity | 32 / 24 | Kept the party alive |
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Warding Flare ×2 | — | Saved [[Ogre]] from two lethal Lady Raylana crits |
 
-> **Roll note (PP 10):** ~140 DDB rolls on 2025-11-30 ([[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Varis Aestra\|Varis]] + one [[Sanis Reylana\|Sanis]] potion roll). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB**; most of [[Sanis Reylana\|Sanis]]'s bow attacks are transcript-only too. Roll-to-beat mapping is approximate given the volume; per-character damage totals not itemized exhaustively. Initiative order (carried from S08): Rin → Lord Raylana → Varis → Ogre → Lady Raylana → Sanis → Vuthala (added) → Orphie. Party level this session: **10**.
+> **Roll note (PP 09):** ~140 DDB rolls on 2025-11-30 ([[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Varis Aestra\|Varis]] + one [[Sanis Reylana\|Sanis]] potion roll). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB**; most of [[Sanis Reylana\|Sanis]]'s bow attacks are transcript-only too. Roll-to-beat mapping is approximate given the volume; per-character damage totals not itemized exhaustively. Initiative order (carried from S08): Rin → Lord Raylana → Varis → Ogre → Lady Raylana → Sanis → Vuthala (added) → Orphie. Party level this session: **10**.
 
-## Notable Rolls — [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11]] / Transcript 10 (12/14/25)
+## Notable Rolls — [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10]] / Transcript 10 (12/14/25)
 
 | Character | Roll | Result | Note |
 |---|---|---|---|
@@ -203,9 +203,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Ogre]] | Constitution save | 20 / 25 | "Ripping the fattest cloud" ([[Saskia]]/[[Myra]]'s joint) — no cough |
 | [[Varis Aestra\|Varis]] | custom d20 | nat 1 | Asking his father's ghost about the inheritance |
 
-> **Roll note (PP 11):** 16 DDB rolls on 2025-12-14 — a **social/logistics session with no combat.** [[Rinestra "Rin" Genleth\|Rin]] made **no rolls** (asleep/sick, in-fiction). Party level this session: **10**.
+> **Roll note (PP 10):** 16 DDB rolls on 2025-12-14 — a **social/logistics session with no combat.** [[Rinestra "Rin" Genleth\|Rin]] made **no rolls** (asleep/sick, in-fiction). Party level this session: **10**.
 
-## Notable Rolls — [[PP_12_011126_The_Masquerade_Auction|PP 12]] / Transcript 11 (01/11/26)
+## Notable Rolls — [[PP_11_011126_The_Masquerade_Auction|PP 11]] / Transcript 11 (01/11/26)
 
 | Character | Roll | Result | Note |
 |---|---|---|---|
@@ -221,14 +221,14 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Medicine (+guidance) | 30 | Caught the **sleep-spiked drink** sent to [[Sanis Reylana\|Sanis]] |
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Arcana / Insight | 24 / 28 | [[Kaya Cassir\|Kaya]]'s severed plane-link; IDing [[Isiah Ja-Faank\|Isaiah]] / [[Kwatli Pakal]] |
 
-> **Roll note (PP 12):** 28 DDB rolls on 2026-01-11 ([[Ogre]], [[Varis Aestra\|Varis]], [[Orphea "Orphie" Levistus\|Orphie]]). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB** — her key checks (Arcana 24, Medicine 30, Insight 28, the bidding interference) are all transcript-only. [[Sanis Reylana\|Sanis]] also largely off-DDB. No initiative/combat (the heist combat sets up for next session). Party level this session: **10** (→ 11 at the S13 milestone).
+> **Roll note (PP 11):** 28 DDB rolls on 2026-01-11 ([[Ogre]], [[Varis Aestra\|Varis]], [[Orphea "Orphie" Levistus\|Orphie]]). **[[Rinestra "Rin" Genleth\|Rin]] rolled entirely off-DDB** — her key checks (Arcana 24, Medicine 30, Insight 28, the bidding interference) are all transcript-only. [[Sanis Reylana\|Sanis]] also largely off-DDB. No initiative/combat (the heist combat sets up for next session). Party level this session: **10** (→ 11 at the S12 milestone).
 
-## Notable Rolls — [[PP_13_012526_Fucking_Barbarians|PP 13]] / Transcript 12 (01/25/26)
+## Notable Rolls — [[PP_12_012526_Fucking_Barbarians|PP 12]] / Transcript 12 (01/25/26)
 
 | Character | Roll | Result | Note |
 |---|---|---|---|
 | [[Orphea "Orphie" Levistus\|Orphie]] | Blazebringer to-hit (blind) | **nat 20 (30)** → 26 dmg (+51 total that turn) | Blind crit on [[Vraska]] |
-| [[Orphea "Orphie" Levistus\|Orphie]] | Athletics (adv) | 25 / 27 | Grappling Sanis (the head); catching the handbag (S12 carryover) |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Athletics (adv) | 25 / 27 | Grappling Sanis (the head); catching the handbag (S11 carryover) |
 | [[Orphea "Orphie" Levistus\|Orphie]] | Dex save (adv) | 19 | Survived Vraska's void-energy AoE (78 force) |
 | [[Varis Aestra\|Varis]] | Scorching Ray to-hit | **nat 20 ×2 (29)** | Crits on Vraska (43 dmg) |
 | [[Varis Aestra\|Varis]] | Force Breath (18d6) | 64 / 44 | On Vraska / [[Krenko]]'s blimp |
@@ -244,9 +244,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Ogre]] | Dex save | 6 / 8 — fail | The Sun's electric cage (16 lightning) |
 | Party | Arcana (planeswalk sense) | Rin **26**, Varis 19 | The Sun off-plane; the shackles released |
 
-> **Roll note (PP 13):** ~90 DDB rolls on 2026-01-25 — a **full combat session** with **all five PCs logged on DDB** (including [[Rinestra "Rin" Genleth\|Rin]], unusually). Initiative: [[Orphea "Orphie" Levistus\|Orphie]] 20 (adv) → [[Sanis Reylana\|Sanis]] 18 → [[Ogre]] 15 → [[Rinestra "Rin" Genleth\|Rin]] 13 → [[Varis Aestra\|Varis]] 10 (Vraska acted high). Party **leveled 10 → 11** (milestone) at session's end.
+> **Roll note (PP 12):** ~90 DDB rolls on 2026-01-25 — a **full combat session** with **all five PCs logged on DDB** (including [[Rinestra "Rin" Genleth\|Rin]], unusually). Initiative: [[Orphea "Orphie" Levistus\|Orphie]] 20 (adv) → [[Sanis Reylana\|Sanis]] 18 → [[Ogre]] 15 → [[Rinestra "Rin" Genleth\|Rin]] 13 → [[Varis Aestra\|Varis]] 10 (Vraska acted high). Party **leveled 10 → 11** (milestone) at session's end.
 
-## Notable Rolls — [[PP_14_021326_Hold_the_Wall|PP 14]] / Transcript 13 (02/13/26)
+## Notable Rolls — [[PP_13_021326_Hold_the_Wall|PP 13]] / Transcript 13 (02/13/26)
 
 | Character | Roll | Result | Note |
 |---|---|---|---|
@@ -262,9 +262,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Ogre]] | Healing Word (8d4+2) ×several | 20–28 | Short-rest party heals |
 | [[Ogre]] | Strength save | 19 | (Battlefield) |
 
-> **Roll note (PP 14):** 27 DDB rolls on 2026-02-13 — heavy on **rest** rolls (Ogre's Healing Words ×several; hit dice for Ogre/Orphie) plus a **narrated-montage skirmish** (no tracked initiative). **[[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] largely off-DDB** (Rin's Arcana 28/29, Religion, Wall of Fire, Holy Word; Sanis's Faerie Fire, spear-deflect, Lightning Arrow — all transcript-only). Party stays **level 11.**
+> **Roll note (PP 13):** 27 DDB rolls on 2026-02-13 — heavy on **rest** rolls (Ogre's Healing Words ×several; hit dice for Ogre/Orphie) plus a **narrated-montage skirmish** (no tracked initiative). **[[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] largely off-DDB** (Rin's Arcana 28/29, Religion, Wall of Fire, Holy Word; Sanis's Faerie Fire, spear-deflect, Lightning Arrow — all transcript-only). Party stays **level 11.**
 
-## Notable Rolls — [[PP_15_022226_Reforging_the_Guildpact|PP 15]] / Transcript 14 (02/22/26)
+## Notable Rolls — [[PP_14_022226_Reforging_the_Guildpact|PP 14]] / Transcript 14 (02/22/26)
 
 | Character | Roll | Result | Note |
 |---|---|---|---|
@@ -277,9 +277,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Ogre]] | Insight (self, disadv) | 11 | Vaguely recalling the original Guildpact forging |
 | [[Rinestra "Rin" Genleth\|Rin]] | passive Perception 18 → Arcana 15 | — | Sensing the black-Leyline miasma & the approaching [[Augur of Bolas\|boss]] |
 
-> **Roll note (PP 15):** ~34 DDB rolls on 2026-02-22. The five color-trials are **skill-challenges** (Dex checks for Haste; word/riddle puzzles for Order/Wits; **Con saves vs exhaustion** for Endurance), not initiative combat. The **boss's initiative/saves carry to S16** (deferred — not resolved). **[[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] rolled largely off-DDB** (their Arcana/Perception transcript-only). Party stays **level 11.**
+> **Roll note (PP 14):** ~34 DDB rolls on 2026-02-22. The five color-trials are **skill-challenges** (Dex checks for Haste; word/riddle puzzles for Order/Wits; **Con saves vs exhaustion** for Endurance), not initiative combat. The **boss's initiative/saves carry to S15** (deferred — not resolved). **[[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] rolled largely off-DDB** (their Arcana/Perception transcript-only). Party stays **level 11.**
 
-## Notable Rolls — [[PP_16_031326_A_Scared_Child|PP 16]] / Transcript 15 (03/13/26)
+## Notable Rolls — [[PP_15_031326_A_Scared_Child|PP 15]] / Transcript 15 (03/13/26)
 
 > ⚠️ **No DDB rolls exist for 2026-03-13** — this session was **played on Roll20**, whose rolls **never flow into the D&D Beyond game log**. This is a **permanent platform gap, NOT a sync failure** (re-verified 2026-06-01 after the DDB sync rebuild — the archive holds rolls for every other session 06–19, but genuinely nothing for this date). The rolls below are **reconstructed from the transcript only** and are approximate.
 
@@ -292,9 +292,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Orphea "Orphie" Levistus\|Orphie]] | [[Athena]] prayer (d4) | **1 — "no help comes"** | Her flashback low point |
 | [[Orphea "Orphie" Levistus\|Orphie]] | Dex saves | repeated fails | Dragged into the mist (**−22 max HP**) |
 
-> **Roll note (PP 16):** **0 DDB rolls** (Roll20 session — permanent gap). Initiative (transcript): [[Sanis Reylana\|Sanis]] → [[Orphea "Orphie" Levistus\|Orphie]] (17) → [[Augur of Bolas\|Augur]] → [[Rinestra "Rin" Genleth\|Rin]] (17) → [[Ogre]] → [[Varis Aestra\|Varis]] (13) (Ogre largely occupied reviving Niv). Boss **unresolved** at the cut. Party stays **level 11.**
+> **Roll note (PP 15):** **0 DDB rolls** (Roll20 session — permanent gap). Initiative (transcript): [[Sanis Reylana\|Sanis]] → [[Orphea "Orphie" Levistus\|Orphie]] (17) → [[Augur of Bolas\|Augur]] → [[Rinestra "Rin" Genleth\|Rin]] (17) → [[Ogre]] → [[Varis Aestra\|Varis]] (13) (Ogre largely occupied reviving Niv). Boss **unresolved** at the cut. Party stays **level 11.**
 
-## Notable Rolls — [[PP_17_040226_The_Guildpact_Reborn|PP 17]] / Transcript 16 (04/02/26)
+## Notable Rolls — [[PP_16_040226_The_Guildpact_Reborn|PP 16]] / Transcript 16 (04/02/26)
 
 > **50 DDB rolls** logged for 2026-04-02, covering **[[Ogre]], [[Orphea "Orphie" Levistus\|Orphie]], [[Sanis Reylana\|Sanis]]** (DDB sync working). **[[Rinestra "Rin" Genleth\|Rin]] & [[Varis Aestra\|Varis]] rolled on Roll20** (transcript-only) — a **per-player platform split**, not a sync failure.
 
@@ -316,9 +316,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Rinestra "Rin" Genleth\|Rin]] | Bardic Inspiration (Leyline) — *transcript* | survives at 2 exhaustion | Grabs the Leyline and holds (DC 15) |
 | [[Varis Aestra\|Varis]] | Scorching Ray / Fireball — *transcript* | 13 + 10 + 9 + **20 fire** | 4 of 5 rays **absorbed**; the fifth lands |
 
-> **Roll note (PP 17):** **50 DDB rolls** on 2026-04-02 (Ogre/Orphie/Sanis); Rin & Varis on **Roll20** (transcript-only). Initiative (carried from S16): [[Sanis Reylana\|Sanis]] → [[Orphea "Orphie" Levistus\|Orphie]] → [[Augur of Bolas\|Augur]] → [[Rinestra "Rin" Genleth\|Rin]] → [[Ogre]] → [[Varis Aestra\|Varis]] → [[Niv-Mizzet]] (end of order). Party **LEVELS TO 12** (end of session — S18 onward is level 12).
+> **Roll note (PP 16):** **50 DDB rolls** on 2026-04-02 (Ogre/Orphie/Sanis); Rin & Varis on **Roll20** (transcript-only). Initiative (carried from S15): [[Sanis Reylana\|Sanis]] → [[Orphea "Orphie" Levistus\|Orphie]] → [[Augur of Bolas\|Augur]] → [[Rinestra "Rin" Genleth\|Rin]] → [[Ogre]] → [[Varis Aestra\|Varis]] → [[Niv-Mizzet]] (end of order). Party **LEVELS TO 12** (end of session — S17 onward is level 12).
 
-## Notable Rolls — [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26)
+## Notable Rolls — [[PP_17_040526_Pacts_and_Power|PP 17]] (04/05/26)
 
 > **60 DDB rolls** logged for 2026-04-05, covering **all five PCs** (Orphie, Ogre, Sanis, Varis, Rin) — DDB sync working for everyone this session. **[[Teferi]] (guest) rolled off-DDB** (transcript-only).
 
@@ -337,9 +337,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Rinestra "Rin" Genleth\|Rin]] | Raise Dead via gauntlet — *transcript* | fail → **success** (2nd try, loaned slot) | Revives the slain [[Myconids\|myconid]] (Cloudkill misfire first) |
 | [[Teferi]] | Fire Bolt (3d10) — *transcript* | **22** | Shatters the final pylon |
 
-> **Roll note (PP 18):** **60 DDB rolls** on 2026-04-05 — **all five PCs on DDB** (an unusual full-party sync, like PP 13). [[Teferi]] (guest player **Dan**) rolled **off-DDB** (transcript-only). Party plays at **level 12** (leveled at the end of S17). No PC downed in the Rot Warren assault.
+> **Roll note (PP 17):** **60 DDB rolls** on 2026-04-05 — **all five PCs on DDB** (an unusual full-party sync, like PP 12). [[Teferi]] (guest player **Dan**) rolled **off-DDB** (transcript-only). Party plays at **level 12** (leveled at the end of S16). No PC downed in the Rot Warren assault.
 
-## Notable Rolls — [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26)
+## Notable Rolls — [[PP_18_041926_Hi_Im_Ogre|PP 18]] (04/19/26)
 
 > **78 DDB rolls** logged for 2026-04-19, covering **[[Ogre]], [[Orphea "Orphie" Levistus\|Orphie]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]]**. **[[Rinestra "Rin" Genleth\|Rin]] rolled physically/off-DDB** (her Divine Intervention d100s — all failed) — NOT a sync gap.
 
@@ -357,13 +357,13 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Ogre]] | Healing Word (8d4+2) | 20 | Free heal during the long-walk "short rest" |
 | [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) — *off-DDB* | 90 / 75 / 45 / 75 (all fail) | [[Dol Arrah]] never answers (the session's running gag) |
 
-> **Roll note (PP 19):** **78 DDB rolls** on 2026-04-19 — Ogre/Orphie/Sanis/Varis on DDB; **Rin rolled physical/off-DDB** (Divine Intervention d100s, all failed) — a per-player platform split, NOT a sync failure. Party plays at **level 12.** Session ends mid-assault (no PC death; [[Ogre]] "dies"/revives via his apotheosis).
+> **Roll note (PP 18):** **78 DDB rolls** on 2026-04-19 — Ogre/Orphie/Sanis/Varis on DDB; **Rin rolled physical/off-DDB** (Divine Intervention d100s, all failed) — a per-player platform split, NOT a sync failure. Party plays at **level 12.** Session ends mid-assault (no PC death; [[Ogre]] "dies"/revives via his apotheosis).
 
-## Notable Rolls — [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26)
+## Notable Rolls — [[PP_19_051426_I_Just_Need_Your_Soul|PP 19]] (05/14/26)
 
-> **Played on Roll20 + D&D Beyond — rolls synced** (NOT a Roll20-only gap like S16). **65 DDB rolls** logged for 2026-05-14, covering **[[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]]**. **[[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB.**
+> **Played on Roll20 + D&D Beyond — rolls synced** (NOT a Roll20-only gap like S15). **65 DDB rolls** logged for 2026-05-14, covering **[[Orphea "Orphie" Levistus\|Orphie]], [[Ogre]], [[Sanis Reylana\|Sanis]], [[Varis Aestra\|Varis]]**. **[[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB.**
 >
-> ⚠ **AUDIO GAP — [[Orphea "Orphie" Levistus\|Orphie]]/Taylor's mic was NOT recorded.** Orphie has **no dialogue in the transcript**; her actions are **reconstructed from her 11 DDB rolls + the DM's narration** (roll clock-times cross-checked to the transcript: initiative 20:47 = transcript 00:10; her Blazebringer hits 21:26–21:28 = ~00:47–00:50). Treat Orphie's PP 20 content as reconstructed; if the audio is recovered, revisit.
+> ⚠ **AUDIO GAP — [[Orphea "Orphie" Levistus\|Orphie]]/Taylor's mic was NOT recorded.** Orphie has **no dialogue in the transcript**; her actions are **reconstructed from her 11 DDB rolls + the DM's narration** (roll clock-times cross-checked to the transcript: initiative 20:47 = transcript 00:10; her Blazebringer hits 21:26–21:28 = ~00:47–00:50). Treat Orphie's PP 19 content as reconstructed; if the audio is recovered, revisit.
 
 | Character | Roll | Result | Note |
 |---|---|---|---|
@@ -379,9 +379,9 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Orphea "Orphie" Levistus\|Orphie]] | Perception (d20 18, +Perc ≈ 22) | **~22** | Confirms the God-Eternals froze when Liliana broke free *(reconstructed)* |
 | [[Rinestra "Rin" Genleth\|Rin]] | Arcana — *off-DDB* | **nat 20 (30)** | Decodes the Chain Veil (cursed-book lore) |
 
-> **Roll note (PP 20):** **65 DDB rolls** on 2026-05-14 — **Orphie/Ogre/Sanis/Varis on DDB**; **Rin off-DDB.** ⚠ **Orphie's audio was unrecorded** — her 11 DDB rolls + DM narration are the only record of her actions this session (her biggest contribution was actually **OOC/narrative**: drafting the rewritten Liliana contract). Party plays at **level 12.** Session ends mid-encounter (no PC down; Molly bloodied then healed).
+> **Roll note (PP 19):** **65 DDB rolls** on 2026-05-14 — **Orphie/Ogre/Sanis/Varis on DDB**; **Rin off-DDB.** ⚠ **Orphie's audio was unrecorded** — her 11 DDB rolls + DM narration are the only record of her actions this session (her biggest contribution was actually **OOC/narrative**: drafting the rewritten Liliana contract). Party plays at **level 12.** Session ends mid-encounter (no PC down; Molly bloodied then healed).
 
-## Notable Rolls — [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) 🏁 (CAMPAIGN FINALE)
+## Notable Rolls — [[PP_20_053126_I_Miss_You_Buddy|PP 20]] (05/31/26) 🏁 (CAMPAIGN FINALE)
 
 > **105 DDB rolls** logged on 2026-05-31 — covering **all five PCs** (Orphie, Ogre, Sanis, Varis, **and [[Rinestra "Rin" Genleth\|Rin]]**, whose epilogue Divine-Intervention attempts landed on DDB this time — the rare full-party DDB session). Party plays at **level 12.** **No PC died** ([[Ogre]] "died"/returned via apotheosis carry; [[Varis Aestra\|Varis]] downed and revived).
 
@@ -398,7 +398,7 @@ Running, campaign-wide roll tracker built from the D&D Beyond roll archive (Supa
 | [[Sanis Reylana\|Sanis]] | Hail of Thorns + Ava's Longbow | hit, solar plexus | ⭐ **Breaks Bolas's spark-tether (decisive)** |
 | [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) | 97 / 67 / 53 / 63… **then 2** | Fails all fight; "answers" only at the party (the 2) |
 
-> **Roll note (PP 21):** **105 DDB rolls** on 2026-05-31 — **all five PCs on DDB** (Rin's epilogue Divine-Intervention rolls landed on DDB this finale). Party plays at **level 12.** **No PC died** (Ogre "died"/returned; Varis downed and revived). 🏁 **Final canonical session of Pacts & Power.**
+> **Roll note (PP 20):** **105 DDB rolls** on 2026-05-31 — **all five PCs on DDB** (Rin's epilogue Divine-Intervention rolls landed on DDB this finale). Party plays at **level 12.** **No PC died** (Ogre "died"/returned; Varis downed and revived). 🏁 **Final canonical session of Pacts & Power.**
 
 ## Related
 - [[Campaign Dashboard]]

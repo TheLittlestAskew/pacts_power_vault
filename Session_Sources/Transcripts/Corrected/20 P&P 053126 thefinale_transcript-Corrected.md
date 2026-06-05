@@ -1,11 +1,11 @@
 ---
-source: 21 P&P 053126 thefinale_transcript.md (Raw)
+source: 20 P&P 053126 thefinale_transcript.md (Raw; renamed from 21 P&P 053126 in the 2026-06-05 renumber)
 corrected: true
 correction_date: 2026-06-02
 corrections_applied: 38
 ---
 
-# 21 P&P 053126 thefinale_transcript (Corrected)
+# 20 P&P 053126 thefinale_transcript (Corrected)
 
 > Spelling normalized per campaign spelling dictionary.
 > Verbatim transcript text preserved except for proper noun corrections.

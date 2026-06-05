@@ -3,8 +3,8 @@ type: npc
 race: Hatred-manifestation (corrupted Leyline construct)
 class: Unknown
 affiliation: "[[Nicol Bolas]] (corruption of) / the corrupted black [[Leylines]]"
-status: "DESTROYED (PP 17, 04/02/26) — obliterated by reborn [[Niv-Mizzet]] / the [[Living Guildpact]]"
-first_appearance: "PP 15 — Reforging the Guildpact (02/22/26)"
+status: "DESTROYED (PP 16, 04/02/26) — obliterated by reborn [[Niv-Mizzet]] / the [[Living Guildpact]]"
+first_appearance: "PP 14 — Reforging the Guildpact (02/22/26)"
 location: "[[Maze's End]], the [[Implicit Maze]], deep beneath Ravnica"
 aliases: ["Ogre of Bolas", "the hatred-manifestation", "the hatred-boss"]
 ---
@@ -27,12 +27,12 @@ It charges shrieking and hurls a **ball of black energy that bursts into shards*
 
 ## Key Events
 
-### [[PP_15_022226_Reforging_the_Guildpact|PP 15 — Reforging the Guildpact]] (02/22/26)
+### [[PP_14_022226_Reforging_the_Guildpact|PP 14 — Reforging the Guildpact]] (02/22/26)
 - **Born from the Black trial.** As the party named and released their core hatreds to cross the Black (Hatred) trial, those hatreds **seeped into the Leyline moat** and an **amorphous form began to rise** behind them.
 - **Coalesced at [[Maze's End]]** from the corrupted black [[Leylines|Leyline]] + the shed hatreds, wearing **each PC's most-hated face** ([[Nicol Bolas|Bolas]] / bullies / the Reylanas / tyrant politicians).
-- **Charged the party, shrieking,** and **hurled a black-energy ball that burst into shards** as [[Niv-Mizzet]] was still only a claw through the ceiling portal. **Saving throws were deferred to S16.** **Cliffhanger.**
+- **Charged the party, shrieking,** and **hurled a black-energy ball that burst into shards** as [[Niv-Mizzet]] was still only a claw through the ceiling portal. **Saving throws were deferred to S15.** **Cliffhanger.**
 
-### [[PP_16_031326_A_Scared_Child|PP 16 — A Scared Child]] (03/13/26)
+### [[PP_15_031326_A_Scared_Child|PP 15 — A Scared Child]] (03/13/26)
 - **The fight resolves into a full trauma-boss.** The opening black bolt **loops past each PC's chest and strikes their shadow** — seeding the encounter's central gimmick.
 - **Combat mechanics (this session):**
   - **Smog-cloak** — wraps itself in **black smog**, granting concealment so attacks against it are at **disadvantage** (it is effectively invisible until the smog is dispelled).
@@ -45,11 +45,11 @@ It charges shrieking and hurls a **ball of black energy that bursts into shards*
 - **The turning point.** [[Rinestra "Rin" Genleth|Rin]] — terrified by her bully's echo — remembered *"I'm the champion of [[Dol Arrah]],"* slammed the ground with **Channel Divinity (30-ft radiant AoE, 28 dmg)**, **evaporating every shadow-echo** and **dispelling the black smog** cloaking the Augur (radiant light routs the dark), leaving it **visible and exposed.** [[Ogre]] then landed a **Mage-Hand Eldritch Blast crit** once it was visible.
 - **Outcome: UNRESOLVED.** The Augur is **hurt but still standing** (continuing to absorb energy); [[Niv-Mizzet]] is still only partway through the portal; **falling stalactites loom.** Fight continues next session. (Do NOT import its defeat here.)
 
-### [[PP_17_040226_The_Guildpact_Reborn|PP 17 — The Guildpact Reborn]] (04/02/26)
+### [[PP_16_040226_The_Guildpact_Reborn|PP 16 — The Guildpact Reborn]] (04/02/26)
 - **Confirmed energy-sponge, not a melee target.** The fight resumes at the top of the order. **Physical attacks are near-useless** — the Augur **absorbs** them: [[Sanis Reylana|Sanis]]'s arrows get sucked into its form and **fired back out** at him for **18 piercing + 14 necrotic**, its shadow flickering between his **father's and mother's faces** ([[Lord Reylana]]/[[Lady Reylana]]). What *does* work is **light, fire, and radiant** — [[Orphea "Orphie" Levistus|Orphie]]'s reckless **[[Blazebringer]]** fire-slashes illuminate and erode its incorporeal body, [[Ogre]]'s **Hexblade's Curse + Shadow of Moil** ("Dusk") retaliation bites a chunk of its mana, and [[Varis Aestra|Varis]]'s **Scorching Ray** lands its fifth ray (the other four absorbed).
 - **The mushroom gambit ends it.** [[Ogre]] **feeds a shrinking mushroom to the half-emerged [[Niv-Mizzet]]**, who instantly compresses from gargantuan to **Large**, pops free of the ceiling portal, and (in a helium voice) thanks Ogre for saving "about 18 seconds." Now free, **Niv reveals a decagon crest** (all ten guild colors) and, with **all five colors of mana compressed in one claw, obliterates half the Augur's form.**
 - **Last gasp — the stalactite shriek.** The Augur **shrieks** and yanks the ceiling's **stalactites** down like marionette strings (**Dex save DC 18; 4d4 piercing**; several PCs fail; [[Orphea "Orphie" Levistus|Orphie]] holds concentration on a Con save). [[Rinestra "Rin" Genleth|Rin]]'s **Mass Cure Wounds** (29 to all) patches the party.
-- **DESTROYED.** On initiative, **[[Niv-Mizzet]] collapses the Augur into the floor with one claw** — *"the Ogre is no more."* The black mana is **absorbed into Niv's decagon crest.** Combat ends; no PC downed. The trauma-boss that defined S15–S16 is answered by **light, cleverness, and refusal to flee.**
+- **DESTROYED.** On initiative, **[[Niv-Mizzet]] collapses the Augur into the floor with one claw** — *"the Ogre is no more."* The black mana is **absorbed into Niv's decagon crest.** Combat ends; no PC downed. The trauma-boss that defined S14–S15 is answered by **light, cleverness, and refusal to flee.**
 
 ## Resolution
 The Augur of Bolas is **destroyed.** It was the cost of the Black/Hatred trial made flesh; the party survived it long enough for [[Niv-Mizzet]]'s revival to complete, and reborn Niv unmade it. Its corruption-source — [[Bolas's Citadel]] tapping the [[Leylines]] — remains the standing long-term threat (the Citadel still stands; see [[Bolas's Citadel]]).
@@ -68,6 +68,6 @@ The Augur of Bolas is **destroyed.** It was the cost of the Black/Hatred trial m
 - [[Niv-Mizzet]]
 - [[Dol Arrah]]
 - [[Living Guildpact]]
-- [[PP_15_022226_Reforging_the_Guildpact]]
-- [[PP_16_031326_A_Scared_Child]]
-- [[PP_17_040226_The_Guildpact_Reborn]]
+- [[PP_14_022226_Reforging_the_Guildpact]]
+- [[PP_15_031326_A_Scared_Child]]
+- [[PP_16_040226_The_Guildpact_Reborn]]

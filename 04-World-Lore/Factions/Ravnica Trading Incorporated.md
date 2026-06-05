@@ -2,7 +2,7 @@
 type: faction
 aliases: [Ravnica Trading Inc., RTI]
 status: Allied (covert)
-first_appearance: "PP 13 — Fucking Barbarians (01/25/26)"
+first_appearance: "PP 12 — Fucking Barbarians (01/25/26)"
 ---
 
 # Ravnica Trading Incorporated
@@ -26,7 +26,7 @@ A network of allies converging on the [[Immortal Sun]] heist. Its membership ove
 
 ## Key Events
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - A **Ravnica Trading Incorporated carriage** (red-haired driver, likely [[Rekka]]) is glimpsed leaving the burning [[Krenko Incorporated]] auction.
 - [[Sanis Reylana\|Sanis]] recalls (nat-20) the company is **[[Shaylin]]'s** — [[Narset]]'s Tarkir crew (with the doppelganger [[Kalmar]]); all confirmed allied.
 - [[Narset]] (the crew's planeswalker) **bagged the [[Immortal Sun]] and escaped backstage to take it off-plane** — restoring planeswalking across Ravnica.
@@ -37,4 +37,4 @@ A network of allies converging on the [[Immortal Sun]] heist. Its membership ove
 - [[Kalmar]]
 - [[Rekka]]
 - [[Immortal Sun]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_12_012526_Fucking_Barbarians]]

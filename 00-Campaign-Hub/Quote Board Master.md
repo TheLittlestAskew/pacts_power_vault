@@ -154,7 +154,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] | "Who are your parents? Because y'all weren't raised right." | Funny |
 | [[Orphea "Orphie" Levistus\|Orphie]] | "Are we getting audited right now?" / "I don't know. Yes. Maybe." | Funny |
 
-## Transcript 09 / [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10]] (11/30/25) — What Are You Waiting For, Sanis?
+## Transcript 09 / [[PP_09_113025_What_Are_You_Waiting_For_Sanis|PP 09]] (11/30/25) — What Are You Waiting For, Sanis?
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -170,7 +170,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] (to Vuthala) | "I want you to remember that you're more scared of me than you are of them." | Funny / Banter |
 | [[Orphea "Orphie" Levistus\|Orphie]] (to a parent) | "I want that back when I'm done. I mean, you'll be dead, but I'm just telling you, I want them back." | Funny |
 
-## [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
+## [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -184,7 +184,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] (to the messenger) | "If I find out that you told anybody we were here, I'll kill you. Bye." | Funny / Threat |
 | [[Ogre]] | "If you like Sis so much, you align yourself with Sis." | Banter |
 
-## [[PP_12_011126_The_Masquerade_Auction|PP 12]] / Transcript 11 (01/11/26) — The Masquerade Auction
+## [[PP_11_011126_The_Masquerade_Auction|PP 11]] / Transcript 11 (01/11/26) — The Masquerade Auction
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -198,7 +198,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Isiah Ja-Faank\|Isaiah]] | "The cocktail of paralysis — it really makes my fingers tingle." | Funny |
 | [[Rinestra "Rin" Genleth\|Rin]] (to the manager) | "When someone's life is in danger, anonymity goes out the window." | Banter |
 
-## [[PP_13_012526_Fucking_Barbarians|PP 13]] / Transcript 12 (01/25/26) — Fucking Barbarians
+## [[PP_12_012526_Fucking_Barbarians|PP 12]] / Transcript 12 (01/25/26) — Fucking Barbarians
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -212,7 +212,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Ava]] | "Took you long enough." / "At least someone appreciates my work." | Banter |
 | [[Nicol Bolas\|Bolas]] | "NO!" | Threat (cliffhanger) |
 
-## [[PP_14_021326_Hold_the_Wall|PP 14]] / Transcript 13 (02/13/26) — Hold the Wall
+## [[PP_13_021326_Hold_the_Wall|PP 13]] / Transcript 13 (02/13/26) — Hold the Wall
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -226,7 +226,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Sanis Reylana\|Sanis]] | "We're fucked, aren't we, guys?" | Funny |
 | [[Ogre]] | "Glad I made friends with that tree." | Funny / Important to Story |
 
-## [[PP_15_022226_Reforging_the_Guildpact|PP 15]] / Transcript 14 (02/22/26) — Reforging the Guildpact
+## [[PP_14_022226_Reforging_the_Guildpact|PP 14]] / Transcript 14 (02/22/26) — Reforging the Guildpact
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -239,7 +239,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] | "If you're a cop, you have to tell me if you're Will Smith immediately. It's the law." | Funny |
 | [[Rinestra "Rin" Genleth\|Rin]] | "This is not an IKEA — it should come with instructions." | Banter |
 
-## [[PP_16_031326_A_Scared_Child|PP 16]] / Transcript 15 (03/13/26) — A Scared Child
+## [[PP_15_031326_A_Scared_Child|PP 15]] / Transcript 15 (03/13/26) — A Scared Child
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -250,7 +250,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Ogre]] | "Once I get that mouth out, it's going to become way faster." | Funny / Important to Story |
 | [[Sanis Reylana\|Sanis]] | "I am so tired of these fucking people coming back every time." | Poignant |
 
-## [[PP_17_040226_The_Guildpact_Reborn|PP 17]] / Transcript 16 (04/02/26) — The Guildpact Reborn
+## [[PP_16_040226_The_Guildpact_Reborn|PP 16]] / Transcript 16 (04/02/26) — The Guildpact Reborn
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -263,7 +263,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Ogre]] | "I'm just as good as Niv-Mizzet. I'm gonna hold on." | Character (hubris) |
 | [[Orphea "Orphie" Levistus\|Orphie]] | "We touched the butt. And survived." | Funny (session-closer) |
 
-## [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+## [[PP_17_040526_Pacts_and_Power|PP 17]] (04/05/26) — Pacts and Power
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -276,7 +276,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Orphea "Orphie" Levistus\|Orphie]] | "We're the party. The party doesn't start till we walk in." | Funny |
 | [[Eddie]] (Myconid priest) | "One of our kind has been killed. A like for like is required." | Serious |
 
-## [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+## [[PP_18_041926_Hi_Im_Ogre|PP 18]] (04/19/26) — Hi, I'm Ogre
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -287,7 +287,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Rinestra "Rin" Genleth\|Rin]] | "Fuck this — I'm just gonna throw some Fireballs." *(giving up on Divine Intervention)* | Funny |
 | [[Sanis Reylana\|Sanis]] | "I am metaphorically shitting cubes… scared but brave." | Funny / Poignant |
 
-## [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+## [[PP_19_051426_I_Just_Need_Your_Soul|PP 19]] (05/14/26) — I Just Need Your Soul
 
 | Speaker | Quote | Tag |
 |---|---|---|
@@ -298,7 +298,7 @@ Campaign-wide quote board, organized by session date and order of occurrence. Ta
 | [[Molly]] | "I fight for Ravnica. My death means nothing if this plane doesn't exist." | Dramatic |
 | Table | "Pacts and powers, by chance?" — "Yes." | Funny / Meta |
 
-## [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+## [[PP_20_053126_I_Miss_You_Buddy|PP 20]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
 
 | Speaker | Quote | Tag |
 |---|---|---|

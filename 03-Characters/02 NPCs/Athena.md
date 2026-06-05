@@ -26,18 +26,18 @@ The ancestral mentor figure of the Levistus line. In dreams she meets Orphie acr
 - Stated she "only sleeps with demons," implying Orphie's **demonic ancestor** is among her past lovers (named candidates — Malthagor, Jetmir, Belzenlok, Carter, "Face me" — were a **bit**; none confirmed canon).
 - Left Orphie waking **tipsy**.
 
-### [[PP_16_031326_A_Scared_Child|PP 16 — A Scared Child]] (03/13/26)
+### [[PP_15_031326_A_Scared_Child|PP 15 — A Scared Child]] (03/13/26)
 - **Prayed to — and silent.** At [[Maze's End]], dragged into the [[Augur of Bolas|"Ogre of Bolas"]]'s smog and reliving a **childhood-abuse flashback** (her father's pre-reconciliation echo scolding her), [[Orphea "Orphie" Levistus|Orphie]] did something she almost never does: instead of reaching for the rage, she **reached for Athena and asked for help** (*"Help."*).
 - **No help came.** The roll came up empty (**d4 = 1 — "no help comes"**); for the first time, the prayer went unanswered. A rare "the god is silent" beat — Orphie fled the mist as "a scared child." (Whether Athena's silence is meaningful or simply the dice is left open.)
 
-### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26) — ⭐ FORGES HELLSMASHER
+### [[PP_20_053126_I_Miss_You_Buddy|PP 20 — I Miss You, Buddy]] (05/31/26) — ⭐ FORGES HELLSMASHER
 - **Answers the prayer that once went unheard — and reforges the family weapon.** At the campaign's climax, reaching for Athena through an unanswered-prayer moment, [[Orphea "Orphie" Levistus|Orphie]] is **pulled into a vision** where Athena offers **[[Blazebringer]]'s final form** — a **sword** (would be "Hellraiser"), an **axe**, or a **hammer.**
-- **The hammer.** Orphie chooses the hammer — *"I've always wanted a hammer. Let's try something new."* — and Athena names it **[[HellSmasher]]** (a maul, **1d20 + 10**), teaching that *"the greatest bonds can be forged with a hammer"* — a tool for **building as much as breaking.** (The S16 silence pays off here: the ancestor-goddess answers at the end, with a gift that reframes Orphie's whole "fists, not finesse" arc.)
+- **The hammer.** Orphie chooses the hammer — *"I've always wanted a hammer. Let's try something new."* — and Athena names it **[[HellSmasher]]** (a maul, **1d20 + 10**), teaching that *"the greatest bonds can be forged with a hammer"* — a tool for **building as much as breaking.** (The S15 silence pays off here: the ancestor-goddess answers at the end, with a gift that reframes Orphie's whole "fists, not finesse" arc.)
 - Orphie's epilogue — chasing the **Ur-Dragon** and meaning to pass down the bloodline and HellSmasher — confirms her as the heir of Athena's line.
 
 ## Relationships
-- [[Orphea "Orphie" Levistus|Orphie]] — Descendant; ancestral mentor. **PP 21: grants her [[HellSmasher]], Blazebringer's final form.**
-- [[Blazebringer]] — Wielded it before Orphie; **reforged into [[HellSmasher]] (PP 21).**
+- [[Orphea "Orphie" Levistus|Orphie]] — Descendant; ancestral mentor. **PP 20: grants her [[HellSmasher]], Blazebringer's final form.**
+- [[Blazebringer]] — Wielded it before Orphie; **reforged into [[HellSmasher]] (PP 20).**
 - [[Tezzeret]] — Knew of her ("As expected of Athena's descendant," T05).
 
 ## Related
@@ -47,5 +47,5 @@ The ancestral mentor figure of the Levistus line. In dreams she meets Orphie acr
 - [[Hazoret]]
 - [[Dominaria]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
-- [[PP_16_031326_A_Scared_Child]]
-- [[PP_21_053126_I_Miss_You_Buddy]]
+- [[PP_15_031326_A_Scared_Child]]
+- [[PP_20_053126_I_Miss_You_Buddy]]

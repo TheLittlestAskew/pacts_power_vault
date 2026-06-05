@@ -9,7 +9,7 @@ aliases: ["Perun's Last Word"]
 
 # Parun's Last Word
 
-[[Sanis Reylana|Sanis]]'s **signature martial bow** — the [[Argo Lot]]-linked weapon tied to the elder-vampire spirit bound within him. (Official item stats from the DM's **#Lore Dump**, 02/23/25.) Distinct from **[[Ava's Longbow of Power]]**, the copper dragon [[Ava]]'s bow that Sanis borrowed for the PP 12 heist — *"she hissed at his Parun's-Last-Word bow but lent him her own."*
+[[Sanis Reylana|Sanis]]'s **signature martial bow** — the [[Argo Lot]]-linked weapon tied to the elder-vampire spirit bound within him. (Official item stats from the DM's **#Lore Dump**, 02/23/25.) Distinct from **[[Ava's Longbow of Power]]**, the copper dragon [[Ava]]'s bow that Sanis borrowed for the PP 11 heist — *"she hissed at his Parun's-Last-Word bow but lent him her own."*
 
 > Note: the vault elsewhere renders this **"Perun's Last Word"**; the DM source spells it **Parun's Last Word** (a *parun* is a guild's founder in Ravnica lore) — adopted as canonical, with "Perun's Last Word" kept as an alias.
 

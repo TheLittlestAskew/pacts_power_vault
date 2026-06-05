@@ -11,7 +11,7 @@ party_level: 10
 
 > Working from the existing corrected transcript. No new spell-check pass (per Taylor). Title confirmed by Taylor.
 
-## 1. Session Metadata
+## Section 1 — Session Metadata
 
 | Field | Value |
 |---|---|
@@ -24,36 +24,46 @@ party_level: 10
 | Key NPCs | [[Salena\|Selena]] → **[[Aphonexa]]** (ascended), [[Thal]] (Thal Oram, revived), [[Onyx\|Professor Onyx]] = **[[Liliana Vess\|Liliana]]** (revealed), [[Pippi]] → "Sis" |
 | DDB rolls | 8 on 2025-09-17 (mostly Insight/History/Arcana — talk-heavy session, no combat) |
 
-## 2. Orphie POV Overview
+## Section 2 — Orphie's POV Overview
 
 The figure standing over the mushroom king had my friend's face, and a voice that said it had been a long time since anyone called her Selena, even though we'd watched her go under the surface a breath ago. Time runs strange for the newly-made. We poured all of us into a needle to keep her alive, and what climbed back out was something bigger than a person, with souls swimming behind her eyes and a want to call the dead back up out of the dirt. She raised the whole colony with a flick of her fingers, and the mushroom king bent his knee and named her a goddess of rebirth. I told her what some wise dead uncle once said: great power, great responsibility. She wants to help people now. I believe her. She pressed a little warm spark of herself into each of us before we left, and gave my brother something more, a promise and a tear and the only absolution he'll ever accept, that none of it was his fault.
 
 Then the betrayer walked in wearing a stolen face. Chandra knew her on sight, and the hate came off her in heat. This one had sold out everyone Chandra ever loved to save her own skin, traded one demon's chains for the Dragon's, and had the gall to be calm about it while souls she'd damned hung between us. I have no patience left for people who won't get to the point, so I told her plainly: I've taken a head off today already, it would be no trouble to take another. She gave us the road ahead anyway, get the guilds to stand together, find the heart of the city's hidden lines, and call a dead dragon-god back to life, then went limp and slippery the moment a fireball found her. When the smoke cleared she was gone, and she'd taken Chandra and the annoying one with her. We're left with a new goddess at our backs and a war that hasn't gotten any smaller. At least now we know where we're going.
 
-## 3. Session Analysis
+## Section 3 — Session Analysis
 
-**Narrative Summary.** The session opens immediately after S05's cliffhanger: the ethereal, white-eyed figure standing over the unconscious Myconid leader **[[Thal]]** (full name given this session: **Thal Oram**) is revealed to be **[[Salena\|Selena]]**, now ascended. She no longer feels "right" as Selena (Rin's Arcana 26 reveals the figure is a *projection* of immense, unlocatable power; [[Chandra Nalaar\|Chandra]] notes "she's still in the pit"). The party helps her choose a new name; from the suggestions she takes **[[Aphonexa]]**. She demonstrates her new domain by reviving fallen Myconids — including ones dead before the party arrived — who rise and kneel; **[[Thal]]** is restored and proclaims, *"All hail Aphonexa, goddess of rebirth."* Aphonexa bestows a blessing-spore on every party member except [[Sanis Reylana\|Sanis]], whom she pulls aside: she remembers him, absolves him of guilt for what happened to her, briefly materializes for a hug, and grants him a one-time free cast (Revivify-type, "seed of renewal"). She warns she cannot leave the area physically but her blessing travels with the party.
+### Narrative Summary
+
+The session opens immediately after S05's cliffhanger: the ethereal, white-eyed figure standing over the unconscious Myconid leader **[[Thal]]** (full name given this session: **Thal Oram**) is revealed to be **[[Salena\|Selena]]**, now ascended. She no longer feels "right" as Selena (Rin's Arcana 26 reveals the figure is a *projection* of immense, unlocatable power; [[Chandra Nalaar\|Chandra]] notes "she's still in the pit"). The party helps her choose a new name; from the suggestions she takes **[[Aphonexa]]**. She demonstrates her new domain by reviving fallen Myconids — including ones dead before the party arrived — who rise and kneel; **[[Thal]]** is restored and proclaims, *"All hail Aphonexa, goddess of rebirth."* Aphonexa bestows a blessing-spore on every party member except [[Sanis Reylana\|Sanis]], whom she pulls aside: she remembers him, absolves him of guilt for what happened to her, briefly materializes for a hug, and grants him a one-time free cast (Revivify-type, "seed of renewal"). She warns she cannot leave the area physically but her blessing travels with the party.
 
 The party's highest passive perceptions ([[Rin]], [[Sanis Reylana\|Sanis]]) catch footsteps: **[[Onyx\|Professor Onyx]]** enters. [[Chandra Nalaar\|Chandra]] recognizes her instantly as the traitor who sold out the **[[Flameseekers of Truth\|Flameseekers]]** and is "the reason I got tortured." Onyx claims she isn't there to fight — a "little birdie" (a vision of **[[Ugin]]**) told her a god's apotheosis would happen here. Chandra attacks; Onyx tanks a Scorching Ray behind a **veil of chains**. A History check (Rin 19) identifies the **[[The Chain Veil\|chain veil]]** as belonging to **[[Liliana Vess\|Liliana]]** — the black-robed Gatewatch betrayer aiding **[[Nicol Bolas\|Bolas]]**. Cornered and grappled (Chandra, repeated headbutts), Liliana drops the disguise, revealing ~15 (then illusioned to *hundreds* of) **[[Eternals]]** behind her, and tells her story: a demon contract gave her the chain veil and control over the dead; her "loophole" was to kill the demons, so she contracted with **Bolas** instead. Rin (Arcana 21) confirms the contract is real and far stronger/stricter than the one that bound **[[Penny]]** (which **[[Rakdos]]** once transferred), with an unknown consequence for breaking it.
 
 Liliana delivers the campaign's marching orders, per Ugin's vision: **get buy-in from all the guilds**, find the **center of the Leylines / the implicit maze (the Nexus)**, and **revive [[Niv-Mizzet]]** using the box the party carries — the way the **[[Guildpact]]** was originally made. She also tells [[Chandra Nalaar\|Chandra]] and [[Isiah Ja-Faank]] they must take **[[Nissa]]** to the **[[Simic Combine\|Simic Guild]]**, where what's left of the **Flameseekers** is being experimented on. Refusing further help ("I have to go back to Bolas's side… the contract's still active"), Liliana provokes Chandra into a 4th-level Fireball. When the smoke clears, Liliana, Chandra, Isiah, and all the Eternals are **gone** — Rin (Arcana 22) catches the last wisps of a **scroll-powered dimension door**. Closing stinger: at the **Great Tree of [[Vitu-Ghazi]]** (Selesnya Conclave), Liliana deposits Isiah and an unconscious Chandra, tells Isiah to take care of her, and steps back through the portal. Mid-session, **[[Pippi]]** reawakens inside Ogre's pack/device, now rebranded **"Sis" / "Soul Integrated Soul Storage,"** and reveals she was once a portal to **the Nexus**, not just the moon — she can lead the party there.
 
-**Locations Visited.** The [[Bone Mine]] Myconid colony cavern (entire session) → party departs led by "Sis" toward the Nexus. Stinger location: the Great Tree of [[Vitu-Ghazi]], Selesnya Conclave.
+### Locations Visited
 
-**Quests / Objectives.**
+The [[Bone Mine]] Myconid colony cavern (entire session) → party departs led by "Sis" toward the Nexus. Stinger location: the Great Tree of [[Vitu-Ghazi]], Selesnya Conclave.
+
+### Quests / Objectives
+
 - **New (central campaign quest):** Unite all the guilds, find the center of the Leylines / implicit maze (the **Nexus**), and **revive [[Niv-Mizzet]]** with the box — recreating the [[Guildpact]]. Source: Liliana, via a vision of [[Ugin]].
 - **New thread:** [[Chandra Nalaar\|Chandra]] & [[Isiah Ja-Faank]] are to take [[Nissa]] to the **[[Simic Combine\|Simic Guild]]**, where surviving **Flameseekers** are being experimented on.
 - **Resolved/Transformed:** [[Salena\|Selena]]'s fate — fully ascended into **[[Aphonexa]]**, goddess of rebirth, patron of the Myconids; her blessing now accompanies the party.
 - **New mystery:** Liliana's true allegiance — genuine double agent under an unbreakable Bolas contract, or manipulation? Consequence of breaking the contract unknown.
 - **New asset:** "Sis" (formerly Pippi) can navigate to the Nexus.
 
-**Themes & Emotional Beats.** Apotheosis and what's lost in it (Selena no longer "feels right"; deadnaming a friend who became a god); guilt and absolution (Aphonexa freeing Sanis); justice vs. utility (Rin insists Liliana be kept alive to atone *and* be useful, against Chandra's and Orphie's lethal impatience); the betrayer's self-justification ("I needed to do what I had to do to save my own ass"); gallows humor over a war that keeps widening.
+### Themes & Emotional Beats
 
-## 4. Character Activity
+Apotheosis and what's lost in it (Selena no longer "feels right"; deadnaming a friend who became a god); guilt and absolution (Aphonexa freeing Sanis); justice vs. utility (Rin insists Liliana be kept alive to atone *and* be useful, against Chandra's and Orphie's lethal impatience); the betrayer's self-justification ("I needed to do what I had to do to save my own ass"); gallows humor over a war that keeps widening.
 
-**Party Structure & Subgroups.** Single group throughout (Orphie, Ogre, Rin, Sanis, Varis + Aphonexa's blessing + "Sis"). **Party split created at session end:** [[Chandra Nalaar\|Chandra]] (unconscious) and [[Isiah Ja-Faank]] are removed by Liliana to **[[Vitu-Ghazi]]**, separating them from the main party.
+## Section 4 — Character Activity
 
-**NPCs.**
+### Party Structure & Subgroups
+
+Single group throughout (Orphie, Ogre, Rin, Sanis, Varis + Aphonexa's blessing + "Sis"). **Party split created at session end:** [[Chandra Nalaar\|Chandra]] (unconscious) and [[Isiah Ja-Faank]] are removed by Liliana to **[[Vitu-Ghazi]]**, separating them from the main party.
+
+### NPCs
+
 | NPC | Role this session | Status |
 |---|---|---|
 | [[Aphonexa]] (was [[Salena\|Selena]]) | Ascended goddess of rebirth; raised the Myconid colony; blessed the party; named by them; bound to the Bone Mine but blessing travels with party | **Ascended / divine**, location-bound |
@@ -63,13 +73,14 @@ Liliana delivers the campaign's marching orders, per Ugin's vision: **get buy-in
 | [[Isiah Ja-Faank]] | Urged the party to hear Liliana out; tackled away with Chandra | **Taken** to [[Vitu-Ghazi]]; tasked with caring for Chandra |
 | [[Pippi]] → "Sis" / Soul Integrated Soul Storage | Reawakened in Ogre's device; revealed she was a portal to the Nexus; will guide the party | Active, with party (in Ogre's pack) |
 
-**Reputation & Relationships.**
+### Reputation & Relationships
+
 - **Party ↔ Aphonexa:** allied; party now carries her blessing. Sanis ↔ Aphonexa: deeply personal — sibling absolution.
 - **Chandra ↔ Liliana:** pure enmity — Liliana sold out the Flameseekers and caused Chandra's torture.
 - **Rin ↔ Liliana:** Rin argues for keeping her alive to atone and turn the war; lectures her repeatedly on her bad contract choices.
 - **Party ↔ Liliana:** distrust, but she's now the source of the central quest.
 
-## 5. Artifacts (Loot & Items)
+## Section 5 — Artifacts (Loot & Items)
 
 | Item | State / Change | Holder |
 |---|---|---|
@@ -80,15 +91,23 @@ Liliana delivers the campaign's marching orders, per Ugin's vision: **get buy-in
 | **Dimension-door scroll** | Used by Liliana to escape with Chandra, Isiah & hundreds of Eternals | Spent (Liliana) |
 | "Sis" / Soul Integrated Soul Storage (was [[Pippi]]) | Reawakened; revealed as a former portal to the Nexus | [[Ogre]] (pack/device) |
 
-## 6. Logs
+## Section 6 — Logs
 
-**Encounters.** No true combat encounter. The only violence: [[Chandra Nalaar\|Chandra]] grapples/headbutts the grounded Liliana, throws a Scorching Ray (no effect, deflected by the chain veil) and finally a **4th-level Fireball** (spell save DC stated; "29" damage referenced) — but Liliana, Chandra, Isiah, and the Eternals dimension-door away before resolution, so no combat outcome is logged.
+### Encounters
 
-**Initiative.** None rolled — no combat.
+No true combat encounter. The only violence: [[Chandra Nalaar\|Chandra]] grapples/headbutts the grounded Liliana, throws a Scorching Ray (no effect, deflected by the chain veil) and finally a **4th-level Fireball** (spell save DC stated; "29" damage referenced) — but Liliana, Chandra, Isiah, and the Eternals dimension-door away before resolution, so no combat outcome is logged.
 
-**Encounter Summary.** N/A (roleplay/exposition session; the Liliana confrontation resolves via dialogue and her escape, not initiative).
+### Initiative
 
-**Full Roll Log (DDB cross-reference).** 8 DDB rolls on 2025-09-17. [[Rin]]'s rolls were physical/off-DDB this session (her Arcana 26, History 19, Arcana 21, Arcana 22 are **transcript-only**). [[Chandra Nalaar\|Chandra]]'s rolls are off-DDB (guest). [[Ogre]] made no logged rolls.
+None rolled — no combat.
+
+### Encounter Summary
+
+N/A (roleplay/exposition session; the Liliana confrontation resolves via dialogue and her escape, not initiative).
+
+### Full Roll Log
+
+8 DDB rolls on 2025-09-17. [[Rin]]'s rolls were physical/off-DDB this session (her Arcana 26, History 19, Arcana 21, Arcana 22 are **transcript-only**). [[Chandra Nalaar\|Chandra]]'s rolls are off-DDB (guest). [[Ogre]] made no logged rolls.
 
 | Character | Roll | Result (DDB) | Context / Outcome |
 |---|---|---|---|
@@ -113,9 +132,11 @@ Liliana delivers the campaign's marching orders, per Ugin's vision: **get buy-in
 
 - No combat this session — no kills recorded.
 
-## 7. Quotes & Language
+## Section 7 — Quotes & Language
 
-**Quote Board** (verbatim, in-world):
+### Quote Board
+
+(verbatim, in-world):
 | Speaker | Quote | Tag |
 |---|---|---|
 | [[Thal]] | "All hail Aphonexa, goddess of rebirth." | Dramatic / Important to Story |
@@ -130,20 +151,26 @@ Liliana delivers the campaign's marching orders, per Ugin's vision: **get buy-in
 | [[Rinestra "Rin" Genleth\|Rin]] | "Have we made a God here?" | Important to Story |
 | [[Chandra Nalaar\|Chandra]] | "You betrayed all of us just to save your own ass." | Serious |
 
-**Profanity Record** (approx., mostly OOC/in-character banter; partly auto-censored): Gabe/Sanis ~3, Rachel/Rin ~3, Bri/Chandra ~3, Taylor/Orphie ~2.
+### Profanity Record
 
-**Alternate names in play:** "Pippi" → "Sis" / "Soul Integrated Soul Storage" (Selena's old portal-construct, rebranded); "Time Lord"/"the Doctor" (the party joking about Aphonexa's warped time sense); "Aphinexa/Afonexa/Aphonex" (transcript spelling drift for **Aphonexa**).
+(approx., mostly OOC/in-character banter; partly auto-censored): Gabe/Sanis ~3, Rachel/Rin ~3, Bri/Chandra ~3, Taylor/Orphie ~2.
 
-## 8. Archivist Notes
+### Alternate Names in Play
 
-**Patterns / Progress / Future Implications.**
+"Pippi" → "Sis" / "Soul Integrated Soul Storage" (Selena's old portal-construct, rebranded); "Time Lord"/"the Doctor" (the party joking about Aphonexa's warped time sense); "Aphinexa/Afonexa/Aphonex" (transcript spelling drift for **Aphonexa**).
+
+## Section 8 — Archivist Notes
+
+### Patterns, Progress & Future Implications
+
 - This session sets the **campaign's spine**: unite the guilds → find the Nexus/implicit maze → revive **[[Niv-Mizzet]]** → remake the **[[Guildpact]]**. Everything forward flows from Liliana's Ugin-vision briefing.
 - **Aphonexa** is now a friendly deity tied to the party (blessings on all PCs; a free Revivify-type cast for Sanis). Watch how her location-bound divinity interacts with the guild quest.
 - **Liliana** reframed from villain ("Professor Onyx") to bound double agent. Her loyalty and the unknown contract consequence are live mysteries.
 - **"Sis"** is a plot vehicle — a former portal to the Nexus the party now needs. Convenient timing flagged.
 - Party split: Chandra & Isiah pulled to [[Vitu-Ghazi]]; expect a Simic/Flameseekers rescue thread.
 
-**Continuity Flags / Missing Info / Ambiguities.**
+### Continuity Flags, Missing Info & Ambiguities
+
 - **Party level** not stated; carried as **10** from S05. No combat, no level-up mention — flagged for confirmation.
 - The corrected transcript renders many name variants: **Aphonexa** (as Aphinexa/Afonexa/Aphonex), **Selena** (vault file `Salena`), **Tezzeret** (Tazeret/Tezzerit), **Niv-Mizzet** ("Niv Mizz"), **Vitu-Ghazi** ("Vidugazi"), **Isiah** ("Isaiah"), **Ugin** ("Uken/U, ken"). Canonical forms used in notes; transcript left as-is per "no spell check."
 - **"Thal Oram"** — full name first given here; confirm against the NPC page (vault has `[[Thal]]`).

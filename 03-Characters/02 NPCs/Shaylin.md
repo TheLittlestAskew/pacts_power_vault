@@ -4,7 +4,7 @@ race: Unknown (Tarkir)
 class: Unknown
 affiliation: "[[Ravnica Trading Incorporated]] (leader); Tarkir / Narset's troop"
 status: "Alive (ally)"
-first_appearance: "PP 13 — Fucking Barbarians (01/25/26)"
+first_appearance: "PP 12 — Fucking Barbarians (01/25/26)"
 location: "Ravnica (and off-plane)"
 aliases: []
 ---
@@ -21,7 +21,7 @@ A behind-the-scenes ally surfacing as the party reconstructs who pulled off the 
 
 ## Key Events
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - Identified (via [[Sanis Reylana\|Sanis]], nat-20 recall) as the **leader of [[Ravnica Trading Incorporated]]** — the company whose carriage was glimpsed leaving the burning auction (red-haired driver, likely [[Rekka]]).
 - Tied to **[[Narset]]**'s crew (the Tarkir troop with the doppelganger [[Kalmar]]); the party reads the whole company as allied.
 
@@ -33,4 +33,4 @@ A behind-the-scenes ally surfacing as the party reconstructs who pulled off the 
 ## Related
 - [[Ravnica Trading Incorporated]]
 - [[Narset]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_12_012526_Fucking_Barbarians]]

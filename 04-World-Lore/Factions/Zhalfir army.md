@@ -1,8 +1,8 @@
 ---
 type: faction
 affiliation: "Zhalfir (Teferi's home plane); allied to Ravnica's coalition"
-status: "Active — fighting on Ravnica's front against Nicol Bolas (PP 18)"
-first_appearance: "PP 18 — Pacts and Power (04/05/26)"
+status: "Active — fighting on Ravnica's front against Nicol Bolas (PP 17)"
+first_appearance: "PP 17 — Pacts and Power (04/05/26)"
 aliases: ["the Zhalfir army"]
 ---
 
@@ -15,7 +15,7 @@ A late-arc off-plane reinforcement (alongside the [[Ixalan]] armies and Tarkir d
 
 ## Key Events
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - **Arrived through a crack** opened by [[Teferi]] at the **grand council** (surfaced [[Maze's End]]) — *"It's very odd as a time wizard to be late to the party."*
 - Volunteered to **aid Ravnica's war**; [[Teferi]] is later **called to the Zhalfir front lines** and departs to lead them.
 
@@ -23,4 +23,4 @@ A late-arc off-plane reinforcement (alongside the [[Ixalan]] armies and Tarkir d
 - [[Teferi]]
 - [[Zhalfir]]
 - [[Nicol Bolas]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_17_040526_Pacts_and_Power]]

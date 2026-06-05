@@ -3,7 +3,7 @@ type: npc
 race: Gorgon
 class: Planeswalker
 affiliation: "Golgari Swarm / Bolas-aligned"
-status: "Dead (killed by the party, PP 13, 01/25/26)"
+status: "Dead (killed by the party, PP 12, 01/25/26)"
 location: "Ravnica"
 ---
 
@@ -26,7 +26,7 @@ Vraska assassinated [[Jace Beleren|Jace]] at the [[Spring Festival]] (Early Sess
 - Got word of the basement transformation attempt and **called the guards** — triggering the cliffhanger fight (deferred to S08).
 - **New thread:** [[Sanis Reylana|Sanis]] recovered a buried memory — the **[[Yarod Votsavo|Golgari Lich]]** (Vraska's predecessor) implanted [[Argo Lot]] into him and **bound him by pact to kill Vraska.**
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13 — Fucking Barbarians]] (01/25/26)
+### [[PP_12_012526_Fucking_Barbarians|PP 12 — Fucking Barbarians]] (01/25/26)
 - **KILLED.** Unmasked as one of the two black-masked bidders at [[Krenko]]'s auction (vying for the [[Guildpact]] shreds). [[Rinestra "Rin" Genleth\|Rin]] tried to Hold-Person her; the spell failed and Vraska's **petrifying gaze** turned Rin to stone (Rin nat-1 Con save).
 - Fought the party in the burning amphitheater: dual **poisoned daggers** (27+19, then 34+20 on [[Orphea "Orphie" Levistus\|Orphie]], who tanked her **blind** with eyes shut against the gaze), and an ultimate **wave of black void energy** (78 force — *the same Bolas-granted energy [[Ogre]]'s blade once absorbed*), which the party shrugged off (*"What the **** is wrong with these people?" / "Fucking barbarians."*).
 - **Killed by [[Varis Aestra\|Varis]]'s tail attack** (full dragon form). **Dying words:** *"This isn't the last of it, Bolas. The power he granted me wasn't enough. In the end, it's all up to [[Liliana Vess\|Liliana]]."* — pointing the endgame at Liliana.
@@ -47,4 +47,4 @@ Vraska assassinated [[Jace Beleren|Jace]] at the [[Spring Festival]] (Early Sess
 - [[Reylana mansion]]
 - [[PP_01_071325_Into_the_Ghost_Mind]]
 - [[PP_07_100525_The_Reylana_Infiltration]]
-- [[PP_13_012526_Fucking_Barbarians]]
+- [[PP_12_012526_Fucking_Barbarians]]

@@ -37,7 +37,7 @@ A gargantuan burrowing wurm that travels underground and erupts to devour enemie
 - Helped restrain **God-Eternal [[God-Eternal Oketra|Oketra]]** by coiling her legs, upgrading her from grappled to **restrained**, so the party could kill her
 - After the kill, **rushed off toward [[Bolas's Citadel]]**, leaving a ginormous tunnel; departed without leaving a tooth (the party had hoped for another)
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - **Now the Golgari's tunnel route — ridden by [[Yarod Votsavo]].** Steve has been **tunneling under Ravnica with [[Dalya Bara|Dahlia]]** but can't reach [[Bolas's Citadel]]; he appears at the **grand council** at the surfaced [[Maze's End]] with the new Golgari leader **[[Yarod Votsavo]]** (the Golgari Lich) riding atop him.
 - **His kin caged.** Steve's **ancient Rotworm relatives** are trapped in the **[[The Rot Warren|Rot Warren]]** (the Golgari spawning grounds) by [[Nicol Bolas|Bolas]]'s force-field dome — the reason the party drills down there.
 - **Freed.** After the party destroyed the **6 pylons** and dropped the force field, **Steve + Yarod surfaced** to rally the freed ancient Rotworms — now able to **tunnel a straight path to [[Bolas's Citadel]]** for the final assault.
@@ -55,4 +55,4 @@ A gargantuan burrowing wurm that travels underground and erupts to devour enemie
 - [[The Rot Warren]]
 - [[Dalya Bara]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_17_040526_Pacts_and_Power]]

@@ -35,7 +35,7 @@ The Myconids **arose when a chemical from the Bone Mine's plant life mixed with 
 - **The colony is revived** by the ascended [[Salena\|Selena]] ([[Aphonexa]]) — including members dead before the party arrived. They rise and **kneel**; [[Thal]] (Thal Oram) proclaims her *"goddess of rebirth."*
 - The Myconids become **[[Aphonexa]]'s worshippers**, with her as their patron deity bound to the [[Bone Mine]].
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - **A purple Myconid colony beyond the Bone Mine.** A colony of **purple myconids** living in the tunnels between the surface and the [[The Rot Warren|Rot Warren]] is revealed to also **worship [[Aphonexa]]** (the party-created god). Party nicknames the lesser myconids **"Mike / Mike-and-Ikes / clickers"**; their **head priest is [[Eddie]].**
 - **One killed, one injured → revived.** [[Dalya Bara|Dahlia]]'s [[The Drillinator|Drillinator]] bored **straight through the colony**, killing one myconid and badly injuring another. The colony attacked; Eddie demanded **"a like for like."** [[Rinestra "Rin" Genleth|Rin]] **stabilized the injured one** and **revived the dead one with Raise Dead** (cast through [[Varis Aestra|Varis]]'s Orzhov Mizzium Gauntlet — after a Cloudkill misfire — as a binding pact, the title-phrase "Pacts and Power" moment).
 - **Reconciled — the party become Aphonexa's "chosen."** The priest knelt; the colony hailed the party as **the chosen/creators** of their goddess, and [[Eddie]] volunteered to **guide them to the Rot Warren.** A new ally faction for the finale.
@@ -51,4 +51,4 @@ The Myconids **arose when a chemical from the Bone Mine's plant life mixed with 
 - [[The Rot Warren]]
 - [[The Drillinator]]
 - [[PP_05_090725_Do_You_Smell_That_Its_Breakfast_Time]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_17_040526_Pacts_and_Power]]

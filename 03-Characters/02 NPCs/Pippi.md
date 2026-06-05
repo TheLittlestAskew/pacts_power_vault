@@ -32,7 +32,7 @@ Created by [[Dalya Bara]] alongside related ghost-spirits ("siblings/cousins"). 
 - **Reawakened** inside [[Ogre]]'s device, rebranded **"Sis" / Soul Integrated Soul Storage** (*"You can call me Soul Integrated Soul Storage. Get it right."*).
 - Revealed she was once a **portal to the Nexus** — the center of the Leylines / the [[Implicit Maze]], not just "the moon" — and can **guide the party there** for the [[Niv-Mizzet]] revival. A key plot vehicle for the central quest.
 
-### [[PP_15_022226_Reforging_the_Guildpact|PP 15 — Reforging the Guildpact]] (02/22/26)
+### [[PP_14_022226_Reforging_the_Guildpact|PP 14 — Reforging the Guildpact]] (02/22/26)
 - **Delivered on her central-quest purpose.** At the [[First Church of Orzhov]], "Sis" **recalibrated the basement portal** (from [[Pecunia]] to the **[[Implicit Maze]]'s entrance**), opening the way for the party to descend into the maze and reforge the [[Guildpact]] / revive [[Niv-Mizzet]] — the route step [[Ugin]] foretold in T07.
 
 ## Relationships
@@ -53,4 +53,4 @@ Created by [[Dalya Bara]] alongside related ghost-spirits ("siblings/cousins"). 
 - [[Implicit Maze]]
 - [[First Church of Orzhov]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
-- [[PP_15_022226_Reforging_the_Guildpact]]
+- [[PP_14_022226_Reforging_the_Guildpact]]

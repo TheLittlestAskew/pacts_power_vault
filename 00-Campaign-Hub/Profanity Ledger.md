@@ -14,14 +14,14 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 | Bri (guest) | 16 |
 | Dan (guest) | ~7 |
 
-> **Totals re-tallied across ALL per-session data, Transcript 01 → PP 21 (the finale, 05/31/26)** during the final Convo 2 reconciliation pass (2026-06-02). The earlier table was frozen at Transcript 06; the per-session PP 07–PP 21 entries below had been appended without recomputing the running totals, so they are now folded in. **Counts from PP 07 onward are approximate** (heavy auto-censoring; many sessions raw/un-spell-checked with unreliable speaker labels) — treat the campaign totals as estimates, not exact.
+> **Totals re-tallied across ALL per-session data, Transcript 01 → PP 20 (the finale, 05/31/26)** during the final Convo 2 reconciliation pass (2026-06-02). The earlier table was frozen at Transcript 06; the per-session PP 07–PP 20 entries below had been appended without recomputing the running totals, so they are now folded in. **Counts from PP 07 onward are approximate** (heavy auto-censoring; many sessions raw/un-spell-checked with unreliable speaker labels) — treat the campaign totals as estimates, not exact.
 
 > ⚠️ **Flags affecting the totals:**
 > - **Transcript 03** counts are approximate — the battle audio is heavily auto-censored/bleeped.
-> - **PP 11 (12/14/25):** Rin (Rachel) was out of commission all session — **0 recorded for Rachel** (not missing data; she simply had no lines).
-> - **PP 20 (05/14/26):** Taylor/Orphie's mic was **unrecorded** — **Taylor counted as 0 for PP 20** (genuinely missing data, not a true zero). If her audio is recovered, Taylor's total will rise.
+> - **PP 10 (12/14/25):** Rin (Rachel) was out of commission all session — **0 recorded for Rachel** (not missing data; she simply had no lines).
+> - **PP 19 (05/14/26):** Taylor/Orphie's mic was **unrecorded** — **Taylor counted as 0 for PP 19** (genuinely missing data, not a true zero). If her audio is recovered, Taylor's total will rise.
 > - **Bri (guest)** appears only in T03–T06 (no PP 07–21 lines); total unchanged at 16.
-> - **Dan (guest, Teferi)** is a new guest speaker (PP 18 + PP 21 only); added to the totals table.
+> - **Dan (guest, Teferi)** is a new guest speaker (PP 17 + PP 20 only); added to the totals table.
 
 > ⚠️ Transcript 03 counts are **approximate** — the battle audio is heavily auto-censored/bleeped, so exact words/frequencies could not always be confirmed.
 
@@ -136,7 +136,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 **Session 08 total:** ~17 (Rachel 6, Taylor 5, Gabe 3, Chet 2, Vincent 1).
 
-### Transcript 09 / [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10]] (11/30/25) — What Are You Waiting For, Sanis?
+### Transcript 09 / [[PP_09_113025_What_Are_You_Waiting_For_Sanis|PP 09]] (11/30/25) — What Are You Waiting For, Sanis?
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -148,9 +148,9 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > Heavy combat banter; audio partly auto-censored. Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-**Session 09/PP 10 total:** ~27 (Gabe 8, Chet 6, Rachel 6, Taylor 5, Vincent 2).
+**Session 09/PP 09 total:** ~27 (Gabe 8, Chet 6, Rachel 6, Taylor 5, Vincent 2).
 
-### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
+### [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -161,7 +161,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > A social/logistics session (no combat); counts approximate, partly auto-censored. **[[Rinestra "Rin" Genleth\|Rin]] (Rachel) out of commission all session — no recorded profanity.** Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_12_011126_The_Masquerade_Auction|PP 12]] / Transcript 11 (01/11/26) — The Masquerade Auction
+### [[PP_11_011126_The_Masquerade_Auction|PP 11]] / Transcript 11 (01/11/26) — The Masquerade Auction
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -173,7 +173,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > A roleplay/caper session (no combat); counts approximate, partly auto-censored. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_13_012526_Fucking_Barbarians|PP 13]] / Transcript 12 (01/25/26) — Fucking Barbarians
+### [[PP_12_012526_Fucking_Barbarians|PP 12]] / Transcript 12 (01/25/26) — Fucking Barbarians
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -185,7 +185,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > A big-combat session (the burning auction); audio partly auto-censored, counts approximate. Notable in-character: [[Vraska]]'s "Fucking barbarians." Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_14_021326_Hold_the_Wall|PP 14]] / Transcript 13 (02/13/26) — Hold the Wall
+### [[PP_13_021326_Hold_the_Wall|PP 13]] / Transcript 13 (02/13/26) — Hold the Wall
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -197,7 +197,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > A big-combat (montage) wall-defense session; audio partly auto-censored, counts approximate. Largely in-character. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_15_022226_Reforging_the_Guildpact|PP 15]] / Transcript 14 (02/22/26) — Reforging the Guildpact
+### [[PP_14_022226_Reforging_the_Guildpact|PP 14]] / Transcript 14 (02/22/26) — Reforging the Guildpact
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -209,7 +209,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > Approximate (raw transcript, no spell-check; partly auto-censored). Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_16_031326_A_Scared_Child|PP 16]] / Transcript 15 (03/13/26) — A Scared Child
+### [[PP_15_031326_A_Scared_Child|PP 15]] / Transcript 15 (03/13/26) — A Scared Child
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -221,7 +221,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > A single-chamber boss-fight session, played on **Roll20** (raw transcript, no spell-check). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_17_040226_The_Guildpact_Reborn|PP 17]] / Transcript 16 (04/02/26) — The Guildpact Reborn
+### [[PP_16_040226_The_Guildpact_Reborn|PP 16]] / Transcript 16 (04/02/26) — The Guildpact Reborn
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -233,7 +233,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > Heavy mostly during the stalactite/Leyline tension and OOC tangents (raw transcript, no spell-check; partly auto-censored). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+### [[PP_17_040526_Pacts_and_Power|PP 17]] (04/05/26) — Pacts and Power
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -246,7 +246,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > The campaign's "everyone shows up" council + a workshop comedy + a dungeon assault (raw transcript, no spell-check; partly auto-censored). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+### [[PP_18_041926_Hi_Im_Ogre|PP 18]] (04/19/26) — Hi, I'm Ogre
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -258,7 +258,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > The penultimate session — a war-of-attrition Citadel climb + Ogre's apotheosis (raw transcript, no spell-check; partly auto-censored; unreliable speaker labels). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+### [[PP_19_051426_I_Just_Need_Your_Soul|PP 19]] (05/14/26) — I Just Need Your Soul
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|
@@ -269,7 +269,7 @@ Running campaign-wide profanity tracker by speaker, word, and context. Counts ar
 
 > ⚠ **Taylor/Orphie unrecorded this session (mic not captured) — not counted.** The second-to-last session — a single sustained Citadel-summit encounter + Liliana's redemption (corrected/spell-checked transcript). Counts approximate. Per archival rule, campaign totals are **not** recomputed here (final reconciliation pass handles totals).
 
-### [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+### [[PP_20_053126_I_Miss_You_Buddy|PP 20]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
 
 | Speaker | Word(s) | Frequency (approx.) | Context |
 |---|---|---|---|

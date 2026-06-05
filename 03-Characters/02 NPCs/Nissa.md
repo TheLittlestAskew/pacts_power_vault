@@ -45,20 +45,20 @@ Extremely laid-back, perpetually baked ("operational" baseline, per [[Rin]]'s In
 - Healed the party behind the front lines and gave **each member a Potion of Superior Healing (8d4+8)** — and slipped **[[Chandra Nalaar\|Chandra]] an extra one** (a blushing, romantic beat; [[Sanis Reylana\|Sanis]] caught it on a Perception check)
 - Continues to be the party's reliable source of relief/healing at the [[Selesnya Conclave]]
 
-### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11 — You Can't Just Buy the Sun]] (12/14/25)
+### [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10 — You Can't Just Buy the Sun]] (12/14/25)
 - At the [[Selesnyan Conclave|Conclave]] (now a vast refugee camp), **signed on to Plan B** — agreeing to lie in wait with the [[Gruul Clans|Gruul]] ([[Borborygmos]]/[[Sharp Dog]]) and fellow planeswalkers [[Chandra Nalaar\|Chandra]] and [[Johnny]] to **steal the [[Immortal Sun]]** by force if the auction goes sideways.
 
-### [[PP_17_040226_The_Guildpact_Reborn|PP 17 — The Guildpact Reborn]] (04/02/26)
+### [[PP_16_040226_The_Guildpact_Reborn|PP 16 — The Guildpact Reborn]] (04/02/26)
 - **Suspected rider taming [[Vitu-Ghazi]] (UNCONFIRMED).** From the surface central plaza, the party glimpses the awakened **Great Tree of [[Vitu-Ghazi]]** — still thrashing but now **ridden by a small female figure with a harness/reins.** The transcript calls her "Nessa" (likely a garble); given Nissa's role as the Conclave's nature-aligned planeswalker ("Tree Lady"), she is the **most likely candidate** to be reining in the rampaging Tree — but the identity is **not confirmed in-session** (flagged for next session; do not over-assert). Logged here per canon ("Nessa" → Nissa, no new page).
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
-- **Confirmed riding the animate [[Vitu-Ghazi]] — at the council.** The S17 "Nessa on the Great Tree" sighting pays off: Nissa attends the **grand council of all ten guilds** at the surfaced [[Maze's End]] alongside [[Emmara Tandris|Amara Tandris]] for the **[[Selesnya Conclave|Selesnya]]**, **riding the animate Great Tree of [[Vitu-Ghazi]]** — she is the one taming/steering it. (The session note attributes the rider to Nissa; the prior "Nessa"→Nissa flag is effectively resolved.)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
+- **Confirmed riding the animate [[Vitu-Ghazi]] — at the council.** The S16 "Nessa on the Great Tree" sighting pays off: Nissa attends the **grand council of all ten guilds** at the surfaced [[Maze's End]] alongside [[Emmara Tandris|Amara Tandris]] for the **[[Selesnya Conclave|Selesnya]]**, **riding the animate Great Tree of [[Vitu-Ghazi]]** — she is the one taming/steering it. (The session note attributes the rider to Nissa; the prior "Nessa"→Nissa flag is effectively resolved.)
 - Joined the Selesnya in putting their forces on the ritual die to formally unite against [[Nicol Bolas|Bolas]]; Teferi's status update notes Nissa is **present** with the war effort.
 
-### [[PP_19_041926_Hi_Im_Ogre|PP 19 — Hi, I'm Ogre]] (04/19/26)
+### [[PP_18_041926_Hi_Im_Ogre|PP 18 — Hi, I'm Ogre]] (04/19/26)
 - **Summoned for the Citadel climb — [[Ogre]]'s pick.** When [[Niv-Mizzet]] grants the party a pick of personal allies to ascend [[Bolas's Citadel]], **Ogre chooses Nissa** as the group's **healer/druid** ("Nissa Revane"). She is **supporting / healing** the ascent as the session ends mid-assault.
 
-### [[PP_21_053126_I_Miss_You_Buddy|PP 21 — I Miss You, Buddy]] (05/31/26)
+### [[PP_20_053126_I_Miss_You_Buddy|PP 20 — I Miss You, Buddy]] (05/31/26)
 - ⭐ **Brings [[Vitu-Ghazi]] to the victory.** When [[Nicol Bolas|Bolas]] falls, the **Great Tree of [[Vitu-Ghazi]] marches up** to the battlefield with Nissa (riding/steering it), **Myra Deathbloom**, and **Saskia Vostavo** — the Selesnya arriving for the close of the war. Nissa is among the allies celebrating Ravnica's salvation as [[Niv-Mizzet]] declares peace.
 
 ## Key Quotes
@@ -77,7 +77,7 @@ Extremely laid-back, perpetually baked ("operational" baseline, per [[Rin]]'s In
 - [[Vitu-Ghazi]]
 - [[Emmara Tandris]]
 - [[PP_02_072725_I_Cant_Rebuild_You]]
-- [[PP_17_040226_The_Guildpact_Reborn]]
-- [[PP_18_040526_Pacts_and_Power]]
-- [[PP_19_041926_Hi_Im_Ogre]]
-- [[PP_21_053126_I_Miss_You_Buddy]]
+- [[PP_16_040226_The_Guildpact_Reborn]]
+- [[PP_17_040526_Pacts_and_Power]]
+- [[PP_18_041926_Hi_Im_Ogre]]
+- [[PP_20_053126_I_Miss_You_Buddy]]

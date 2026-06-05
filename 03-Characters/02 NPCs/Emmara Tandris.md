@@ -4,7 +4,7 @@ race: Elf
 class: Unknown
 affiliation: "Selesnya Conclave"
 status: "Alive"
-first_appearance: "PP 11 — You Can't Just Buy the Sun (12/14/25)"
+first_appearance: "PP 10 — You Can't Just Buy the Sun (12/14/25)"
 location: "[[Selesnyan Conclave]] refugee camp, Ravnica"
 aliases: ["Amara Tangers"]
 ---
@@ -21,10 +21,10 @@ The Selesnya representative for the party's **Plan A** fundraising. With the Orz
 
 ## Key Events
 
-### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11 — You Can't Just Buy the Sun]] (12/14/25)
+### [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10 — You Can't Just Buy the Sun]] (12/14/25)
 - At the [[Selesnyan Conclave|Conclave]] refugee camp (now a vast camp for Gruul, Orzhov, and Simic refugees), **pledged Selesnya funds** toward buying the [[Immortal Sun]] at auction — contingent on the party getting the **[[First Church of Orzhov]]** bank running so the guilds can pool coin.
 
-### [[PP_18_040526_Pacts_and_Power|PP 18 — Pacts and Power]] (04/05/26)
+### [[PP_17_040526_Pacts_and_Power|PP 17 — Pacts and Power]] (04/05/26)
 - **At the grand council** of all ten guilds (surfaced [[Maze's End]]), Amara Tandris represents the **[[Selesnya Conclave|Selesnya]]** alongside [[Nissa]] (riding the animate [[Vitu-Ghazi]]) as the guilds put their forces on the ritual die to formally unite against [[Nicol Bolas|Bolas]]. (Raw-transcript "Amara Tandris" → canonical [[Emmara Tandris]].)
 
 ## Relationships
@@ -38,5 +38,5 @@ The Selesnya representative for the party's **Plan A** fundraising. With the Orz
 - [[First Church of Orzhov]]
 - [[Immortal Sun]]
 - [[Nissa]]
-- [[PP_11_121425_You_Cant_Just_Buy_the_Sun]]
-- [[PP_18_040526_Pacts_and_Power]]
+- [[PP_10_121425_You_Cant_Just_Buy_the_Sun]]
+- [[PP_17_040526_Pacts_and_Power]]

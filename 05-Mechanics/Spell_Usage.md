@@ -74,7 +74,7 @@ Running tracker of notable spell and special-ability usage, by session.
 
 > **Note (T08):** A social-infiltration session with little spellcasting; no combat resolved. [[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] rolled entirely off-DDB.
 
-## Transcript 09 / [[PP_10_113025_What_Are_You_Waiting_For_Sanis|PP 10]] (11/30/25) — What Are You Waiting For, Sanis?
+## Transcript 09 / [[PP_09_113025_What_Are_You_Waiting_For_Sanis|PP 09]] (11/30/25) — What Are You Waiting For, Sanis?
 
 | Character | Spell / Ability | Outcome |
 |---|---|---|
@@ -91,13 +91,13 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Orphea "Orphie" Levistus\|Orphie]] | **Rage** / **Instinctive Pounce** / **Elder's Claw** (tattoo) | Raged; pounced to a tube to free [[Vuthala]]; threw weapons across the water; ~50 dmg/turn late with the tattoo active |
 | [[Aphonexa]] (NPC) | Divine intervention | Granted [[Sanis Reylana\|Sanis]] advantage on the killing blow vs. their mother |
 
-> **Note (PP 10):** [[Rinestra "Rin" Genleth\|Rin]]'s spells (Bless, Channel Divinity, Mass Cure Wounds, Warding Flare, Sacred Flame) are all **transcript-only** (entirely off-DDB), as are most of [[Sanis Reylana\|Sanis]]'s bow attacks. Many of [[Ogre]]'s Counterspells / Witch hits were narrated rather than itemized in DDB.
+> **Note (PP 09):** [[Rinestra "Rin" Genleth\|Rin]]'s spells (Bless, Channel Divinity, Mass Cure Wounds, Warding Flare, Sacred Flame) are all **transcript-only** (entirely off-DDB), as are most of [[Sanis Reylana\|Sanis]]'s bow attacks. Many of [[Ogre]]'s Counterspells / Witch hits were narrated rather than itemized in DDB.
 
-## [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
+## [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10]] / Transcript 10 (12/14/25) — You Can't Just Buy the Sun
 
 > **No notable spell/ability usage.** A roleplay/logistics session (intel from [[Benji]], the [[Krenko Incorporated]] rebuff, citywide auction/heist prep) with **no combat**. [[Rinestra "Rin" Genleth\|Rin]] was incapacitated all session (no casting). Healing items changed hands (5 Healing Potions from [[Benji]]; 5 Superior Healing Potions via Aestra "insurance") but none were consumed.
 
-## [[PP_12_011126_The_Masquerade_Auction|PP 12]] / Transcript 11 (01/11/26) — The Masquerade Auction
+## [[PP_11_011126_The_Masquerade_Auction|PP 11]] / Transcript 11 (01/11/26) — The Masquerade Auction
 
 | Character | Spell / Ability | Outcome |
 |---|---|---|
@@ -107,9 +107,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Ogre]] | **Accursed Specter** (Witch-blade, mercy-kill) | Killed the dying [[Kaya Cassir\|Kaya]] — but her soul **dispersed** rather than being reaped into the [[Leather Daddy Game Boy]]. |
 | [[Rinestra "Rin" Genleth\|Rin]] | **Thaumaturgy** (stealth, display-dim) | **Fizzled** on the auction's **anti-tamper barrier** (Krenko called it out). |
 
-> **Note (PP 12):** No combat (the heist sets up for next session). [[Rinestra "Rin" Genleth\|Rin]] rolled **entirely off-DDB**; her checks are transcript-only.
+> **Note (PP 11):** No combat (the heist sets up for next session). [[Rinestra "Rin" Genleth\|Rin]] rolled **entirely off-DDB**; her checks are transcript-only.
 
-## [[PP_13_012526_Fucking_Barbarians|PP 13]] / Transcript 12 (01/25/26) — Fucking Barbarians
+## [[PP_12_012526_Fucking_Barbarians|PP 12]] / Transcript 12 (01/25/26) — Fucking Barbarians
 
 | Character | Spell / Ability | Outcome |
 |---|---|---|
@@ -121,9 +121,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Ogre]] | **Mage Hand** / **Eldritch Blast** | Mage-Hand-stole rival paddles (disintegrated on the electrified Sun cage); Eldritch-Blasted the fleeing second masked caster (21/18). |
 | [[Narset]] (NPC) | Izzet apparatus bomb / **Jump** | Bombed the caged [[Immortal Sun]] free; cast Jump on [[Ogre]]; bagged the Sun and escaped off-plane. |
 
-> **Note (PP 13):** A big combat session — all five PCs on DDB. The headline ability is the **un-attuned gauntlet Greater Restoration** (flagged OP). [[Vraska]]'s petrifying gaze + void-energy AoE (78 force) are enemy abilities.
+> **Note (PP 12):** A big combat session — all five PCs on DDB. The headline ability is the **un-attuned gauntlet Greater Restoration** (flagged OP). [[Vraska]]'s petrifying gaze + void-energy AoE (78 force) are enemy abilities.
 
-## [[PP_14_021326_Hold_the_Wall|PP 14]] / Transcript 13 (02/13/26) — Hold the Wall
+## [[PP_13_021326_Hold_the_Wall|PP 13]] / Transcript 13 (02/13/26) — Hold the Wall
 
 | Character | Spell / Ability | Outcome |
 |---|---|---|
@@ -134,9 +134,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Ogre]] | **Eldritch Mage-Hand** / **Healing Word** | Mage-Hand-**deflected [[God-Eternal Bontu\|Bontu]]'s returning spear into ~25 Eternals** (19); big **Healing Words** (8d4+2 ×several, 20–28) over two short rests. |
 | [[Orphea "Orphie" Levistus\|Orphie]] | **Rage** / **Barbaric Grace** / [[Blazebringer]] | Raged ("weights off") and swung Blazebringer "like a baseball bat" with Barbaric Grace, mowing Eternals off the wall. |
 
-> **Note (PP 14):** A narrated-montage wall defense (no tracked initiative). [[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] cast **largely off-DDB** (transcript-only). The God-Eternals' teleporting **[[god-metal]] spears** are enemy abilities.
+> **Note (PP 13):** A narrated-montage wall defense (no tracked initiative). [[Rinestra "Rin" Genleth\|Rin]] and [[Sanis Reylana\|Sanis]] cast **largely off-DDB** (transcript-only). The God-Eternals' teleporting **[[god-metal]] spears** are enemy abilities.
 
-## [[PP_15_022226_Reforging_the_Guildpact|PP 15]] / Transcript 14 (02/22/26) — Reforging the Guildpact
+## [[PP_14_022226_Reforging_the_Guildpact|PP 14]] / Transcript 14 (02/22/26) — Reforging the Guildpact
 
 | Character | Spell / Ability | Outcome |
 |---|---|---|
@@ -146,9 +146,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Sanis Reylana\|Sanis]] | (carried the **[[Firemind Vessel]]**) | Bore [[Niv-Mizzet]]'s soul-vessel into [[Maze's End]]; it **opened the revival portal.** |
 | Party | Maze color-trials | Skill-challenge resolution (no spell-slot accounting): Dex (Haste), word/riddle logic (Order/Wits), **Con saves vs exhaustion** (Endurance). |
 
-> **Note (PP 15):** A skill-challenge / RP-heavy session (the five color-trials), bookended by two combats (the Eternal drive-by; the deferred boss). [[Rinestra "Rin" Genleth\|Rin]]'s & [[Sanis Reylana\|Sanis]]'s arcane/perception work is transcript-only. The headline "spell" is [[Ogre]]'s **Black Lotus wish** finally resolving.
+> **Note (PP 14):** A skill-challenge / RP-heavy session (the five color-trials), bookended by two combats (the Eternal drive-by; the deferred boss). [[Rinestra "Rin" Genleth\|Rin]]'s & [[Sanis Reylana\|Sanis]]'s arcane/perception work is transcript-only. The headline "spell" is [[Ogre]]'s **Black Lotus wish** finally resolving.
 
-## [[PP_16_031326_A_Scared_Child|PP 16]] / Transcript 15 (03/13/26) — A Scared Child
+## [[PP_15_031326_A_Scared_Child|PP 15]] / Transcript 15 (03/13/26) — A Scared Child
 
 > **Played on Roll20 — no DDB roll data.** All usage below is transcript-only / approximate.
 
@@ -160,9 +160,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Sanis Reylana\|Sanis]] | **Confusion** (DC 18) / **[[Ava's Longbow of Power]]** | Confusion made the shadow-echoes lash out at random; sustained bow DPS from cover (27 to-hit). Saved from an OA by [[Ogre]]'s **Cutting Words + Mage Hand.** |
 | [[Orphea "Orphie" Levistus\|Orphie]] | **Prayer to [[Athena]]** (d4) | Instead of raging, prayed for help — **d4 = 1, "no help comes."** Then fled the mist. |
 
-> **Note (PP 16):** A single-chamber boss fight on **Roll20** (no DDB sync). The mechanical lesson: the [[Augur of Bolas\|Augur]] **absorbs fire/psychic** but is **routed by radiant light** (Rin's Channel Divinity). [[Ogre]]'s **Shadow of Moil** and [[Sanis Reylana\|Sanis]]'s **Confusion** are this session's notable adds.
+> **Note (PP 15):** A single-chamber boss fight on **Roll20** (no DDB sync). The mechanical lesson: the [[Augur of Bolas\|Augur]] **absorbs fire/psychic** but is **routed by radiant light** (Rin's Channel Divinity). [[Ogre]]'s **Shadow of Moil** and [[Sanis Reylana\|Sanis]]'s **Confusion** are this session's notable adds.
 
-## [[PP_17_040226_The_Guildpact_Reborn|PP 17]] / Transcript 16 (04/02/26) — The Guildpact Reborn
+## [[PP_16_040226_The_Guildpact_Reborn|PP 16]] / Transcript 16 (04/02/26) — The Guildpact Reborn
 
 > 50 DDB rolls (Ogre/Orphie/Sanis); [[Rinestra "Rin" Genleth\|Rin]] & [[Varis Aestra\|Varis]] on **Roll20** (transcript-only).
 
@@ -175,9 +175,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Niv-Mizzet]] | **All-five-color mana claw** (decagon crest) | **Obliterated half the [[Augur of Bolas\|Augur]]**, then collapsed it on initiative; absorbed the black mana into the crest. **Stabilized the rogue red [[Leylines\|Leyline]]** in the denouement. |
 | Party | **Leyline grab** (Con saves) | Ogre/Varis/Rin/Orphie **restored** spell slots / rage; **[[Sanis Reylana\|Sanis]] failed** → 3 exhaustion + lost top slots. |
 
-> **Note (PP 17):** The headline "spell" is [[Niv-Mizzet]]'s reborn **all-color mana claw** ending the [[Augur of Bolas\|Augur]]. The party's slot/rage economy is reset by the **Leyline grab** (a save-gated recharge with a permanent downside for Sanis). The fight's mechanical lesson — **light/fire/radiant** beats the energy-sponge boss — is confirmed (Varis's one landing ray, Orphie's fire-slashes).
+> **Note (PP 16):** The headline "spell" is [[Niv-Mizzet]]'s reborn **all-color mana claw** ending the [[Augur of Bolas\|Augur]]. The party's slot/rage economy is reset by the **Leyline grab** (a save-gated recharge with a permanent downside for Sanis). The fight's mechanical lesson — **light/fire/radiant** beats the energy-sponge boss — is confirmed (Varis's one landing ray, Orphie's fire-slashes).
 
-## [[PP_18_040526_Pacts_and_Power|PP 18]] (04/05/26) — Pacts and Power
+## [[PP_17_040526_Pacts_and_Power|PP 17]] (04/05/26) — Pacts and Power
 
 > **60 DDB rolls — all five PCs on DDB.** [[Teferi]] (guest) rolled off-DDB (transcript-only).
 
@@ -190,9 +190,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Orphea "Orphie" Levistus\|Orphie]] | **T-Rex form** ([[Teferi]]'s Polymorph) | **Bite (43) + tail-swipe (23)** smashing pylons & Eternals (Str 27, Int 2 — "the happiest T-Rex"). |
 | [[Teferi]] | **Polymorph** / **Minor Illusion** / **Fire Bolt** | Polymorphed Orphie into a **T-Rex**; cast a **minor illusion of "Isaiah's face"** on the drill bit (to motivate hammering); **Fire Bolt (22)** shattered the final pylon. |
 
-> **Note (PP 18):** The headline is the **Orzhov spell-loan** ("Pacts and Power") enabling [[Rinestra "Rin" Genleth\|Rin]]'s **Raise Dead** (after a Cloudkill misfire) — the campaign's literal title-mechanic, established here. Mechanically central too: [[Ogre]]'s **soul/death magic** as the **surfactant** that harmonizes the Drillinator core. Combined party damage (Fireball / Eldritch Blast crit / Shatter / Lightning Arrow / T-Rex / Teferi's Fire Bolt) dropped all 6 Rot Warren pylons.
+> **Note (PP 17):** The headline is the **Orzhov spell-loan** ("Pacts and Power") enabling [[Rinestra "Rin" Genleth\|Rin]]'s **Raise Dead** (after a Cloudkill misfire) — the campaign's literal title-mechanic, established here. Mechanically central too: [[Ogre]]'s **soul/death magic** as the **surfactant** that harmonizes the Drillinator core. Combined party damage (Fireball / Eldritch Blast crit / Shatter / Lightning Arrow / T-Rex / Teferi's Fire Bolt) dropped all 6 Rot Warren pylons.
 
-## [[PP_19_041926_Hi_Im_Ogre|PP 19]] (04/19/26) — Hi, I'm Ogre
+## [[PP_18_041926_Hi_Im_Ogre|PP 18]] (04/19/26) — Hi, I'm Ogre
 
 > **78 DDB rolls — Ogre/Orphie/Sanis/Varis on DDB.** [[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB (her Divine Intervention d100s, all failed).
 
@@ -204,9 +204,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Sanis Reylana\|Sanis]] | **Lightning Arrow** ([[Ava's Longbow of Power]]) / longbow | Support-fired [[Molly]]'s duel with [[God-Eternal Bontu\|Bontu]] (23+14) and longbowed the last step-Eternal; ate [[God-Eternal Rhonas\|Ronas]]'s 27-piercing volley (nat-1 Dex save). |
 | [[Rinestra "Rin" Genleth\|Rin]] | **Divine Intervention** (d100) — *off-DDB* | **Failed all session** (90/75/45/75, needs ≤12); **[[Dol Arrah]] silent.** Gave up: *"Fuck this — I'm just gonna throw some Fireballs."* |
 
-> **Note (PP 19):** No conventional spell economy headline — the session's "spell" is **[[Ogre]]'s soul-magic apotheosis** (absorbing the spark-ball → reuniting with the halfling death-god [[Ur-Ogre-lan]]). Mechanically notable: **Bolas's siphon-invulnerability** (Varis's nat-20 ray dissipated) and **Rin's wholly-failed Divine Intervention** (the "god is silent" beat). [[Varis Aestra\|Varis]]'s **"Eugene" (Ugin) summon** doubled as party transport up the pyramid.
+> **Note (PP 18):** No conventional spell economy headline — the session's "spell" is **[[Ogre]]'s soul-magic apotheosis** (absorbing the spark-ball → reuniting with the halfling death-god [[Ur-Ogre-lan]]). Mechanically notable: **Bolas's siphon-invulnerability** (Varis's nat-20 ray dissipated) and **Rin's wholly-failed Divine Intervention** (the "god is silent" beat). [[Varis Aestra\|Varis]]'s **"Eugene" (Ugin) summon** doubled as party transport up the pyramid.
 
-## [[PP_20_051426_I_Just_Need_Your_Soul|PP 20]] (05/14/26) — I Just Need Your Soul
+## [[PP_19_051426_I_Just_Need_Your_Soul|PP 19]] (05/14/26) — I Just Need Your Soul
 
 > **65 DDB rolls — Orphie/Ogre/Sanis/Varis on DDB.** [[Rinestra "Rin" Genleth\|Rin]] rolled off-DDB. ⚠ **Orphie's mic unrecorded** (actions reconstructed from her roll log + narration).
 
@@ -218,9 +218,9 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Orphea "Orphie" Levistus\|Orphie]] | **[[Blazebringer]]** + **sustained grapple** (Rage) | **Held the whole plan together** — grappled & dragged Liliana ~20 ft (to-hit 27/18) and **sustained the grapple** through the contract scene so Ogre could siphon and Varis could rewrite. *(⚠ Reconstructed — mic unrecorded.)* |
 | [[Rinestra "Rin" Genleth\|Rin]] | **Arcana** (cursed [[Tarkir]] book) — *off-DDB* | **nat-20 (30)** — **decoded the Chain Veil** (demon-contract artifact, 5 death-demons, unremovable), cracking how to free Liliana without killing her. |
 
-> **Note (PP 20):** The session's "spell" is the one-two of **[[Ogre]]'s soul-siphon breaking the Chain Veil's control** + **[[Varis Aestra\|Varis]]'s Orzhov contract-rewrite** binding [[Liliana Vess\|Liliana]] to [[Rinestra "Rin" Genleth\|Rin]] — the campaign's "**Pacts and Power**" mechanic at its peak (rewriting a *demon* contract, not just loaning a slot). [[Nicol Bolas\|Bolas]]'s **siphon-invulnerability** persists (untouched); the freed God-Eternals are turned on him for the finale.
+> **Note (PP 19):** The session's "spell" is the one-two of **[[Ogre]]'s soul-siphon breaking the Chain Veil's control** + **[[Varis Aestra\|Varis]]'s Orzhov contract-rewrite** binding [[Liliana Vess\|Liliana]] to [[Rinestra "Rin" Genleth\|Rin]] — the campaign's "**Pacts and Power**" mechanic at its peak (rewriting a *demon* contract, not just loaning a slot). [[Nicol Bolas\|Bolas]]'s **siphon-invulnerability** persists (untouched); the freed God-Eternals are turned on him for the finale.
 
-## [[PP_21_053126_I_Miss_You_Buddy|PP 21]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
+## [[PP_20_053126_I_Miss_You_Buddy|PP 20]] (05/31/26) — I Miss You, Buddy 🏁 (CAMPAIGN FINALE)
 
 > **105 DDB rolls — all five PCs on DDB** (Rin's epilogue Divine-Intervention attempts landed on DDB this time). Party at **level 12.**
 
@@ -234,7 +234,7 @@ Running tracker of notable spell and special-ability usage, by session.
 | [[Aphonexa]] (NPC) | **Spark-orb containment** (divine) | ⭐ **The sacrifice** — envelops the destabilizing spark-orb and **releases the sparks safely** to the multiverse; she is lost. |
 | [[Ugin]] (NPC) | **Soul-sealing** (planar) | ⭐ **Seals Bolas's soul into the [[Dragonhedron]]** and self-exiles as warden (containment, since an elder dragon can't be destroyed). |
 
-> **Note (PP 21):** No single "spell economy" headline — the finale is a collective takedown. Mechanically notable: **Ogre's Mage-Hand/Eldritch-Blast choking of the siphon** (the answer to Bolas's siphon-invulnerability), **Sanis's Hail of Thorns breaking the tether**, **Athena's [[HellSmasher]]**, **Aphonexa's divine orb-release sacrifice**, and **Ugin's soul-seal** into the [[Dragonhedron]]. The new homebrew **"Desperate Measures"** (pre-fail death saves for power) ran all fight. 🏁 **Final session of the campaign.**
+> **Note (PP 20):** No single "spell economy" headline — the finale is a collective takedown. Mechanically notable: **Ogre's Mage-Hand/Eldritch-Blast choking of the siphon** (the answer to Bolas's siphon-invulnerability), **Sanis's Hail of Thorns breaking the tether**, **Athena's [[HellSmasher]]**, **Aphonexa's divine orb-release sacrifice**, and **Ugin's soul-seal** into the [[Dragonhedron]]. The new homebrew **"Desperate Measures"** (pre-fail death saves for power) ran all fight. 🏁 **Final session of the campaign.**
 
 ## Related
 - [[Campaign Dashboard]]

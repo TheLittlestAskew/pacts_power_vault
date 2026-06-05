@@ -4,7 +4,7 @@ race: Unknown
 class: Planeswalker
 affiliation: "Party ally (Plan B strike force)"
 status: "Alive"
-first_appearance: "PP 11 — You Can't Just Buy the Sun (12/14/25)"
+first_appearance: "PP 10 — You Can't Just Buy the Sun (12/14/25)"
 location: "[[Selesnyan Conclave]] refugee camp, Ravnica"
 aliases: []
 ---
@@ -21,7 +21,7 @@ Planeswalker muscle for the heist contingency. Alongside [[Nissa]] and [[Chandra
 
 ## Key Events
 
-### [[PP_11_121425_You_Cant_Just_Buy_the_Sun|PP 11 — You Can't Just Buy the Sun]] (12/14/25)
+### [[PP_10_121425_You_Cant_Just_Buy_the_Sun|PP 10 — You Can't Just Buy the Sun]] (12/14/25)
 - Recruited at the [[Selesnyan Conclave|Selesnya Conclave]] refugee camp for **Plan B** — signs on to lie in wait with the [[Gruul Clans|Gruul]] ([[Borborygmos]]/[[Sharp Dog]]) and [[Nissa]] & [[Chandra Nalaar\|Chandra]] to **steal the [[Immortal Sun]]** if the auction fails.
 
 ## Relationships
@@ -33,4 +33,4 @@ Planeswalker muscle for the heist contingency. Alongside [[Nissa]] and [[Chandra
 - [[Gruul Clans]]
 - [[Nissa]]
 - [[Chandra Nalaar]]
-- [[PP_11_121425_You_Cant_Just_Buy_the_Sun]]
+- [[PP_10_121425_You_Cant_Just_Buy_the_Sun]]
