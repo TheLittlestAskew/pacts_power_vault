@@ -121,6 +121,10 @@ Notable rolls:
 | [[Sanis Reylana\|Sanis]] | Stealth (transcript-only) | 18 | Spider-climb into the office (not enough) |
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Insight / Perception | 25 / 19 | Carl's nerves; the rising tide |
 
+### Kill Count
+
+- No combat this session — no kills recorded. (Initiative was rolled at the very end against the [[Lord Reylana|Reylanas]]/[[Prime Speaker Megandar]], but the DM explicitly deferred the fight to next session; Orphie's anchovy-pizza face-slap was a humiliation, not a kill.)
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

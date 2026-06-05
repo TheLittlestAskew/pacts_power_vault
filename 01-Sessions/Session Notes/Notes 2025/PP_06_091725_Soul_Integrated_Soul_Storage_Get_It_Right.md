@@ -109,6 +109,10 @@ Liliana delivers the campaign's marching orders, per Ugin's vision: **get buy-in
 
 *Note:* the DDB Insight/History pair timestamps cluster ~01:01 and ~01:20 UTC (09/18), i.e., evening of 09/17 ET — consistent with the projection-read and chain-veil-ID moments.
 
+### Kill Count
+
+- No combat this session — no kills recorded.
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

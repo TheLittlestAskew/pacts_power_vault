@@ -119,6 +119,10 @@ The session ends with the party about to head to the **First Church of [[Orzhov 
 | [[Ogre]] | Constitution save | 20 / 25 | "Ripping the fattest cloud" (Saskia/Myra's joint) — no cough |
 | [[Varis Aestra\|Varis]] | custom d20 | nat 1 | (Asking his father's ghost about the inheritance) |
 
+### Kill Count
+
+- No combat this session — no kills recorded.
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

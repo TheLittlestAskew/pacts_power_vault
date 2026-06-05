@@ -129,6 +129,16 @@ Notable rolls:
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Mass Cure Wounds / Channel Divinity | 32 / 24 | Kept the party alive |
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Warding Flare ×2 | — | Saved Ogre from two lethal Lady Raylana crits |
 
+### Kill Count
+
+**Combat 1 — The Drowning Lab (Lord & Lady Raylana):**
+- [[Orphea "Orphie" Levistus\|Orphie]] — 0
+- [[Ogre]] — 1 (Lord Raylana, were-zombie form — landed the final blow, then reaped his soul into a Specter)
+- [[Rinestra "Rin" Genleth\|Rin]] — 0
+- [[Sanis Reylana\|Sanis]] — 1 (Lady Raylana — fencing killing blow with Aphonexa's advantage)
+- [[Varis Aestra\|Varis]] — 0
+- [[Vuthala]] — 0
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

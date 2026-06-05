@@ -284,6 +284,20 @@ Part 1 contained no combat. Part 2 is a large-scale cinematic battle against the
 - Sanis: 1 DDB roll (Cure Wounds)
 - Rin: 0 DDB rolls (all transcript-only / physical)
 
+### Kill Count
+
+*Part 1 (aftermath at Nivix / Dalya's lab / long rest) contained no combat. Part 2 was one continuous cinematic battle against the [[The Second Sun|Second Sun]]'s [[Eternals]], run as two simultaneous "operations." All kills are counted within that single battle. [[Steve]] is [[Ogre]]'s summoned ally and is listed separately.*
+
+**Combat 1 — The Eternal Invasion at the Front (Part 2):**
+- [[Varis]] — 58 (Eternals: 14 to dragon breath, ~30 to the nat-20 body slam, ~14 to the bite/claw multiattack)
+- [[Ogre]] — 0 (rode/directed Steve and warned planeswalkers; no kills narrated to Ogre himself)
+- [[Orphie]] — 0 (Team Celery; piloted the tavern, no enemy kills)
+- [[Rin]] — 0 (Team Celery; no enemy kills)
+- [[Sanis]] — 0 (Team Celery; struck God-Eternal [[God-Eternal Oketra|Oketra]] with a flame arrow but did not kill her)
+- [[Steve]] (Ogre's ally) — 7 (Eternals: 3 devoured on emergence, 4 more on the 4d8=18 slurp)
+
+*Note: God-Eternal [[God-Eternal Oketra|Oketra]] survives the session (hit but not killed) and is not counted as a kill for anyone.*
+
 ---
 
 ## Section 7 — Quotes & Language

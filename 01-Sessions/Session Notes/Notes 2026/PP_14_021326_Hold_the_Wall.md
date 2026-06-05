@@ -121,6 +121,15 @@ They break off the wall (now held by the allied/Ixalan/dragon forces) to fly tow
 | [[Ogre]] | Healing Word (8d4+2) ×several | 20–28 | Short-rest party heals |
 | [[Ogre]] | Strength save | 19 | (Battlefield) |
 
+### Kill Count
+
+**Combat 1 — Holding the Bulwark (Boros/Izzet front line vs. the Eternal horde):**
+- [[Varis Aestra\|Varis]] — multiple (Eternal zombies — Force Breath disintegrated a zombie pyramid, 53 force)
+- [[Orphea "Orphie" Levistus\|Orphie]] — multiple (Eternal zombies — Blazebringer melee on the battlements: "another zombie down… eviscerated in half… one of the heads goes flying")
+- [[Rinestra "Rin" Genleth\|Rin]] — multiple (Eternal zombies — Wall of Fire turned "hundreds" to ash; Holy Word fizzled the 3 Eternals that beheaded the soldier)
+- [[Ogre]] — ~25 (Eternal zombies — Eldritch Mage-Hand redirected Bontu's returning god-spear to impale "at least 25 of them")
+- [[Sanis Reylana\|Sanis]] — 0 (Faerie Fire marked a kill-zone but the Boros Angels landed the kills; his spear-deflect and Lightning Arrow didn't finish any enemy)
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

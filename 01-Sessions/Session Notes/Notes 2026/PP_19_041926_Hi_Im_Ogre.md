@@ -124,6 +124,15 @@ And then Ogre — our chaos goblin, our mascot, the one who runs face-first into
 | [[Ogre]] | Healing Word (8d4+2) | 20 | Free heal during the long-walk "short rest" |
 | [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) — *off-DDB* | 90 / 75 / 45 / 75 (all fail) | Dol Arrah never answers (the session's running gag) |
 
+### Kill Count
+
+**Combat 1 — Eternal squad on the Citadel steps (5 Eternals):**
+- [[Orphie]] — 2 (Eternals thrown off the pyramid with Blazebringer)
+- [[Ogre]] — 1 (Eternal pulled off the step with Mage Hand / Eldritch Blast)
+- [[Varis]] — 1 (Eternal blasted off the step with Thunderwave)
+- [[Sanis]] — 1 (Eternal pinned through the chest with his longbow — "you killed the final one")
+- [[Rin]] — 0
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim):

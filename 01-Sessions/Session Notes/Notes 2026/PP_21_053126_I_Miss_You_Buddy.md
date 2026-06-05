@@ -130,6 +130,17 @@ The DM ran **one-on-one epilogue scenes** with each player (this is what the lat
 | [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (d100) | 97, 67, 53, 63… **then 2** | Fails all fight; "answers" only at the party |
 | [[Ogre]] | Initiative | 24 | Top of the order (Bolas pre-empts) |
 
+### Kill Count
+
+**Combat 1 — The Fall of Nicol Bolas (Citadel summit):**
+- [[Orphea "Orphie" Levistus\|Orphie]] — 0
+- [[Ogre]] — 0
+- [[Rinestra "Rin" Genleth\|Rin]] — 0
+- [[Sanis Reylana\|Sanis]] — 0
+- [[Varis Aestra\|Varis]] — 0
+
+> No friendly finishing blow recorded. The session's only enemy, **[[Nicol Bolas]]**, was *defeated but not killed*: Sanis's Hail of Thorns shot broke the spark-tether and dropped Bolas to a knee/down (decisive), but the transcript explicitly keeps him alive — Ogre's Duskblade soul-strike **fails**, Bolas's spark is harvested by **Liliana's allied God-Eternals** (NPCs), and Ugin states he *cannot be destroyed, only contained*, then seals Bolas's still-living soul into the Dragonhedron. No other enemies, summons, or constructs were slain by the party.
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim):

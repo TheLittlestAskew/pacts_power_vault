@@ -272,6 +272,10 @@ The session is entirely exploration, puzzle-solving, and social interaction. No 
 - Rin: 2 DDB rolls (most transcript-only)
 - Sanis: 0 DDB rolls (all transcript-only)
 
+### Kill Count
+
+- No combat this session — no kills recorded.
+
 ---
 
 ## Section 7 — Quotes & Language

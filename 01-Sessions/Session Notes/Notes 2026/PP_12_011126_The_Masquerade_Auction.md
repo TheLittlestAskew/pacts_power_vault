@@ -126,6 +126,11 @@ Notable rolls:
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Medicine (+guidance) | 30 | Caught the **sleep-spiked drink** |
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Arcana / Insight | 24 / 28 | Kaya's severed plane-link; IDing Isaiah |
 
+### Kill Count
+
+- No combat this session — no kills recorded.
+  - *(Caveat: the one death is [[Ogre]]'s **mercy-kill of the dying [[Kaya]]** — no initiative, no save, narrated as a mercy/finishing strike with the Witch-blade; Kaya then disperses into the blind eternities rather than being absorbed. Not a combat encounter and Kaya is not an enemy combatant, so it is excluded from the kill tally. The Isaiah ↔ goblin-lady brawl ends in Hold Person with no deaths.)*
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

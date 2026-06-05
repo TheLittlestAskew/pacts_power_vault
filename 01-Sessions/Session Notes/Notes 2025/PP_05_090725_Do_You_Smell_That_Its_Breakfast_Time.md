@@ -99,6 +99,20 @@ Notable rolls:
 | [[Rinestra "Rin" Genleth\|Rin]] | Divine Intervention (1d100) | 65 — **failed** (needed ≤10) | Asked her deity for cover during the collapse |
 | [[Rinestra "Rin" Genleth\|Rin]] | Arcana / Medicine (transcript-only) | 24 / 31 / 25 | Diagnosed Bolas's corruption; built & injected the cure |
 
+### Kill Count
+
+**Combat 1 — Eternal diggers at the bone-mine entrance:**
+- [[Ogre]] — 3 (three mindless Eternals; he walked ahead alone and reaped all three in one sweep)
+
+**Combat 2 — The Marrow Pits: Tezzeret & the Corrupted Myconids:**
+- [[Orphie]] — 1 (Tezzeret — double-nat-20 crit, 114 dmg, decapitation)
+- [[Varis Aestra\|Varis]] — 1 (corrupted Myconid #2 — nat-20 bite crit)
+- [[Isiah Ja-Faank]] — 1 (corrupted Myconid #3 — sliced apart, "that is how you grill mushrooms")
+- [[Ogre]] — 1 (corrupted Myconid #1 — soul/psychic damage in his Darkness; caveat: it "falls over non-responsive" as combat ends just after Tezzeret dies, so the killing blow is ambiguous between Ogre's attacks and the minion collapsing with its master)
+- [[Rin]] — 0 (fireballed/healed; no killing blow)
+- [[Sanis Reylana\|Sanis]] — 0 (Phantasmal Force + bow; no kill)
+- [[Chandra Nalaar\|Chandra]] — 0 (dominated, then Scorching Ray on Tezzeret; no kill)
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

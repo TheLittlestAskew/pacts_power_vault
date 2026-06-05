@@ -155,6 +155,19 @@ Notable rolls:
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Insight / Arcana / Insight | 21 / 17 / **28** | Brula's truth; the necromantic shell; "Kaya dealt with" |
 | [[Rinestra "Rin" Genleth\|Rin]] (transcript-only) | Stealth (+ guidance) | 32 | Sneaking to the estate |
 
+### Kill Count
+
+**Combat 1 — Cave cleanup (Bone Mine exit):**
+- [[Ogre]] — 2 (two lingering mindless [[Eternals]] — 9 + 15 psychic, "both cleaved in half")
+
+**Combat 2 — Rin's Rakdos Carnarium dream (prophetic/confirmed real):**
+- [[Rinestra "Rin" Genleth\|Rin]] — 100+ ([[Eternals]] incinerated by Wall of Fire — "at least 100 Eternals just immediately light up in flames") *(narrated within a dream, but the eavesdropped Liliana/Vraska conversation confirms the wall-of-flame had real-world effects)*
+
+**Combat 3 — Ogre's Gruul dream (prophetic/confirmed real):**
+- [[Ogre]] — 0 ([[Domri Rade]] crotch-punched and dropped in pain, but explicitly not killed)
+
+*(Reylana study cliffhanger: initiative was rolled but combat was explicitly deferred to next session — no kills this session.)*
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

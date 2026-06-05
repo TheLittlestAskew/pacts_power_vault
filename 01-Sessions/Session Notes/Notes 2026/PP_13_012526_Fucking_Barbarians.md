@@ -140,6 +140,15 @@ And then, flying out over a burning auction house with a stolen tavern in the dr
 | [[Ogre]] | Dex save | 6 / 8 — fail | The Sun's electric cage (16 lightning) |
 | Party | Arcana (planeswalk sense) | Rin **26**, Varis 19 | The Sun off-plane; the shackles released |
 
+### Kill Count
+
+**Combat 1 — The Burning Auction (Vraska & the Heist):**
+- [[Varis Aestra\|Varis]] — 1 ([[Vraska]] — tail-attack finishing blow)
+- [[Orphea "Orphie" Levistus\|Orphie]] — 0
+- [[Sanis Reylana\|Sanis]] — 0
+- [[Rinestra "Rin" Genleth\|Rin]] — 0
+- [[Ogre]] — 0
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

@@ -124,6 +124,16 @@ But it wasn't my axe that won it. It was Ogre cramming a shrink mushroom into a 
 | [[Varis Aestra\|Varis]] | Scorching Ray / Fireball — *transcript* | 13 + 10 + 9 + 20 fire | 4 of 5 rays absorbed by the Augur |
 | [[Sanis Reylana\|Sanis]] | Constitution save (Leyline grab) — *transcript* | **fail** | → **3 levels exhaustion + lost top slots** |
 
+### Kill Count
+
+**Combat 1 — Maze's End: the Augur of Bolas (conclusion):**
+- [[Orphie]] — 0
+- [[Ogre]] — 0
+- [[Rin]] — 0
+- [[Sanis]] — 0
+- [[Varis]] — 0
+- [[Niv-Mizzet]] — 1 (Augur of Bolas — allied NPC landed the finishing blow: "Niv raises their claw, and the Ogre is no more")
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world unless noted):

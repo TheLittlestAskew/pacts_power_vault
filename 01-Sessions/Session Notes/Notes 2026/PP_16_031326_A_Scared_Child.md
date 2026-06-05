@@ -110,6 +110,17 @@ The Augur **shrieks** (party-wide Con-save force damage), and the shriek **shake
 | [[Orphea "Orphie" Levistus\|Orphie]] | Athena prayer (d4) | **1 — "no help comes"** | Her flashback low point |
 | [[Orphea "Orphie" Levistus\|Orphie]] | Dex saves | repeated fails | Dragged into the mist (−22 max HP) |
 
+### Kill Count
+
+**Combat — Maze's End: the Augur of Bolas (continued):**
+- [[Rinestra "Rin" Genleth\|Rin]] — 5 (all shadow-echoes — Orphie's, Sanis's, Rin's, Varis's, and Ogre's — wiped by her Channel Divinity radiant AoE; the DM narrates "the hateful echoes shriek as they're bathed in light" / "gone, gone, gone, gone, gone")
+- [[Orphea "Orphie" Levistus\|Orphie]] — 0
+- [[Ogre]] — 0
+- [[Sanis Reylana\|Sanis]] — 0
+- [[Varis Aestra\|Varis]] — 0
+
+*(The [[Augur of Bolas]] itself was not killed — the session ends with it hurt but standing. No finishing blow landed on the boss.)*
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

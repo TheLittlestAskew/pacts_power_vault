@@ -120,6 +120,17 @@ Ogre wanted to kill her anyway. Wanted to make her a puppet of *his* this time, 
 | [[Orphea "Orphie" Levistus\|Orphie]] | Blazebringer (adv) | **27 / 18** to hit | Grapple-dragging & clubbing Liliana *(reconstructed)* |
 | [[Rinestra "Rin" Genleth\|Rin]] | Arcana — *off-DDB* | **nat 20 (30)** | Decodes the Chain Veil (cursed-book lore) |
 
+### Kill Count
+
+**Combat 1 — Citadel summit (Liliana & the God-Eternals):**
+- [[Orphie]] — 0
+- [[Ogre]] — 0
+- [[Rin]] — 0
+- [[Sanis]] — 0
+- [[Varis]] — 0
+
+> No enemy was killed this session. The God-Eternals (Bontu/Rhonas/Kefnet) are explicitly "near-unkillable" gods — Bontu was heavily damaged and incapacitated but never dropped; Liliana was deliberately **freed and flipped, not killed** (the session's central beat); Bolas remained untouched. Combat was **paused mid-encounter** into the finale with no kills recorded.
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim):

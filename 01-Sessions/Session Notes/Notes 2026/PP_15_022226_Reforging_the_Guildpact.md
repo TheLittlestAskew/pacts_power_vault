@@ -113,6 +113,19 @@ At the heart of it sat ten empty thrones and a place for a soul. We laid down ev
 | [[Ogre]] | Insight (self, disadv) | 11 | Vaguely recalling the original Guildpact forging |
 | [[Rinestra "Rin" Genleth\|Rin]] | passive Perception 18 → Arcana 15 | — | Sensing the black-Leyline miasma & the approaching boss |
 
+### Kill Count
+
+**Combat 1 — Dragon-back drive-by of the Eternal horde:**
+- [[Sanis Reylana\|Sanis]] — shared (~100 Eternals; Force/dragon breath, 72 dmg)
+- [[Ogre]] — shared (~100 Eternals; Eldritch Blast)
+- [[Rinestra "Rin" Genleth\|Rin]] — shared (~100 Eternals; Holy Words / Sacred Flame)
+- [[Varis Aestra\|Varis]] — shared (~100 Eternals; dragon breath)
+- [[Orphea "Orphie" Levistus\|Orphie]] — 0 (only hurled insults; no damage)
+
+> The DM narrated a single collective kill — "you guys managed to take out like 100 Eternals in this one drive-by" — with **no per-character attribution**, so the ~100 kills are shared among the four who dealt damage (Sanis, Ogre, Rin, Varis). Orphie only "hurled insults" and dealt no damage.
+
+*(Combat 2 — the cliffhanger "[[Ogre of Bolas]]" — produced no kills: it begins as the session ends, with saving throws deferred to S16. The five color-trials are skill-challenges, not combat, and the Endurance crushing-ceiling is an environmental hazard, not an enemy killed.)*
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):

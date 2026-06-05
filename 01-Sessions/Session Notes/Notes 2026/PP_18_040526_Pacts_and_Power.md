@@ -129,6 +129,16 @@ This session runs in **three movements**:
 | [[Rinestra "Rin" Genleth\|Rin]] | Raise Dead via gauntlet — *transcript* | fail → **success** (2nd try, loaned slot) | Revives the slain Myconid |
 | [[Teferi]] | Fire Bolt (3d10) — *transcript* | **22** | Shatters the final pylon |
 
+### Kill Count
+
+**Combat 1 — The Rot Warren (force-field assault: 6 pylons + 12 Eternals):**
+- [[Orphea "Orphie" Levistus\|Orphie]] — 4 (2 pylons via T-Rex multiattack in the opening volley; 2 Eternals torn apart with the final bite + tail-swipe)
+- [[Rinestra "Rin" Genleth\|Rin]] — 3 (1 pylon + its 2 guarding Eternals, Fireball)
+- [[Varis Aestra\|Varis]] — 3 (1 pylon + its 2 guarding Eternals, Fireball)
+- [[Sanis Reylana\|Sanis]] — 3 (1 pylon overcharged/exploded + its 2 Eternals fried, Lightning Arrow via Ava's Longbow)
+- [[Teferi]] — 1 (the final, 6th pylon, Fire Bolt) *(guest PC)*
+- [[Ogre]] — 0 (Eldritch Blast only bounced Eternals off the field; his Shatter left the last pylon standing)
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim):

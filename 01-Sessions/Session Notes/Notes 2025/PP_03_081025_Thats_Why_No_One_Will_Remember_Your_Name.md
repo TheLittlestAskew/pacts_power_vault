@@ -300,6 +300,20 @@ The single sustained encounter is the **felling of God-Eternal Oketra**. Oketra 
 
 **Roll Summary by Character (DDB):** Sanis 20 · Orphie 17 · Varis 13 · Ogre 11 · **Rin 0**.
 
+### Kill Count
+
+The session was a single sustained combat — the **Siege of the 10th District / felling of God-Eternal Oketra**. Many lesser Eternals were narrated as slain by the party; counts below reflect kills with explicit transcript evidence ("X dies," "incinerate 14," "shred those five," etc.). The God-Eternal's finishing blow is attributed to Ogre (heart-stab + soul harvest).
+
+**Combat 1 — Siege of the 10th District (vs. God-Eternal Oketra & the Eternal horde):**
+- [[Ogre]] — 1 ([[God-Eternal Oketra]]; two heart-stabs of "Witch"/Duskblade, then the body goes still and its soul is drawn through the weapon)
+- [[Sanis]] — ~6 (1 undead Strixhaven sorcerer via fire arrow — "kill the sorcerer straight up… piercing right through its head"; 5 Eternals via Hail of Thorns — "completely shred those five Eternals"; plus jackal Eternals while riding Scrappy — "sure dies")
+- [[Rin]] — 14 (Eternals incinerated by Wall of Fire — "you immediately incinerate 14 Eternals")
+- [[Orphie]] — 3 (Eternals/jackals cleaved with [[Blazebringer]] — "you Cleave 3 Eternals with a single swing")
+- [[Varis]] — 0 (dealt heavy damage to Oketra — 64-force breath, claws — and grappled it prone, but no individual kill narrated)
+- [[Chandra Nalaar]] (guest PC, played by Bri) — 0 (repeated Fireballs + Immolation on Oketra; contributed to the kill but no solo finishing blow narrated)
+
+*Allies on the party's side (no individual kills tallied here):* [[Steve]] (restrained Oketra's legs), [[Molly]] + Boros Skyknight Legionnaires (spears into Oketra). The background [[Niv-Mizzet]] vs. [[Nicol Bolas]] duel is an NPC-vs-villain fight the party did not engage; Niv-Mizzet was killed by Bolas, so it yields no friendly kills.
+
 ---
 
 ## Section 7 — Quotes & Language

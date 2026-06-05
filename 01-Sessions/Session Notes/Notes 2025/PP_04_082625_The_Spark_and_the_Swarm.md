@@ -141,6 +141,17 @@ We went looking for Selena and found something worse and stranger: the Firemind'
 | ~00:55 / ~00:57 | [[Varis Aestra\|Varis]] / [[Rin]] | Passive Perception | 23 / 18 | passive (spotted Niv's corpse) |
 | ~01:03:36 | DM ([[Eternals]]) | Dex save vs breath | 7 | DM/NPC roll |
 
+### Kill Count
+
+**Combat 1 — Defending Niv-Mizzet's Corpse (vs. the [[Eternals]] horde):**
+- [[Varis]] — 18 (Eternals; Force Breath, 60-ft cone, 65 dmg — DM: "you just evaporate like 18 of them")
+- [[Ogre]] — multiple (Eternals; reaping souls with his [[Witch]]/Hexblade thrown blade — DM confirms each kill absorbs a soul)
+- [[Orphie]] — multiple (Eternals; DM: "mowing down some Eternals")
+- [[Sanis]] — multiple (Eternals; DM: Orphie and Sanis "mowing down some Eternals")
+- [[Isiah Ja-Faank]] — multiple (Eternals; allied NPC; DM: beheading Eternals with his fiery greatsword)
+- [[Chandra]] — 0 (slinging fire spells beside Isaiah, but no specific kill narrated)
+- [[Rin]] — 0 (support only — Sacred Flame / holy words from the back)
+
 ## 7. Quotes & Language
 
 **Quote Board** (verbatim, in-world):
