@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pacts &amp; Power · Session 01 · Into the Ghost Mind</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Cinzel+Decorative:wght@700&family=Raleway:wght@300;400;500&family=Alegreya+Sans+SC:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg-deep:#0a0b0f; --bg-surface:#12141c; --bg-card:#181b26; --bg-card-hover:#1e2130;
+    --border-subtle:rgba(255,255,255,.07); --border-accent:rgba(199,163,105,.28);
+    --text-primary:#e8e4dc; --text-secondary:#9a9590; --text-muted:#5e5a55;
+    --gold:#c7a369; --gold-dim:rgba(199,163,105,.15); --gold-glow:rgba(199,163,105,.35);
+    --crimson:#b44a4a; --crimson-dim:rgba(180,74,74,.16);
+    --emerald:#4a9e6e; --emerald-dim:rgba(74,158,110,.16);
+    --steel:#6b8aad;
+    --font-display:'Cinzel',serif; --font-body:'Raleway',sans-serif; --font-label:'Alegreya Sans SC',sans-serif;
+    --radius:6px; --radius-lg:12px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg-deep); color:var(--text-primary); font-family:var(--font-body);
+    font-weight:300; line-height:1.6; -webkit-font-smoothing:antialiased; position:relative; min-height:100vh;
+  }
+  body::before{
+    content:""; position:fixed; inset:0; z-index:0; pointer-events:none; opacity:.05;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .wrap{position:relative; z-index:1; max-width:1180px; margin:0 auto; padding:0 28px 80px}
+
+  /* eyebrow + labels */
+  .eyebrow{font-family:var(--font-label); text-transform:uppercase; letter-spacing:.18em; font-size:11px; color:var(--gold)}
+  .label{font-family:var(--font-label); text-transform:uppercase; letter-spacing:.14em; font-size:12px; color:var(--text-secondary)}
+
+  /* masthead */
+  .masthead{text-align:center; padding:56px 0 30px}
+  .masthead h1{font-family:var(--font-display); font-weight:600; font-size:clamp(34px,5vw,56px); letter-spacing:.03em; color:var(--text-primary); margin:14px 0 8px; line-height:1.08}
+  .masthead .date{font-family:var(--font-label); letter-spacing:.16em; text-transform:uppercase; font-size:13px; color:var(--text-muted)}
+  .seal{font-family:'Cinzel Decorative',serif; font-size:13px; color:var(--gold); letter-spacing:.3em}
+  .pills{display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-top:22px}
+  .pill{font-family:var(--font-label); letter-spacing:.08em; font-size:12px; color:var(--text-primary);
+    background:var(--bg-surface); border:1px solid var(--border-accent); border-radius:30px; padding:6px 15px; display:inline-flex; align-items:center; gap:6px}
+  .pill .n{font-family:var(--font-display); font-weight:700; font-size:14px}
+  .pill .n.good{color:var(--emerald)} .pill .n.bad{color:var(--crimson)}
+
+  /* celestial divider */
+  .divider{display:flex; align-items:center; justify-content:center; gap:14px; margin:30px 0; color:var(--gold)}
+  .divider::before,.divider::after{content:""; height:1px; flex:1; max-width:230px; background:linear-gradient(90deg,transparent,var(--border-accent))}
+  .divider::after{background:linear-gradient(90deg,var(--border-accent),transparent)}
+  .divider span{font-size:11px; letter-spacing:.4em}
+
+  /* 3-col body */
+  .body-grid{display:grid; grid-template-columns:0.9fr 1.75fr 1.05fr; gap:26px; align-items:start}
+  .col{display:flex; flex-direction:column; gap:18px}
+
+  .card{background:var(--bg-card); border:1px solid var(--border-subtle); border-radius:var(--radius-lg); padding:20px 22px; transition:border-color .25s ease}
+  .card:hover{border-color:var(--border-accent)}
+  .card h2{font-family:var(--font-display); font-weight:500; font-size:15px; letter-spacing:.05em; text-transform:uppercase; color:var(--text-primary); margin-bottom:14px; padding-bottom:10px; border-bottom:1px solid var(--gold-dim)}
+  .card h2 .ti{color:var(--gold)}
+
+  /* metadata kv */
+  .kv{display:grid; grid-template-columns:auto 1fr; gap:8px 12px; font-size:13.5px}
+  .kv dt{font-family:var(--font-label); text-transform:uppercase; letter-spacing:.08em; font-size:11px; color:var(--text-muted); align-self:center}
+  .kv dd{color:var(--text-primary)}
+
+  .chips{display:flex; flex-wrap:wrap; gap:6px; margin-top:6px}
+  .chip{font-size:12px; padding:4px 10px; border-radius:20px; background:var(--bg-surface); border:1px solid var(--border-subtle); color:var(--text-secondary)}
+  .chip.lead{border-color:var(--border-accent); color:var(--gold)}
+
+  /* quests */
+  .thread{margin:0 0 12px; padding-left:14px; border-left:2px solid var(--gold-dim)}
+  .thread .t{font-size:14px; color:var(--text-primary); margin-bottom:3px}
+  .status{font-family:var(--font-label); text-transform:uppercase; letter-spacing:.08em; font-size:10.5px; padding:2px 8px; border-radius:20px}
+  .status.open{color:var(--steel); border:1px solid rgba(107,138,173,.4)}
+  .status.done{color:var(--emerald); border:1px solid rgba(74,158,110,.4)}
+
+  /* center spine read sections */
+  .read p{color:var(--text-secondary); font-size:15px}
+  .read .preview{position:relative; max-height:108px; overflow:hidden}
+  .read .preview::after{content:""; position:absolute; inset:auto 0 0 0; height:54px; background:linear-gradient(180deg,transparent,var(--bg-card))}
+  .pov .preview p{font-family:var(--font-display); font-weight:500; font-style:italic; color:var(--text-primary); line-height:1.7; font-size:15.5px}
+  .readmore{margin-top:14px; background:none; border:none; cursor:pointer; font-family:var(--font-label); text-transform:uppercase; letter-spacing:.12em; font-size:12px; color:var(--gold); display:inline-flex; align-items:center; gap:6px; padding:0}
+  .readmore:hover{color:var(--text-primary)}
+  .readmore::after{content:"\2192"; transition:transform .2s ease}
+  .readmore:hover::after{transform:translateX(4px)}
+
+  .timeline li{list-style:none; font-size:14px; color:var(--text-secondary); padding:6px 0 6px 18px; position:relative; border-bottom:1px solid var(--border-subtle)}
+  .timeline li:last-child{border-bottom:none}
+  .timeline li::before{content:"\25C8"; position:absolute; left:0; top:6px; color:var(--gold); font-size:11px}
+  .timeline li b{color:var(--text-primary); font-weight:500}
+
+  /* right rail codex */
+  .npc{display:flex; align-items:center; gap:9px; font-size:13.5px; padding:7px 0; border-bottom:1px solid var(--border-subtle)}
+  .npc:last-child{border-bottom:none}
+  .dot{display:inline-block; width:7px; height:7px; border-radius:50%; flex:none}
+  .dot.enemy{background:var(--crimson)} .dot.friendly{background:var(--emerald)} .dot.neutral{background:var(--steel)}
+  .legend{display:flex; gap:14px; margin:-4px 0 14px; font-family:var(--font-label); text-transform:uppercase; letter-spacing:.08em; font-size:10.5px; color:var(--text-muted)}
+  .legend span{display:inline-flex; align-items:center; gap:5px}
+  .chip.guest{border-style:dashed}
+  .npc .meta{margin-left:auto; font-size:11px; color:var(--text-muted); font-family:var(--font-label); letter-spacing:.06em; text-transform:uppercase}
+  .loot{font-size:13.5px; padding:7px 0; border-bottom:1px solid var(--border-subtle)}
+  .loot:last-child{border-bottom:none}
+  .loot .o{color:var(--text-muted); font-size:11.5px; font-family:var(--font-label); text-transform:uppercase; letter-spacing:.06em}
+  blockquote{font-family:var(--font-display); font-style:italic; font-size:14px; color:var(--text-primary); line-height:1.5; padding:8px 0 8px 12px; border-left:2px solid var(--border-accent); margin:0 0 12px}
+  blockquote cite{display:block; font-family:var(--font-label); font-style:normal; text-transform:uppercase; letter-spacing:.1em; font-size:10.5px; color:var(--gold); margin-top:5px}
+  .word{padding:9px 0; border-bottom:1px solid var(--border-subtle)}
+  .word:last-child{border-bottom:none}
+  .word .w{font-family:var(--font-display); font-weight:600; color:var(--gold); font-size:15px; letter-spacing:.02em}
+  .word .says{display:flex; flex-wrap:wrap; gap:6px; margin-top:7px}
+  .word .says span{font-size:11.5px; color:var(--text-secondary); background:var(--bg-surface); border:1px solid var(--border-subtle); border-radius:20px; padding:2px 9px}
+
+  /* full-width logs */
+  .logs{margin-top:26px}
+  table{width:100%; border-collapse:collapse; font-size:13.5px; margin-top:6px}
+  thead th{font-family:var(--font-label); text-transform:uppercase; letter-spacing:.08em; font-size:11px; font-weight:500; color:var(--text-primary); background:#1f2230; text-align:left; padding:9px 12px}
+  tbody td{padding:9px 12px; border-top:1px solid var(--border-subtle); color:var(--text-secondary)}
+  tbody tr.combat{background:rgba(20,28,46,.5)}
+  td .good{color:var(--emerald); font-weight:500} td .bad{color:var(--crimson); font-weight:500}
+  .mini-tables{display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-top:6px}
+
+  /* footer notes */
+  .footer-notes{display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-top:26px}
+  .end{text-align:center; font-family:var(--font-label); letter-spacing:.3em; text-transform:uppercase; font-size:12px; color:var(--text-muted); margin-top:46px}
+
+  /* modal */
+  .overlay{position:fixed; inset:0; z-index:200; background:rgba(5,6,10,.78); backdrop-filter:blur(3px); display:none; align-items:flex-start; justify-content:center; padding:60px 20px; overflow-y:auto}
+  .overlay.open{display:flex}
+  .modal{background:var(--bg-surface); border:1px solid var(--border-accent); border-radius:var(--radius-lg); max-width:720px; width:100%; padding:36px 40px; position:relative; animation:rise .3s ease}
+  @keyframes rise{from{opacity:0; transform:translateY(16px)} to{opacity:1; transform:translateY(0)}}
+  .modal .eyebrow{display:block; margin-bottom:6px}
+  .modal h3{font-family:var(--font-display); font-weight:600; font-size:26px; letter-spacing:.03em; color:var(--text-primary); margin-bottom:6px}
+  .modal .modal-divider{height:1px; background:linear-gradient(90deg,var(--gold),transparent); margin:16px 0 22px}
+  .modal-body p{color:var(--text-secondary); font-size:15.5px; margin-bottom:16px}
+  .modal-body.pov p{font-family:var(--font-display); font-style:italic; color:var(--text-primary); line-height:1.8}
+  .modal-body li{color:var(--text-secondary); font-size:15px; margin:0 0 9px 18px}
+  .close{position:absolute; top:18px; right:20px; background:none; border:none; color:var(--text-muted); font-size:24px; cursor:pointer; line-height:1; transition:color .2s}
+  .close:hover{color:var(--gold)}
+
+  /* load stagger */
+  .reveal{opacity:0; transform:translateY(14px); animation:fade .6s ease forwards}
+  @keyframes fade{to{opacity:1; transform:translateY(0)}}
+
+  @media(max-width:920px){
+    .body-grid{grid-template-columns:1fr}
+    .mini-tables,.footer-notes{grid-template-columns:1fr}
+    .wrap{padding:0 18px 60px}
+  }
+</style>
+</head>
+<body>
+
+<!-- Save to GitHub archive bar (strip before deploying to rectrixcaedere) -->
+<div id="gh-save-bar" style="position:sticky; top:0; z-index:9999; background:#24292f; color:#fff; padding:8px 16px; display:flex; align-items:center; gap:12px; font-family:-apple-system,sans-serif; font-size:13px;">
+  <span style="opacity:.7;">📦 claude-artifacts</span>
+  <button id="gh-save-btn" onclick="saveToGitHub()" style="background:#2da44e; color:#fff; border:none; padding:5px 14px; border-radius:6px; cursor:pointer; font-size:13px; font-weight:600;">Save to GitHub</button>
+  <span id="gh-save-status" style="opacity:.8;"></span>
+</div>
+
+<div class="wrap">
+
+  <!-- ============ MASTHEAD (full width) ============ -->
+  <header class="masthead reveal">
+    <div class="seal">&#10070; PACTS &amp; POWER &#10070;</div>
+    <h1>Into the Ghost Mind</h1>
+    <div class="date">Session 01 &nbsp;&middot;&nbsp; 07 / 13 / 2025</div>
+    <div class="pills">
+      <span class="pill"><span class="n">37</span> rolls logged</span>
+      <span class="pill"><span class="n good">2</span> nat 20</span>
+      <span class="pill"><span class="n bad">1</span> nat 1</span>
+      <span class="pill">Party level <span class="n">12</span></span>
+      <span class="pill">Ghost Mind &#8594; Nivix</span>
+    </div>
+  </header>
+
+  <div class="divider"><span>&#10059;</span></div>
+
+  <!-- ============ 3-COLUMN BODY ============ -->
+  <div class="body-grid">
+
+    <!-- LEFT RAIL -->
+    <div class="col">
+      <section class="card reveal" style="animation-delay:.05s">
+        <h2>At a glance</h2>
+        <dl class="kv">
+          <dt>Start</dt><dd>The Ghost Mind, Dimir undercity</dd>
+          <dt>End</dt><dd>Fortress of Nivix, Izzet</dd>
+          <dt>Spelling</dt><dd>Checked &#10003;</dd>
+        </dl>
+        <div class="label" style="margin:16px 0 4px">Party present</div>
+        <div class="chips">
+          <span class="chip" style="border-color:#c7a369;color:#c7a369">Orphie</span>
+          <span class="chip" style="border-color:#d4943a;color:#d4943a">Ogre</span>
+          <span class="chip" style="border-color:#4a9e9e;color:#4a9e9e">Rin</span>
+          <span class="chip" style="border-color:#8b6bb5;color:#8b6bb5">Sanis</span>
+          <span class="chip" style="border-color:#6b8aad;color:#6b8aad">Varis</span>
+          <span class="chip guest" style="border-color:#b44a4a;color:#b44a4a">Chandra&#42;</span>
+          <span class="chip guest" style="border-color:#5b9bd5;color:#5b9bd5">Teferi&#42;</span>
+        </div>
+        <div class="label" style="font-size:10px;margin-top:8px;color:var(--text-muted);letter-spacing:.06em">&#42; guest planeswalker</div>
+      </section>
+
+      <section class="card reveal" style="animation-delay:.1s">
+        <h2>Quests &amp; objectives</h2>
+        <div class="thread">
+          <div class="t">Restore Szadek to Sanis's mind palace</div>
+          <span class="status done">Completed this session</span>
+        </div>
+        <div class="thread">
+          <div class="t">Escape the Ghost Mind's three trials</div>
+          <span class="status done">Completed this session</span>
+        </div>
+        <div class="thread">
+          <div class="t">The planeswalkers are trapped on Ravnica</div>
+          <span class="status open">Open thread</span>
+        </div>
+        <div class="thread">
+          <div class="t">Eternals invade through the Golgari</div>
+          <span class="status open">Open thread</span>
+        </div>
+      </section>
+    </div>
+
+    <!-- CENTER SPINE -->
+    <div class="col">
+      <section class="card read pov reveal" style="animation-delay:.08s">
+        <h2>Orphie's POV journal</h2>
+        <div class="preview">
+          <p>We went down into the dark on purpose this time. No chains, no one dragging us &mdash; just five of us and whatever the city kept hidden under its own skull. I have learned not to trust quiet, and the Ghost Mind was the loudest quiet I ever stood inside&hellip;</p>
+        </div>
+        <button class="readmore" onclick="openModal('full-pov')">Read the full entry</button>
+      </section>
+
+      <section class="card read reveal" style="animation-delay:.12s">
+        <h2>Narrative summary</h2>
+        <div class="preview">
+          <p>The party descended into the Ghost Mind, the Dimir's spectral information network, and faced three sequential trials: a chamber of judgment urns, a choir of ghosts, and a glass staircase of true-and-false lore. Reaching the core, they restored the vampire Szadek&hellip;</p>
+        </div>
+        <button class="readmore" onclick="openModal('full-narrative')">Read more</button>
+      </section>
+
+      <section class="card read reveal" style="animation-delay:.16s">
+        <h2>Scene / timeline breakdown</h2>
+        <ul class="timeline">
+          <li><b>Scene 1 &mdash;</b> Descent into the Ghost Mind; the Veil greets the party.</li>
+          <li><b>Scene 2 &mdash;</b> The judgment urns: a moral weighing.</li>
+          <li><b>Scene 3 &mdash;</b> The ghostly choir &mdash; harmony or silence.</li>
+          <li><b>Scene 4 &mdash;</b> The glass staircase of lore; one false step.</li>
+        </ul>
+        <button class="readmore" onclick="openModal('full-timeline')">See all scenes</button>
+      </section>
+
+      <section class="card read reveal" style="animation-delay:.2s">
+        <h2>Themes &amp; emotional beats</h2>
+        <div class="preview">
+          <p>Consent and possession run under the whole session &mdash; Szadek does not simply take Sanis's mind, he is invited in, and the party has to decide what that means. Found family tightens as the trials force them to vouch for one another&hellip;</p>
+        </div>
+        <button class="readmore" onclick="openModal('full-themes')">Read more</button>
+      </section>
+    </div>
+
+    <!-- RIGHT RAIL -->
+    <div class="col">
+      <section class="card reveal" style="animation-delay:.1s">
+        <h2>NPCs</h2>
+        <div class="legend">
+          <span><i class="dot enemy"></i>Enemy</span>
+          <span><i class="dot friendly"></i>Friendly</span>
+          <span><i class="dot neutral"></i>Neutral</span>
+        </div>
+        <div class="npc"><span class="dot friendly"></span> Kaya Cassir <span class="meta">Intervened</span></div>
+        <div class="npc"><span class="dot neutral"></span> Szadek <span class="meta">Restored</span></div>
+        <div class="npc"><span class="dot neutral"></span> Ral Zarek <span class="meta">Unknown</span></div>
+        <div class="npc"><span class="dot neutral"></span> Selena <span class="meta">Mentioned</span></div>
+        <div class="npc"><span class="dot neutral"></span> Hikara <span class="meta">Mentioned</span></div>
+        <div class="npc"><span class="dot enemy"></span> Amonkhet Eternals <span class="meta">Invading</span></div>
+      </section>
+
+      <section class="card reveal" style="animation-delay:.14s">
+        <h2>Locations</h2>
+        <div class="loot">The Ghost Mind<div class="o">Dimir spectral network</div></div>
+        <div class="loot">The glass staircase<div class="o">Trial of lore</div></div>
+        <div class="loot">Fortress of Nivix<div class="o">Izzet stronghold</div></div>
+      </section>
+
+      <section class="card reveal" style="animation-delay:.18s">
+        <h2>Loot &amp; artifacts</h2>
+        <div class="loot">Interplanar Beacon<div class="o">Activated &middot; trapped the walkers</div></div>
+        <div class="loot">The Immortal Sun<div class="o">Now in play on Ravnica</div></div>
+      </section>
+
+      <section class="card reveal" style="animation-delay:.22s">
+        <h2>Quote board</h2>
+        <blockquote>[ Pull quote from the session goes here ]<cite>&mdash; speaker, tagged funny</cite></blockquote>
+        <blockquote>[ A second standout line ]<cite>&mdash; DM quip</cite></blockquote>
+      </section>
+
+      <section class="card reveal" style="animation-delay:.26s">
+        <h2>Profanity record</h2>
+        <div class="word">
+          <div class="w">F&#42;ck</div>
+          <div class="says"><span>Orphie &times;2</span><span>Ogre &times;1</span></div>
+        </div>
+        <div class="word">
+          <div class="w">Sh&#42;t</div>
+          <div class="says"><span>Varis &times;2</span><span>DM &times;1</span></div>
+        </div>
+        <div class="word">
+          <div class="w">Da&#42;n</div>
+          <div class="says"><span>Rin &times;1</span></div>
+        </div>
+      </section>
+    </div>
+
+  </div>
+
+  <!-- ============ FULL-WIDTH BREAKOUT: LOGS ============ -->
+  <div class="divider"><span>&#10059; LOGS &#10059;</span></div>
+
+  <section class="card logs reveal">
+    <h2>Full roll log</h2>
+    <table>
+      <thead><tr><th>Character</th><th>Roll / check</th><th>Result</th><th>Context / outcome</th></tr></thead>
+      <tbody>
+        <tr><td>Orphie</td><td>Investigation</td><td><span class="good">23</span></td><td>Throne-room search &mdash; nat 20 die <span class="bad">(see flag: transcript reads Arcana 19)</span></td></tr>
+        <tr class="combat"><td>Varis</td><td>Fireball &mdash; damage</td><td>28</td><td>Eternal A &amp; B</td></tr>
+        <tr class="combat"><td>Sanis &dagger;</td><td>Perception</td><td>16</td><td>Glass staircase &mdash; transcript-only</td></tr>
+        <tr class="combat"><td>Orphie</td><td>Greataxe &mdash; to hit</td><td><span class="bad">1</span></td><td>Critical miss vs. Eternal A</td></tr>
+        <tr><td>Rin &dagger;</td><td>Cure Wounds &mdash; heal</td><td>14</td><td>Stabilized Ogre &mdash; physical dice</td></tr>
+      </tbody>
+    </table>
+    <div class="mini-tables">
+      <div>
+        <div class="label" style="margin:18px 0 6px">Encounters</div>
+        <table>
+          <thead><tr><th>Enemies</th><th>Outcome</th></tr></thead>
+          <tbody><tr><td>Amonkhet Eternals (stinger)</td><td>Ongoing</td></tr></tbody>
+        </table>
+      </div>
+      <div>
+        <div class="label" style="margin:18px 0 6px">Initiative</div>
+        <table>
+          <thead><tr><th>Character</th><th>Init</th></tr></thead>
+          <tbody><tr><td>Sanis</td><td>21</td></tr><tr><td>Varis</td><td>18</td></tr><tr><td>Orphie</td><td>12</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER BAND: ARCHIVIST NOTES ============ -->
+  <div class="footer-notes">
+    <section class="card reveal">
+      <h2>Patterns &amp; implications</h2>
+      <p style="color:var(--text-secondary); font-size:14.5px">Trapping the planeswalkers on Ravnica resets the campaign's escape logic &mdash; the party can no longer rely on walkers to bail them out. Watch for the Golgari breach to become a recurring pressure.</p>
+    </section>
+    <section class="card reveal">
+      <h2>Continuity flags</h2>
+      <p style="color:var(--text-secondary); font-size:14.5px">&#9873; Orphie's throne-room check: transcript says Arcana 19, DDB log shows Investigation 23 &mdash; needs confirmation.<br>&#9873; Benji's identity unconfirmed.</p>
+    </section>
+  </div>
+
+  <div class="end">&mdash; End of session notes &mdash;</div>
+
+</div>
+
+<!-- ============ MODAL ============ -->
+<div class="overlay" id="overlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button class="close" onclick="closeModal()" aria-label="Close">&times;</button>
+    <span class="eyebrow" id="modal-eyebrow">Pacts &amp; Power &middot; Session 01</span>
+    <h3 id="modal-title"></h3>
+    <div class="modal-divider"></div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<!-- Hidden full-length content for the modals -->
+<div style="display:none">
+  <div id="full-pov" data-title="Orphie's POV journal" data-pov="1">
+    <p>We went down into the dark on purpose this time. No chains, no one dragging us &mdash; just five of us and whatever the city kept hidden under its own skull. I have learned not to trust quiet, and the Ghost Mind was the loudest quiet I ever stood inside.</p>
+    <p>They wanted to weigh us. Urns and choirs and a staircase made of lies you could fall through. I am not built for riddles &mdash; I am built for the thing that comes after the riddle &mdash; so I let the clever ones talk and I kept the rest of us breathing.</p>
+    <p>[ This is placeholder copy demonstrating the modal. The live page will load Orphie's real journal entry from the vault markdown. ]</p>
+  </div>
+  <div id="full-narrative" data-title="Narrative summary">
+    <p>The session begins with the party descending into the Ghost Mind, the Dimir Guild's spectral information network. They navigate three sequential trials &mdash; a chamber of moral-judgment urns, a choir of ghosts, and a glass staircase of true-and-false lore statements.</p>
+    <p>Reaching the core, the party restores the vampire Szadek into Sanis's mind palace. Kaya Cassir intervenes. The party is then forced to planeswalk to the Izzet Guild's Fortress of Nivix, where the Interplanar Beacon activates and the Immortal Sun traps all planeswalkers on Ravnica. The session ends on a stinger: Amonkhet Eternals invading through the Golgari.</p>
+    <p>[ Placeholder &mdash; full narrative loads from the vault. ]</p>
+  </div>
+  <div id="full-timeline" data-title="Scene / timeline breakdown" data-list="1">
+    <ul>
+      <li><b>Scene 1 &mdash; Descent.</b> The party enters the Ghost Mind; the Veil greets them.</li>
+      <li><b>Scene 2 &mdash; The judgment urns.</b> A moral weighing of each member.</li>
+      <li><b>Scene 3 &mdash; The ghostly choir.</b> Harmony tested against silence.</li>
+      <li><b>Scene 4 &mdash; The glass staircase.</b> True-and-false lore; one wrong step is fatal.</li>
+      <li><b>Scene 5 &mdash; The core.</b> Szadek restored into Sanis's mind palace.</li>
+      <li><b>Scene 6 &mdash; Kaya's intervention &amp; the forced planeswalk to Nivix.</b></li>
+      <li><b>Scene 7 &mdash; The Beacon &amp; the stinger.</b> Eternals breach the Golgari.</li>
+    </ul>
+  </div>
+  <div id="full-themes" data-title="Themes &amp; emotional beats">
+    <p><b>Consent &amp; possession.</b> Szadek does not simply take Sanis's mind &mdash; he is invited in, and the party must decide what that invitation means.</p>
+    <p><b>Found family.</b> The trials force each member to vouch for the others, tightening the bond under pressure.</p>
+    <p>[ Placeholder &mdash; full themes section loads from the vault. ]</p>
+  </div>
+</div>
+
+<script>
+  function openModal(id){
+    var src=document.getElementById(id);
+    document.getElementById('modal-title').innerHTML=src.dataset.title;
+    var body=document.getElementById('modal-body');
+    body.className='modal-body'+(src.dataset.pov?' pov':'');
+    body.innerHTML=src.innerHTML;
+    var o=document.getElementById('overlay');
+    o.classList.add('open'); document.body.style.overflow='hidden';
+  }
+  function closeModal(){
+    document.getElementById('overlay').classList.remove('open');
+    document.body.style.overflow='';
+  }
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape')closeModal(); });
+
+  async function saveToGitHub(){
+    const btn=document.getElementById('gh-save-btn'), status=document.getElementById('gh-save-status');
+    btn.disabled=true; status.textContent='⏳ Saving...';
+    try{
+      const configRes=await fetch('https://api.github.com/repos/taylorritchie/claude-artifacts/contents/config.json',{headers:{'Accept':'application/vnd.github.v3+json'}});
+      if(!configRes.ok) throw new Error('Config file not found. Please add config.json to your claude-artifacts repo.');
+      const configData=await configRes.json();
+      const config=JSON.parse(atob(configData.content));
+      const token=config.github_token, owner=config.repo_owner, repo=config.repo_name;
+      const ARTIFACT_TITLE='pp-session-page-mockup', ARTIFACT_TYPE='html', ARTIFACT_EXT='.html';
+      const today=new Date().toISOString().split('T')[0];
+      const slug=ARTIFACT_TITLE.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+      const filepath=`${ARTIFACT_TYPE}/${today}_${slug}${ARTIFACT_EXT}`;
+      const content=document.documentElement.outerHTML;
+      const encoded=btoa(unescape(encodeURIComponent(content)));
+      let sha;
+      const checkRes=await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${filepath}`,{headers:{'Authorization':`token ${token}`,'Accept':'application/vnd.github.v3+json'}});
+      if(checkRes.ok){ sha=(await checkRes.json()).sha; }
+      const body={message:`Add ${ARTIFACT_TYPE} artifact: ${slug} (${today})`,content:encoded};
+      if(sha) body.sha=sha;
+      const saveRes=await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${filepath}`,{method:'PUT',headers:{'Authorization':`token ${token}`,'Accept':'application/vnd.github.v3+json','Content-Type':'application/json'},body:JSON.stringify(body)});
+      if(!saveRes.ok){ const err=await saveRes.json(); throw new Error(err.message||'GitHub API error'); }
+      const fileUrl=(await saveRes.json()).content.html_url;
+      status.innerHTML=`✅ Saved! <a href="${fileUrl}" target="_blank" style="color:#58a6ff;">View in GitHub</a>`;
+      btn.textContent='Saved ✓'; btn.style.background='#444';
+    }catch(err){ status.textContent=`❌ ${err.message}`; btn.disabled=false; btn.textContent='Retry'; }
+  }
+</script>
+</body>
+</html>
