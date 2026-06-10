@@ -153,7 +153,7 @@ python pacts_spelling_corrector.py                    # batch all raw transcript
 python pacts_spelling_corrector.py --report           # batch + CSV audit reports
 ```
 
-D&D Beyond roll sync is a browser-console workflow (`ddb_sync_supabase.js`), not a terminal command. Taylor runs it manually after a session, so synced rolls may lag the session by a few hours.
+D&D Beyond roll sync is a **Chrome extension** (`ddb-roll-sync/`), not a terminal command. Taylor loads it unpacked, scrolls a DDB dice log to capture the token, then clicks **Sync All Campaigns** in the popup to upsert rolls into Supabase. Usage and troubleshooting live in `ddb-roll-sync/README.md`. She runs it manually after a session, so synced rolls may lag the session by a few hours. (The old browser-console script `ddb_sync_supabase.js` is superseded by this extension.)
 
 ---
 
