@@ -10,6 +10,8 @@ level: 12
 alignment: Chaotic Good
 player: Taylor (OnceAndFutureQueen)
 status: Active
+user_id: "107965379"
+character_id: "73462645"
 ---
 
 # Orphea "Orphie" Levistus

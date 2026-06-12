@@ -6,6 +6,8 @@ class: Bard 3 / Warlock 5 / Barbarian 1 (Multiclass)
 level: 12
 player: Chet (Thechet)
 status: Active
+user_id: "110820674"
+character_id: "78340271"
 ---
 
 # Ogre

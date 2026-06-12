@@ -4,30 +4,30 @@
 
 ## Campaign Overview
 
-| Field | Detail |
-|---|---|
-| Campaign Name | Pacts & Power |
-| Game ID | 3661522 |
-| Setting | [[Ravnica]] (primary), multi-planar |
-| DM | Chris (heavyhart) |
-| Party Name | [[The Breakfast Club]] |
-| Campaign Start | January 2023 |
-| Campaign End | **05/31/26 — 🏁 COMPLETE.** [[Nicol Bolas|Bolas]] defeated & contained at the finale ([[PP_20_053126_I_Miss_You_Buddy|PP 20]]); Ravnica at peace. ~3.5 years. |
-| Sessions Remaining | **0 / Complete** (the finale [[PP_20_053126_I_Miss_You_Buddy|PP 20]], 05/31/26, was the last session) |
-| Next Campaign | **"Flowers"** ("powers to flowers" — see [[Where the Flowers Remember]]), starting **06/14/26** |
-| Current Party Level | 12 |
+| Field               | Detail                                                                                          |                                                                             |                                         |
+| ------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------- |
+| Campaign Name       | Pacts & Power                                                                                   |                                                                             |                                         |
+| Game ID             | 3661522                                                                                         |                                                                             |                                         |
+| Setting             | [[Ravnica]] (primary), multi-planar                                                             |                                                                             |                                         |
+| DM                  | Chris (heavyhart)                                                                               |                                                                             |                                         |
+| Party Name          | [[The Breakfast Club]]                                                                          |                                                                             |                                         |
+| Campaign Start      | January 2023                                                                                    |                                                                             |                                         |
+| Campaign End        | **05/31/26 — 🏁 COMPLETE.** [[Nicol Bolas                                                       | Bolas]] defeated & contained at the finale ([[PP_20_053126_I_Miss_You_Buddy | PP 20]]); Ravnica at peace. ~3.5 years. |
+| Sessions Remaining  | **0 / Complete** (the finale [[PP_20_053126_I_Miss_You_Buddy                                    | PP 20]], 05/31/26, was the last session)                                    |                                         |
+| Next Campaign       | **"Flowers"** ("powers to flowers" — see [[Where the Flowers Remember]]), starting **06/14/26** |                                                                             |                                         |
+| Current Party Level | 12                                                                                              |                                                                             |                                         |
 
 ## The Breakfast Club
 
-| PC                                   | Race           | Class                         | Player       | Status                                 |
-| ------------------------------------ | -------------- | ----------------------------- | ------------ | -------------------------------------- |
-| [[Orphea "Orphie" Levistus\|Orphie]] | Tiefling       | Barbarian (Totem Warrior)     | Taylor       | Active                                 |
-| [[Ogre]]                             | Stout Halfling | Bard/Warlock/Barbarian        | Chet         | Active                                 |
-| [[Rinestra "Rin" Genleth\|Rin]]      | Aasimar        | Cleric (Light Domain)         | Rachel       | Active                                 |
-| [[Sanis Reylana\|Sanis]]             | Drow           | Ranger (Fey Wanderer)         | Gabe         | Active                                 |
-| [[Varis Aestra\|Varis]]              | Gem Dragonborn | Sorcerer (Draconic/Ugin)      | Vincent      | Active                                 |
-| [[Lance]]                            | Genasi         | Rogue/Thief                   | Tenthebrutal | Inactive (left to care for his father); **revealed alive on Ravnica as a street-corner dealer — PP 12** |
-| [[Braun]]                            | Elf            | Sorcerer (Draconic Bloodline) | Clay         | Inactive (Boros Academy training)      |
+| PC                                   | Race           | Class                         | Player       | Status                                                                                                  | User_ID   | Character_ID |
+| ------------------------------------ | -------------- | ----------------------------- | ------------ | ------------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| [[Orphea "Orphie" Levistus\|Orphie]] | Tiefling       | Barbarian (Totem Warrior)     | Taylor       | Active                                                                                                  | 107965379 | 73462645     |
+| [[Ogre]]                             | Stout Halfling | Bard/Warlock/Barbarian        | Chet         | Active                                                                                                  | 110820674 | 78340271     |
+| [[Rinestra "Rin" Genleth\|Rin]]      | Aasimar        | Cleric (Light Domain)         | Rachel       | Active                                                                                                  | 115269602 | 87915377     |
+| [[Sanis Reylana\|Sanis]]             | Drow           | Ranger (Fey Wanderer)         | Gabe         | Active                                                                                                  | 108791519 | 80474774     |
+| [[Varis Aestra\|Varis]]              | Gem Dragonborn | Sorcerer (Draconic/Ugin)      | Vincent      | Active                                                                                                  | 108223303 | 77072065     |
+| [[Lance]]                            | Genasi         | Rogue/Thief                   | Tenthebrutal | Inactive (left to care for his father); **revealed alive on Ravnica as a street-corner dealer — PP 12** | 109511481 |              |
+| [[Braun]]                            | Elf            | Sorcerer (Draconic Bloodline) | Clay         | Inactive (Boros Academy training)                                                                       | 117304688 | 102457478    |
 
 ## Party Assets
 

@@ -8,6 +8,8 @@ class: Ranger (Fey Wanderer)
 level: 12
 player: Gabe (Gabe0610)
 status: Active
+user_id: "108791519"
+character_id: "80474774"
 ---
 
 # Sanis Reylana

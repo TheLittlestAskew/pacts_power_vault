@@ -8,6 +8,8 @@ class: Sorcerer (Draconic Bloodline — Ugin)
 level: 12
 player: Vincent (WoodlandSniperX)
 status: Active
+user_id: "108223303"
+character_id: "77072065"
 ---
 
 # Varis Aestra

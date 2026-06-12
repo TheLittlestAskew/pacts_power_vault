@@ -9,6 +9,8 @@ class: Cleric (Light Domain)
 level: 12
 player: Rachel (TheRockyHam)
 status: Active
+user_id: "115269602"
+character_id: "87915377"
 ---
 
 # Rinestra "Rin" Genleth
