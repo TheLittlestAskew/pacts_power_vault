@@ -1,0 +1,14 @@
+{
+  "_README": "DDB characterIds for The Breakfast Club (Pacts & Power). Taken from the Campaign Dashboard roster. The campaign is COMPLETE (ended 2026-05-31), so this is a one-time archive of the party's final sheets — there's no watcher to auto-refresh it. Output files are named after the real character name from each fetched sheet, so this registry only needs IDs. Sheets are likely Campaign-Only; add DDB_COBALT to .env to fetch them. Lance has no characterId on record (left the campaign).",
+  "campaign": "Pacts & Power",
+  "gameId": 3661522,
+  "characters": [
+    { "name": "Orphie Levistus",   "characterId": 73462645,  "_player": "Taylor",       "_status": "active" },
+    { "name": "Ogre",              "characterId": 78340271,  "_player": "Chet",         "_status": "active" },
+    { "name": "Rin Genleth",       "characterId": 87915377,  "_player": "Rachel",       "_status": "active" },
+    { "name": "Sanis Reylana",     "characterId": 80474774,  "_player": "Gabe",         "_status": "active" },
+    { "name": "Varis Aestra",      "characterId": 77072065,  "_player": "Vincent",      "_status": "active" },
+    { "name": "Braun",             "characterId": 102457478, "_player": "Clay",         "_status": "inactive" },
+    { "name": "Lance",             "characterId": 0,         "_player": "Tenthebrutal", "_status": "inactive — no characterId on record" }
+  ]
+}

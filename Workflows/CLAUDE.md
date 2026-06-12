@@ -151,9 +151,16 @@ python pacts_spelling_corrector.py --dry-run          # preview, writes nothing
 python pacts_spelling_corrector.py --file 03-081025-Pacts.md
 python pacts_spelling_corrector.py                    # batch all raw transcripts
 python pacts_spelling_corrector.py --report           # batch + CSV audit reports
+
+# Archive the party's DDB character sheets (one-time; campaign complete).
+# Output -> 03-Characters/01 PCs/Party Character Sheets/  (gitignored — public repo)
+cd C:\Users\theli\pacts_power_vault\Workflows
+node ddb_party_sync.js                # 5/7 fetch anonymously; add DDB_COBALT to .env for Sanis
 ```
 
 D&D Beyond roll sync is a **Chrome extension** (`ddb-roll-sync/`), not a terminal command. Taylor loads it unpacked, scrolls a DDB dice log to capture the token, then clicks **Sync All Campaigns** in the popup to upsert rolls into Supabase. Usage and troubleshooting live in `ddb-roll-sync/README.md`. She runs it manually after a session, so synced rolls may lag the session by a few hours. (The old browser-console script `ddb_sync_supabase.js` is superseded by this extension.)
+
+> **Full index:** [`TRIGGERABLE_ACTIONS.md`](TRIGGERABLE_ACTIONS.md) lists every triggerable action in `Workflows/` (transcribe, spelling corrector, notes normalizer, party-sheet sync, roll-sync extension) — what each does and how to fire it.
 
 ---
 

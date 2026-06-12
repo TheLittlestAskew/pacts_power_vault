@@ -5,3 +5,16 @@
 .smart-env/
 
 *.mp3
+
+# ── Secrets ───────────────────────────────────────────────────
+# This repo is PUBLIC — never commit credentials. Covers .env and name.env.
+.env
+*.env
+
+# ── Auto-fetched DDB party sheets (other players' data) ───────
+# ddb_party_sync.js pulls full character sheets players shared only
+# "Campaign Only" on D&D Beyond — republishing them to this PUBLIC repo
+# would override that choice. Ignore the generated raw JSON + markdown.
+# (The hand-written "<Name> - Character Sheet.md" files are NOT affected.)
+03-Characters/01 PCs/Party Character Sheets/_raw/
+03-Characters/01 PCs/Party Character Sheets/*(DDB).md
