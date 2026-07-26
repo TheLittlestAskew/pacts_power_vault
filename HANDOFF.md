@@ -12,6 +12,12 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-07-26 11:44 ET · Claude Code
+- **Changed:** Added the Handoff Contract to `AGENTS.md` so Codex follows it. Codex reads `AGENTS.md`, never `~/.claude/skills/`, so it had no handoff instructions at all before this.
+- **Commit:** `d8bc3ed`
+- **Next:** Unchanged. See the block above this log.
+- **Watch out:** Log entries must now carry a tool label (`Claude Code` / `Claude desktop` / `Codex` / `ChatGPT`). Do not restructure this file; the dashboard parses it.
+
 ### 2026-07-26 11:22 ET · Claude Code
 - **Changed:** Backfilled the log for 2026-06-27 → 2026-06-29. Both commits in that window are automated `vault backup:` commits from Obsidian Git, so there is no human work narrative to record.
 - **Commit:** `35f733f`, `dd726c6`
