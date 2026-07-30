@@ -12,6 +12,12 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-07-29 20:41 ET · Claude Code
+- **Changed:** Removed the retired duplicate `ddb-roll-sync` extension from `Workflows/ddb-roll-sync/`, 6 files. Every copy across the vaults had drifted to a different version, so it is consolidated in one place and writes direct to Rectrix_Caedere. Found by a cross-repo handoff sweep; the deletions were already uncommitted in the working tree and Taylor confirmed they were deliberate. The same cleanup landed in `ashfall_vault` as `e0682ed`.
+- **Commit:** `9f77b06`
+- **Next:** Unchanged. See the block above this log.
+- **Watch out:** ⚠️ A *deletion* commit banked on Taylor's confirmation, not on my own reading of the tree. If a copy is still needed here it is in git history at the parent of `9f77b06`.
+
 ### 2026-07-26 11:44 ET · Claude Code
 - **Changed:** Added the Handoff Contract to `AGENTS.md` so Codex follows it. Codex reads `AGENTS.md`, never `~/.claude/skills/`, so it had no handoff instructions at all before this.
 - **Commit:** `d8bc3ed`
