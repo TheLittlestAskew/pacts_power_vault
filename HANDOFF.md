@@ -12,6 +12,13 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-09-02 22:20 ET · Claude Code (TOOLS.md tool inventory added)
+- **Changed:** Added `TOOLS.md` (16 active rows) — Obsidian + its 5 plugins including chatgpt-md, AssemblyAI via `pp_transcribe.js`, Supabase, the shared ddb-roll-sync extension, and the rest. `AGENTS.md` gained a `### TOOLS.md` subsection so Codex maintains it too. One of 13 project tables that `septentrion-sync` v4 rolls into the vault's new `The Toolbox.md`.
+- **Commit:** `0e26d6a`
+- **Friction:** gen-fail — seeded Node.js here as `Node.js` while nine other projects used `Node.js + npm`, which split one tool into two rows in the master table. The sync's Problems section caught it, not me. Fixed here and in the dashboard table; verified on the next run when shared tools went 31 → 30. The Tool cell is a join key — normalize the name at write time.
+- **Next:** Unchanged. See the block above this log.
+- **Watch out:** ⚠️ This vault is **dormant** (last real commit 2026-07-29) and the table says so up front, so expect most of its rows in the master's 90-day stale section. The one `Paid` stale row is AssemblyAI — stale because the campaign is, not because a subscription is idling. Separately, `Ephemeris/pacts_power_vault.md` is still frozen at 2026-08-27 and pushing a stale row into SystemHorizon daily; that decision is still open.
+
 ### 2026-07-29 20:41 ET · Claude Code
 - **Changed:** Removed the retired duplicate `ddb-roll-sync` extension from `Workflows/ddb-roll-sync/`, 6 files. Every copy across the vaults had drifted to a different version, so it is consolidated in one place and writes direct to Rectrix_Caedere. Found by a cross-repo handoff sweep; the deletions were already uncommitted in the working tree and Taylor confirmed they were deliberate. The same cleanup landed in `ashfall_vault` as `e0682ed`.
 - **Commit:** `9f77b06`
