@@ -5,7 +5,16 @@
 > Note: this is a notes/content vault — most session-note edits won't have a "next dev step." Use the DO NEXT block for things like next-session prep if useful, or leave it as "—".
 
 ## ▶ DO NEXT
-— No in-flight task. Everything committed here since enablement was an automated Obsidian Git backup, not deliberate work.
+
+🛑 **NOTHING. THIS CAMPAIGN IS OVER AND THIS VAULT IS AN ARCHIVE.** Pacts & Power is no longer active; no updates are expected here and a long gap is correct, not a problem. **A ⚠️ stale flag for this repo in `Return Point` is the permanent, expected state — do not action it.**
+
+🛑 **Do not ask Taylor to make changes to this vault.** Not tidy-ups, not format migrations, not bringing it in line with the newer vaults. The only two exceptions: **(1) a privacy or security issue** — this repo is **public**, so leaked personal detail, credentials, or account/game IDs must be acted on and raised; **(2) something she would genuinely regret not knowing.** "Could be neater" is never either one.
+
+✅ **DO keep monitoring it when a change elsewhere could reach in here** — her words: *"I don't want it to break because I updated something else one day."* Check this vault whenever something shared moves: a renamed Supabase view/table/column, a renamed script or path, a change to the handoff / `septentrion-sync` / tool-inventory contracts (this repo is in **both** `REPOS` and `TOOLS_REPOS`), or anything altering how Rectrix Caedere serves P&P data. **Monitoring is read-only: report, do not fix here.**
+
+📌 **Why it is kept:** this was the original guinea pig. The session pipeline, handoff motion, tool inventory and roll archive were invented and debugged here first, so it records how those processes came to exist. **Its data also stays in Rectrix Caedere — do not propose removing it from there either.**
+
+📄 Full version in `CLAUDE.md` and `AGENTS.md` at this repo root.
 
 ---
 

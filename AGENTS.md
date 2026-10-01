@@ -1,4 +1,12 @@
 # Repository Guidelines
+> 🛑 **ARCHIVE — THIS CAMPAIGN IS OVER.** Pacts & Power is no longer active. No
+> updates are expected here and a long quiet gap is correct. **Do not ask Taylor
+> to make changes to this vault** — not tidy-ups, not format migrations. Only two
+> exceptions: a **privacy or security issue** (this repo is public), or something
+> she would genuinely regret not knowing. ✅ **DO keep monitoring it when a change
+> elsewhere could break it** — renamed views, scripts, paths, or contract changes.
+> Monitoring is read-only: report, do not fix here. Full note in `CLAUDE.md`.
+
 
 ## Handoff Contract (required)
 
