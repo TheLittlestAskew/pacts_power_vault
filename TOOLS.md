@@ -25,9 +25,9 @@
 | **D&D Beyond** | Site | Source of roll and character data | dndbeyond.com | ~2026-07-22 | Paid | — |
 | **08-MCP_Workspace** | Data | Scratch workspace for MCP-driven note operations | `08-MCP_Workspace/` | ~2026-07-29 | Free | No `.mcp.json` at this vault root — reached via global MCP config |
 | **Node.js + npm** | CLI | Running `pp_transcribe.js` | local install | ~2026-05-31 | Free | — |
-| **git** | CLI | Version control, handoff motion | `C:\Program Files\Git` | 2026-07-29 | Free | — |
+| **git** | CLI | Version control, handoff motion | `C:\Program Files\Git` | 2026-10-01 | Free | — |
 | **GitHub** | Service | Remote host for `TheLittlestAskew/pacts_power_vault` | github.com | 2026-07-29 | Free | — |
-| **Claude Code** | App | Session notes, backfills, handoffs | CLI / IDE extension | 2026-07-29 | Paid | — |
+| **Claude Code** | App | Session notes, backfills, handoffs | CLI / IDE extension | 2026-10-01 | Paid | — |
 | **septentrion-sync** | Skill | Rolls this vault's tool table into the master | `~/.claude/skills/septentrion-sync` | 2026-09-02 | Free | ⚠️ In `TOOLS_REPOS` but **not** `REPOS` — and a stranded `Ephemeris/pacts_power_vault.md` from 2026-08-27 is still feeding stale data to SystemHorizon |
 
 ## Retired
