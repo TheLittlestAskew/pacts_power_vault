@@ -21,6 +21,12 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-10-01 15:30 ET · Claude Code — Taylor ruled on wtff_vault/: leave it. Recorded so it stops being re-raised.
+- **Changed:** Added the ruling to `CLAUDE.md`'s DO NOT list, the file Claude Code auto-loads, which is where the 12:40 session correctly put the archive rule for the same reason. **Taylor's decision: leave `wtff_vault/` exactly as it is.** No deletion, no repairing its `.git`, no merging. It is already neutralised by the `473ba6b` gitignore, so there is no outstanding risk attached to the decision.
+- **Commit:** `pending — this entry's own commit`
+- **Next:** Unchanged. Still a "do not work here" notice.
+- **Watch out:** 📌 **The reason this is written in `CLAUDE.md` rather than only here: two separate sessions have now independently flagged that folder and mis-diagnosed it the same way** (as an embedded repo with a divergent HEAD, which it does not have). A third would cost Taylor the same attention for the third time. The auto-loaded file is the only place that reliably prevents that, which is the same argument the 12:40 entry made about the archive rule itself.
+
 ### 2026-10-01 15:20 ET · Claude Code — closed a route by which this PUBLIC repo could have committed the wtff_vault/ copy
 - **Changed:** `wtff_vault/` added to `.gitignore`. **Acted on under exception (1) in this vault's `CLAUDE.md` — a privacy/security issue in a public repo — and under the listed DO item about "a shared `.gitignore` pattern that other public vaults received and this one did not."** Same category as the `screencapture-*` rule in `dfec4e8`. 🛑 **The hazard, demonstrated before the fix, not assumed:** `git add --dry-run -- 'wtff_vault/HANDOFF.md'` **succeeded**. That folder's `.git` has **no `refs/` directory**, which makes it an invalid git dir, so git discovery walks up and every git command run from inside it silently operates on **this** repo. Its `HANDOFF.md` sat at **exactly 15 entries against the rotation cap of 15**, and `Handoff Log Rotate` scans **two levels deep** so it enrols that folder — one more entry and the task would have rewritten the file, staged it as `wtff_vault/HANDOFF.md`, and **self-banked it into this public repo as a routine-looking `chore: rotate HANDOFF.md log` commit.** ✅ After the ignore the same `git add` is refused with exit 1, and `audit-public` stops attributing that folder to this repo: scanned **377 → 370**, findings **48 → 46**.
 - **Commit:** `473ba6b`

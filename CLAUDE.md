@@ -26,6 +26,18 @@ views, or dashboard entries from that project either.
 - **Do not open items in `## ▶ DO NEXT`** expecting them to be worked. The block
   is deliberately empty.
 - Do not delete its data from Rectrix Caedere.
+- 🛑 **Do not raise `wtff_vault/` again. DECIDED 2026-10-01 by Taylor: leave it.**
+  It is a near-duplicate copy of the WtFF vault from before that project was split
+  out. 21 of its 24 top-level files are byte-identical to the real `wtff_vault`; the
+  3 that differ are stale copies from 09-05, 09-02 and 08-24. Its `.git` has no
+  `refs/` directory, so it is an **invalid git dir and git discovery walks up** —
+  meaning any git command run from inside it reports *this* repo's state, which is
+  why two separate sessions have mis-described it as "an embedded repo with a
+  divergent HEAD". It has none. ✅ **It is already neutralised:** `wtff_vault/` is
+  gitignored (`473ba6b`), so the one real hazard — `Handoff Log Rotate` scanning two
+  levels deep and self-banking that folder's `HANDOFF.md` into this public repo — is
+  closed, and `git add` on it now fails. **Nothing further is wanted. Do not propose
+  deleting it, fixing its `.git`, or merging it.**
 
 ### The only two exceptions
 
