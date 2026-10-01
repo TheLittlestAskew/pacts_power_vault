@@ -38,3 +38,23 @@ SKILLS.md
 screencapture-*
 **/screencapture-*
 *dash.cloudflare*
+
+# 🛑 wtff_vault/ is a near-duplicate copy of the WtFF vault left here from before
+# that project was split into its own repo (2026-10-01). Ignored, NOT deleted: its
+# fate is still Taylor's call, and it is untracked data.
+#
+# WHY THIS LINE EXISTS, because it is not obvious. That folder has its own .git,
+# but that .git has no refs/ directory, which makes it an INVALID git dir, so git
+# discovery WALKS UP and every git command run from inside it silently operates on
+# pacts_power_vault instead. Its HANDOFF.md sat at exactly 15 entries against the
+# rotation cap of 15; one more entry and the Handoff Log Rotate task (which scans
+# two levels deep, so it enrols this folder) would have rewritten that file,
+# staged it as wtff_vault/HANDOFF.md, and self-banked it straight into THIS PUBLIC
+# repo as a routine-looking "chore: rotate HANDOFF.md log" commit.
+#
+# Ignoring it closes that route: `git add` on an ignored path fails without -f.
+# It also stops audit-public attributing that folder's findings to this repo.
+# 21 of its 24 top-level files are byte-identical to the real wtff_vault; the 3
+# that differ (HANDOFF.md, TOOLS.md, .gitignore) are stale copies from 09-05,
+# 09-02 and 08-24. Delete this block if the folder is ever resolved properly.
+wtff_vault/
