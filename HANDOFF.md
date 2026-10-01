@@ -21,6 +21,18 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-10-01 12:40 ET · Claude Code — marked this vault an ARCHIVE, with the DO/DO NOT in three places
+
+- **Changed:** Recorded Taylor's standing instruction that **this campaign is over and this vault is an archive**: new root `CLAUDE.md` (the file Claude Code auto-loads, so it cannot be missed), a banner at the top of `AGENTS.md` for Codex, and a rewritten `## ▶ DO NEXT` block — which also puts it on the vault dashboard through `septentrion-sync`, replacing a stale "no in-flight task" line.
+  - 🛑 **The rule: do not ask her to make changes here.** Not tidy-ups, not format migrations, not bringing this vault in line with the newer ones. Two exceptions only — **a privacy or security issue** (this repo is public), or **something she would genuinely regret not knowing**. "Could be neater" is neither.
+  - ✅ **The counterpart, which matters as much: keep monitoring it when a change elsewhere could reach in.** Her words: *"I don't want it to break because I updated something else one day."* Renamed Supabase views/tables/columns, renamed scripts or paths, or changes to the handoff / `septentrion-sync` / tool-inventory contracts — this repo sits in **both** `REPOS` and `TOOLS_REPOS`. **Monitoring is read-only: report, never fix here.**
+  - 📌 **Why it is kept:** the original guinea pig. The session pipeline, handoff motion, tool inventory and roll archive were all invented and debugged here first. **Its data also stays in Rectrix Caedere** — do not propose removing it there either.
+  - 📌 **A stale/cold flag for this repo in `Return Point` is now the permanent expected state**, not a defect to action.
+  - ✅ Applied the `screencapture-*` / `*dash.cloudflare*` gitignore rule under the privacy exception above: this repo is **public** and had no such pattern while `skitl_vault` did. Verified nothing matching was already tracked, so it is preventative and no tracked file was silently dropped from the index.
+- **Commit:** `dfec4e8`
+- **Next:** Nothing, by design. This block is intentionally a "do not work here" notice rather than a task.
+- **Watch out:** ⚠️ **21 modified `PP_*` session notes are sitting uncommitted in this working tree and are NOT from this change** — I scoped the commit to the four files I touched. ⚠️ **`wtff_vault/` is an embedded git repo inside this vault** with a divergent HEAD and its own dirty tree; flagged to Taylor, deliberately not touched. Its `.env` is safely ignored, so it is not a secrets exposure.
+
 ### 2026-09-02 22:20 ET · Claude Code (TOOLS.md tool inventory added)
 - **Changed:** Added `TOOLS.md` (16 active rows) — Obsidian + its 5 plugins including chatgpt-md, AssemblyAI via `pp_transcribe.js`, Supabase, the shared ddb-roll-sync extension, and the rest. `AGENTS.md` gained a `### TOOLS.md` subsection so Codex maintains it too. One of 13 project tables that `septentrion-sync` v4 rolls into the vault's new `The Toolbox.md`.
 - **Commit:** `0e26d6a`
