@@ -5,6 +5,8 @@ play_date: 01/11/26
 title: The Masquerade Auction
 transcript: "[[11-011126-Pacts-Corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_11 — The Masquerade Auction

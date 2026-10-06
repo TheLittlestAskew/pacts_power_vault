@@ -5,6 +5,8 @@ play_date: 09/07/25
 title: Do You Smell That? It's Breakfast Time
 transcript: "[[05-090725-Pacts-Corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_05 — Do You Smell That? It's Breakfast Time

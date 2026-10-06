@@ -5,6 +5,8 @@ play_date: 12/14/25
 title: You Can't Just Buy the Sun
 transcript: "[[10-121425-Pacts-Corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_10 — You Can't Just Buy the Sun

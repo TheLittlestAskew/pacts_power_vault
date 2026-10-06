@@ -5,6 +5,8 @@ play_date: 05/31/26
 title: I Miss You, Buddy
 transcript: "[[20 P&P 053126 thefinale_transcript-Corrected]]"
 party_level: 12
+campaign:
+  - Pacts & Power
 ---
 
 # PP_20 — I Miss You, Buddy

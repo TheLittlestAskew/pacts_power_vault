@@ -5,6 +5,8 @@ play_date: 10/05/25
 title: The Reylana Infiltration
 transcript: "[[07-100525-Pacts-Corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_07 — The Reylana Infiltration

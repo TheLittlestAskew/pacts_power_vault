@@ -5,6 +5,8 @@ play_date: 02/13/26
 title: Hold the Wall
 transcript: "[[13 021326 P&P_transcript]]"
 party_level: 11
+campaign:
+  - Pacts & Power
 ---
 
 # PP_13 — Hold the Wall

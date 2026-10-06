@@ -2,14 +2,25 @@
 type: session
 session_number: 1
 session_date: 2025-07-13
-title: "Into the Ghost Mind"
-start_location: "Ghost Mind Entrance / Foyer (Dimir Territory, Ravnica)"
-end_location: "Fortress of Nivix (Izzet Guild HQ, Ravnica)"
-party_present: ["Orphie", "Ogre", "Rin", "Sanis", "Varis"]
-npcs_present: ["Selena", "Hikara", "Benji", "Kaya Cassir", "Ral Zarek"]
+title: Into the Ghost Mind
+start_location: Ghost Mind Entrance / Foyer (Dimir Territory, Ravnica)
+end_location: Fortress of Nivix (Izzet Guild HQ, Ravnica)
+party_present:
+  - Orphie
+  - Ogre
+  - Rin
+  - Sanis
+  - Varis
+npcs_present:
+  - Selena
+  - Hikara
+  - Benji
+  - Kaya Cassir
+  - Ral Zarek
 total_rolls: 39
 party_level: 12
 spelling_checked: true
+campaign: Pacts & Power
 ---
 
 # Session 01 — Into the Ghost Mind

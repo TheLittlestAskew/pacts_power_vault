@@ -5,6 +5,8 @@ play_date: 09/17/25
 title: Soul Integrated Soul Storage, Get It Right
 transcript: "[[06-091725-Pacts-Corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_06 — Soul Integrated Soul Storage, Get It Right

@@ -5,6 +5,8 @@ play_date: 05/14/26
 title: I Just Need Your Soul
 transcript: "[[19 051426 P&P_transcript-Corrected]]"
 party_level: 12
+campaign:
+  - Pacts & Power
 ---
 
 # PP_19 — I Just Need Your Soul

@@ -2,14 +2,30 @@
 type: session
 session_number: 3
 session_date: 2025-08-10
-title: "That's Why No One Will Remember Your Name"
-start_location: "10th District Battlefield / DMZ (Boros–Orzhov border, Ravnica)"
-end_location: "Selesnya Conclave / Vitu-Ghazi (Ravnica)"
-party_present: ["Orphie", "Ogre", "Rin", "Sanis", "Varis"]
-npcs_present: ["Chandra Nalaar", "Molly", "Steve", "Niv-Mizzet", "Nicol Bolas", "God-Eternal Oketra", "Nissa", "Brula", "Scrappy"]
+title: That's Why No One Will Remember Your Name
+start_location: 10th District Battlefield / DMZ (Boros–Orzhov border, Ravnica)
+end_location: Selesnya Conclave / Vitu-Ghazi (Ravnica)
+party_present:
+  - Orphie
+  - Ogre
+  - Rin
+  - Sanis
+  - Varis
+npcs_present:
+  - Chandra Nalaar
+  - Molly
+  - Steve
+  - Niv-Mizzet
+  - Nicol Bolas
+  - God-Eternal Oketra
+  - Nissa
+  - Brula
+  - Scrappy
 total_rolls: 61
 party_level: 12
 spelling_checked: true
+campaign:
+  - Pacts & Power
 ---
 
 # Session 03 — That's Why No One Will Remember Your Name

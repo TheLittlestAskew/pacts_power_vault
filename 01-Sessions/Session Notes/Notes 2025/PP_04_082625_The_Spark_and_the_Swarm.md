@@ -5,6 +5,8 @@ play_date: 08/26/25
 title: The Spark and the Swarm
 transcript: "[[04_082625_corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_04 — The Spark and the Swarm

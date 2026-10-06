@@ -5,6 +5,8 @@ play_date: 04/19/26
 title: Hi, I'm Ogre
 transcript: "[[18 041926 P&P_transcript]]"
 party_level: 12
+campaign:
+  - Pacts & Power
 ---
 
 # PP_18 — Hi, I'm Ogre

@@ -2,14 +2,32 @@
 type: session
 session_number: 2
 session_date: 2025-07-27
-title: "I Can't Rebuild You"
-start_location: "Fortress of Nivix (top), Izzet Guild HQ, Ravnica"
-end_location: "Plaza East/South front lines — falling toward the ground under smoke (10th District, Ravnica)"
-party_present: ["Orphie", "Ogre", "Rin", "Sanis", "Varis"]
-npcs_present: ["Ral Zarek", "Dalya", "Pippi", "Clarissa", "Szadek", "Molly", "Nissa", "Saskia", "Myra", "Samut", "Steve"]
+title: I Can't Rebuild You
+start_location: Fortress of Nivix (top), Izzet Guild HQ, Ravnica
+end_location: Plaza East/South front lines — falling toward the ground under smoke (10th District, Ravnica)
+party_present:
+  - Orphie
+  - Ogre
+  - Rin
+  - Sanis
+  - Varis
+npcs_present:
+  - Ral Zarek
+  - Dalya
+  - Pippi
+  - Clarissa
+  - Szadek
+  - Molly
+  - Nissa
+  - Saskia
+  - Myra
+  - Samut
+  - Steve
 total_rolls: 52
 party_level: 12
 spelling_checked: true
+campaign:
+  - Pacts & Power
 ---
 
 # Session 02 — I Can't Rebuild You

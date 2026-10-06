@@ -5,6 +5,8 @@ play_date: 10/19/25
 title: Blood Runs Thicker Than Water
 transcript: "[[08-101925-Pacts-Corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_08 — Blood Runs Thicker Than Water

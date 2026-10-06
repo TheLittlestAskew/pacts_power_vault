@@ -5,6 +5,8 @@ play_date: 04/02/26
 title: The Guildpact Reborn
 transcript: "[[16_040226_Pacts_transcript]]"
 party_level: 11
+campaign:
+  - Pacts & Power
 ---
 
 # PP_16 — The Guildpact Reborn

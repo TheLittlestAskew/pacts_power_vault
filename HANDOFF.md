@@ -21,6 +21,16 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-10-06 11:30 ET · Claude Code (banked 21 session notes that had been dirty long enough to become the fleet's worst outlier)
+
+- **Changed:** Banked work that was already finished on disk but had never been committed. **Nothing was authored here and no canon was edited.**
+  - **21 files gained a `campaign:` frontmatter property** (`- Pacts & Power`), and three of them additionally had their YAML reformatted by Obsidian's property editor — inline arrays (`["Orphie", "Ogre", …]`) expanded into block lists and quoted scalars unquoted. That reformatting is lossless; the same keys, re-expressed.
+  - ⭐ **The property and the untracked `01-Sessions/PP_Session_Base.base` are one unit of work, not two coincidences.** The Base filters on `campaign == ["Pacts & Power"]`, so without the backfill its table renders empty. Banked together.
+  - 🛑 **Proved no prose was lost rather than inferring it from the diffstat.** Three files showed deletions, which on canon files is not something to wave through. Compared each note's **post-frontmatter body byte-for-byte against `HEAD`**, with line endings normalised: **21 of 21 identical, 0 bodies changed.** The deletions were entirely the reformatted YAML keys.
+- **Commit:** `(this entry)`
+- **Next:** Unchanged.
+- **Watch out:** 🛑 **`Ogre.png` was deliberately NOT committed and is still untracked.** It is **1.9 MB**, dated **2026-06-09**, sits at the **vault root**, and **this repo tracks zero `.png` files** — so committing it would not be banking a loose end, it would be setting a new convention that this vault stores images in git. ▶ **Needs Taylor's call:** keep it out and move it somewhere, gitignore images here, or decide the repo does track art and commit it deliberately. ⚠️ **How this surfaced is worth noting:** nothing was watching. It took the 07:15 `mirror-freshness` run reporting `pacts_power_vault: uncommitted:23` — the dirtiest repo in the fleet by a wide margin — for anyone to look. The monitoring found it; no human did.
+
 ### 2026-10-01 15:30 ET · Claude Code — Taylor ruled on wtff_vault/: leave it. Recorded so it stops being re-raised.
 - **Changed:** Added the ruling to `CLAUDE.md`'s DO NOT list, the file Claude Code auto-loads, which is where the 12:40 session correctly put the archive rule for the same reason. **Taylor's decision: leave `wtff_vault/` exactly as it is.** No deletion, no repairing its `.git`, no merging. It is already neutralised by the `473ba6b` gitignore, so there is no outstanding risk attached to the decision.
 - **Commit:** `pending — this entry's own commit`

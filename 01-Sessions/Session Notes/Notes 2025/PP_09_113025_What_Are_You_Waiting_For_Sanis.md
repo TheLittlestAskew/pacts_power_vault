@@ -5,6 +5,8 @@ play_date: 11/30/25
 title: What Are You Waiting For, Sanis?
 transcript: "[[09-113025-Pacts-Corrected]]"
 party_level: 10
+campaign:
+  - Pacts & Power
 ---
 
 # PP_09 — What Are You Waiting For, Sanis?

@@ -5,6 +5,8 @@ play_date: 02/22/26
 title: Reforging the Guildpact
 transcript: "[[14 022226 P&P_transcript]]"
 party_level: 11
+campaign:
+  - Pacts & Power
 ---
 
 # PP_14 — Reforging the Guildpact

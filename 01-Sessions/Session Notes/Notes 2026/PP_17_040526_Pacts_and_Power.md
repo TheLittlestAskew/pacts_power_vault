@@ -5,6 +5,8 @@ play_date: 04/05/26
 title: Pacts and Power
 transcript: "[[17 040526 P&P_transcript]]"
 party_level: 12
+campaign:
+  - Pacts & Power
 ---
 
 # PP_17 — Pacts and Power

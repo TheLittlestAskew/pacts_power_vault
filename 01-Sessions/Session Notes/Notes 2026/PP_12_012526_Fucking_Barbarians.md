@@ -5,6 +5,8 @@ play_date: 01/25/26
 title: Fucking Barbarians
 transcript: "[[12 P&P 012526_transcript]]"
 party_level: 11
+campaign:
+  - Pacts & Power
 ---
 
 # PP_12 — Fucking Barbarians

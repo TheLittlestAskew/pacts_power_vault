@@ -5,6 +5,8 @@ play_date: 03/13/26
 title: A Scared Child
 transcript: "[[15 031326 P&P_transcript]]"
 party_level: 11
+campaign:
+  - Pacts & Power
 ---
 
 # PP_15 — A Scared Child

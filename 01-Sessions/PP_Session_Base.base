@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "session"
+        - campaign == ["Pacts & Power"]
+    order:
+      - title
+      - session_number
+      - session_date
+      - party_present
+      - party_level
+      - file.tags
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: campaign
+        direction: DESC
+    columnSize:
+      note.title: 210
+      note.party_level: 124
+      file.tags: 108
+      file.name: 395
+      note.tags: 69
