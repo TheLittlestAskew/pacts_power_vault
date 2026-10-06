@@ -39,6 +39,28 @@ screencapture-*
 **/screencapture-*
 *dash.cloudflare*
 
+# 🛑 Ogre.png — ignored, NOT deleted; its fate is Taylor's call, same as the
+# wtff_vault/ block below. 1.9 MB, dated 2026-06-09, sitting loose at the vault
+# root and untracked ever since.
+#
+# WHY IT IS IGNORED RATHER THAN COMMITTED. This repo is PUBLIC and tracks ZERO
+# images today, so committing it would both set a new convention and put an
+# unscreenable binary into permanent history. The screenshot block above already
+# records why that matters here: the privacy screen reads only
+# .md/.json/.txt/.canvas/.base/.html, so an image is invisible to it, and a
+# binary cannot be un-published by a later commit.
+#
+# It is very likely just a character portrait — "Ogre" is a party member and
+# PP_18 is titled "Hi_Im_Ogre" — in which case it is harmless and belongs in
+# 04-Assets or similar. But "very likely" is not the standard for a public repo,
+# and the other four vaults DO track images (skitl 33, wtff 47, Dimension20 11,
+# ashfall 2), so there is no fleet-wide rule to lean on either way.
+#
+# ▶ To resolve: look at it, then either delete this line and commit it to a
+# proper media folder, or move it out of the repo. Added 2026-10-06 because the
+# Stop guard counts it as unbanked work every session otherwise.
+Ogre.png
+
 # 🛑 wtff_vault/ is a near-duplicate copy of the WtFF vault left here from before
 # that project was split into its own repo (2026-10-01). Ignored, NOT deleted: its
 # fate is still Taylor's call, and it is untracked data.
